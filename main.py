@@ -1,5 +1,7 @@
 from team_management import create_teams, choose_team
 from fixtures import generate_fixture_list, save_fixture_list, get_current_week_fixtures, load_fixture_list
+from table import create_table
+from game_simulation import play_week
 
 def display_menu():
     print("\nFootball Manager Menu:")
@@ -8,6 +10,7 @@ def display_menu():
     print("3. Fixtures")
     print("4. Transfer Market")
     print("5. Play Game")
+    print("6. Table")
     print("0. Exit")
 
 def main():
@@ -19,6 +22,7 @@ def main():
         fixtures = generate_fixture_list(teams)
         save_fixture_list(fixtures)
     
+    table = create_table(teams)
     current_week = 1
 
     while True:
@@ -39,7 +43,15 @@ def main():
         elif choice == "4":
             print("\nTransfer Market feature not implemented yet.")
         elif choice == "5":
-            print("\nPlay Game feature not implemented yet.")
+            if current_week <= 38:
+                print(f"\nSimulating Week {current_week}")
+                current_week = play_week(fixtures, table, current_week)
+                print("\nWeek completed. Updated table:")
+                table.display()
+            else:
+                print("\nThe season has ended. No more games to play.")
+        elif choice == "6":
+            table.display()
         elif choice == "0":
             print("Thank you for playing. Goodbye!")
             break

@@ -1,1 +1,10 @@
 Let's create a football manager game in python. I want to emulate the FA Premier League so I need 20 teams. Each team needs a squad of 20 players each, 11 which can be picked for any game. The game will be for 1-4 players and each player gets to pick his team from the 20 available.
+
++ Let's simulate the games itself. In 1 season of football each team plays each other twice, one home and one away. So when the game starts, the fixture list of the season is created randomly, maybe saved to a file instead of using memory so the game uses the file to know which fixture is played and when it is played. We probably need to add weeks as well. 38 weeks in total.
+
++ Feel free to make more python files or split the ones you have if that makes more sense. We need an opening menu. We can have 1. Team, 2. Tactics, 3. Fixtures, 4. Transfer Market, 5 Play Game. When player choose 1, list the current team. When player choose 3, show the fixture list for the current week. 2, 4 and 5 don't do anything yet, just keep the menu options.
+
+
+Let's create a football table. It will list Team, Played, Won, Drawn, Lost, GF, GA, GD, Points. Team is the team. Played is how many games the team has played. Won is how many games the team has won. Drawn is how many games the team has drawn. Lost is how many games the team has lost. GF stands for Goals For and shows how many goals the team has scored in total. GA stands for Goals Against and shows how many goals the team has conceded in total. GD stands for Goal Difference and shows the Goals For minus Goals Against. Points is how many points a team has. There's 3 points for a win, 1 point for a draw and 0 point for a loss. We also need a menu option for Table that shows the current table.
+
+ I want you to create simulation of all 38 weeks next like we discussed earlier. So each week, the teams will play each other based on the created fixture list. Right now keep it simple.
