@@ -58,7 +58,7 @@ def main():
         elif choice == "7":
             confirm = input(f"Are you sure you want to simulate the remaining {total_weeks - current_week + 1} weeks of the season? (y/n): ")
             if confirm.lower() == 'y':
-                simulate_season(fixtures[current_week-1:], table)
+                simulate_season(fixtures, table, current_week)
                 current_week = total_weeks + 1
             else:
                 print("Season simulation cancelled.")
