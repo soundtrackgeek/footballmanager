@@ -1,7 +1,7 @@
 from team_management import create_teams, choose_team
 from fixtures import generate_fixture_list, save_fixture_list, get_current_week_fixtures, load_fixture_list
 from table import create_table
-from game_simulation import play_week
+from game_simulation import play_week, simulate_season
 
 def display_menu():
     print("\nFootball Manager Menu:")
@@ -11,6 +11,7 @@ def display_menu():
     print("4. Transfer Market")
     print("5. Play Game")
     print("6. Table")
+    print("7. Simulate Season")
     print("0. Exit")
 
 def main():
@@ -53,6 +54,13 @@ def main():
                 print("\nThe season has ended. No more games to play.")
         elif choice == "6":
             table.display()
+        elif choice == "7":
+            confirm = input("Are you sure you want to simulate the entire season? (y/n): ")
+            if confirm.lower() == 'y':
+                simulate_season(fixtures, table)
+                current_week = 39
+            else:
+                print("Season simulation cancelled.")
         elif choice == "0":
             print("Thank you for playing. Goodbye!")
             break
