@@ -26,6 +26,7 @@ def main():
     current_week = 1
 
     while True:
+        print(f"\nCurrent Week: {current_week}")
         display_menu()
         choice = input("Enter your choice: ")
 
