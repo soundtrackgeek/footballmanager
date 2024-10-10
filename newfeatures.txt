@@ -1,0 +1,1 @@
+Let's create a football manager game in python. I want to emulate the FA Premier League so I need 20 teams. Each team needs a squad of 20 players each, 11 which can be picked for any game. The game will be for 1-4 players and each player gets to pick his team from the 20 available.
