@@ -1,34 +1,42 @@
 import random
 import json
-from itertools import combinations
 
 def generate_fixture_list(teams):
     team_names = [team.name for team in teams]
+    n = len(team_names)
     fixtures = []
     
-    for _ in range(2):  # Two rounds (home and away)
+    for i in range(n - 1):
         round_fixtures = []
-        teams_copy = team_names.copy()
-        random.shuffle(teams_copy)
+        for j in range(n // 2):
+            match = {
+                "home": team_names[j],
+                "away": team_names[n - 1 - j]
+            }
+            round_fixtures.append(match)
+        fixtures.append(round_fixtures)
         
-        if len(teams_copy) % 2 != 0:
-            teams_copy.append("BYE")
-        
-        n = len(teams_copy)
-        
-        for _ in range(n - 1):
-            week_fixtures = []
-            for i in range(n // 2):
-                match = {"home": teams_copy[i], "away": teams_copy[n - 1 - i]}
-                if match["home"] != "BYE" and match["away"] != "BYE":
-                    week_fixtures.append(match)
-            round_fixtures.append(week_fixtures)
-            teams_copy = [teams_copy[0]] + [teams_copy[-1]] + teams_copy[1:-1]
-        
-        fixtures.extend(round_fixtures)
+        # Rotate the list, keeping the first team fixed
+        team_names = [team_names[0]] + [team_names[-1]] + team_names[1:-1]
     
-    random.shuffle(fixtures)
-    return [{"week": i+1, "matches": week} for i, week in enumerate(fixtures)]
+    # Generate the reverse fixtures for the second half of the season
+    reverse_fixtures = []
+    for round_fixtures in fixtures:
+        reverse_round = []
+        for match in round_fixtures:
+            reverse_match = {
+                "home": match["away"],
+                "away": match["home"]
+            }
+            reverse_round.append(reverse_match)
+        reverse_fixtures.append(reverse_round)
+    
+    all_fixtures = fixtures + reverse_fixtures
+    
+    # Randomize the order of rounds
+    random.shuffle(all_fixtures)
+    
+    return [{"week": i+1, "matches": round_fixtures} for i, round_fixtures in enumerate(all_fixtures)]
 
 def save_fixture_list(fixtures):
     with open("fixture_list.json", "w") as f:
