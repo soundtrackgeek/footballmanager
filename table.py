@@ -15,7 +15,11 @@ class TeamStats:
 
 class Table:
     def __init__(self, teams):
-        self.stats = {team.name: TeamStats(team.name) for team in teams}
+        self.teams = teams
+        self.reset_stats()
+
+    def reset_stats(self):
+        self.stats = {team.name: TeamStats(team.name) for team in self.teams}
 
     def update(self, home_team, away_team, home_goals, away_goals):
         home_stats = self.stats[home_team]
@@ -57,4 +61,6 @@ class Table:
                   f"{stat.goals_for:3d} {stat.goals_against:3d} {stat.goal_difference:3d} {stat.points:3d}")
 
 def create_table(teams):
-    return Table(teams)
+    table = Table(teams)
+    table.reset_stats()
+    return table
