@@ -25,9 +25,10 @@ def main():
     
     table = create_table(teams)
     current_week = 1
+    total_weeks = len(fixtures)
 
     while True:
-        print(f"\nCurrent Week: {current_week}")
+        print(f"\nCurrent Week: {current_week}/{total_weeks}")
         display_menu()
         choice = input("Enter your choice: ")
 
@@ -45,7 +46,7 @@ def main():
         elif choice == "4":
             print("\nTransfer Market feature not implemented yet.")
         elif choice == "5":
-            if current_week <= 38:
+            if current_week <= total_weeks:
                 print(f"\nSimulating Week {current_week}")
                 current_week = play_week(fixtures, table, current_week)
                 print("\nWeek completed. Updated table:")
@@ -55,10 +56,10 @@ def main():
         elif choice == "6":
             table.display()
         elif choice == "7":
-            confirm = input("Are you sure you want to simulate the entire season? (y/n): ")
+            confirm = input(f"Are you sure you want to simulate the remaining {total_weeks - current_week + 1} weeks of the season? (y/n): ")
             if confirm.lower() == 'y':
-                simulate_season(fixtures, table)
-                current_week = 39
+                simulate_season(fixtures[current_week-1:], table)
+                current_week = total_weeks + 1
             else:
                 print("Season simulation cancelled.")
         elif choice == "0":

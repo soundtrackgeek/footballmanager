@@ -17,10 +17,9 @@ def play_week(fixtures, table, current_week):
     table.display()
     return current_week + 1
 
-def simulate_season(fixtures, table):
-    current_week = 1
-    while current_week <= 38:
-        print(f"\nSimulating Week {current_week}")
-        current_week = play_week(fixtures, table, current_week)
+def simulate_season(remaining_fixtures, table):
+    for week, fixtures in enumerate(remaining_fixtures, start=1):
+        print(f"\nSimulating Week {week}")
+        play_week(fixtures, table, week)
         input("Press Enter to continue to the next week...")
     print("\nSeason completed!")

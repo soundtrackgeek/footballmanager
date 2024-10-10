@@ -6,37 +6,32 @@ def generate_fixture_list(teams):
     n = len(team_names)
     fixtures = []
     
-    for i in range(n - 1):
-        round_fixtures = []
-        for j in range(n // 2):
-            match = {
-                "home": team_names[j],
-                "away": team_names[n - 1 - j]
-            }
-            round_fixtures.append(match)
-        fixtures.append(round_fixtures)
-        
-        # Rotate the list, keeping the first team fixed
-        team_names = [team_names[0]] + [team_names[-1]] + team_names[1:-1]
+    for _ in range(2):  # Two rounds (home and away)
+        for i in range(n - 1):
+            round_fixtures = []
+            for j in range(n // 2):
+                if _ == 0:  # First round
+                    match = {
+                        "home": team_names[j],
+                        "away": team_names[n - 1 - j]
+                    }
+                else:  # Second round (reverse fixtures)
+                    match = {
+                        "home": team_names[n - 1 - j],
+                        "away": team_names[j]
+                    }
+                round_fixtures.append(match)
+            fixtures.append(round_fixtures)
+            
+            # Rotate the list, keeping the first team fixed
+            team_names = [team_names[0]] + [team_names[-1]] + team_names[1:-1]
     
-    # Generate the reverse fixtures for the second half of the season
-    reverse_fixtures = []
-    for round_fixtures in fixtures:
-        reverse_round = []
-        for match in round_fixtures:
-            reverse_match = {
-                "home": match["away"],
-                "away": match["home"]
-            }
-            reverse_round.append(reverse_match)
-        reverse_fixtures.append(reverse_round)
+    # Randomize the order of rounds while keeping week pairs together
+    week_pairs = list(zip(fixtures[:19], fixtures[19:]))
+    random.shuffle(week_pairs)
+    shuffled_fixtures = [round for pair in week_pairs for round in pair]
     
-    all_fixtures = fixtures + reverse_fixtures
-    
-    # Randomize the order of rounds
-    random.shuffle(all_fixtures)
-    
-    return [{"week": i+1, "matches": round_fixtures} for i, round_fixtures in enumerate(all_fixtures)]
+    return [{"week": i+1, "matches": round_fixtures} for i, round_fixtures in enumerate(shuffled_fixtures)]
 
 def save_fixture_list(fixtures):
     with open("fixture_list.json", "w") as f:
