@@ -64,8 +64,7 @@ def play_week(fixtures, table, current_week, player_team):
         # Handle player's team selection
         if home_team == player_team or away_team == player_team:
             if not player_team.selected_players:
-                print(f"Please select your team for the match: {home_team_name} vs {away_team_name}")
-                select_team(player_team)
+                auto_select_team(player_team)
 
         home_goals, away_goals, home_scorers, away_scorers = simulate_game(home_team, away_team)
         table.update(home_team_name, away_team_name, home_goals, away_goals)
@@ -80,7 +79,6 @@ def play_week(fixtures, table, current_week, player_team):
             for scorer, minute in away_scorers:
                 print(f"  {scorer.name} ({minute}')")
 
-    table.display()
     return current_week + 1
 
 def simulate_season(fixtures, table, start_week, player_team):
