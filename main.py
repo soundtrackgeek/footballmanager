@@ -18,10 +18,9 @@ def main():
     teams = create_teams()
     player_team = choose_team(teams)
     
-    fixtures = load_fixture_list()
-    if fixtures is None:
-        fixtures = generate_fixture_list(teams)
-        save_fixture_list(fixtures)
+    # Always generate a new fixture list when starting a new game
+    fixtures = generate_fixture_list(teams)
+    save_fixture_list(fixtures)
     
     table = create_table(teams)
     current_week = 1
