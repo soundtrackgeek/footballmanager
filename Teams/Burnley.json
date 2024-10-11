@@ -2,143 +2,143 @@
   "name": "Burnley",
   "squad": [
     {
-      "name": "Kenneth Hernandez",
+      "name": "James Gonzalez",
       "position": "GK",
       "rating": 64,
-      "age": 24,
-      "value": 40421052
+      "age": 34,
+      "value": 26947368
     },
     {
-      "name": "Steven Martinez",
+      "name": "Michael Wilson",
       "position": "GK",
-      "rating": 76,
-      "age": 18,
-      "value": 57600000
-    },
-    {
-      "name": "Steven Thomas",
-      "position": "GK",
-      "rating": 70,
-      "age": 33,
-      "value": 30947368
-    },
-    {
-      "name": "Paul Hernandez",
-      "position": "DF",
-      "rating": 71,
-      "age": 19,
-      "value": 65394736
-    },
-    {
-      "name": "David Smith",
-      "position": "DF",
-      "rating": 76,
+      "rating": 60,
       "age": 21,
-      "value": 66000000
+      "value": 41684210
     },
     {
-      "name": "James Davis",
+      "name": "Michael Gonzalez",
+      "position": "GK",
+      "rating": 83,
+      "age": 20,
+      "value": 59410526
+    },
+    {
+      "name": "Robert Hernandez",
       "position": "DF",
-      "rating": 77,
-      "age": 32,
-      "value": 44578947
+      "rating": 68,
+      "age": 26,
+      "value": 50105263
     },
     {
-      "name": "George Williams",
+      "name": "James Williams",
+      "position": "DF",
+      "rating": 84,
+      "age": 22,
+      "value": 70736842
+    },
+    {
+      "name": "Richard Lopez",
+      "position": "DF",
+      "rating": 87,
+      "age": 30,
+      "value": 54947368
+    },
+    {
+      "name": "Brian Moore",
       "position": "DF",
       "rating": 79,
-      "age": 18,
-      "value": 74842105
+      "age": 16,
+      "value": 79000000
+    },
+    {
+      "name": "Kenneth Smith",
+      "position": "DF",
+      "rating": 72,
+      "age": 25,
+      "value": 54947368
     },
     {
       "name": "Daniel Smith",
       "position": "DF",
-      "rating": 86,
+      "rating": 74,
       "age": 26,
-      "value": 63368421
+      "value": 54526315
     },
     {
-      "name": "Robert Brown",
-      "position": "DF",
-      "rating": 89,
-      "age": 26,
-      "value": 65578947
-    },
-    {
-      "name": "James Brown",
+      "name": "Steven Martinez",
       "position": "MF",
-      "rating": 87,
-      "age": 30,
-      "value": 65936842
-    },
-    {
-      "name": "Edward Williams",
-      "position": "MF",
-      "rating": 84,
-      "age": 27,
-      "value": 71621052
-    },
-    {
-      "name": "Brian Martin",
-      "position": "MF",
-      "rating": 72,
-      "age": 30,
-      "value": 54568421
-    },
-    {
-      "name": "Edward Anderson",
-      "position": "MF",
-      "rating": 67,
-      "age": 35,
-      "value": 40200000
-    },
-    {
-      "name": "Michael Jackson",
-      "position": "MF",
-      "rating": 87,
-      "age": 16,
-      "value": 100000000
-    },
-    {
-      "name": "Daniel Williams",
-      "position": "MF",
-      "rating": 89,
-      "age": 28,
-      "value": 73073684
-    },
-    {
-      "name": "William Wilson",
-      "position": "FW",
-      "rating": 90,
-      "age": 19,
-      "value": 100000000
+      "rating": 64,
+      "age": 20,
+      "value": 68715789
     },
     {
       "name": "Thomas Johnson",
-      "position": "FW",
-      "rating": 66,
+      "position": "MF",
+      "rating": 77,
       "age": 26,
-      "value": 72947368
+      "value": 68084210
     },
     {
-      "name": "John Taylor",
-      "position": "FW",
-      "rating": 68,
-      "age": 35,
-      "value": 51000000
+      "name": "George Hernandez",
+      "position": "MF",
+      "rating": 90,
+      "age": 23,
+      "value": 88105263
     },
     {
-      "name": "John Rodriguez",
-      "position": "FW",
-      "rating": 76,
-      "age": 28,
-      "value": 78000000
+      "name": "Steven Moore",
+      "position": "MF",
+      "rating": 72,
+      "age": 18,
+      "value": 81852631
     },
     {
-      "name": "Robert Taylor",
+      "name": "Daniel Smith",
+      "position": "MF",
+      "rating": 60,
+      "age": 27,
+      "value": 51157894
+    },
+    {
+      "name": "Robert Gonzalez",
+      "position": "MF",
+      "rating": 73,
+      "age": 26,
+      "value": 64547368
+    },
+    {
+      "name": "James Garcia",
       "position": "FW",
-      "rating": 88,
+      "rating": 78,
+      "age": 18,
+      "value": 100000000
+    },
+    {
+      "name": "David Williams",
+      "position": "FW",
+      "rating": 81,
       "age": 25,
+      "value": 92723684
+    },
+    {
+      "name": "Paul Moore",
+      "position": "FW",
+      "rating": 90,
+      "age": 30,
+      "value": 85263157
+    },
+    {
+      "name": "Richard Anderson",
+      "position": "FW",
+      "rating": 61,
+      "age": 20,
+      "value": 81868421
+    },
+    {
+      "name": "Steven Jackson",
+      "position": "FW",
+      "rating": 86,
+      "age": 18,
       "value": 100000000
     }
   ]

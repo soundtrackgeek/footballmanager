@@ -14,6 +14,7 @@ def display_menu():
     print("6. Table")
     print("7. Simulate Season")
     print("8. Stats")
+    print("9. Finances")
     print("0. Exit")
 
 def display_team_menu():
@@ -56,6 +57,34 @@ def stats_menu():
             break
         else:
             print("Invalid choice. Please try again.")
+
+def display_finances_menu():
+    print("\nFinances Menu:")
+    print("1. View Finances")
+    print("2. Sponsorships")
+    print("3. Bank Loan")
+    print("0. Back to Main Menu")
+
+def finances_menu(player_team):
+    while True:
+        display_finances_menu()
+        choice = input("Enter your choice: ")
+
+        if choice == "1":
+            view_finances(player_team)
+        elif choice == "2":
+            print("\nSponsorships feature not implemented yet.")
+        elif choice == "3":
+            print("\nBank Loan feature not implemented yet.")
+        elif choice == "0":
+            break
+        else:
+            print("Invalid choice. Please try again.")
+
+def view_finances(team):
+    # For now, we'll just display a placeholder value
+    print(f"\n{team.name} Finances:")
+    print(f"Available Funds: £10,000,000")
 
 def main():
     teams = create_teams()
@@ -110,6 +139,8 @@ def main():
                 print("Season simulation cancelled.")
         elif choice == "8":
             stats_menu()
+        elif choice == "9":
+            finances_menu(player_team)
         elif choice == "0":
             print("Thank you for playing. Goodbye!")
             break
