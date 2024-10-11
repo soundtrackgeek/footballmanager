@@ -26,8 +26,5 @@ Let's create a football manager game in python. I want to emulate the FA Premier
 
 + Let's work on that Bank Loan option. In here we'll be able to loan money from the bank. First you type in how much you want to loan. Then we can choose between 3 different banks. Come up with 10 random bank names and randomly choose 3 of them to choose from. When you choose a bank, you can see the terms. You can see how long the loan goes for, and how much interest, and also a calculation to see how much I have to pay each week.
 
-Let's work on sponsorships. When you go into that menu you are presented with 3 different sponsorships (You can come up with 20 random business names from which you display 3). So we can choose one of the sponsorship deals. When we do, we get the details on how much money they will give us each week and for how many weeks.
++ Let's work on sponsorships. When you go into that menu you are presented with 3 different sponsorships (You can come up with 20 random business names from which you display 3). So we can choose one of the sponsorship deals. When we do, we get the details on how much money they will give us each week and for how many weeks.
 
-what sponsorships we have and how much money they give us and any bank loan we might have. Sponsorships allow us to get sponsorships for the club. Create a random list of 20 fake company names
-
-In here we can see how much money we have to buy players and other things. Gice each club a decent amount to start with. Anything between 20 million pounds and 100 million pounds. 

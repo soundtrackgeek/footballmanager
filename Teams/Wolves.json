@@ -2,144 +2,148 @@
   "name": "Wolves",
   "squad": [
     {
-      "name": "Charles Gonzalez",
+      "name": "Charles Garcia",
       "position": "GK",
-      "rating": 69,
-      "age": 24,
-      "value": 43578947
-    },
-    {
-      "name": "Richard Wilson",
-      "position": "GK",
-      "rating": 84,
-      "age": 30,
-      "value": 42442105
-    },
-    {
-      "name": "Paul Anderson",
-      "position": "GK",
-      "rating": 61,
-      "age": 22,
-      "value": 41094736
-    },
-    {
-      "name": "Daniel Jackson",
-      "position": "DF",
-      "rating": 74,
-      "age": 20,
-      "value": 66210526
-    },
-    {
-      "name": "George Davis",
-      "position": "DF",
-      "rating": 85,
-      "age": 25,
-      "value": 64868421
-    },
-    {
-      "name": "Kenneth Brown",
-      "position": "DF",
-      "rating": 78,
-      "age": 34,
-      "value": 41052631
-    },
-    {
-      "name": "Donald Anderson",
-      "position": "DF",
-      "rating": 79,
-      "age": 22,
-      "value": 66526315
-    },
-    {
-      "name": "Donald Martinez",
-      "position": "DF",
-      "rating": 63,
-      "age": 27,
-      "value": 44763157
-    },
-    {
-      "name": "George Moore",
-      "position": "DF",
-      "rating": 75,
-      "age": 20,
-      "value": 67105263
-    },
-    {
-      "name": "David Anderson",
-      "position": "MF",
-      "rating": 83,
-      "age": 20,
-      "value": 89115789
-    },
-    {
-      "name": "Richard Taylor",
-      "position": "MF",
-      "rating": 72,
-      "age": 25,
-      "value": 65936842
-    },
-    {
-      "name": "Robert Martinez",
-      "position": "MF",
       "rating": 80,
-      "age": 30,
+      "age": 18,
       "value": 60631578
     },
     {
-      "name": "James Wilson",
-      "position": "MF",
-      "rating": 66,
-      "age": 34,
-      "value": 41684210
+      "name": "Steven Johnson",
+      "position": "GK",
+      "rating": 85,
+      "age": 18,
+      "value": 64421052
     },
     {
-      "name": "Robert Jackson",
-      "position": "MF",
-      "rating": 69,
-      "age": 16,
-      "value": 82800000
+      "name": "Mark Miller",
+      "position": "GK",
+      "rating": 85,
+      "age": 25,
+      "value": 51894736
     },
     {
-      "name": "Brian Miller",
-      "position": "MF",
-      "rating": 72,
-      "age": 35,
-      "value": 43200000
+      "name": "William Martinez",
+      "position": "DF",
+      "rating": 60,
+      "age": 19,
+      "value": 55263157
+    },
+    {
+      "name": "David Wilson",
+      "position": "DF",
+      "rating": 87,
+      "age": 17,
+      "value": 84710526
+    },
+    {
+      "name": "Edward Johnson",
+      "position": "DF",
+      "rating": 68,
+      "age": 20,
+      "value": 60842105
+    },
+    {
+      "name": "William Rodriguez",
+      "position": "DF",
+      "rating": 90,
+      "age": 24,
+      "value": 71052631
+    },
+    {
+      "name": "James Taylor",
+      "position": "DF",
+      "rating": 64,
+      "age": 25,
+      "value": 48842105
+    },
+    {
+      "name": "Steven Anderson",
+      "position": "DF",
+      "rating": 78,
+      "age": 21,
+      "value": 67736842
     },
     {
       "name": "John Moore",
-      "position": "FW",
-      "rating": 87,
-      "age": 23,
-      "value": 100000000
-    },
-    {
-      "name": "Robert Anderson",
-      "position": "FW",
-      "rating": 81,
-      "age": 30,
-      "value": 76736842
-    },
-    {
-      "name": "Donald Hernandez",
-      "position": "FW",
+      "position": "MF",
       "rating": 72,
-      "age": 26,
-      "value": 79578947
+      "age": 21,
+      "value": 75031578
     },
     {
-      "name": "Charles Miller",
+      "name": "Donald Lopez",
+      "position": "MF",
+      "rating": 77,
+      "age": 26,
+      "value": 68084210
+    },
+    {
+      "name": "James Thomas",
+      "position": "MF",
+      "rating": 63,
+      "age": 28,
+      "value": 51726315
+    },
+    {
+      "name": "Ronald Taylor",
+      "position": "MF",
+      "rating": 67,
+      "age": 35,
+      "value": 40200000
+    },
+    {
+      "name": "David Jackson",
+      "position": "MF",
+      "rating": 66,
+      "age": 31,
+      "value": 47936842
+    },
+    {
+      "name": "Paul Johnson",
+      "position": "MF",
+      "rating": 89,
+      "age": 28,
+      "value": 73073684
+    },
+    {
+      "name": "William Jackson",
+      "position": "FW",
+      "rating": 60,
+      "age": 24,
+      "value": 71052631
+    },
+    {
+      "name": "Ronald Martin",
       "position": "FW",
       "rating": 67,
-      "age": 23,
-      "value": 81986842
+      "age": 28,
+      "value": 68763157
     },
     {
-      "name": "Michael Jones",
+      "name": "Paul Moore",
       "position": "FW",
-      "rating": 65,
-      "age": 33,
-      "value": 53881578
+      "rating": 77,
+      "age": 25,
+      "value": 88144736
+    },
+    {
+      "name": "David Brown",
+      "position": "FW",
+      "rating": 75,
+      "age": 27,
+      "value": 79934210
+    },
+    {
+      "name": "Robert Jackson",
+      "position": "FW",
+      "rating": 60,
+      "age": 35,
+      "value": 45000000
     }
-  ]
+  ],
+  "stadium": {
+    "name": "Molineux Stadium",
+    "capacity": 31750
+  }
 }

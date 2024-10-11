@@ -2,144 +2,148 @@
   "name": "Tottenham",
   "squad": [
     {
-      "name": "Steven Martinez",
+      "name": "Thomas Rodriguez",
       "position": "GK",
-      "rating": 74,
-      "age": 28,
-      "value": 40505263
+      "rating": 72,
+      "age": 19,
+      "value": 53052631
     },
     {
-      "name": "Brian Johnson",
+      "name": "Richard Johnson",
       "position": "GK",
-      "rating": 71,
-      "age": 20,
-      "value": 50821052
-    },
-    {
-      "name": "James Brown",
-      "position": "GK",
-      "rating": 82,
-      "age": 27,
-      "value": 46610526
-    },
-    {
-      "name": "Donald Martin",
-      "position": "DF",
-      "rating": 77,
-      "age": 30,
-      "value": 48631578
-    },
-    {
-      "name": "Anthony Lopez",
-      "position": "DF",
-      "rating": 64,
-      "age": 31,
-      "value": 38736842
-    },
-    {
-      "name": "Kenneth Miller",
-      "position": "DF",
-      "rating": 79,
-      "age": 31,
-      "value": 47815789
-    },
-    {
-      "name": "Charles Hernandez",
-      "position": "DF",
-      "rating": 84,
-      "age": 31,
-      "value": 50842105
-    },
-    {
-      "name": "John Taylor",
-      "position": "DF",
-      "rating": 68,
-      "age": 31,
-      "value": 41157894
-    },
-    {
-      "name": "Anthony Hernandez",
-      "position": "DF",
-      "rating": 71,
-      "age": 18,
-      "value": 67263157
-    },
-    {
-      "name": "Charles Garcia",
-      "position": "MF",
-      "rating": 65,
-      "age": 25,
-      "value": 59526315
-    },
-    {
-      "name": "William Jackson",
-      "position": "MF",
-      "rating": 82,
-      "age": 24,
-      "value": 77684210
-    },
-    {
-      "name": "Brian Taylor",
-      "position": "MF",
-      "rating": 81,
+      "rating": 83,
       "age": 16,
-      "value": 97200000
+      "value": 66400000
     },
     {
       "name": "John Anderson",
+      "position": "GK",
+      "rating": 75,
+      "age": 19,
+      "value": 55263157
+    },
+    {
+      "name": "Daniel Thomas",
+      "position": "DF",
+      "rating": 67,
+      "age": 24,
+      "value": 52894736
+    },
+    {
+      "name": "William Wilson",
+      "position": "DF",
+      "rating": 86,
+      "age": 18,
+      "value": 81473684
+    },
+    {
+      "name": "Anthony Jackson",
+      "position": "DF",
+      "rating": 83,
+      "age": 18,
+      "value": 78631578
+    },
+    {
+      "name": "John Martin",
+      "position": "DF",
+      "rating": 61,
+      "age": 24,
+      "value": 48157894
+    },
+    {
+      "name": "Edward Hernandez",
+      "position": "DF",
+      "rating": 71,
+      "age": 26,
+      "value": 52315789
+    },
+    {
+      "name": "Charles Garcia",
+      "position": "DF",
+      "rating": 87,
+      "age": 23,
+      "value": 70973684
+    },
+    {
+      "name": "Daniel Taylor",
       "position": "MF",
-      "rating": 62,
-      "age": 21,
+      "rating": 66,
+      "age": 23,
       "value": 64610526
     },
     {
-      "name": "Daniel Brown",
+      "name": "Mark Davis",
       "position": "MF",
-      "rating": 71,
-      "age": 30,
-      "value": 53810526
+      "rating": 69,
+      "age": 23,
+      "value": 67547368
     },
     {
-      "name": "Robert Martinez",
+      "name": "Robert Martin",
       "position": "MF",
-      "rating": 60,
-      "age": 33,
-      "value": 39789473
-    },
-    {
-      "name": "William Taylor",
-      "position": "FW",
-      "rating": 73,
+      "rating": 86,
       "age": 34,
-      "value": 57631578
+      "value": 54315789
     },
     {
-      "name": "Edward Garcia",
-      "position": "FW",
-      "rating": 74,
-      "age": 28,
-      "value": 75947368
+      "name": "Daniel Hernandez",
+      "position": "MF",
+      "rating": 84,
+      "age": 18,
+      "value": 95494736
     },
     {
-      "name": "Mark Gonzalez",
+      "name": "Steven Williams",
+      "position": "MF",
+      "rating": 85,
+      "age": 22,
+      "value": 85894736
+    },
+    {
+      "name": "Mark Davis",
+      "position": "MF",
+      "rating": 81,
+      "age": 35,
+      "value": 48600000
+    },
+    {
+      "name": "Brian Hernandez",
       "position": "FW",
-      "rating": 74,
+      "rating": 84,
       "age": 18,
       "value": 100000000
     },
     {
-      "name": "William Anderson",
+      "name": "Richard Miller",
       "position": "FW",
-      "rating": 90,
-      "age": 22,
+      "rating": 85,
+      "age": 16,
       "value": 100000000
     },
     {
-      "name": "Thomas Lopez",
+      "name": "William Johnson",
       "position": "FW",
-      "rating": 60,
-      "age": 25,
-      "value": 68684210
+      "rating": 75,
+      "age": 29,
+      "value": 74013157
+    },
+    {
+      "name": "Richard Rodriguez",
+      "position": "FW",
+      "rating": 61,
+      "age": 32,
+      "value": 52973684
+    },
+    {
+      "name": "George Jackson",
+      "position": "FW",
+      "rating": 80,
+      "age": 17,
+      "value": 100000000
     }
-  ]
+  ],
+  "stadium": {
+    "name": "Tottenham Hotspur Stadium",
+    "capacity": 62850
+  }
 }

@@ -2,144 +2,148 @@
   "name": "Arsenal",
   "squad": [
     {
-      "name": "William Jackson",
+      "name": "James Johnson",
       "position": "GK",
       "rating": 73,
+      "age": 27,
+      "value": 41494736
+    },
+    {
+      "name": "George Moore",
+      "position": "GK",
+      "rating": 86,
+      "age": 34,
+      "value": 36210526
+    },
+    {
+      "name": "Kenneth Johnson",
+      "position": "GK",
+      "rating": 68,
       "age": 21,
-      "value": 50715789
+      "value": 47242105
     },
     {
-      "name": "Thomas Hernandez",
-      "position": "GK",
-      "rating": 74,
-      "age": 19,
-      "value": 54526315
-    },
-    {
-      "name": "Edward Anderson",
-      "position": "GK",
-      "rating": 85,
-      "age": 28,
-      "value": 46526315
-    },
-    {
-      "name": "David Jackson",
+      "name": "Brian Miller",
       "position": "DF",
       "rating": 68,
-      "age": 17,
-      "value": 66210526
+      "age": 32,
+      "value": 39368421
     },
     {
-      "name": "Ronald Davis",
+      "name": "Donald Rodriguez",
       "position": "DF",
-      "rating": 78,
-      "age": 26,
-      "value": 57473684
-    },
-    {
-      "name": "Donald Martin",
-      "position": "DF",
-      "rating": 73,
-      "age": 18,
-      "value": 69157894
-    },
-    {
-      "name": "Ronald Davis",
-      "position": "DF",
-      "rating": 71,
+      "rating": 79,
       "age": 23,
-      "value": 57921052
+      "value": 64447368
     },
     {
-      "name": "Anthony Williams",
+      "name": "Ronald Miller",
       "position": "DF",
-      "rating": 72,
-      "age": 19,
-      "value": 66315789
+      "rating": 89,
+      "age": 33,
+      "value": 49184210
     },
     {
-      "name": "Ronald Garcia",
+      "name": "Donald Anderson",
       "position": "DF",
-      "rating": 87,
+      "rating": 79,
       "age": 20,
-      "value": 77842105
+      "value": 70684210
     },
     {
-      "name": "Kenneth Jones",
-      "position": "MF",
-      "rating": 83,
+      "name": "William Jackson",
+      "position": "DF",
+      "rating": 67,
       "age": 31,
-      "value": 60284210
-    },
-    {
-      "name": "Brian Jones",
-      "position": "MF",
-      "rating": 63,
-      "age": 34,
-      "value": 39789473
-    },
-    {
-      "name": "Ronald Anderson",
-      "position": "MF",
-      "rating": 61,
-      "age": 23,
-      "value": 59715789
+      "value": 40552631
     },
     {
       "name": "Steven Jackson",
-      "position": "MF",
-      "rating": 84,
+      "position": "DF",
+      "rating": 75,
       "age": 26,
-      "value": 74273684
+      "value": 55263157
     },
     {
-      "name": "John Jones",
+      "name": "David Hernandez",
       "position": "MF",
-      "rating": 69,
+      "rating": 79,
+      "age": 22,
+      "value": 79831578
+    },
+    {
+      "name": "Edward Jackson",
+      "position": "MF",
+      "rating": 68,
+      "age": 30,
+      "value": 51536842
+    },
+    {
+      "name": "Ronald Hernandez",
+      "position": "MF",
+      "rating": 61,
+      "age": 18,
+      "value": 69347368
+    },
+    {
+      "name": "George Davis",
+      "position": "MF",
+      "rating": 60,
+      "age": 28,
+      "value": 49263157
+    },
+    {
+      "name": "Donald Williams",
+      "position": "MF",
+      "rating": 76,
+      "age": 22,
+      "value": 76800000
+    },
+    {
+      "name": "Brian Gonzalez",
+      "position": "MF",
+      "rating": 72,
+      "age": 35,
+      "value": 43200000
+    },
+    {
+      "name": "Steven Moore",
+      "position": "FW",
+      "rating": 76,
+      "age": 28,
+      "value": 78000000
+    },
+    {
+      "name": "Charles Hernandez",
+      "position": "FW",
+      "rating": 80,
+      "age": 23,
+      "value": 97894736
+    },
+    {
+      "name": "John Martinez",
+      "position": "FW",
+      "rating": 83,
+      "age": 33,
+      "value": 68802631
+    },
+    {
+      "name": "Brian Rodriguez",
+      "position": "FW",
+      "rating": 65,
       "age": 27,
-      "value": 58831578
+      "value": 69276315
     },
     {
-      "name": "Kenneth Taylor",
-      "position": "MF",
-      "rating": 86,
-      "age": 20,
-      "value": 92336842
-    },
-    {
-      "name": "Kenneth Thomas",
+      "name": "Ronald Williams",
       "position": "FW",
-      "rating": 81,
-      "age": 25,
-      "value": 92723684
-    },
-    {
-      "name": "Donald Brown",
-      "position": "FW",
-      "rating": 78,
-      "age": 26,
-      "value": 86210526
-    },
-    {
-      "name": "Daniel Smith",
-      "position": "FW",
-      "rating": 77,
-      "age": 16,
-      "value": 100000000
-    },
-    {
-      "name": "Mark Martin",
-      "position": "FW",
-      "rating": 89,
-      "age": 21,
-      "value": 100000000
-    },
-    {
-      "name": "Steven Lopez",
-      "position": "FW",
-      "rating": 63,
-      "age": 16,
-      "value": 94500000
+      "rating": 75,
+      "age": 34,
+      "value": 59210526
     }
-  ]
+  ],
+  "stadium": {
+    "name": "Emirates Stadium",
+    "capacity": 60704
+  }
 }

@@ -2,144 +2,148 @@
   "name": "Fulham",
   "squad": [
     {
-      "name": "James Martin",
+      "name": "Michael Moore",
       "position": "GK",
-      "rating": 76,
-      "age": 33,
-      "value": 33600000
+      "rating": 88,
+      "age": 32,
+      "value": 40757894
     },
     {
-      "name": "Edward Williams",
+      "name": "Mark Rodriguez",
       "position": "GK",
-      "rating": 73,
+      "rating": 69,
+      "age": 28,
+      "value": 37768421
+    },
+    {
+      "name": "Anthony Wilson",
+      "position": "GK",
+      "rating": 64,
       "age": 30,
-      "value": 36884210
+      "value": 32336842
     },
     {
-      "name": "Anthony Anderson",
-      "position": "GK",
-      "rating": 79,
-      "age": 28,
-      "value": 43242105
-    },
-    {
-      "name": "Paul Miller",
+      "name": "George Garcia",
       "position": "DF",
-      "rating": 81,
-      "age": 22,
-      "value": 68210526
+      "rating": 80,
+      "age": 24,
+      "value": 63157894
     },
     {
-      "name": "Paul Martinez",
+      "name": "Mark Martin",
       "position": "DF",
-      "rating": 62,
-      "age": 17,
-      "value": 60368421
+      "rating": 83,
+      "age": 26,
+      "value": 61157894
     },
     {
-      "name": "Richard Wilson",
+      "name": "Anthony Hernandez",
       "position": "DF",
-      "rating": 65,
-      "age": 28,
-      "value": 44473684
-    },
-    {
-      "name": "Charles Moore",
-      "position": "DF",
-      "rating": 61,
-      "age": 18,
-      "value": 57789473
-    },
-    {
-      "name": "Steven Martin",
-      "position": "DF",
-      "rating": 71,
-      "age": 23,
-      "value": 57921052
-    },
-    {
-      "name": "Donald Jackson",
-      "position": "DF",
-      "rating": 84,
-      "age": 34,
-      "value": 44210526
-    },
-    {
-      "name": "Donald Martin",
-      "position": "MF",
-      "rating": 79,
-      "age": 25,
-      "value": 72347368
-    },
-    {
-      "name": "Mark Brown",
-      "position": "MF",
       "rating": 85,
-      "age": 33,
-      "value": 56368421
+      "age": 21,
+      "value": 73815789
     },
     {
-      "name": "Kenneth Jones",
-      "position": "MF",
-      "rating": 67,
-      "age": 35,
-      "value": 40200000
+      "name": "David Wilson",
+      "position": "DF",
+      "rating": 82,
+      "age": 31,
+      "value": 49631578
     },
     {
-      "name": "George Smith",
+      "name": "Brian Anderson",
+      "position": "DF",
+      "rating": 90,
+      "age": 25,
+      "value": 68684210
+    },
+    {
+      "name": "John Smith",
+      "position": "DF",
+      "rating": 87,
+      "age": 25,
+      "value": 66394736
+    },
+    {
+      "name": "Kenneth Jackson",
       "position": "MF",
       "rating": 72,
+      "age": 17,
+      "value": 84126315
+    },
+    {
+      "name": "Thomas Wilson",
+      "position": "MF",
+      "rating": 81,
+      "age": 20,
+      "value": 86968421
+    },
+    {
+      "name": "Daniel Hernandez",
+      "position": "MF",
+      "rating": 67,
+      "age": 22,
+      "value": 67705263
+    },
+    {
+      "name": "Paul Martin",
+      "position": "MF",
+      "rating": 86,
+      "age": 27,
+      "value": 73326315
+    },
+    {
+      "name": "James Davis",
+      "position": "MF",
+      "rating": 83,
       "age": 18,
-      "value": 81852631
+      "value": 94357894
     },
     {
-      "name": "Donald Miller",
+      "name": "Robert Rodriguez",
       "position": "MF",
-      "rating": 64,
-      "age": 19,
-      "value": 70736842
+      "rating": 82,
+      "age": 30,
+      "value": 62147368
     },
     {
-      "name": "Edward Brown",
-      "position": "MF",
-      "rating": 85,
-      "age": 16,
+      "name": "David Martin",
+      "position": "FW",
+      "rating": 81,
+      "age": 18,
       "value": 100000000
     },
     {
-      "name": "Michael Garcia",
+      "name": "Thomas Johnson",
       "position": "FW",
-      "rating": 60,
-      "age": 17,
-      "value": 87631578
+      "rating": 84,
+      "age": 19,
+      "value": 100000000
     },
     {
-      "name": "Ronald Martin",
+      "name": "Steven Hernandez",
       "position": "FW",
-      "rating": 76,
-      "age": 27,
-      "value": 81000000
+      "rating": 70,
+      "age": 23,
+      "value": 85657894
     },
     {
-      "name": "Steven Lopez",
+      "name": "Charles Davis",
       "position": "FW",
-      "rating": 67,
+      "rating": 90,
+      "age": 20,
+      "value": 100000000
+    },
+    {
+      "name": "Donald Rodriguez",
+      "position": "FW",
+      "rating": 69,
       "age": 26,
-      "value": 74052631
-    },
-    {
-      "name": "Daniel Thomas",
-      "position": "FW",
-      "rating": 74,
-      "age": 33,
-      "value": 61342105
-    },
-    {
-      "name": "Paul Smith",
-      "position": "FW",
-      "rating": 83,
-      "age": 24,
-      "value": 98289473
+      "value": 76263157
     }
-  ]
+  ],
+  "stadium": {
+    "name": "Craven Cottage",
+    "capacity": 25700
+  }
 }

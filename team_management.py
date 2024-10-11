@@ -3,6 +3,30 @@ import json
 import os
 from player import Player, Position
 
+# Add this dictionary at the top of the file, after the imports
+STADIUMS = {
+    "Arsenal": {"name": "Emirates Stadium", "capacity": 60704},
+    "Aston Villa": {"name": "Villa Park", "capacity": 42785},
+    "Bournemouth": {"name": "Vitality Stadium", "capacity": 11379},
+    "Brentford": {"name": "Gtech Community Stadium", "capacity": 17250},
+    "Brighton": {"name": "Amex Stadium", "capacity": 31800},
+    "Burnley": {"name": "Turf Moor", "capacity": 21944},
+    "Chelsea": {"name": "Stamford Bridge", "capacity": 40341},
+    "Crystal Palace": {"name": "Selhurst Park", "capacity": 25486},
+    "Everton": {"name": "Goodison Park", "capacity": 39572},
+    "Fulham": {"name": "Craven Cottage", "capacity": 25700},
+    "Liverpool": {"name": "Anfield", "capacity": 53394},
+    "Luton": {"name": "Kenilworth Road", "capacity": 10356},
+    "Manchester City": {"name": "Etihad Stadium", "capacity": 53400},
+    "Manchester United": {"name": "Old Trafford", "capacity": 74140},
+    "Newcastle": {"name": "St James' Park", "capacity": 52305},
+    "Nottingham Forest": {"name": "City Ground", "capacity": 30445},
+    "Sheffield United": {"name": "Bramall Lane", "capacity": 32050},
+    "Tottenham": {"name": "Tottenham Hotspur Stadium", "capacity": 62850},
+    "West Ham": {"name": "London Stadium", "capacity": 60000},
+    "Wolves": {"name": "Molineux Stadium", "capacity": 31750}
+}
+
 class Team:
     def __init__(self, name):
         self.name = name
@@ -13,6 +37,7 @@ class Team:
             'loan': None,
             'sponsorship': None
         }
+        self.stadium = STADIUMS[name]
 
     def add_player(self, player):
         self.squad.append(player)
@@ -44,13 +69,13 @@ class Team:
             'weeks_left': duration
         }
 
+    def calculate_match_attendance(self):
+        capacity = self.stadium["capacity"]
+        attendance_percentage = random.uniform(0.75, 0.99)  # Between 75% and 99% capacity
+        return int(capacity * attendance_percentage)
+
 def create_teams():
-    team_names = [
-        "Arsenal", "Aston Villa", "Bournemouth", "Brentford", "Brighton",
-        "Burnley", "Chelsea", "Crystal Palace", "Everton", "Fulham",
-        "Liverpool", "Luton", "Manchester City", "Manchester United", "Newcastle",
-        "Nottingham Forest", "Sheffield United", "Tottenham", "West Ham", "Wolves"
-    ]
+    team_names = list(STADIUMS.keys())  # Use the keys from the STADIUMS dictionary
     teams = [Team(name) for name in team_names]
     for team in teams:
         generate_squad(team)
@@ -72,7 +97,8 @@ def generate_squad(team):
 def save_team_to_file(team):
     team_data = {
         "name": team.name,
-        "squad": [{"name": player.name, "position": player.position.name, "rating": player.rating, "age": player.age, "value": player.value} for player in team.squad]
+        "squad": [{"name": player.name, "position": player.position.name, "rating": player.rating, "age": player.age, "value": player.value} for player in team.squad],
+        "stadium": team.stadium
     }
     
     file_path = os.path.join("Teams", f"{team.name}.json")

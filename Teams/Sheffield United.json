@@ -2,144 +2,148 @@
   "name": "Sheffield United",
   "squad": [
     {
-      "name": "Ronald Moore",
+      "name": "William Williams",
       "position": "GK",
-      "rating": 76,
-      "age": 23,
-      "value": 49600000
+      "rating": 60,
+      "age": 17,
+      "value": 46736842
     },
     {
-      "name": "Kenneth Smith",
+      "name": "Anthony Rodriguez",
       "position": "GK",
-      "rating": 63,
-      "age": 27,
-      "value": 35810526
+      "rating": 82,
+      "age": 35,
+      "value": 32800000
     },
     {
-      "name": "George Moore",
+      "name": "Anthony Wilson",
       "position": "GK",
-      "rating": 78,
-      "age": 20,
-      "value": 55831578
+      "rating": 70,
+      "age": 31,
+      "value": 33894736
     },
     {
-      "name": "Anthony Martin",
-      "position": "DF",
-      "rating": 72,
-      "age": 16,
-      "value": 72000000
-    },
-    {
-      "name": "Charles Hernandez",
+      "name": "Richard Lopez",
       "position": "DF",
       "rating": 69,
-      "age": 23,
-      "value": 56289473
+      "age": 21,
+      "value": 59921052
     },
     {
-      "name": "Mark Garcia",
+      "name": "John Hernandez",
       "position": "DF",
-      "rating": 87,
-      "age": 28,
-      "value": 59526315
+      "rating": 61,
+      "age": 20,
+      "value": 54578947
     },
     {
-      "name": "Anthony Anderson",
+      "name": "Kenneth Hernandez",
       "position": "DF",
-      "rating": 60,
-      "age": 30,
-      "value": 37894736
-    },
-    {
-      "name": "Ronald Thomas",
-      "position": "DF",
-      "rating": 64,
-      "age": 17,
-      "value": 62315789
-    },
-    {
-      "name": "David Martinez",
-      "position": "DF",
-      "rating": 85,
-      "age": 28,
-      "value": 58157894
-    },
-    {
-      "name": "Richard Davis",
-      "position": "MF",
-      "rating": 87,
-      "age": 28,
-      "value": 71431578
-    },
-    {
-      "name": "David Smith",
-      "position": "MF",
-      "rating": 79,
+      "rating": 89,
       "age": 33,
-      "value": 52389473
+      "value": 49184210
     },
     {
-      "name": "Anthony Taylor",
-      "position": "MF",
-      "rating": 63,
-      "age": 30,
-      "value": 47747368
+      "name": "Richard Wilson",
+      "position": "DF",
+      "rating": 79,
+      "age": 21,
+      "value": 68605263
     },
     {
-      "name": "Michael Smith",
+      "name": "William Brown",
+      "position": "DF",
+      "rating": 77,
+      "age": 25,
+      "value": 58763157
+    },
+    {
+      "name": "Thomas Garcia",
+      "position": "DF",
+      "rating": 72,
+      "age": 19,
+      "value": 66315789
+    },
+    {
+      "name": "Steven Gonzalez",
       "position": "MF",
       "rating": 83,
-      "age": 23,
-      "value": 81252631
-    },
-    {
-      "name": "Charles Garcia",
-      "position": "MF",
-      "rating": 81,
-      "age": 28,
-      "value": 66505263
-    },
-    {
-      "name": "James Johnson",
-      "position": "MF",
-      "rating": 60,
       "age": 32,
-      "value": 41684210
+      "value": 57663157
     },
     {
-      "name": "Daniel Martinez",
-      "position": "FW",
-      "rating": 64,
-      "age": 23,
-      "value": 78315789
+      "name": "William Lopez",
+      "position": "MF",
+      "rating": 76,
+      "age": 16,
+      "value": 91200000
     },
     {
-      "name": "Steven Williams",
-      "position": "FW",
-      "rating": 90,
-      "age": 17,
+      "name": "Donald Lopez",
+      "position": "MF",
+      "rating": 85,
+      "age": 16,
       "value": 100000000
     },
     {
-      "name": "Daniel Moore",
-      "position": "FW",
-      "rating": 89,
-      "age": 20,
-      "value": 100000000
-    },
-    {
-      "name": "Michael Hernandez",
-      "position": "FW",
-      "rating": 74,
+      "name": "Anthony Brown",
+      "position": "MF",
+      "rating": 62,
       "age": 35,
-      "value": 55500000
+      "value": 37200000
     },
     {
-      "name": "David Anderson",
+      "name": "George Anderson",
+      "position": "MF",
+      "rating": 76,
+      "age": 30,
+      "value": 57600000
+    },
+    {
+      "name": "Donald Rodriguez",
+      "position": "MF",
+      "rating": 62,
+      "age": 25,
+      "value": 56778947
+    },
+    {
+      "name": "Ronald Martin",
       "position": "FW",
       "rating": 85,
-      "age": 20,
+      "age": 19,
+      "value": 100000000
+    },
+    {
+      "name": "Robert Anderson",
+      "position": "FW",
+      "rating": 66,
+      "age": 35,
+      "value": 49500000
+    },
+    {
+      "name": "John Gonzalez",
+      "position": "FW",
+      "rating": 73,
+      "age": 35,
+      "value": 54750000
+    },
+    {
+      "name": "Ronald Anderson",
+      "position": "FW",
+      "rating": 88,
+      "age": 32,
+      "value": 76421052
+    },
+    {
+      "name": "Edward Lopez",
+      "position": "FW",
+      "rating": 84,
+      "age": 17,
       "value": 100000000
     }
-  ]
+  ],
+  "stadium": {
+    "name": "Bramall Lane",
+    "capacity": 32050
+  }
 }
