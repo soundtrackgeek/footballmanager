@@ -138,9 +138,4 @@ def select_team(team):
     return team_rating
 
 def auto_select_team(team):
-    team_rating = team.auto_select_team()
-    print(f"\nAuto-selected team for {team.name}:")
-    for player in team.selected_players:
-        print(f"{player.name} - {player.position} - Rating: {player.rating}")
-    print(f"\nTeam Rating: {team_rating:.2f}")
-    return team_rating
+    team.auto_select_team()

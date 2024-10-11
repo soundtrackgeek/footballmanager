@@ -4,102 +4,102 @@
     {
       "name": "Anthony Williams",
       "position": "GK",
-      "rating": 83
+      "rating": 78
     },
     {
-      "name": "Donald Thomas",
+      "name": "Robert Anderson",
       "position": "GK",
-      "rating": 68
+      "rating": 72
     },
     {
-      "name": "Donald Rodriguez",
+      "name": "David Smith",
       "position": "GK",
-      "rating": 60
+      "rating": 65
     },
     {
-      "name": "Michael Miller",
+      "name": "Daniel Hernandez",
       "position": "DF",
-      "rating": 87
+      "rating": 65
     },
     {
-      "name": "John Martin",
+      "name": "Mark Jackson",
       "position": "DF",
-      "rating": 83
+      "rating": 79
     },
     {
-      "name": "James Martin",
+      "name": "Donald Hernandez",
       "position": "DF",
-      "rating": 80
+      "rating": 70
     },
     {
-      "name": "David Wilson",
+      "name": "Steven Miller",
       "position": "DF",
-      "rating": 73
+      "rating": 70
     },
     {
-      "name": "Paul Miller",
+      "name": "Robert Davis",
       "position": "DF",
       "rating": 67
     },
     {
-      "name": "John Lopez",
+      "name": "Paul Lopez",
       "position": "DF",
+      "rating": 69
+    },
+    {
+      "name": "Steven Rodriguez",
+      "position": "MF",
+      "rating": 79
+    },
+    {
+      "name": "George Wilson",
+      "position": "MF",
+      "rating": 90
+    },
+    {
+      "name": "Brian Moore",
+      "position": "MF",
       "rating": 68
     },
     {
       "name": "Kenneth Brown",
       "position": "MF",
-      "rating": 84
+      "rating": 89
     },
     {
-      "name": "Brian Wilson",
+      "name": "Anthony Brown",
       "position": "MF",
-      "rating": 82
+      "rating": 74
     },
     {
-      "name": "Charles Thomas",
+      "name": "David Moore",
       "position": "MF",
-      "rating": 78
+      "rating": 68
     },
     {
-      "name": "Kenneth Gonzalez",
-      "position": "MF",
-      "rating": 79
-    },
-    {
-      "name": "William Davis",
-      "position": "MF",
-      "rating": 73
-    },
-    {
-      "name": "David Taylor",
-      "position": "MF",
-      "rating": 77
-    },
-    {
-      "name": "William Rodriguez",
+      "name": "Paul Garcia",
       "position": "FW",
-      "rating": 71
+      "rating": 83
     },
     {
       "name": "Brian Smith",
       "position": "FW",
-      "rating": 73
+      "rating": 64
     },
     {
-      "name": "Richard Lopez",
+      "name": "David Williams",
       "position": "FW",
-      "rating": 65
+      "rating": 79
     },
     {
-      "name": "Brian Wilson",
-      "position": "FW",
-      "rating": 82
-    },
-    {
-      "name": "Paul Jones",
+      "name": "John Hernandez",
       "position": "FW",
       "rating": 67
+    },
+    {
+      "name": "Anthony Smith",
+      "position": "FW",
+      "rating": 71
     }
   ]
 }

@@ -2,104 +2,104 @@
   "name": "Brighton",
   "squad": [
     {
-      "name": "Robert Miller",
+      "name": "Mark Smith",
       "position": "GK",
-      "rating": 73
-    },
-    {
-      "name": "Kenneth Brown",
-      "position": "GK",
-      "rating": 60
-    },
-    {
-      "name": "Paul Jones",
-      "position": "GK",
-      "rating": 71
-    },
-    {
-      "name": "George Rodriguez",
-      "position": "DF",
-      "rating": 64
-    },
-    {
-      "name": "Donald Martinez",
-      "position": "DF",
-      "rating": 63
-    },
-    {
-      "name": "David Smith",
-      "position": "DF",
-      "rating": 80
-    },
-    {
-      "name": "William Rodriguez",
-      "position": "DF",
       "rating": 88
     },
     {
-      "name": "George Anderson",
+      "name": "Mark Jones",
+      "position": "GK",
+      "rating": 88
+    },
+    {
+      "name": "David Thomas",
+      "position": "GK",
+      "rating": 66
+    },
+    {
+      "name": "Brian Brown",
       "position": "DF",
-      "rating": 90
+      "rating": 62
+    },
+    {
+      "name": "Paul Miller",
+      "position": "DF",
+      "rating": 70
     },
     {
       "name": "Edward Moore",
       "position": "DF",
+      "rating": 84
+    },
+    {
+      "name": "George Williams",
+      "position": "DF",
+      "rating": 63
+    },
+    {
+      "name": "Thomas Gonzalez",
+      "position": "DF",
       "rating": 65
     },
     {
-      "name": "John Jones",
-      "position": "MF",
+      "name": "Richard Hernandez",
+      "position": "DF",
       "rating": 70
     },
     {
-      "name": "Brian Jackson",
-      "position": "MF",
-      "rating": 65
-    },
-    {
-      "name": "Charles Hernandez",
-      "position": "MF",
-      "rating": 77
-    },
-    {
-      "name": "Charles Thomas",
-      "position": "MF",
-      "rating": 79
-    },
-    {
-      "name": "Daniel Williams",
-      "position": "MF",
-      "rating": 64
-    },
-    {
-      "name": "Daniel Martinez",
+      "name": "James Davis",
       "position": "MF",
       "rating": 82
     },
     {
-      "name": "William Thomas",
-      "position": "FW",
-      "rating": 75
-    },
-    {
-      "name": "Robert Smith",
-      "position": "FW",
-      "rating": 60
-    },
-    {
-      "name": "Richard Davis",
-      "position": "FW",
-      "rating": 73
-    },
-    {
       "name": "William Williams",
-      "position": "FW",
+      "position": "MF",
       "rating": 65
     },
     {
-      "name": "Kenneth Hernandez",
+      "name": "Daniel Taylor",
+      "position": "MF",
+      "rating": 78
+    },
+    {
+      "name": "Kenneth Martin",
+      "position": "MF",
+      "rating": 75
+    },
+    {
+      "name": "Kenneth Brown",
+      "position": "MF",
+      "rating": 81
+    },
+    {
+      "name": "Charles Taylor",
+      "position": "MF",
+      "rating": 62
+    },
+    {
+      "name": "William Garcia",
+      "position": "FW",
+      "rating": 63
+    },
+    {
+      "name": "Charles Gonzalez",
+      "position": "FW",
+      "rating": 85
+    },
+    {
+      "name": "Michael Martinez",
+      "position": "FW",
+      "rating": 74
+    },
+    {
+      "name": "Donald Hernandez",
       "position": "FW",
       "rating": 72
+    },
+    {
+      "name": "George Lopez",
+      "position": "FW",
+      "rating": 67
     }
   ]
 }

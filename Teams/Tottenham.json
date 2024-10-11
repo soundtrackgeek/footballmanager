@@ -2,102 +2,102 @@
   "name": "Tottenham",
   "squad": [
     {
-      "name": "Edward Smith",
+      "name": "Kenneth Davis",
+      "position": "GK",
+      "rating": 86
+    },
+    {
+      "name": "Daniel Lopez",
+      "position": "GK",
+      "rating": 61
+    },
+    {
+      "name": "George Miller",
       "position": "GK",
       "rating": 85
     },
     {
-      "name": "Michael Lopez",
-      "position": "GK",
+      "name": "Michael Williams",
+      "position": "DF",
+      "rating": 73
+    },
+    {
+      "name": "William Miller",
+      "position": "DF",
+      "rating": 74
+    },
+    {
+      "name": "Kenneth Hernandez",
+      "position": "DF",
+      "rating": 74
+    },
+    {
+      "name": "Brian Moore",
+      "position": "DF",
+      "rating": 61
+    },
+    {
+      "name": "Kenneth Taylor",
+      "position": "DF",
+      "rating": 67
+    },
+    {
+      "name": "Edward Rodriguez",
+      "position": "DF",
       "rating": 75
     },
     {
-      "name": "James Hernandez",
-      "position": "GK",
-      "rating": 76
-    },
-    {
-      "name": "Donald Miller",
-      "position": "DF",
-      "rating": 88
-    },
-    {
-      "name": "Thomas Miller",
-      "position": "DF",
-      "rating": 65
-    },
-    {
-      "name": "David Taylor",
-      "position": "DF",
-      "rating": 75
-    },
-    {
-      "name": "Brian Hernandez",
-      "position": "DF",
-      "rating": 75
-    },
-    {
-      "name": "John Johnson",
-      "position": "DF",
-      "rating": 84
-    },
-    {
-      "name": "Mark Wilson",
-      "position": "DF",
-      "rating": 89
-    },
-    {
-      "name": "Charles Johnson",
+      "name": "David Miller",
       "position": "MF",
-      "rating": 86
+      "rating": 69
     },
     {
-      "name": "Mark Jones",
+      "name": "James Moore",
       "position": "MF",
-      "rating": 86
+      "rating": 63
     },
     {
-      "name": "Brian Wilson",
+      "name": "Thomas Smith",
       "position": "MF",
-      "rating": 62
-    },
-    {
-      "name": "George Miller",
-      "position": "MF",
-      "rating": 86
-    },
-    {
-      "name": "Brian Wilson",
-      "position": "MF",
-      "rating": 88
-    },
-    {
-      "name": "Paul Davis",
-      "position": "MF",
-      "rating": 89
-    },
-    {
-      "name": "Paul Thomas",
-      "position": "FW",
-      "rating": 62
-    },
-    {
-      "name": "Thomas Miller",
-      "position": "FW",
       "rating": 90
     },
     {
-      "name": "Edward Brown",
-      "position": "FW",
-      "rating": 88
-    },
-    {
-      "name": "Paul Johnson",
-      "position": "FW",
+      "name": "David Thomas",
+      "position": "MF",
       "rating": 81
     },
     {
-      "name": "George Davis",
+      "name": "Richard Williams",
+      "position": "MF",
+      "rating": 83
+    },
+    {
+      "name": "David Jones",
+      "position": "MF",
+      "rating": 85
+    },
+    {
+      "name": "Richard Martin",
+      "position": "FW",
+      "rating": 85
+    },
+    {
+      "name": "Paul Gonzalez",
+      "position": "FW",
+      "rating": 72
+    },
+    {
+      "name": "David Rodriguez",
+      "position": "FW",
+      "rating": 60
+    },
+    {
+      "name": "David Jones",
+      "position": "FW",
+      "rating": 72
+    },
+    {
+      "name": "John Martinez",
       "position": "FW",
       "rating": 64
     }

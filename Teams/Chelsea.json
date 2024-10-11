@@ -2,104 +2,104 @@
   "name": "Chelsea",
   "squad": [
     {
-      "name": "Richard Martin",
+      "name": "Charles Lopez",
       "position": "GK",
-      "rating": 74
+      "rating": 86
     },
     {
-      "name": "Ronald Taylor",
+      "name": "George Wilson",
       "position": "GK",
-      "rating": 85
-    },
-    {
-      "name": "Robert Wilson",
-      "position": "GK",
-      "rating": 72
-    },
-    {
-      "name": "Thomas Martinez",
-      "position": "DF",
-      "rating": 77
-    },
-    {
-      "name": "Kenneth Martin",
-      "position": "DF",
-      "rating": 75
-    },
-    {
-      "name": "Mark Anderson",
-      "position": "DF",
       "rating": 89
     },
     {
-      "name": "Edward Taylor",
-      "position": "DF",
-      "rating": 64
+      "name": "John Rodriguez",
+      "position": "GK",
+      "rating": 60
     },
     {
-      "name": "Ronald Moore",
+      "name": "James Moore",
       "position": "DF",
-      "rating": 67
+      "rating": 88
     },
     {
-      "name": "Richard Brown",
+      "name": "Ronald Lopez",
       "position": "DF",
-      "rating": 69
+      "rating": 90
     },
     {
-      "name": "David Taylor",
+      "name": "Richard Miller",
+      "position": "DF",
+      "rating": 71
+    },
+    {
+      "name": "Anthony Lopez",
+      "position": "DF",
+      "rating": 66
+    },
+    {
+      "name": "Charles Thomas",
+      "position": "DF",
+      "rating": 87
+    },
+    {
+      "name": "Brian Wilson",
+      "position": "DF",
+      "rating": 66
+    },
+    {
+      "name": "George Smith",
       "position": "MF",
-      "rating": 61
+      "rating": 81
     },
     {
-      "name": "George Anderson",
+      "name": "Kenneth Smith",
       "position": "MF",
-      "rating": 74
+      "rating": 71
     },
     {
-      "name": "Mark Martin",
+      "name": "Steven Thomas",
+      "position": "MF",
+      "rating": 84
+    },
+    {
+      "name": "Thomas Wilson",
+      "position": "MF",
+      "rating": 72
+    },
+    {
+      "name": "Robert Anderson",
+      "position": "MF",
+      "rating": 62
+    },
+    {
+      "name": "Ronald Taylor",
       "position": "MF",
       "rating": 76
     },
     {
-      "name": "Paul Rodriguez",
-      "position": "MF",
-      "rating": 73
+      "name": "Donald Martinez",
+      "position": "FW",
+      "rating": 69
     },
     {
-      "name": "George Lopez",
-      "position": "MF",
-      "rating": 72
-    },
-    {
-      "name": "David Lopez",
-      "position": "MF",
+      "name": "David Gonzalez",
+      "position": "FW",
       "rating": 65
     },
     {
-      "name": "Daniel Wilson",
+      "name": "Steven Anderson",
       "position": "FW",
-      "rating": 62
+      "rating": 67
     },
     {
-      "name": "Kenneth Johnson",
+      "name": "Anthony Taylor",
       "position": "FW",
-      "rating": 87
+      "rating": 86
     },
     {
-      "name": "James Hernandez",
+      "name": "Edward Jackson",
       "position": "FW",
-      "rating": 75
-    },
-    {
-      "name": "Anthony Williams",
-      "position": "FW",
-      "rating": 80
-    },
-    {
-      "name": "Anthony Smith",
-      "position": "FW",
-      "rating": 62
+      "rating": 72
     }
   ]
 }

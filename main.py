@@ -28,8 +28,8 @@ def team_menu(player_team):
         if choice == "1":
             display_squad(player_team)
         elif choice == "2":
-            team_rating = select_team(player_team)
-            print(f"Team rating: {team_rating:.2f}")
+            select_team(player_team)
+            print("Team selected successfully.")
         elif choice == "0":
             break
         else:
@@ -49,8 +49,8 @@ def main():
 
     print("\nWelcome to Football Manager!")
     print("You are managing", player_team.name)
-    print("AI-controlled teams will automatically select their best 11 players for each match.")
-    print("You can manually select your team or let the game auto-select for you before each match.")
+    print("All teams, including yours, will automatically select their best 11 players for each match.")
+    print("You can view your team and manually select players, but this won't affect the game simulation.")
     print("In match simulations, players will score goals based on their positions and ratings.")
     print("Forwards have a higher chance of scoring, but any player can potentially score a goal.")
     print("Goal times will be shown for each scorer.")
@@ -74,8 +74,6 @@ def main():
         elif choice == "5":
             if current_week <= total_weeks:
                 print(f"\nSimulating Week {current_week}")
-                if not player_team.selected_players:
-                    print("You haven't selected your team. The game will auto-select for you.")
                 current_week = play_week(fixtures, table, current_week, player_team)
             else:
                 print("\nThe season has ended. No more games to play.")
@@ -84,8 +82,6 @@ def main():
         elif choice == "7":
             confirm = input(f"Are you sure you want to simulate the remaining {total_weeks - current_week + 1} weeks of the season? (y/n): ")
             if confirm.lower() == 'y':
-                if not player_team.selected_players:
-                    print("You haven't selected your team. The game will auto-select for each match.")
                 simulate_season(fixtures, table, current_week, player_team)
                 current_week = total_weeks + 1
             else:

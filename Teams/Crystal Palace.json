@@ -2,104 +2,104 @@
   "name": "Crystal Palace",
   "squad": [
     {
-      "name": "George Jones",
+      "name": "Anthony Garcia",
       "position": "GK",
-      "rating": 72
+      "rating": 84
     },
     {
-      "name": "Robert Martin",
+      "name": "Thomas Martinez",
       "position": "GK",
-      "rating": 77
+      "rating": 69
     },
     {
-      "name": "Mark Davis",
+      "name": "Daniel Hernandez",
       "position": "GK",
-      "rating": 75
+      "rating": 88
     },
     {
-      "name": "Richard Lopez",
+      "name": "Steven Williams",
+      "position": "DF",
+      "rating": 60
+    },
+    {
+      "name": "John Jones",
+      "position": "DF",
+      "rating": 67
+    },
+    {
+      "name": "Daniel Miller",
       "position": "DF",
       "rating": 85
     },
     {
-      "name": "George Davis",
+      "name": "John Smith",
       "position": "DF",
-      "rating": 68
+      "rating": 64
     },
     {
-      "name": "Robert Martinez",
-      "position": "DF",
-      "rating": 81
-    },
-    {
-      "name": "Mark Johnson",
-      "position": "DF",
-      "rating": 88
-    },
-    {
-      "name": "Robert Jones",
-      "position": "DF",
-      "rating": 84
-    },
-    {
-      "name": "Brian Brown",
+      "name": "James Thomas",
       "position": "DF",
       "rating": 77
     },
     {
-      "name": "David Martin",
-      "position": "MF",
-      "rating": 81
+      "name": "James Jones",
+      "position": "DF",
+      "rating": 64
     },
     {
-      "name": "Robert Moore",
-      "position": "MF",
-      "rating": 79
-    },
-    {
-      "name": "Richard Wilson",
-      "position": "MF",
-      "rating": 80
-    },
-    {
-      "name": "Anthony Garcia",
-      "position": "MF",
-      "rating": 66
-    },
-    {
-      "name": "Thomas Martinez",
+      "name": "Mark Miller",
       "position": "MF",
       "rating": 63
     },
     {
-      "name": "Brian Lopez",
+      "name": "Kenneth Miller",
       "position": "MF",
-      "rating": 85
+      "rating": 89
     },
     {
-      "name": "Mark Anderson",
-      "position": "FW",
-      "rating": 72
+      "name": "James Hernandez",
+      "position": "MF",
+      "rating": 68
     },
     {
-      "name": "George Smith",
-      "position": "FW",
+      "name": "Daniel Davis",
+      "position": "MF",
+      "rating": 89
+    },
+    {
+      "name": "Paul Wilson",
+      "position": "MF",
+      "rating": 64
+    },
+    {
+      "name": "Brian Rodriguez",
+      "position": "MF",
       "rating": 83
     },
     {
-      "name": "Daniel Martinez",
-      "position": "FW",
-      "rating": 84
-    },
-    {
-      "name": "William Garcia",
+      "name": "Paul Johnson",
       "position": "FW",
       "rating": 80
     },
     {
-      "name": "David Jackson",
+      "name": "James Rodriguez",
       "position": "FW",
-      "rating": 66
+      "rating": 73
+    },
+    {
+      "name": "Thomas Brown",
+      "position": "FW",
+      "rating": 86
+    },
+    {
+      "name": "Ronald Davis",
+      "position": "FW",
+      "rating": 62
+    },
+    {
+      "name": "James Garcia",
+      "position": "FW",
+      "rating": 77
     }
   ]
 }

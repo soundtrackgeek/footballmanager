@@ -2,102 +2,102 @@
   "name": "Everton",
   "squad": [
     {
-      "name": "Robert Martin",
+      "name": "Donald Gonzalez",
       "position": "GK",
-      "rating": 76
+      "rating": 86
     },
     {
-      "name": "Mark Jackson",
+      "name": "Steven Moore",
       "position": "GK",
-      "rating": 87
+      "rating": 89
     },
     {
-      "name": "William Brown",
+      "name": "Thomas Lopez",
       "position": "GK",
-      "rating": 61
+      "rating": 79
     },
     {
-      "name": "David Martin",
+      "name": "Paul Williams",
       "position": "DF",
-      "rating": 61
+      "rating": 70
     },
     {
-      "name": "Robert Brown",
+      "name": "Charles Moore",
+      "position": "DF",
+      "rating": 82
+    },
+    {
+      "name": "Ronald Wilson",
+      "position": "DF",
+      "rating": 81
+    },
+    {
+      "name": "John Taylor",
+      "position": "DF",
+      "rating": 71
+    },
+    {
+      "name": "Donald Davis",
+      "position": "DF",
+      "rating": 77
+    },
+    {
+      "name": "Daniel Jackson",
       "position": "DF",
       "rating": 65
     },
     {
-      "name": "Brian Lopez",
-      "position": "DF",
-      "rating": 71
+      "name": "David Garcia",
+      "position": "MF",
+      "rating": 90
     },
     {
-      "name": "William Garcia",
-      "position": "DF",
-      "rating": 84
-    },
-    {
-      "name": "Paul Davis",
-      "position": "DF",
-      "rating": 87
-    },
-    {
-      "name": "David Smith",
-      "position": "DF",
+      "name": "Daniel Jackson",
+      "position": "MF",
       "rating": 78
     },
     {
-      "name": "George Wilson",
+      "name": "John Taylor",
       "position": "MF",
       "rating": 88
     },
     {
-      "name": "Steven Gonzalez",
+      "name": "Anthony Johnson",
       "position": "MF",
-      "rating": 79
+      "rating": 85
     },
     {
-      "name": "Donald Jones",
+      "name": "Charles Jones",
       "position": "MF",
+      "rating": 67
+    },
+    {
+      "name": "Daniel Smith",
+      "position": "MF",
+      "rating": 86
+    },
+    {
+      "name": "Brian Rodriguez",
+      "position": "FW",
       "rating": 74
     },
     {
-      "name": "Mark Brown",
-      "position": "MF",
-      "rating": 70
-    },
-    {
-      "name": "Ronald Gonzalez",
-      "position": "MF",
-      "rating": 69
-    },
-    {
-      "name": "William Wilson",
-      "position": "MF",
-      "rating": 78
-    },
-    {
-      "name": "Paul Williams",
+      "name": "Daniel Martin",
       "position": "FW",
-      "rating": 83
+      "rating": 64
     },
     {
-      "name": "John Garcia",
-      "position": "FW",
-      "rating": 84
-    },
-    {
-      "name": "Mark Rodriguez",
-      "position": "FW",
-      "rating": 77
-    },
-    {
-      "name": "Robert Williams",
+      "name": "George Gonzalez",
       "position": "FW",
       "rating": 71
     },
     {
-      "name": "Mark Miller",
+      "name": "Edward Martin",
+      "position": "FW",
+      "rating": 82
+    },
+    {
+      "name": "Ronald Martinez",
       "position": "FW",
       "rating": 60
     }

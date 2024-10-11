@@ -2,104 +2,104 @@
   "name": "Arsenal",
   "squad": [
     {
-      "name": "James Williams",
+      "name": "Kenneth Williams",
       "position": "GK",
+      "rating": 64
+    },
+    {
+      "name": "Mark Martin",
+      "position": "GK",
+      "rating": 89
+    },
+    {
+      "name": "Paul Williams",
+      "position": "GK",
+      "rating": 78
+    },
+    {
+      "name": "Richard Moore",
+      "position": "DF",
+      "rating": 88
+    },
+    {
+      "name": "Donald Jackson",
+      "position": "DF",
       "rating": 77
     },
     {
-      "name": "Steven Johnson",
-      "position": "GK",
-      "rating": 75
-    },
-    {
-      "name": "Paul Moore",
-      "position": "GK",
-      "rating": 68
-    },
-    {
-      "name": "Michael Johnson",
+      "name": "Kenneth Hernandez",
       "position": "DF",
-      "rating": 89
+      "rating": 83
     },
     {
-      "name": "James Hernandez",
+      "name": "Mark Johnson",
       "position": "DF",
-      "rating": 69
+      "rating": 72
     },
     {
-      "name": "Brian Jackson",
+      "name": "William Jones",
       "position": "DF",
-      "rating": 60
+      "rating": 70
     },
     {
-      "name": "Donald Hernandez",
+      "name": "Anthony Smith",
       "position": "DF",
-      "rating": 87
+      "rating": 67
     },
     {
-      "name": "Brian Gonzalez",
-      "position": "DF",
-      "rating": 61
-    },
-    {
-      "name": "Michael Gonzalez",
-      "position": "DF",
-      "rating": 89
-    },
-    {
-      "name": "Robert Smith",
+      "name": "Daniel Smith",
       "position": "MF",
-      "rating": 61
+      "rating": 63
+    },
+    {
+      "name": "Paul Brown",
+      "position": "MF",
+      "rating": 66
+    },
+    {
+      "name": "Steven Hernandez",
+      "position": "MF",
+      "rating": 67
     },
     {
       "name": "Paul Johnson",
       "position": "MF",
-      "rating": 65
+      "rating": 90
     },
     {
-      "name": "Daniel Rodriguez",
+      "name": "James Brown",
       "position": "MF",
-      "rating": 64
+      "rating": 80
     },
     {
-      "name": "David Hernandez",
+      "name": "Charles Martinez",
       "position": "MF",
-      "rating": 86
+      "rating": 75
     },
     {
-      "name": "Mark Gonzalez",
-      "position": "MF",
-      "rating": 65
-    },
-    {
-      "name": "Paul Anderson",
-      "position": "MF",
-      "rating": 71
-    },
-    {
-      "name": "Kenneth Miller",
+      "name": "Donald Moore",
       "position": "FW",
-      "rating": 77
+      "rating": 82
     },
     {
-      "name": "Ronald Brown",
+      "name": "Anthony Martinez",
       "position": "FW",
-      "rating": 88
+      "rating": 85
     },
     {
-      "name": "John Thomas",
+      "name": "Mark Anderson",
       "position": "FW",
       "rating": 70
     },
     {
-      "name": "George Martin",
+      "name": "Paul Hernandez",
       "position": "FW",
-      "rating": 69
+      "rating": 75
     },
     {
-      "name": "Edward Davis",
+      "name": "James Martinez",
       "position": "FW",
-      "rating": 87
+      "rating": 62
     }
   ]
 }

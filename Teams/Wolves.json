@@ -2,104 +2,104 @@
   "name": "Wolves",
   "squad": [
     {
-      "name": "Paul Williams",
+      "name": "Brian Rodriguez",
       "position": "GK",
-      "rating": 84
+      "rating": 71
     },
     {
-      "name": "Donald Davis",
+      "name": "Steven Jackson",
       "position": "GK",
-      "rating": 64
+      "rating": 60
     },
     {
-      "name": "James Smith",
+      "name": "David Williams",
       "position": "GK",
-      "rating": 89
+      "rating": 60
     },
     {
-      "name": "Michael Jones",
+      "name": "John Garcia",
       "position": "DF",
-      "rating": 88
+      "rating": 86
     },
     {
-      "name": "Charles Hernandez",
-      "position": "DF",
-      "rating": 73
-    },
-    {
-      "name": "George Wilson",
-      "position": "DF",
-      "rating": 75
-    },
-    {
-      "name": "Michael Moore",
-      "position": "DF",
-      "rating": 66
-    },
-    {
-      "name": "Brian Miller",
-      "position": "DF",
-      "rating": 83
-    },
-    {
-      "name": "James Rodriguez",
+      "name": "Mark Rodriguez",
       "position": "DF",
       "rating": 85
     },
     {
-      "name": "Thomas Gonzalez",
-      "position": "MF",
-      "rating": 65
+      "name": "Richard Rodriguez",
+      "position": "DF",
+      "rating": 72
     },
     {
-      "name": "Charles Thomas",
-      "position": "MF",
-      "rating": 89
+      "name": "Paul Williams",
+      "position": "DF",
+      "rating": 84
     },
     {
-      "name": "Paul Smith",
-      "position": "MF",
-      "rating": 89
+      "name": "Anthony Brown",
+      "position": "DF",
+      "rating": 87
     },
     {
-      "name": "Steven Hernandez",
+      "name": "Edward Jackson",
+      "position": "DF",
+      "rating": 77
+    },
+    {
+      "name": "Charles Williams",
+      "position": "MF",
+      "rating": 70
+    },
+    {
+      "name": "Donald Brown",
+      "position": "MF",
+      "rating": 86
+    },
+    {
+      "name": "Robert Hernandez",
+      "position": "MF",
+      "rating": 75
+    },
+    {
+      "name": "Edward Martin",
+      "position": "MF",
+      "rating": 78
+    },
+    {
+      "name": "David Davis",
       "position": "MF",
       "rating": 87
     },
     {
-      "name": "Ronald Jackson",
+      "name": "Richard Smith",
       "position": "MF",
-      "rating": 65
+      "rating": 88
     },
     {
-      "name": "Paul Hernandez",
-      "position": "MF",
+      "name": "John Johnson",
+      "position": "FW",
+      "rating": 80
+    },
+    {
+      "name": "William Moore",
+      "position": "FW",
       "rating": 76
     },
     {
-      "name": "Kenneth Anderson",
+      "name": "David Davis",
       "position": "FW",
-      "rating": 89
+      "rating": 82
     },
     {
-      "name": "Charles Hernandez",
+      "name": "Paul Martinez",
       "position": "FW",
-      "rating": 74
+      "rating": 62
     },
     {
-      "name": "Edward Davis",
+      "name": "Robert Lopez",
       "position": "FW",
-      "rating": 61
-    },
-    {
-      "name": "James Jones",
-      "position": "FW",
-      "rating": 74
-    },
-    {
-      "name": "Robert Taylor",
-      "position": "FW",
-      "rating": 77
+      "rating": 82
     }
   ]
 }

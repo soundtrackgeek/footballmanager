@@ -2,104 +2,104 @@
   "name": "Brentford",
   "squad": [
     {
-      "name": "John Jones",
+      "name": "Brian Moore",
       "position": "GK",
-      "rating": 90
+      "rating": 72
     },
     {
-      "name": "James Lopez",
+      "name": "William Jones",
       "position": "GK",
-      "rating": 60
+      "rating": 62
     },
     {
-      "name": "John Gonzalez",
+      "name": "Kenneth Johnson",
       "position": "GK",
-      "rating": 87
-    },
-    {
-      "name": "Donald Taylor",
-      "position": "DF",
-      "rating": 67
+      "rating": 65
     },
     {
       "name": "Daniel Johnson",
       "position": "DF",
-      "rating": 63
+      "rating": 67
     },
     {
-      "name": "John Gonzalez",
+      "name": "Edward Jones",
       "position": "DF",
-      "rating": 65
+      "rating": 78
     },
     {
-      "name": "David Williams",
+      "name": "Brian Miller",
       "position": "DF",
-      "rating": 85
+      "rating": 79
     },
     {
-      "name": "Paul Thomas",
+      "name": "David Davis",
       "position": "DF",
-      "rating": 90
+      "rating": 87
     },
     {
-      "name": "Daniel Brown",
+      "name": "Donald Jones",
       "position": "DF",
       "rating": 60
     },
     {
-      "name": "Donald Anderson",
+      "name": "William Gonzalez",
+      "position": "DF",
+      "rating": 75
+    },
+    {
+      "name": "Richard Moore",
       "position": "MF",
+      "rating": 67
+    },
+    {
+      "name": "Ronald Taylor",
+      "position": "MF",
+      "rating": 65
+    },
+    {
+      "name": "Charles Anderson",
+      "position": "MF",
+      "rating": 62
+    },
+    {
+      "name": "William Moore",
+      "position": "MF",
+      "rating": 66
+    },
+    {
+      "name": "Daniel Hernandez",
+      "position": "MF",
+      "rating": 75
+    },
+    {
+      "name": "James Brown",
+      "position": "MF",
+      "rating": 80
+    },
+    {
+      "name": "Daniel Moore",
+      "position": "FW",
+      "rating": 84
+    },
+    {
+      "name": "Edward Moore",
+      "position": "FW",
+      "rating": 67
+    },
+    {
+      "name": "Mark Smith",
+      "position": "FW",
       "rating": 82
     },
     {
-      "name": "Edward Thomas",
-      "position": "MF",
-      "rating": 73
-    },
-    {
-      "name": "David Wilson",
-      "position": "MF",
-      "rating": 86
-    },
-    {
-      "name": "Mark Martin",
-      "position": "MF",
-      "rating": 69
-    },
-    {
-      "name": "Mark Jackson",
-      "position": "MF",
-      "rating": 89
-    },
-    {
-      "name": "Charles Brown",
-      "position": "MF",
-      "rating": 87
-    },
-    {
-      "name": "John Hernandez",
+      "name": "Donald Johnson",
       "position": "FW",
-      "rating": 68
+      "rating": 82
     },
     {
-      "name": "David Johnson",
+      "name": "Kenneth Hernandez",
       "position": "FW",
-      "rating": 72
-    },
-    {
-      "name": "Charles Johnson",
-      "position": "FW",
-      "rating": 69
-    },
-    {
-      "name": "David Moore",
-      "position": "FW",
-      "rating": 64
-    },
-    {
-      "name": "John Thomas",
-      "position": "FW",
-      "rating": 69
+      "rating": 74
     }
   ]
 }

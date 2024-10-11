@@ -2,104 +2,104 @@
   "name": "Nottingham Forest",
   "squad": [
     {
-      "name": "Ronald Hernandez",
+      "name": "Michael Smith",
       "position": "GK",
-      "rating": 78
+      "rating": 77
     },
     {
-      "name": "Richard Gonzalez",
+      "name": "Robert Martin",
       "position": "GK",
-      "rating": 64
+      "rating": 69
     },
     {
-      "name": "Anthony Brown",
+      "name": "Michael Lopez",
       "position": "GK",
+      "rating": 82
+    },
+    {
+      "name": "Anthony Moore",
+      "position": "DF",
       "rating": 89
     },
     {
-      "name": "David Jackson",
+      "name": "Richard Lopez",
       "position": "DF",
+      "rating": 85
+    },
+    {
+      "name": "Ronald Thomas",
+      "position": "DF",
+      "rating": 77
+    },
+    {
+      "name": "Anthony Lopez",
+      "position": "DF",
+      "rating": 90
+    },
+    {
+      "name": "Donald Martinez",
+      "position": "DF",
+      "rating": 76
+    },
+    {
+      "name": "Charles Lopez",
+      "position": "DF",
+      "rating": 77
+    },
+    {
+      "name": "Ronald Wilson",
+      "position": "MF",
       "rating": 81
     },
     {
-      "name": "Thomas Garcia",
-      "position": "DF",
-      "rating": 80
-    },
-    {
-      "name": "Anthony Garcia",
-      "position": "DF",
-      "rating": 64
-    },
-    {
-      "name": "Steven Gonzalez",
-      "position": "DF",
-      "rating": 67
-    },
-    {
-      "name": "Donald Jones",
-      "position": "DF",
-      "rating": 82
-    },
-    {
-      "name": "Paul Jones",
-      "position": "DF",
-      "rating": 68
-    },
-    {
-      "name": "Paul Gonzalez",
+      "name": "Brian Thomas",
       "position": "MF",
-      "rating": 69
-    },
-    {
-      "name": "Michael Rodriguez",
-      "position": "MF",
-      "rating": 73
-    },
-    {
-      "name": "Richard Davis",
-      "position": "MF",
-      "rating": 84
-    },
-    {
-      "name": "Michael Martinez",
-      "position": "MF",
-      "rating": 69
-    },
-    {
-      "name": "Edward Brown",
-      "position": "MF",
-      "rating": 69
-    },
-    {
-      "name": "Ronald Martinez",
-      "position": "MF",
-      "rating": 70
-    },
-    {
-      "name": "William Martinez",
-      "position": "FW",
       "rating": 72
     },
     {
-      "name": "Richard Martin",
-      "position": "FW",
-      "rating": 82
+      "name": "Charles Gonzalez",
+      "position": "MF",
+      "rating": 77
     },
     {
-      "name": "David Taylor",
+      "name": "James Johnson",
+      "position": "MF",
+      "rating": 83
+    },
+    {
+      "name": "George Anderson",
+      "position": "MF",
+      "rating": 76
+    },
+    {
+      "name": "David Williams",
+      "position": "MF",
+      "rating": 89
+    },
+    {
+      "name": "Anthony Anderson",
+      "position": "FW",
+      "rating": 80
+    },
+    {
+      "name": "Charles Miller",
       "position": "FW",
       "rating": 88
     },
     {
-      "name": "Kenneth Miller",
+      "name": "Edward Moore",
       "position": "FW",
-      "rating": 70
+      "rating": 68
     },
     {
-      "name": "Ronald Taylor",
+      "name": "Brian Davis",
       "position": "FW",
-      "rating": 70
+      "rating": 74
+    },
+    {
+      "name": "Richard Johnson",
+      "position": "FW",
+      "rating": 71
     }
   ]
 }
