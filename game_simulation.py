@@ -1,4 +1,5 @@
 import random
+import time
 from team_management import select_team, auto_select_team
 from stats import stats
 from player import Position
@@ -48,7 +49,6 @@ def simulate_game(home_team, away_team):
     return home_goals, away_goals, home_scorers, away_scorers
 
 def calculate_ticket_revenue(team, attendance):
-    # Define ticket prices based on team prestige (you can adjust these values)
     ticket_prices = {
         "Manchester City": 75, "Liverpool": 70, "Manchester United": 70, "Arsenal": 65,
         "Chelsea": 65, "Tottenham": 60, "Newcastle": 55, "West Ham": 55,
@@ -59,6 +59,59 @@ def calculate_ticket_revenue(team, attendance):
     
     ticket_price = ticket_prices.get(team.name, 40)  # Default to 40 if team not found
     return attendance * ticket_price
+
+def simulate_user_match(home_team, away_team):
+    home_rating = home_team.calculate_team_rating()
+    away_rating = away_team.calculate_team_rating()
+    
+    rating_difference = home_rating - away_rating
+    home_advantage = 5  # Home team gets a slight advantage
+
+    home_strength = max(0, 50 + rating_difference + home_advantage)
+    away_strength = max(0, 50 - rating_difference)
+
+    home_goals = 0
+    away_goals = 0
+    home_scorers = []
+    away_scorers = []
+
+    commentator_lines = [
+        "What a strike! The crowd goes wild!",
+        "Unbelievable finish! That's why they pay him the big bucks!",
+        "He's done it! A moment of pure magic!",
+        "The keeper had no chance! What a goal!",
+        "That's a goal that will be replayed for years to come!",
+        "Clinical finish! He made it look so easy!",
+        "The net bulges and the fans erupt! Fantastic goal!",
+        "A goal of the highest quality! Simply breathtaking!",
+        "He's hit that one like a rocket! Unstoppable!",
+        "Cool as you like! He slots it home with ease!"
+    ]
+
+    print(f"\nExciting match: {home_team.name} vs {away_team.name}")
+    print("Kick-off!")
+
+    for minute in range(1, 91):
+        time.sleep(1)  # Simulate 1 second per minute
+        print(f"\rMinute {minute:2d}: {home_team.name} {home_goals} - {away_goals} {away_team.name}", end="", flush=True)
+
+        # Simulate goal chances
+        if random.random() < 0.05:  # 5% chance of a goal attempt each minute
+            if random.random() < home_strength / (home_strength + away_strength):
+                scorer = determine_goal_scorer(home_team)
+                home_goals += 1
+                home_scorers.append((scorer, minute))
+                print(f"\nGOAL! {scorer.name} scores for {home_team.name}!")
+                print(random.choice(commentator_lines))
+            else:
+                scorer = determine_goal_scorer(away_team)
+                away_goals += 1
+                away_scorers.append((scorer, minute))
+                print(f"\nGOAL! {scorer.name} scores for {away_team.name}!")
+                print(random.choice(commentator_lines))
+
+    print(f"\nFull-time: {home_team.name} {home_goals} - {away_goals} {away_team.name}")
+    return home_goals, away_goals, home_scorers, away_scorers
 
 def play_week(fixtures, table, current_week, player_team):
     week_fixtures = fixtures[current_week - 1]["matches"]
@@ -84,7 +137,12 @@ def play_week(fixtures, table, current_week, player_team):
             if not player_team.selected_players:
                 auto_select_team(player_team)
 
-        home_goals, away_goals, home_scorers, away_scorers = simulate_game(home_team, away_team)
+        # Simulate the user's match with the new exciting screen
+        if home_team == player_team or away_team == player_team:
+            home_goals, away_goals, home_scorers, away_scorers = simulate_user_match(home_team, away_team)
+        else:
+            home_goals, away_goals, home_scorers, away_scorers = simulate_game(home_team, away_team)
+
         table.update(home_team_name, away_team_name, home_goals, away_goals)
         
         # Update statistics
@@ -101,17 +159,18 @@ def play_week(fixtures, table, current_week, player_team):
             weekly_financial_summary[home_team_name] = {'ticket_revenue': 0, 'sponsorship': 0, 'loan_payment': 0}
         weekly_financial_summary[home_team_name]['ticket_revenue'] += ticket_revenue
         
-        print(f"\n{home_team_name} {home_goals} - {away_goals} {away_team_name}")
-        print(f"Attendance: {attendance:,}")
-        print(f"Ticket Revenue: £{ticket_revenue:,}")
-        if home_scorers:
-            print(f"{home_team_name} scorers:")
-            for scorer, minute in home_scorers:
-                print(f"  {scorer.name} ({minute}')")
-        if away_scorers:
-            print(f"{away_team_name} scorers:")
-            for scorer, minute in away_scorers:
-                print(f"  {scorer.name} ({minute}')")
+        if home_team != player_team and away_team != player_team:
+            print(f"\n{home_team_name} {home_goals} - {away_goals} {away_team_name}")
+            print(f"Attendance: {attendance:,}")
+            print(f"Ticket Revenue: £{ticket_revenue:,}")
+            if home_scorers:
+                print(f"{home_team_name} scorers:")
+                for scorer, minute in home_scorers:
+                    print(f"  {scorer.name} ({minute}')")
+            if away_scorers:
+                print(f"{away_team_name} scorers:")
+                for scorer, minute in away_scorers:
+                    print(f"  {scorer.name} ({minute}')")
 
     # Update finances for all teams
     for team in table.teams:

@@ -31,3 +31,50 @@ Let's create a football manager game in python. I want to emulate the FA Premier
 + Let's keep a list of stadiums and their maximum attendance for each club. Use the proper statium names and proper attendance numbers. For each home game, the fans fill the stadiums. Sometimes it's almost full and sometimes, there's less. This will be used for financial reasons later.
 
 Lets add some financial things to happen every week. So after every gameweek, we can have a summary screen of things happening. For example if we have home games, the fans fill the stadiums, sometimes almost full and sometimes there's less, but each fan buys a ticket to get in, so use realistic ticket prices, and calculate how much money each club makes in a gameweek and add it to the finances.
+
+ 1 Player Development System:
+    • Implement a training system where players can improve their skills over time.
+    • Add youth academy to develop young talents.
+ 2 Transfer Market:
+    • Allow buying and selling of players between teams.
+    • Implement a scouting system to discover new talents.
+ 3 Injuries and Suspensions:
+    • Add a system for player injuries and suspensions, affecting team selection.
+ 4 Tactical Customization:
+    • Allow players to set custom formations and tactics for their team.
+    • Implement different playing styles (attacking, defensive, possession-based, etc.).
+ 5 Stadium Management:
+    • Add the ability to upgrade and expand the team's stadium.
+    • Implement stadium maintenance costs and benefits.
+ 6 Media Interactions:
+    • Add press conferences and interviews that affect team morale and public perception.
+  7 International Competitions:
+     • Implement European competitions (Champions League, Europa League).
+     • Add international team management with World Cup and European Championship.
+  8 Player Morale and Chemistry:
+     • Implement a system where player happiness affects performance.
+     • Add team chemistry that improves with consistent lineups.
+  9 Financial Fair Play Rules:
+     • Implement financial regulations that teams must adhere to.
+ 10 Dynamic League System:
+     • Add promotion and relegation between leagues.
+ 11 Match Engine Improvements:
+     • Enhance the match simulation with more detailed events and statistics.
+     • Add the option to watch a more visual representation of the match.
+ 12 Staff Management:
+     • Allow hiring and firing of coaching staff, scouts, and other personnel.
+ 13 Contract Negotiations:
+     • Implement a more complex system for player contracts and negotiations.
+ 14 Season Objectives:
+     • Add board expectations and season objectives that affect job security.
+ 15 Player Retirements and Regeneration:
+     • Implement a system where older players retire and new young players are generated.
+ 16 Multiple Save Files:
+     • Allow players to manage multiple parallel careers.
+ 17 Historical Mode:
+     • Add the option to start a game in a past season with historical data.
+ 18 Online Multiplayer:
+     • Implement an online mode where multiple players can compete in the same league.
+	 
+
+I want to add an exciting match screen whenever I click 5. Play Game. This screen is only for my game in the fixture list this week, the team I've chosen. I want each minute to tick, maybe 1 second per minute, then randomly someone scores. Come up with some great commentator lines when someone scores.
