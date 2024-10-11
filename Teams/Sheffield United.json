@@ -2,104 +2,104 @@
   "name": "Sheffield United",
   "squad": [
     {
-      "name": "John Jackson",
-      "position": "GK",
-      "rating": 80
-    },
-    {
-      "name": "Steven Thomas",
+      "name": "Mark Hernandez",
       "position": "GK",
       "rating": 87
     },
     {
-      "name": "John Smith",
+      "name": "Daniel Jackson",
       "position": "GK",
-      "rating": 79
+      "rating": 88
     },
     {
-      "name": "Steven Thomas",
+      "name": "Anthony Gonzalez",
+      "position": "GK",
+      "rating": 70
+    },
+    {
+      "name": "Robert Taylor",
       "position": "DF",
-      "rating": 85
+      "rating": 66
     },
     {
-      "name": "Richard Johnson",
-      "position": "DF",
-      "rating": 81
-    },
-    {
-      "name": "William Gonzalez",
+      "name": "Michael Anderson",
       "position": "DF",
       "rating": 70
     },
     {
-      "name": "Donald Johnson",
+      "name": "William Thomas",
       "position": "DF",
-      "rating": 87
+      "rating": 62
     },
     {
-      "name": "Kenneth Rodriguez",
+      "name": "David Davis",
       "position": "DF",
-      "rating": 78
-    },
-    {
-      "name": "Kenneth Taylor",
-      "position": "DF",
-      "rating": 71
-    },
-    {
-      "name": "Paul Smith",
-      "position": "MF",
-      "rating": 84
-    },
-    {
-      "name": "James Miller",
-      "position": "MF",
-      "rating": 71
-    },
-    {
-      "name": "Richard Martin",
-      "position": "MF",
       "rating": 81
     },
     {
-      "name": "Anthony Lopez",
-      "position": "MF",
-      "rating": 85
-    },
-    {
-      "name": "Donald Anderson",
-      "position": "MF",
+      "name": "Charles Rodriguez",
+      "position": "DF",
       "rating": 82
     },
     {
-      "name": "John Wilson",
-      "position": "MF",
-      "rating": 85
-    },
-    {
-      "name": "Brian Williams",
-      "position": "FW",
+      "name": "Thomas Jones",
+      "position": "DF",
       "rating": 70
     },
     {
-      "name": "Mark Smith",
-      "position": "FW",
+      "name": "Daniel Wilson",
+      "position": "MF",
+      "rating": 63
+    },
+    {
+      "name": "Anthony Hernandez",
+      "position": "MF",
       "rating": 65
     },
     {
-      "name": "William Miller",
-      "position": "FW",
-      "rating": 70
+      "name": "Kenneth Lopez",
+      "position": "MF",
+      "rating": 61
     },
     {
-      "name": "Thomas Anderson",
-      "position": "FW",
-      "rating": 77
+      "name": "Steven Thomas",
+      "position": "MF",
+      "rating": 89
     },
     {
-      "name": "David Hernandez",
+      "name": "Ronald Gonzalez",
+      "position": "MF",
+      "rating": 88
+    },
+    {
+      "name": "Edward Wilson",
+      "position": "MF",
+      "rating": 83
+    },
+    {
+      "name": "Brian Martinez",
       "position": "FW",
-      "rating": 85
+      "rating": 84
+    },
+    {
+      "name": "Michael Gonzalez",
+      "position": "FW",
+      "rating": 69
+    },
+    {
+      "name": "Donald Thomas",
+      "position": "FW",
+      "rating": 67
+    },
+    {
+      "name": "Richard Taylor",
+      "position": "FW",
+      "rating": 84
+    },
+    {
+      "name": "William Moore",
+      "position": "FW",
+      "rating": 74
     }
   ]
 }

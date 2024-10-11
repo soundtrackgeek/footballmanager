@@ -2,104 +2,104 @@
   "name": "Manchester City",
   "squad": [
     {
-      "name": "George Moore",
+      "name": "Anthony Johnson",
       "position": "GK",
-      "rating": 70
+      "rating": 83
     },
     {
-      "name": "James Brown",
+      "name": "Thomas Lopez",
+      "position": "GK",
+      "rating": 82
+    },
+    {
+      "name": "Richard Jackson",
       "position": "GK",
       "rating": 75
-    },
-    {
-      "name": "William Wilson",
-      "position": "GK",
-      "rating": 89
-    },
-    {
-      "name": "John Anderson",
-      "position": "DF",
-      "rating": 77
-    },
-    {
-      "name": "Daniel Williams",
-      "position": "DF",
-      "rating": 84
-    },
-    {
-      "name": "Michael Martinez",
-      "position": "DF",
-      "rating": 61
-    },
-    {
-      "name": "Paul Moore",
-      "position": "DF",
-      "rating": 88
     },
     {
       "name": "Edward Taylor",
       "position": "DF",
-      "rating": 79
+      "rating": 75
     },
     {
-      "name": "William Anderson",
+      "name": "John Johnson",
       "position": "DF",
-      "rating": 84
+      "rating": 85
+    },
+    {
+      "name": "Ronald Williams",
+      "position": "DF",
+      "rating": 85
+    },
+    {
+      "name": "Anthony Jones",
+      "position": "DF",
+      "rating": 72
+    },
+    {
+      "name": "Ronald Thomas",
+      "position": "DF",
+      "rating": 74
+    },
+    {
+      "name": "Brian Williams",
+      "position": "DF",
+      "rating": 70
+    },
+    {
+      "name": "James Moore",
+      "position": "MF",
+      "rating": 72
+    },
+    {
+      "name": "James Jackson",
+      "position": "MF",
+      "rating": 72
+    },
+    {
+      "name": "Mark Johnson",
+      "position": "MF",
+      "rating": 90
+    },
+    {
+      "name": "Donald Anderson",
+      "position": "MF",
+      "rating": 66
     },
     {
       "name": "Daniel Miller",
       "position": "MF",
-      "rating": 79
+      "rating": 68
     },
     {
-      "name": "Paul Thomas",
+      "name": "David Smith",
       "position": "MF",
       "rating": 81
     },
     {
-      "name": "Paul Gonzalez",
-      "position": "MF",
+      "name": "Richard Jackson",
+      "position": "FW",
+      "rating": 76
+    },
+    {
+      "name": "Thomas Rodriguez",
+      "position": "FW",
       "rating": 75
     },
     {
-      "name": "Daniel Rodriguez",
-      "position": "MF",
-      "rating": 80
+      "name": "Michael Johnson",
+      "position": "FW",
+      "rating": 76
     },
     {
-      "name": "Donald Gonzalez",
-      "position": "MF",
+      "name": "Edward Gonzalez",
+      "position": "FW",
+      "rating": 74
+    },
+    {
+      "name": "Robert Garcia",
+      "position": "FW",
       "rating": 67
-    },
-    {
-      "name": "Thomas Smith",
-      "position": "MF",
-      "rating": 88
-    },
-    {
-      "name": "Paul Jackson",
-      "position": "FW",
-      "rating": 79
-    },
-    {
-      "name": "William Martin",
-      "position": "FW",
-      "rating": 66
-    },
-    {
-      "name": "Daniel Martinez",
-      "position": "FW",
-      "rating": 66
-    },
-    {
-      "name": "Daniel Taylor",
-      "position": "FW",
-      "rating": 69
-    },
-    {
-      "name": "William Rodriguez",
-      "position": "FW",
-      "rating": 69
     }
   ]
 }

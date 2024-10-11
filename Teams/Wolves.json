@@ -2,104 +2,104 @@
   "name": "Wolves",
   "squad": [
     {
-      "name": "Michael Rodriguez",
+      "name": "Paul Williams",
       "position": "GK",
-      "rating": 66
-    },
-    {
-      "name": "Daniel Gonzalez",
-      "position": "GK",
-      "rating": 68
-    },
-    {
-      "name": "Mark Brown",
-      "position": "GK",
-      "rating": 80
-    },
-    {
-      "name": "Edward Rodriguez",
-      "position": "DF",
-      "rating": 82
-    },
-    {
-      "name": "Anthony Davis",
-      "position": "DF",
-      "rating": 89
-    },
-    {
-      "name": "John Anderson",
-      "position": "DF",
-      "rating": 61
-    },
-    {
-      "name": "John Hernandez",
-      "position": "DF",
-      "rating": 60
-    },
-    {
-      "name": "Edward Smith",
-      "position": "DF",
-      "rating": 65
-    },
-    {
-      "name": "Richard Gonzalez",
-      "position": "DF",
-      "rating": 70
-    },
-    {
-      "name": "David Gonzalez",
-      "position": "MF",
-      "rating": 81
-    },
-    {
-      "name": "James Wilson",
-      "position": "MF",
-      "rating": 62
-    },
-    {
-      "name": "Robert Johnson",
-      "position": "MF",
-      "rating": 60
-    },
-    {
-      "name": "Anthony Anderson",
-      "position": "MF",
-      "rating": 67
-    },
-    {
-      "name": "Mark Smith",
-      "position": "MF",
-      "rating": 81
-    },
-    {
-      "name": "Mark Smith",
-      "position": "MF",
-      "rating": 73
-    },
-    {
-      "name": "Paul Miller",
-      "position": "FW",
-      "rating": 80
-    },
-    {
-      "name": "Daniel Smith",
-      "position": "FW",
-      "rating": 62
-    },
-    {
-      "name": "Robert Thomas",
-      "position": "FW",
-      "rating": 69
-    },
-    {
-      "name": "David Martinez",
-      "position": "FW",
       "rating": 84
     },
     {
-      "name": "Thomas Smith",
-      "position": "FW",
+      "name": "Donald Davis",
+      "position": "GK",
+      "rating": 64
+    },
+    {
+      "name": "James Smith",
+      "position": "GK",
+      "rating": 89
+    },
+    {
+      "name": "Michael Jones",
+      "position": "DF",
+      "rating": 88
+    },
+    {
+      "name": "Charles Hernandez",
+      "position": "DF",
+      "rating": 73
+    },
+    {
+      "name": "George Wilson",
+      "position": "DF",
+      "rating": 75
+    },
+    {
+      "name": "Michael Moore",
+      "position": "DF",
+      "rating": 66
+    },
+    {
+      "name": "Brian Miller",
+      "position": "DF",
+      "rating": 83
+    },
+    {
+      "name": "James Rodriguez",
+      "position": "DF",
+      "rating": 85
+    },
+    {
+      "name": "Thomas Gonzalez",
+      "position": "MF",
       "rating": 65
+    },
+    {
+      "name": "Charles Thomas",
+      "position": "MF",
+      "rating": 89
+    },
+    {
+      "name": "Paul Smith",
+      "position": "MF",
+      "rating": 89
+    },
+    {
+      "name": "Steven Hernandez",
+      "position": "MF",
+      "rating": 87
+    },
+    {
+      "name": "Ronald Jackson",
+      "position": "MF",
+      "rating": 65
+    },
+    {
+      "name": "Paul Hernandez",
+      "position": "MF",
+      "rating": 76
+    },
+    {
+      "name": "Kenneth Anderson",
+      "position": "FW",
+      "rating": 89
+    },
+    {
+      "name": "Charles Hernandez",
+      "position": "FW",
+      "rating": 74
+    },
+    {
+      "name": "Edward Davis",
+      "position": "FW",
+      "rating": 61
+    },
+    {
+      "name": "James Jones",
+      "position": "FW",
+      "rating": 74
+    },
+    {
+      "name": "Robert Taylor",
+      "position": "FW",
+      "rating": 77
     }
   ]
 }

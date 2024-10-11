@@ -2,104 +2,104 @@
   "name": "West Ham",
   "squad": [
     {
-      "name": "David Hernandez",
+      "name": "Edward Moore",
       "position": "GK",
-      "rating": 74
+      "rating": 71
     },
     {
-      "name": "Donald Martinez",
+      "name": "Thomas Davis",
       "position": "GK",
-      "rating": 86
+      "rating": 85
     },
     {
-      "name": "Ronald Garcia",
+      "name": "Michael Smith",
       "position": "GK",
-      "rating": 77
-    },
-    {
-      "name": "Brian Thomas",
-      "position": "DF",
-      "rating": 60
-    },
-    {
-      "name": "Kenneth Martinez",
-      "position": "DF",
-      "rating": 62
-    },
-    {
-      "name": "Robert Rodriguez",
-      "position": "DF",
-      "rating": 69
+      "rating": 83
     },
     {
       "name": "Steven Rodriguez",
       "position": "DF",
+      "rating": 71
+    },
+    {
+      "name": "Thomas Gonzalez",
+      "position": "DF",
       "rating": 66
     },
     {
-      "name": "Paul Davis",
+      "name": "Mark Martinez",
       "position": "DF",
-      "rating": 61
+      "rating": 83
     },
     {
-      "name": "Anthony Moore",
+      "name": "Brian Thomas",
       "position": "DF",
-      "rating": 87
+      "rating": 89
     },
     {
-      "name": "James Wilson",
+      "name": "Brian Anderson",
+      "position": "DF",
+      "rating": 72
+    },
+    {
+      "name": "John Rodriguez",
+      "position": "DF",
+      "rating": 83
+    },
+    {
+      "name": "Anthony Garcia",
+      "position": "MF",
+      "rating": 66
+    },
+    {
+      "name": "Kenneth Taylor",
       "position": "MF",
       "rating": 89
     },
     {
-      "name": "Donald Thomas",
+      "name": "John Jackson",
       "position": "MF",
-      "rating": 62
+      "rating": 81
     },
     {
-      "name": "Michael Taylor",
-      "position": "MF",
-      "rating": 63
-    },
-    {
-      "name": "Brian Johnson",
-      "position": "MF",
-      "rating": 78
-    },
-    {
-      "name": "Brian Hernandez",
+      "name": "Ronald Martinez",
       "position": "MF",
       "rating": 64
     },
     {
-      "name": "Steven Thomas",
+      "name": "John Rodriguez",
       "position": "MF",
-      "rating": 70
+      "rating": 77
     },
     {
-      "name": "Edward Lopez",
-      "position": "FW",
+      "name": "Thomas Davis",
+      "position": "MF",
       "rating": 72
     },
     {
-      "name": "Robert Smith",
+      "name": "George Taylor",
       "position": "FW",
-      "rating": 63
+      "rating": 68
     },
     {
-      "name": "Edward Brown",
+      "name": "Robert Rodriguez",
       "position": "FW",
-      "rating": 70
+      "rating": 80
     },
     {
-      "name": "Donald Garcia",
+      "name": "Ronald Rodriguez",
       "position": "FW",
-      "rating": 62
+      "rating": 77
     },
     {
-      "name": "Richard Taylor",
+      "name": "Thomas Johnson",
       "position": "FW",
-      "rating": 61
+      "rating": 90
+    },
+    {
+      "name": "David Jackson",
+      "position": "FW",
+      "rating": 64
     }
   ]
 }

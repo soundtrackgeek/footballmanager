@@ -2,104 +2,104 @@
   "name": "Newcastle",
   "squad": [
     {
-      "name": "Daniel Rodriguez",
+      "name": "Daniel Wilson",
       "position": "GK",
-      "rating": 84
+      "rating": 85
     },
     {
-      "name": "William Anderson",
+      "name": "Edward Miller",
       "position": "GK",
-      "rating": 87
-    },
-    {
-      "name": "William Johnson",
-      "position": "GK",
-      "rating": 79
-    },
-    {
-      "name": "William Rodriguez",
-      "position": "DF",
-      "rating": 67
-    },
-    {
-      "name": "John Jones",
-      "position": "DF",
-      "rating": 87
-    },
-    {
-      "name": "Daniel Lopez",
-      "position": "DF",
       "rating": 68
     },
     {
-      "name": "Kenneth Hernandez",
-      "position": "DF",
-      "rating": 63
+      "name": "Donald Smith",
+      "position": "GK",
+      "rating": 81
     },
     {
       "name": "Kenneth Brown",
       "position": "DF",
-      "rating": 68
+      "rating": 90
     },
     {
-      "name": "Anthony Johnson",
+      "name": "Anthony Anderson",
       "position": "DF",
-      "rating": 66
+      "rating": 64
     },
     {
-      "name": "Robert Lopez",
-      "position": "MF",
-      "rating": 88
+      "name": "Kenneth Anderson",
+      "position": "DF",
+      "rating": 89
     },
     {
-      "name": "Brian Johnson",
-      "position": "MF",
+      "name": "Robert Garcia",
+      "position": "DF",
+      "rating": 90
+    },
+    {
+      "name": "Anthony Brown",
+      "position": "DF",
       "rating": 79
     },
     {
-      "name": "Kenneth Rodriguez",
+      "name": "William Johnson",
+      "position": "DF",
+      "rating": 75
+    },
+    {
+      "name": "Edward Martin",
+      "position": "MF",
+      "rating": 82
+    },
+    {
+      "name": "James Davis",
       "position": "MF",
       "rating": 88
     },
     {
-      "name": "Anthony Taylor",
+      "name": "James Moore",
       "position": "MF",
-      "rating": 73
+      "rating": 86
     },
     {
-      "name": "Thomas Jones",
+      "name": "Robert Garcia",
       "position": "MF",
-      "rating": 70
+      "rating": 82
     },
     {
-      "name": "Thomas Anderson",
+      "name": "Kenneth Anderson",
       "position": "MF",
+      "rating": 86
+    },
+    {
+      "name": "Michael Williams",
+      "position": "MF",
+      "rating": 84
+    },
+    {
+      "name": "William Taylor",
+      "position": "FW",
+      "rating": 85
+    },
+    {
+      "name": "Daniel Lopez",
+      "position": "FW",
       "rating": 67
     },
     {
-      "name": "Paul Wilson",
+      "name": "Anthony Hernandez",
       "position": "FW",
       "rating": 89
     },
     {
-      "name": "James Jackson",
+      "name": "Michael Jones",
       "position": "FW",
-      "rating": 71
+      "rating": 87
     },
     {
-      "name": "Michael Rodriguez",
+      "name": "Anthony Martin",
       "position": "FW",
-      "rating": 78
-    },
-    {
-      "name": "Brian Miller",
-      "position": "FW",
-      "rating": 73
-    },
-    {
-      "name": "Steven Anderson",
-      "position": "FW",
-      "rating": 90
+      "rating": 82
     }
   ]
 }

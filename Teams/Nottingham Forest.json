@@ -2,104 +2,104 @@
   "name": "Nottingham Forest",
   "squad": [
     {
-      "name": "Richard Williams",
+      "name": "Ronald Hernandez",
       "position": "GK",
-      "rating": 71
+      "rating": 78
     },
     {
-      "name": "William Smith",
+      "name": "Richard Gonzalez",
       "position": "GK",
       "rating": 64
     },
     {
-      "name": "George Garcia",
+      "name": "Anthony Brown",
       "position": "GK",
-      "rating": 68
+      "rating": 89
     },
     {
-      "name": "Donald Johnson",
-      "position": "DF",
-      "rating": 72
-    },
-    {
-      "name": "Kenneth Gonzalez",
+      "name": "David Jackson",
       "position": "DF",
       "rating": 81
     },
     {
-      "name": "Thomas Smith",
+      "name": "Thomas Garcia",
       "position": "DF",
-      "rating": 74
+      "rating": 80
     },
     {
-      "name": "Richard Taylor",
+      "name": "Anthony Garcia",
       "position": "DF",
-      "rating": 70
+      "rating": 64
     },
     {
-      "name": "Charles Martinez",
+      "name": "Steven Gonzalez",
       "position": "DF",
-      "rating": 86
+      "rating": 67
     },
     {
-      "name": "Steven Jones",
+      "name": "Donald Jones",
       "position": "DF",
-      "rating": 89
+      "rating": 82
     },
     {
-      "name": "John Davis",
+      "name": "Paul Jones",
+      "position": "DF",
+      "rating": 68
+    },
+    {
+      "name": "Paul Gonzalez",
       "position": "MF",
-      "rating": 86
+      "rating": 69
     },
     {
-      "name": "Charles Smith",
-      "position": "MF",
-      "rating": 90
-    },
-    {
-      "name": "Kenneth Martinez",
-      "position": "MF",
-      "rating": 65
-    },
-    {
-      "name": "Daniel Gonzalez",
-      "position": "MF",
-      "rating": 76
-    },
-    {
-      "name": "Donald Miller",
-      "position": "MF",
-      "rating": 72
-    },
-    {
-      "name": "David Thomas",
+      "name": "Michael Rodriguez",
       "position": "MF",
       "rating": 73
     },
     {
-      "name": "Ronald Smith",
-      "position": "FW",
-      "rating": 74
+      "name": "Richard Davis",
+      "position": "MF",
+      "rating": 84
     },
     {
-      "name": "Daniel Johnson",
-      "position": "FW",
-      "rating": 79
+      "name": "Michael Martinez",
+      "position": "MF",
+      "rating": 69
     },
     {
-      "name": "Edward Thomas",
-      "position": "FW",
-      "rating": 85
+      "name": "Edward Brown",
+      "position": "MF",
+      "rating": 69
     },
     {
-      "name": "Robert Moore",
-      "position": "FW",
-      "rating": 89
+      "name": "Ronald Martinez",
+      "position": "MF",
+      "rating": 70
     },
     {
-      "name": "Daniel Smith",
+      "name": "William Martinez",
       "position": "FW",
-      "rating": 90
+      "rating": 72
+    },
+    {
+      "name": "Richard Martin",
+      "position": "FW",
+      "rating": 82
+    },
+    {
+      "name": "David Taylor",
+      "position": "FW",
+      "rating": 88
+    },
+    {
+      "name": "Kenneth Miller",
+      "position": "FW",
+      "rating": 70
+    },
+    {
+      "name": "Ronald Taylor",
+      "position": "FW",
+      "rating": 70
     }
   ]
 }

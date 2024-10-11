@@ -2,104 +2,104 @@
   "name": "Tottenham",
   "squad": [
     {
+      "name": "Edward Smith",
+      "position": "GK",
+      "rating": 85
+    },
+    {
+      "name": "Michael Lopez",
+      "position": "GK",
+      "rating": 75
+    },
+    {
+      "name": "James Hernandez",
+      "position": "GK",
+      "rating": 76
+    },
+    {
+      "name": "Donald Miller",
+      "position": "DF",
+      "rating": 88
+    },
+    {
+      "name": "Thomas Miller",
+      "position": "DF",
+      "rating": 65
+    },
+    {
+      "name": "David Taylor",
+      "position": "DF",
+      "rating": 75
+    },
+    {
+      "name": "Brian Hernandez",
+      "position": "DF",
+      "rating": 75
+    },
+    {
       "name": "John Johnson",
-      "position": "GK",
-      "rating": 62
-    },
-    {
-      "name": "Michael Garcia",
-      "position": "GK",
-      "rating": 90
-    },
-    {
-      "name": "Kenneth Brown",
-      "position": "GK",
-      "rating": 62
-    },
-    {
-      "name": "John Jackson",
       "position": "DF",
-      "rating": 78
+      "rating": 84
     },
     {
-      "name": "George Rodriguez",
+      "name": "Mark Wilson",
       "position": "DF",
-      "rating": 78
+      "rating": 89
     },
     {
-      "name": "Paul Miller",
-      "position": "DF",
-      "rating": 77
-    },
-    {
-      "name": "George Williams",
-      "position": "DF",
+      "name": "Charles Johnson",
+      "position": "MF",
       "rating": 86
     },
     {
-      "name": "John Jackson",
-      "position": "DF",
-      "rating": 79
-    },
-    {
-      "name": "Thomas Anderson",
-      "position": "DF",
-      "rating": 61
-    },
-    {
-      "name": "Brian Lopez",
+      "name": "Mark Jones",
       "position": "MF",
-      "rating": 61
+      "rating": 86
     },
     {
-      "name": "Paul Martinez",
+      "name": "Brian Wilson",
       "position": "MF",
+      "rating": 62
+    },
+    {
+      "name": "George Miller",
+      "position": "MF",
+      "rating": 86
+    },
+    {
+      "name": "Brian Wilson",
+      "position": "MF",
+      "rating": 88
+    },
+    {
+      "name": "Paul Davis",
+      "position": "MF",
+      "rating": 89
+    },
+    {
+      "name": "Paul Thomas",
+      "position": "FW",
+      "rating": 62
+    },
+    {
+      "name": "Thomas Miller",
+      "position": "FW",
+      "rating": 90
+    },
+    {
+      "name": "Edward Brown",
+      "position": "FW",
+      "rating": 88
+    },
+    {
+      "name": "Paul Johnson",
+      "position": "FW",
+      "rating": 81
+    },
+    {
+      "name": "George Davis",
+      "position": "FW",
       "rating": 64
-    },
-    {
-      "name": "Thomas Williams",
-      "position": "MF",
-      "rating": 67
-    },
-    {
-      "name": "Kenneth Anderson",
-      "position": "MF",
-      "rating": 64
-    },
-    {
-      "name": "Richard Hernandez",
-      "position": "MF",
-      "rating": 69
-    },
-    {
-      "name": "Robert Gonzalez",
-      "position": "MF",
-      "rating": 80
-    },
-    {
-      "name": "Edward Gonzalez",
-      "position": "FW",
-      "rating": 66
-    },
-    {
-      "name": "Ronald Wilson",
-      "position": "FW",
-      "rating": 61
-    },
-    {
-      "name": "Mark Martinez",
-      "position": "FW",
-      "rating": 63
-    },
-    {
-      "name": "Robert Martin",
-      "position": "FW",
-      "rating": 87
-    },
-    {
-      "name": "Richard Johnson",
-      "position": "FW",
-      "rating": 67
     }
   ]
 }

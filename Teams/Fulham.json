@@ -2,104 +2,104 @@
   "name": "Fulham",
   "squad": [
     {
-      "name": "William Hernandez",
+      "name": "Steven Thomas",
       "position": "GK",
+      "rating": 72
+    },
+    {
+      "name": "Edward Hernandez",
+      "position": "GK",
+      "rating": 81
+    },
+    {
+      "name": "Thomas Moore",
+      "position": "GK",
+      "rating": 85
+    },
+    {
+      "name": "Paul Martin",
+      "position": "DF",
+      "rating": 81
+    },
+    {
+      "name": "Mark Williams",
+      "position": "DF",
+      "rating": 86
+    },
+    {
+      "name": "John Johnson",
+      "position": "DF",
+      "rating": 65
+    },
+    {
+      "name": "Daniel Smith",
+      "position": "DF",
+      "rating": 78
+    },
+    {
+      "name": "William Jackson",
+      "position": "DF",
       "rating": 87
     },
     {
-      "name": "Donald Jones",
-      "position": "GK",
-      "rating": 79
-    },
-    {
-      "name": "George Miller",
-      "position": "GK",
-      "rating": 69
-    },
-    {
-      "name": "Brian Anderson",
+      "name": "Edward Smith",
       "position": "DF",
-      "rating": 86
-    },
-    {
-      "name": "John Rodriguez",
-      "position": "DF",
-      "rating": 90
-    },
-    {
-      "name": "George Thomas",
-      "position": "DF",
-      "rating": 90
-    },
-    {
-      "name": "Thomas Jones",
-      "position": "DF",
-      "rating": 77
-    },
-    {
-      "name": "Donald Martinez",
-      "position": "DF",
-      "rating": 79
-    },
-    {
-      "name": "William Brown",
-      "position": "DF",
-      "rating": 86
-    },
-    {
-      "name": "Robert Gonzalez",
-      "position": "MF",
-      "rating": 90
-    },
-    {
-      "name": "Robert Anderson",
-      "position": "MF",
-      "rating": 77
-    },
-    {
-      "name": "Ronald Smith",
-      "position": "MF",
       "rating": 66
     },
     {
-      "name": "Robert Miller",
+      "name": "James Williams",
       "position": "MF",
-      "rating": 75
-    },
-    {
-      "name": "Michael Anderson",
-      "position": "MF",
-      "rating": 71
-    },
-    {
-      "name": "Brian Williams",
-      "position": "MF",
-      "rating": 64
-    },
-    {
-      "name": "William Wilson",
-      "position": "FW",
       "rating": 90
     },
     {
-      "name": "Steven Williams",
-      "position": "FW",
-      "rating": 88
-    },
-    {
-      "name": "Michael Thomas",
-      "position": "FW",
-      "rating": 69
-    },
-    {
-      "name": "Michael Davis",
-      "position": "FW",
+      "name": "Brian Garcia",
+      "position": "MF",
       "rating": 74
     },
     {
-      "name": "Ronald Johnson",
-      "position": "FW",
+      "name": "Ronald Miller",
+      "position": "MF",
+      "rating": 68
+    },
+    {
+      "name": "Robert Jones",
+      "position": "MF",
       "rating": 77
+    },
+    {
+      "name": "Daniel Johnson",
+      "position": "MF",
+      "rating": 87
+    },
+    {
+      "name": "James Lopez",
+      "position": "MF",
+      "rating": 70
+    },
+    {
+      "name": "Robert Jones",
+      "position": "FW",
+      "rating": 71
+    },
+    {
+      "name": "Edward Moore",
+      "position": "FW",
+      "rating": 61
+    },
+    {
+      "name": "Brian Johnson",
+      "position": "FW",
+      "rating": 86
+    },
+    {
+      "name": "Michael Taylor",
+      "position": "FW",
+      "rating": 67
+    },
+    {
+      "name": "Steven Lopez",
+      "position": "FW",
+      "rating": 81
     }
   ]
 }

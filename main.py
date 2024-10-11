@@ -51,6 +51,9 @@ def main():
     print("You are managing", player_team.name)
     print("AI-controlled teams will automatically select their best 11 players for each match.")
     print("You can manually select your team or let the game auto-select for you before each match.")
+    print("In match simulations, players will score goals based on their positions and ratings.")
+    print("Forwards have a higher chance of scoring, but any player can potentially score a goal.")
+    print("Goal times will be shown for each scorer.")
 
     while True:
         print(f"\nCurrent Week: {current_week}/{total_weeks}")
@@ -74,8 +77,6 @@ def main():
                 if not player_team.selected_players:
                     print("You haven't selected your team. The game will auto-select for you.")
                 current_week = play_week(fixtures, table, current_week, player_team)
-                print("\nWeek completed. Updated table:")
-                table.display()
             else:
                 print("\nThe season has ended. No more games to play.")
         elif choice == "6":

@@ -2,104 +2,104 @@
   "name": "Burnley",
   "squad": [
     {
-      "name": "Donald Smith",
+      "name": "Anthony Williams",
       "position": "GK",
-      "rating": 63
+      "rating": 83
     },
     {
-      "name": "Mark Garcia",
+      "name": "Donald Thomas",
       "position": "GK",
-      "rating": 66
+      "rating": 68
     },
     {
-      "name": "Brian Jackson",
+      "name": "Donald Rodriguez",
       "position": "GK",
       "rating": 60
     },
     {
-      "name": "Steven Miller",
-      "position": "DF",
-      "rating": 69
-    },
-    {
-      "name": "David Johnson",
-      "position": "DF",
-      "rating": 69
-    },
-    {
-      "name": "Richard Miller",
+      "name": "Michael Miller",
       "position": "DF",
       "rating": 87
     },
     {
-      "name": "Paul Johnson",
+      "name": "John Martin",
       "position": "DF",
-      "rating": 70
+      "rating": 83
     },
     {
-      "name": "Steven Jones",
+      "name": "James Martin",
       "position": "DF",
-      "rating": 72
+      "rating": 80
     },
     {
-      "name": "Mark Taylor",
+      "name": "David Wilson",
       "position": "DF",
-      "rating": 70
+      "rating": 73
     },
     {
-      "name": "John Hernandez",
+      "name": "Paul Miller",
+      "position": "DF",
+      "rating": 67
+    },
+    {
+      "name": "John Lopez",
+      "position": "DF",
+      "rating": 68
+    },
+    {
+      "name": "Kenneth Brown",
       "position": "MF",
-      "rating": 86
+      "rating": 84
     },
     {
-      "name": "Paul Johnson",
+      "name": "Brian Wilson",
       "position": "MF",
-      "rating": 76
+      "rating": 82
     },
     {
-      "name": "Richard Anderson",
+      "name": "Charles Thomas",
       "position": "MF",
-      "rating": 72
+      "rating": 78
     },
     {
-      "name": "Thomas Taylor",
+      "name": "Kenneth Gonzalez",
       "position": "MF",
-      "rating": 90
+      "rating": 79
     },
     {
-      "name": "Steven Taylor",
+      "name": "William Davis",
       "position": "MF",
-      "rating": 89
+      "rating": 73
     },
     {
-      "name": "Mark Taylor",
+      "name": "David Taylor",
       "position": "MF",
-      "rating": 64
+      "rating": 77
     },
     {
-      "name": "David Martin",
+      "name": "William Rodriguez",
       "position": "FW",
-      "rating": 75
+      "rating": 71
     },
     {
-      "name": "Anthony Anderson",
+      "name": "Brian Smith",
       "position": "FW",
-      "rating": 89
+      "rating": 73
     },
     {
-      "name": "Michael Martinez",
+      "name": "Richard Lopez",
       "position": "FW",
-      "rating": 69
+      "rating": 65
     },
     {
-      "name": "Charles Hernandez",
+      "name": "Brian Wilson",
       "position": "FW",
-      "rating": 62
+      "rating": 82
     },
     {
-      "name": "Robert Hernandez",
+      "name": "Paul Jones",
       "position": "FW",
-      "rating": 86
+      "rating": 67
     }
   ]
 }
