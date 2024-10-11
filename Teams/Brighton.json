@@ -2,104 +2,104 @@
   "name": "Brighton",
   "squad": [
     {
-      "name": "Anthony Johnson",
+      "name": "Michael Jones",
       "position": "GK",
-      "rating": 72
-    },
-    {
-      "name": "Donald Brown",
-      "position": "GK",
-      "rating": 60
-    },
-    {
-      "name": "Daniel Wilson",
-      "position": "GK",
-      "rating": 76
-    },
-    {
-      "name": "David Lopez",
-      "position": "DF",
-      "rating": 60
-    },
-    {
-      "name": "David Williams",
-      "position": "DF",
-      "rating": 80
-    },
-    {
-      "name": "Charles Gonzalez",
-      "position": "DF",
-      "rating": 69
-    },
-    {
-      "name": "William Martin",
-      "position": "DF",
-      "rating": 68
-    },
-    {
-      "name": "Edward Anderson",
-      "position": "DF",
-      "rating": 68
-    },
-    {
-      "name": "Mark Wilson",
-      "position": "DF",
-      "rating": 63
-    },
-    {
-      "name": "Donald Moore",
-      "position": "MF",
-      "rating": 69
-    },
-    {
-      "name": "William Moore",
-      "position": "MF",
-      "rating": 69
-    },
-    {
-      "name": "Mark Brown",
-      "position": "MF",
       "rating": 78
     },
     {
-      "name": "Steven Miller",
-      "position": "MF",
-      "rating": 70
+      "name": "David Johnson",
+      "position": "GK",
+      "rating": 73
     },
     {
-      "name": "David Brown",
+      "name": "Thomas Rodriguez",
+      "position": "GK",
+      "rating": 78
+    },
+    {
+      "name": "Daniel Brown",
+      "position": "DF",
+      "rating": 87
+    },
+    {
+      "name": "James Garcia",
+      "position": "DF",
+      "rating": 64
+    },
+    {
+      "name": "William Rodriguez",
+      "position": "DF",
+      "rating": 89
+    },
+    {
+      "name": "Donald Taylor",
+      "position": "DF",
+      "rating": 82
+    },
+    {
+      "name": "Anthony Rodriguez",
+      "position": "DF",
+      "rating": 73
+    },
+    {
+      "name": "Michael Thomas",
+      "position": "DF",
+      "rating": 87
+    },
+    {
+      "name": "John Johnson",
+      "position": "MF",
+      "rating": 86
+    },
+    {
+      "name": "Daniel Taylor",
+      "position": "MF",
+      "rating": 69
+    },
+    {
+      "name": "George Johnson",
+      "position": "MF",
+      "rating": 75
+    },
+    {
+      "name": "Edward Williams",
+      "position": "MF",
+      "rating": 64
+    },
+    {
+      "name": "Mark Thomas",
+      "position": "MF",
+      "rating": 82
+    },
+    {
+      "name": "Mark Martinez",
       "position": "MF",
       "rating": 67
     },
     {
-      "name": "Brian Taylor",
-      "position": "MF",
-      "rating": 68
+      "name": "Steven Thomas",
+      "position": "FW",
+      "rating": 77
     },
     {
-      "name": "Edward Jackson",
+      "name": "Thomas Smith",
       "position": "FW",
-      "rating": 90
+      "rating": 73
+    },
+    {
+      "name": "Charles Davis",
+      "position": "FW",
+      "rating": 67
+    },
+    {
+      "name": "John Jones",
+      "position": "FW",
+      "rating": 85
     },
     {
       "name": "William Thomas",
       "position": "FW",
-      "rating": 84
-    },
-    {
-      "name": "Daniel Brown",
-      "position": "FW",
-      "rating": 72
-    },
-    {
-      "name": "Michael Garcia",
-      "position": "FW",
-      "rating": 81
-    },
-    {
-      "name": "Mark Jackson",
-      "position": "FW",
-      "rating": 66
+      "rating": 69
     }
   ]
 }

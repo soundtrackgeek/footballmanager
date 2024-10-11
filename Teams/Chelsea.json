@@ -2,104 +2,104 @@
   "name": "Chelsea",
   "squad": [
     {
-      "name": "Charles Garcia",
+      "name": "Ronald Gonzalez",
       "position": "GK",
-      "rating": 62
+      "rating": 68
     },
     {
-      "name": "John Thomas",
+      "name": "William Rodriguez",
       "position": "GK",
-      "rating": 80
-    },
-    {
-      "name": "Thomas Brown",
-      "position": "GK",
-      "rating": 81
-    },
-    {
-      "name": "Ronald Williams",
-      "position": "DF",
-      "rating": 62
-    },
-    {
-      "name": "Daniel Rodriguez",
-      "position": "DF",
-      "rating": 70
-    },
-    {
-      "name": "Michael Miller",
-      "position": "DF",
       "rating": 71
     },
     {
-      "name": "Brian Jones",
+      "name": "Steven Jackson",
+      "position": "GK",
+      "rating": 70
+    },
+    {
+      "name": "Brian Garcia",
       "position": "DF",
-      "rating": 69
+      "rating": 75
+    },
+    {
+      "name": "Daniel Garcia",
+      "position": "DF",
+      "rating": 60
     },
     {
       "name": "Kenneth Jackson",
       "position": "DF",
-      "rating": 83
+      "rating": 71
     },
     {
-      "name": "Thomas Smith",
+      "name": "Robert Brown",
       "position": "DF",
-      "rating": 76
+      "rating": 63
     },
     {
-      "name": "John Davis",
-      "position": "MF",
-      "rating": 80
-    },
-    {
-      "name": "Richard Hernandez",
-      "position": "MF",
-      "rating": 75
+      "name": "Thomas Wilson",
+      "position": "DF",
+      "rating": 60
     },
     {
       "name": "Edward Gonzalez",
-      "position": "MF",
-      "rating": 65
+      "position": "DF",
+      "rating": 89
     },
     {
-      "name": "Thomas Williams",
+      "name": "Steven Jones",
       "position": "MF",
-      "rating": 77
+      "rating": 86
     },
     {
-      "name": "Steven Taylor",
-      "position": "MF",
-      "rating": 83
-    },
-    {
-      "name": "Paul Martinez",
+      "name": "James Davis",
       "position": "MF",
       "rating": 64
     },
     {
-      "name": "Robert Jackson",
-      "position": "FW",
-      "rating": 60
+      "name": "Edward Taylor",
+      "position": "MF",
+      "rating": 73
     },
     {
-      "name": "William Brown",
-      "position": "FW",
-      "rating": 88
+      "name": "David Brown",
+      "position": "MF",
+      "rating": 66
     },
     {
-      "name": "Paul Garcia",
+      "name": "Edward Martinez",
+      "position": "MF",
+      "rating": 75
+    },
+    {
+      "name": "Michael Rodriguez",
+      "position": "MF",
+      "rating": 83
+    },
+    {
+      "name": "Michael Brown",
+      "position": "FW",
+      "rating": 86
+    },
+    {
+      "name": "Ronald Miller",
+      "position": "FW",
+      "rating": 72
+    },
+    {
+      "name": "Ronald Martinez",
+      "position": "FW",
+      "rating": 82
+    },
+    {
+      "name": "Steven Taylor",
       "position": "FW",
       "rating": 85
     },
     {
-      "name": "Paul Wilson",
+      "name": "Robert Anderson",
       "position": "FW",
-      "rating": 74
-    },
-    {
-      "name": "William Johnson",
-      "position": "FW",
-      "rating": 66
+      "rating": 61
     }
   ]
 }

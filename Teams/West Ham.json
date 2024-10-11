@@ -2,104 +2,104 @@
   "name": "West Ham",
   "squad": [
     {
-      "name": "James Wilson",
-      "position": "GK",
-      "rating": 76
-    },
-    {
-      "name": "Robert Gonzalez",
+      "name": "Charles Johnson",
       "position": "GK",
       "rating": 83
     },
     {
-      "name": "Thomas Martinez",
+      "name": "Kenneth Gonzalez",
       "position": "GK",
-      "rating": 65
+      "rating": 64
     },
     {
-      "name": "Steven Garcia",
+      "name": "Ronald Taylor",
+      "position": "GK",
+      "rating": 85
+    },
+    {
+      "name": "Thomas Miller",
+      "position": "DF",
+      "rating": 67
+    },
+    {
+      "name": "Donald Hernandez",
+      "position": "DF",
+      "rating": 81
+    },
+    {
+      "name": "Thomas Davis",
+      "position": "DF",
+      "rating": 88
+    },
+    {
+      "name": "David Davis",
       "position": "DF",
       "rating": 78
     },
     {
-      "name": "Robert Wilson",
+      "name": "Robert Gonzalez",
       "position": "DF",
-      "rating": 69
+      "rating": 85
     },
     {
-      "name": "Charles Hernandez",
+      "name": "Paul Jones",
       "position": "DF",
+      "rating": 81
+    },
+    {
+      "name": "Anthony Anderson",
+      "position": "MF",
       "rating": 61
     },
     {
-      "name": "Kenneth Wilson",
-      "position": "DF",
-      "rating": 87
-    },
-    {
-      "name": "Robert Wilson",
-      "position": "DF",
-      "rating": 69
-    },
-    {
-      "name": "Charles Hernandez",
-      "position": "DF",
-      "rating": 84
-    },
-    {
-      "name": "John Jackson",
+      "name": "Ronald Garcia",
       "position": "MF",
-      "rating": 76
+      "rating": 83
     },
     {
-      "name": "Richard Garcia",
-      "position": "MF",
-      "rating": 76
-    },
-    {
-      "name": "Ronald Brown",
+      "name": "Brian Smith",
       "position": "MF",
       "rating": 66
     },
     {
-      "name": "Thomas Johnson",
+      "name": "Anthony Wilson",
       "position": "MF",
-      "rating": 71
+      "rating": 85
     },
     {
-      "name": "Mark Martinez",
+      "name": "Ronald Smith",
       "position": "MF",
-      "rating": 67
+      "rating": 68
     },
     {
-      "name": "Paul Hernandez",
+      "name": "Robert Brown",
       "position": "MF",
-      "rating": 71
+      "rating": 86
     },
     {
-      "name": "Brian Jackson",
+      "name": "William Lopez",
       "position": "FW",
-      "rating": 67
+      "rating": 79
     },
     {
-      "name": "Paul Wilson",
+      "name": "Mark Johnson",
       "position": "FW",
-      "rating": 81
+      "rating": 82
     },
     {
-      "name": "Paul Martinez",
-      "position": "FW",
-      "rating": 77
-    },
-    {
-      "name": "Kenneth Brown",
+      "name": "John Anderson",
       "position": "FW",
       "rating": 71
     },
     {
-      "name": "Ronald Jones",
+      "name": "Kenneth Martinez",
       "position": "FW",
-      "rating": 69
+      "rating": 86
+    },
+    {
+      "name": "Ronald Wilson",
+      "position": "FW",
+      "rating": 84
     }
   ]
 }

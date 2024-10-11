@@ -1,4 +1,4 @@
-from team_management import create_teams, choose_team
+from team_management import create_teams, choose_team, display_squad, select_team
 from fixtures import generate_fixture_list, save_fixture_list, get_current_week_fixtures, load_fixture_list
 from table import create_table
 from game_simulation import play_week, simulate_season
@@ -13,6 +13,27 @@ def display_menu():
     print("6. Table")
     print("7. Simulate Season")
     print("0. Exit")
+
+def display_team_menu():
+    print("\nTeam Menu:")
+    print("1. View Team")
+    print("2. Select Team")
+    print("0. Back to Main Menu")
+
+def team_menu(player_team):
+    while True:
+        display_team_menu()
+        choice = input("Enter your choice: ")
+
+        if choice == "1":
+            display_squad(player_team)
+        elif choice == "2":
+            team_rating = select_team(player_team)
+            print(f"Team rating: {team_rating:.2f}")
+        elif choice == "0":
+            break
+        else:
+            print("Invalid choice. Please try again.")
 
 def main():
     teams = create_teams()
@@ -32,10 +53,7 @@ def main():
         choice = input("Enter your choice: ")
 
         if choice == "1":
-            print(f"\nYour Team: {player_team.name}")
-            print("Squad:")
-            for player in player_team.squad:
-                print(f"{player.name} - {player.position} - Rating: {player.rating}")
+            team_menu(player_team)
         elif choice == "2":
             print("\nTactics feature not implemented yet.")
         elif choice == "3":
@@ -48,7 +66,10 @@ def main():
         elif choice == "5":
             if current_week <= total_weeks:
                 print(f"\nSimulating Week {current_week}")
-                current_week = play_week(fixtures, table, current_week)
+                if not player_team.selected_players:
+                    print("Please select your team first.")
+                    team_rating = select_team(player_team)
+                current_week = play_week(fixtures, table, current_week, player_team)
                 print("\nWeek completed. Updated table:")
                 table.display()
             else:
@@ -58,7 +79,10 @@ def main():
         elif choice == "7":
             confirm = input(f"Are you sure you want to simulate the remaining {total_weeks - current_week + 1} weeks of the season? (y/n): ")
             if confirm.lower() == 'y':
-                simulate_season(fixtures, table, current_week)
+                if not player_team.selected_players:
+                    print("Please select your team first.")
+                    team_rating = select_team(player_team)
+                simulate_season(fixtures, table, current_week, player_team)
                 current_week = total_weeks + 1
             else:
                 print("Season simulation cancelled.")

@@ -2,104 +2,104 @@
   "name": "Burnley",
   "squad": [
     {
-      "name": "Donald Miller",
+      "name": "Paul Miller",
       "position": "GK",
-      "rating": 80
-    },
-    {
-      "name": "William Gonzalez",
-      "position": "GK",
-      "rating": 79
-    },
-    {
-      "name": "James Taylor",
-      "position": "GK",
-      "rating": 66
+      "rating": 72
     },
     {
       "name": "Donald Gonzalez",
-      "position": "DF",
-      "rating": 78
-    },
-    {
-      "name": "John Hernandez",
-      "position": "DF",
-      "rating": 70
-    },
-    {
-      "name": "Daniel Brown",
-      "position": "DF",
-      "rating": 75
-    },
-    {
-      "name": "Ronald Taylor",
-      "position": "DF",
+      "position": "GK",
       "rating": 83
     },
     {
-      "name": "Ronald Hernandez",
-      "position": "DF",
-      "rating": 74
+      "name": "Donald Williams",
+      "position": "GK",
+      "rating": 64
     },
     {
-      "name": "Thomas Jones",
+      "name": "Mark Thomas",
       "position": "DF",
-      "rating": 90
+      "rating": 81
     },
     {
-      "name": "George Martinez",
-      "position": "MF",
+      "name": "Robert Davis",
+      "position": "DF",
       "rating": 84
     },
     {
       "name": "John Smith",
-      "position": "MF",
-      "rating": 64
+      "position": "DF",
+      "rating": 75
     },
     {
-      "name": "Brian Miller",
-      "position": "MF",
-      "rating": 76
+      "name": "Daniel Martinez",
+      "position": "DF",
+      "rating": 62
     },
     {
-      "name": "Edward Wilson",
-      "position": "MF",
-      "rating": 76
+      "name": "Richard Martinez",
+      "position": "DF",
+      "rating": 84
     },
     {
-      "name": "Anthony Garcia",
-      "position": "MF",
-      "rating": 68
+      "name": "William Miller",
+      "position": "DF",
+      "rating": 84
     },
     {
-      "name": "Ronald Martin",
+      "name": "Paul Jackson",
       "position": "MF",
       "rating": 62
     },
     {
-      "name": "Edward Martinez",
-      "position": "FW",
-      "rating": 88
+      "name": "Robert Moore",
+      "position": "MF",
+      "rating": 61
     },
     {
-      "name": "Richard Jones",
-      "position": "FW",
-      "rating": 84
+      "name": "Robert Thomas",
+      "position": "MF",
+      "rating": 85
     },
     {
-      "name": "Thomas Martin",
-      "position": "FW",
-      "rating": 64
+      "name": "David Wilson",
+      "position": "MF",
+      "rating": 63
     },
     {
-      "name": "John Davis",
+      "name": "Thomas Taylor",
+      "position": "MF",
+      "rating": 74
+    },
+    {
+      "name": "John Jackson",
+      "position": "MF",
+      "rating": 61
+    },
+    {
+      "name": "Michael Taylor",
       "position": "FW",
       "rating": 76
     },
     {
-      "name": "Edward Martinez",
+      "name": "Brian Johnson",
       "position": "FW",
-      "rating": 74
+      "rating": 61
+    },
+    {
+      "name": "Michael Wilson",
+      "position": "FW",
+      "rating": 69
+    },
+    {
+      "name": "Donald Martinez",
+      "position": "FW",
+      "rating": 73
+    },
+    {
+      "name": "John Gonzalez",
+      "position": "FW",
+      "rating": 81
     }
   ]
 }

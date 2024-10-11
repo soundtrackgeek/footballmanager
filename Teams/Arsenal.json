@@ -2,104 +2,104 @@
   "name": "Arsenal",
   "squad": [
     {
-      "name": "Anthony Rodriguez",
+      "name": "Ronald Brown",
       "position": "GK",
-      "rating": 90
+      "rating": 68
     },
     {
-      "name": "Michael Miller",
+      "name": "Robert Smith",
       "position": "GK",
-      "rating": 69
+      "rating": 77
     },
     {
-      "name": "John Smith",
+      "name": "Edward Taylor",
       "position": "GK",
-      "rating": 79
+      "rating": 70
     },
     {
-      "name": "David Johnson",
+      "name": "Brian Moore",
+      "position": "DF",
+      "rating": 88
+    },
+    {
+      "name": "George Brown",
+      "position": "DF",
+      "rating": 87
+    },
+    {
+      "name": "Ronald Miller",
+      "position": "DF",
+      "rating": 66
+    },
+    {
+      "name": "James Gonzalez",
       "position": "DF",
       "rating": 64
     },
     {
-      "name": "Donald Gonzalez",
-      "position": "DF",
-      "rating": 86
-    },
-    {
-      "name": "Donald Williams",
-      "position": "DF",
-      "rating": 73
-    },
-    {
-      "name": "Ronald Thomas",
+      "name": "Richard Gonzalez",
       "position": "DF",
       "rating": 76
     },
     {
-      "name": "Kenneth Jones",
+      "name": "Richard Taylor",
       "position": "DF",
-      "rating": 61
+      "rating": 70
     },
     {
-      "name": "William Martin",
-      "position": "DF",
-      "rating": 75
-    },
-    {
-      "name": "Ronald Gonzalez",
+      "name": "John Taylor",
       "position": "MF",
-      "rating": 86
+      "rating": 63
     },
     {
-      "name": "James Gonzalez",
+      "name": "Steven Williams",
       "position": "MF",
-      "rating": 83
-    },
-    {
-      "name": "William Wilson",
-      "position": "MF",
-      "rating": 89
-    },
-    {
-      "name": "Michael Brown",
-      "position": "MF",
-      "rating": 60
-    },
-    {
-      "name": "Ronald Williams",
-      "position": "MF",
-      "rating": 61
-    },
-    {
-      "name": "George Rodriguez",
-      "position": "MF",
-      "rating": 79
-    },
-    {
-      "name": "Paul Williams",
-      "position": "FW",
-      "rating": 61
-    },
-    {
-      "name": "Ronald Gonzalez",
-      "position": "FW",
-      "rating": 77
-    },
-    {
-      "name": "Kenneth Martin",
-      "position": "FW",
-      "rating": 82
-    },
-    {
-      "name": "Donald Johnson",
-      "position": "FW",
       "rating": 78
     },
     {
-      "name": "James Johnson",
+      "name": "Kenneth Martin",
+      "position": "MF",
+      "rating": 77
+    },
+    {
+      "name": "James Taylor",
+      "position": "MF",
+      "rating": 81
+    },
+    {
+      "name": "Richard Johnson",
+      "position": "MF",
+      "rating": 63
+    },
+    {
+      "name": "Michael Jones",
+      "position": "MF",
+      "rating": 62
+    },
+    {
+      "name": "Anthony Thomas",
       "position": "FW",
-      "rating": 86
+      "rating": 76
+    },
+    {
+      "name": "Paul Hernandez",
+      "position": "FW",
+      "rating": 64
+    },
+    {
+      "name": "Anthony Jones",
+      "position": "FW",
+      "rating": 79
+    },
+    {
+      "name": "John Smith",
+      "position": "FW",
+      "rating": 68
+    },
+    {
+      "name": "Brian Jackson",
+      "position": "FW",
+      "rating": 65
     }
   ]
 }

@@ -2,104 +2,104 @@
   "name": "Liverpool",
   "squad": [
     {
-      "name": "James Lopez",
-      "position": "GK",
-      "rating": 72
-    },
-    {
-      "name": "George Hernandez",
-      "position": "GK",
-      "rating": 81
-    },
-    {
-      "name": "Mark Johnson",
-      "position": "GK",
-      "rating": 60
-    },
-    {
-      "name": "Ronald Gonzalez",
-      "position": "DF",
-      "rating": 79
-    },
-    {
       "name": "Donald Taylor",
-      "position": "DF",
-      "rating": 84
+      "position": "GK",
+      "rating": 69
     },
     {
-      "name": "Brian Davis",
-      "position": "DF",
-      "rating": 82
+      "name": "Richard Miller",
+      "position": "GK",
+      "rating": 74
     },
     {
-      "name": "Charles Moore",
+      "name": "Steven Williams",
+      "position": "GK",
+      "rating": 68
+    },
+    {
+      "name": "Kenneth Jones",
       "position": "DF",
       "rating": 83
     },
     {
-      "name": "Robert Martin",
+      "name": "Daniel Taylor",
       "position": "DF",
-      "rating": 83
+      "rating": 69
     },
     {
-      "name": "Donald Rodriguez",
+      "name": "James Anderson",
       "position": "DF",
-      "rating": 86
+      "rating": 65
     },
     {
-      "name": "Steven Moore",
+      "name": "John Williams",
+      "position": "DF",
+      "rating": 66
+    },
+    {
+      "name": "Daniel Davis",
+      "position": "DF",
+      "rating": 69
+    },
+    {
+      "name": "Kenneth Hernandez",
+      "position": "DF",
+      "rating": 88
+    },
+    {
+      "name": "Robert Taylor",
       "position": "MF",
-      "rating": 77
+      "rating": 64
     },
     {
-      "name": "Steven Anderson",
+      "name": "James Brown",
       "position": "MF",
       "rating": 73
     },
     {
-      "name": "Mark Lopez",
+      "name": "Donald Anderson",
       "position": "MF",
-      "rating": 89
+      "rating": 86
     },
     {
-      "name": "Charles Brown",
+      "name": "David Smith",
       "position": "MF",
-      "rating": 66
+      "rating": 71
     },
     {
-      "name": "Anthony Hernandez",
+      "name": "Daniel Lopez",
       "position": "MF",
-      "rating": 83
+      "rating": 88
     },
     {
-      "name": "Brian Jackson",
+      "name": "Robert Martin",
       "position": "MF",
-      "rating": 79
+      "rating": 84
     },
     {
-      "name": "Richard Williams",
+      "name": "Steven Garcia",
       "position": "FW",
-      "rating": 83
+      "rating": 77
     },
     {
-      "name": "William Lopez",
+      "name": "John Martin",
       "position": "FW",
-      "rating": 80
+      "rating": 86
     },
     {
-      "name": "Brian Smith",
+      "name": "Donald Davis",
       "position": "FW",
-      "rating": 62
+      "rating": 68
     },
     {
-      "name": "Steven Thomas",
+      "name": "Thomas Lopez",
       "position": "FW",
-      "rating": 83
+      "rating": 85
     },
     {
-      "name": "David Martin",
+      "name": "James Thomas",
       "position": "FW",
-      "rating": 65
+      "rating": 81
     }
   ]
 }

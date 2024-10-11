@@ -2,104 +2,104 @@
   "name": "Sheffield United",
   "squad": [
     {
-      "name": "Ronald Jones",
+      "name": "Edward Davis",
       "position": "GK",
       "rating": 68
     },
     {
-      "name": "Michael Hernandez",
+      "name": "Kenneth Rodriguez",
       "position": "GK",
-      "rating": 69
+      "rating": 64
     },
     {
-      "name": "Daniel Jackson",
+      "name": "Anthony Miller",
       "position": "GK",
-      "rating": 61
+      "rating": 82
     },
     {
-      "name": "Michael Brown",
+      "name": "David Davis",
       "position": "DF",
-      "rating": 63
+      "rating": 67
     },
     {
-      "name": "Anthony Martin",
+      "name": "Mark Taylor",
       "position": "DF",
       "rating": 66
     },
     {
-      "name": "David Hernandez",
+      "name": "Charles Garcia",
       "position": "DF",
-      "rating": 76
+      "rating": 72
     },
     {
-      "name": "Michael Rodriguez",
-      "position": "DF",
-      "rating": 79
-    },
-    {
-      "name": "Michael Brown",
-      "position": "DF",
-      "rating": 85
-    },
-    {
-      "name": "George Smith",
+      "name": "David Taylor",
       "position": "DF",
       "rating": 71
     },
     {
-      "name": "Edward Williams",
-      "position": "MF",
-      "rating": 82
+      "name": "Brian Garcia",
+      "position": "DF",
+      "rating": 86
     },
     {
-      "name": "David Johnson",
-      "position": "MF",
+      "name": "David Taylor",
+      "position": "DF",
       "rating": 85
     },
     {
-      "name": "Anthony Garcia",
+      "name": "Steven Smith",
       "position": "MF",
-      "rating": 63
+      "rating": 71
     },
     {
-      "name": "Mark Garcia",
+      "name": "Richard Martin",
       "position": "MF",
-      "rating": 78
+      "rating": 79
     },
     {
-      "name": "Ronald Thomas",
+      "name": "Anthony Martinez",
       "position": "MF",
-      "rating": 85
-    },
-    {
-      "name": "Michael Williams",
-      "position": "MF",
-      "rating": 81
-    },
-    {
-      "name": "David Garcia",
-      "position": "FW",
       "rating": 89
     },
     {
-      "name": "Steven Brown",
-      "position": "FW",
-      "rating": 70
+      "name": "William Davis",
+      "position": "MF",
+      "rating": 86
     },
     {
-      "name": "David Lopez",
+      "name": "Paul Brown",
+      "position": "MF",
+      "rating": 60
+    },
+    {
+      "name": "George Jones",
+      "position": "MF",
+      "rating": 86
+    },
+    {
+      "name": "Kenneth Hernandez",
+      "position": "FW",
+      "rating": 62
+    },
+    {
+      "name": "John Brown",
       "position": "FW",
       "rating": 86
     },
     {
-      "name": "James Hernandez",
+      "name": "Edward Taylor",
       "position": "FW",
-      "rating": 89
+      "rating": 67
     },
     {
-      "name": "Kenneth Davis",
+      "name": "Kenneth Williams",
       "position": "FW",
-      "rating": 79
+      "rating": 66
+    },
+    {
+      "name": "Brian Williams",
+      "position": "FW",
+      "rating": 77
     }
   ]
 }

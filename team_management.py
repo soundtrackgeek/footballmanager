@@ -12,9 +12,15 @@ class Team:
     def __init__(self, name):
         self.name = name
         self.squad = []
+        self.selected_players = []
 
     def add_player(self, player):
         self.squad.append(player)
+
+    def calculate_team_rating(self):
+        if not self.selected_players:
+            return 0
+        return sum(player.rating for player in self.selected_players) / len(self.selected_players)
 
 def create_teams():
     team_names = [
@@ -75,3 +81,44 @@ def choose_team(teams):
                 print("Invalid choice. Please try again.")
         except ValueError:
             print("Please enter a valid number.")
+
+def display_squad(team):
+    print(f"\n{team.name} Squad:")
+    for i, player in enumerate(team.squad, 1):
+        print(f"{i}. {player.name} - {player.position} - Rating: {player.rating}")
+
+def select_team(team):
+    required_positions = {"GK": 1, "DF": 4, "MF": 4, "FW": 2}
+    selected_players = []
+
+    print(f"\nSelect 11 players for {team.name}:")
+    
+    for position, count in required_positions.items():
+        print(f"\nSelect {count} {position}(s):")
+        available_players = [p for p in team.squad if p.position == position and p not in selected_players]
+        
+        for _ in range(count):
+            display_squad = [p for p in available_players if p not in selected_players]
+            for i, player in enumerate(display_squad, 1):
+                print(f"{i}. {player.name} - Rating: {player.rating}")
+            
+            while True:
+                try:
+                    choice = int(input(f"Select player {len(selected_players) + 1}: ")) - 1
+                    if 0 <= choice < len(display_squad):
+                        selected_players.append(display_squad[choice])
+                        break
+                    else:
+                        print("Invalid choice. Please try again.")
+                except ValueError:
+                    print("Please enter a valid number.")
+
+    team.selected_players = selected_players
+    print("\nSelected Team:")
+    for player in team.selected_players:
+        print(f"{player.name} - {player.position} - Rating: {player.rating}")
+    
+    team_rating = team.calculate_team_rating()
+    print(f"\nTeam Rating: {team_rating:.2f}")
+
+    return team_rating

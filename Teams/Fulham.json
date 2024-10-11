@@ -2,104 +2,104 @@
   "name": "Fulham",
   "squad": [
     {
-      "name": "Kenneth Moore",
+      "name": "Anthony Jones",
       "position": "GK",
-      "rating": 74
+      "rating": 75
     },
     {
-      "name": "Kenneth Anderson",
+      "name": "William Anderson",
       "position": "GK",
-      "rating": 87
+      "rating": 71
     },
     {
-      "name": "Edward Lopez",
+      "name": "Anthony Wilson",
       "position": "GK",
-      "rating": 88
-    },
-    {
-      "name": "Brian Hernandez",
-      "position": "DF",
-      "rating": 87
-    },
-    {
-      "name": "John Brown",
-      "position": "DF",
-      "rating": 81
-    },
-    {
-      "name": "Daniel Wilson",
-      "position": "DF",
       "rating": 85
-    },
-    {
-      "name": "David Hernandez",
-      "position": "DF",
-      "rating": 76
     },
     {
       "name": "Charles Jones",
       "position": "DF",
-      "rating": 87
-    },
-    {
-      "name": "Edward Thomas",
-      "position": "DF",
-      "rating": 72
-    },
-    {
-      "name": "John Moore",
-      "position": "MF",
-      "rating": 84
-    },
-    {
-      "name": "Steven Jackson",
-      "position": "MF",
-      "rating": 80
-    },
-    {
-      "name": "Brian Moore",
-      "position": "MF",
-      "rating": 80
-    },
-    {
-      "name": "Steven Brown",
-      "position": "MF",
-      "rating": 85
-    },
-    {
-      "name": "Charles Anderson",
-      "position": "MF",
-      "rating": 67
-    },
-    {
-      "name": "Ronald Rodriguez",
-      "position": "MF",
-      "rating": 85
-    },
-    {
-      "name": "Steven Jackson",
-      "position": "FW",
-      "rating": 71
-    },
-    {
-      "name": "Edward Brown",
-      "position": "FW",
-      "rating": 86
-    },
-    {
-      "name": "David Williams",
-      "position": "FW",
-      "rating": 86
-    },
-    {
-      "name": "Kenneth Brown",
-      "position": "FW",
       "rating": 70
     },
     {
-      "name": "Brian Smith",
+      "name": "Ronald Taylor",
+      "position": "DF",
+      "rating": 62
+    },
+    {
+      "name": "Richard Gonzalez",
+      "position": "DF",
+      "rating": 88
+    },
+    {
+      "name": "Edward Lopez",
+      "position": "DF",
+      "rating": 86
+    },
+    {
+      "name": "David Lopez",
+      "position": "DF",
+      "rating": 82
+    },
+    {
+      "name": "Daniel Martin",
+      "position": "DF",
+      "rating": 78
+    },
+    {
+      "name": "Charles Jones",
+      "position": "MF",
+      "rating": 82
+    },
+    {
+      "name": "Richard Martin",
+      "position": "MF",
+      "rating": 61
+    },
+    {
+      "name": "John Martinez",
+      "position": "MF",
+      "rating": 77
+    },
+    {
+      "name": "John Brown",
+      "position": "MF",
+      "rating": 70
+    },
+    {
+      "name": "Paul Jones",
+      "position": "MF",
+      "rating": 89
+    },
+    {
+      "name": "William Jones",
+      "position": "MF",
+      "rating": 72
+    },
+    {
+      "name": "George Wilson",
+      "position": "FW",
+      "rating": 89
+    },
+    {
+      "name": "John Wilson",
       "position": "FW",
       "rating": 66
+    },
+    {
+      "name": "George Jones",
+      "position": "FW",
+      "rating": 73
+    },
+    {
+      "name": "Anthony Brown",
+      "position": "FW",
+      "rating": 60
+    },
+    {
+      "name": "John Taylor",
+      "position": "FW",
+      "rating": 89
     }
   ]
 }

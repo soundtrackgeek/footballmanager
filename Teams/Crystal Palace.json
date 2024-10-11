@@ -2,104 +2,104 @@
   "name": "Crystal Palace",
   "squad": [
     {
-      "name": "Donald Hernandez",
+      "name": "Richard Wilson",
       "position": "GK",
-      "rating": 89
+      "rating": 81
     },
     {
-      "name": "George Martin",
+      "name": "Donald Garcia",
       "position": "GK",
-      "rating": 90
-    },
-    {
-      "name": "David Brown",
-      "position": "GK",
-      "rating": 73
-    },
-    {
-      "name": "William Rodriguez",
-      "position": "DF",
-      "rating": 73
-    },
-    {
-      "name": "Ronald Taylor",
-      "position": "DF",
-      "rating": 79
-    },
-    {
-      "name": "Richard Williams",
-      "position": "DF",
-      "rating": 71
-    },
-    {
-      "name": "Ronald Smith",
-      "position": "DF",
-      "rating": 75
-    },
-    {
-      "name": "Michael Martinez",
-      "position": "DF",
-      "rating": 79
-    },
-    {
-      "name": "Edward Wilson",
-      "position": "DF",
-      "rating": 62
-    },
-    {
-      "name": "Ronald Wilson",
-      "position": "MF",
-      "rating": 76
-    },
-    {
-      "name": "Paul Miller",
-      "position": "MF",
-      "rating": 66
-    },
-    {
-      "name": "Paul Anderson",
-      "position": "MF",
-      "rating": 90
-    },
-    {
-      "name": "George Brown",
-      "position": "MF",
-      "rating": 89
-    },
-    {
-      "name": "Kenneth Williams",
-      "position": "MF",
-      "rating": 78
-    },
-    {
-      "name": "Anthony Brown",
-      "position": "MF",
       "rating": 77
     },
     {
-      "name": "Robert Smith",
-      "position": "FW",
-      "rating": 76
+      "name": "John Jones",
+      "position": "GK",
+      "rating": 72
     },
     {
-      "name": "William Smith",
-      "position": "FW",
-      "rating": 66
+      "name": "James Anderson",
+      "position": "DF",
+      "rating": 60
     },
     {
-      "name": "Thomas Smith",
-      "position": "FW",
-      "rating": 66
+      "name": "Michael Wilson",
+      "position": "DF",
+      "rating": 82
     },
     {
-      "name": "Donald Martin",
-      "position": "FW",
-      "rating": 83
+      "name": "Brian Johnson",
+      "position": "DF",
+      "rating": 84
     },
     {
-      "name": "Charles Davis",
+      "name": "Michael Rodriguez",
+      "position": "DF",
+      "rating": 84
+    },
+    {
+      "name": "Robert Taylor",
+      "position": "DF",
+      "rating": 67
+    },
+    {
+      "name": "William Anderson",
+      "position": "DF",
+      "rating": 89
+    },
+    {
+      "name": "Kenneth Taylor",
+      "position": "MF",
+      "rating": 70
+    },
+    {
+      "name": "Donald Thomas",
+      "position": "MF",
+      "rating": 80
+    },
+    {
+      "name": "Brian Martin",
+      "position": "MF",
+      "rating": 73
+    },
+    {
+      "name": "Michael Garcia",
+      "position": "MF",
+      "rating": 64
+    },
+    {
+      "name": "George Moore",
+      "position": "MF",
+      "rating": 67
+    },
+    {
+      "name": "Anthony Anderson",
+      "position": "MF",
+      "rating": 89
+    },
+    {
+      "name": "George Miller",
       "position": "FW",
-      "rating": 69
+      "rating": 64
+    },
+    {
+      "name": "Robert Thomas",
+      "position": "FW",
+      "rating": 62
+    },
+    {
+      "name": "Richard Garcia",
+      "position": "FW",
+      "rating": 87
+    },
+    {
+      "name": "Kenneth Brown",
+      "position": "FW",
+      "rating": 72
+    },
+    {
+      "name": "Charles Taylor",
+      "position": "FW",
+      "rating": 62
     }
   ]
 }

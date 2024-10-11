@@ -2,104 +2,104 @@
   "name": "Manchester City",
   "squad": [
     {
-      "name": "Steven Taylor",
+      "name": "George Wilson",
+      "position": "GK",
+      "rating": 69
+    },
+    {
+      "name": "Anthony Garcia",
+      "position": "GK",
+      "rating": 79
+    },
+    {
+      "name": "Paul Thomas",
       "position": "GK",
       "rating": 60
     },
     {
-      "name": "Brian Thomas",
-      "position": "GK",
-      "rating": 60
-    },
-    {
-      "name": "William Rodriguez",
-      "position": "GK",
-      "rating": 83
-    },
-    {
-      "name": "Edward Miller",
-      "position": "DF",
-      "rating": 63
-    },
-    {
-      "name": "Steven Williams",
-      "position": "DF",
-      "rating": 90
-    },
-    {
-      "name": "James Davis",
-      "position": "DF",
-      "rating": 74
-    },
-    {
-      "name": "Donald Martin",
-      "position": "DF",
-      "rating": 77
-    },
-    {
-      "name": "Ronald Rodriguez",
+      "name": "Brian Martin",
       "position": "DF",
       "rating": 68
     },
     {
-      "name": "Charles Jones",
+      "name": "Mark Moore",
       "position": "DF",
-      "rating": 73
+      "rating": 87
     },
     {
-      "name": "Ronald Davis",
-      "position": "MF",
-      "rating": 68
+      "name": "Mark Jones",
+      "position": "DF",
+      "rating": 72
     },
     {
-      "name": "Charles Martinez",
-      "position": "MF",
-      "rating": 90
+      "name": "Anthony Thomas",
+      "position": "DF",
+      "rating": 72
     },
     {
-      "name": "Ronald Wilson",
+      "name": "David Moore",
+      "position": "DF",
+      "rating": 81
+    },
+    {
+      "name": "James Gonzalez",
+      "position": "DF",
+      "rating": 76
+    },
+    {
+      "name": "Anthony Wilson",
       "position": "MF",
       "rating": 69
     },
     {
-      "name": "Paul Moore",
+      "name": "Michael Wilson",
       "position": "MF",
-      "rating": 72
+      "rating": 69
     },
     {
-      "name": "James Hernandez",
+      "name": "Paul Jones",
       "position": "MF",
-      "rating": 75
+      "rating": 73
     },
     {
-      "name": "Kenneth Taylor",
+      "name": "Charles Lopez",
       "position": "MF",
-      "rating": 67
+      "rating": 80
     },
     {
-      "name": "Robert Taylor",
-      "position": "FW",
-      "rating": 62
+      "name": "Richard Martinez",
+      "position": "MF",
+      "rating": 63
     },
     {
-      "name": "James Williams",
-      "position": "FW",
-      "rating": 77
+      "name": "Mark Garcia",
+      "position": "MF",
+      "rating": 82
     },
     {
-      "name": "Mark Martin",
+      "name": "Robert Williams",
       "position": "FW",
-      "rating": 72
+      "rating": 76
     },
     {
-      "name": "David Taylor",
+      "name": "Daniel Smith",
       "position": "FW",
-      "rating": 68
+      "rating": 86
     },
     {
-      "name": "Michael Lopez",
+      "name": "Steven Johnson",
       "position": "FW",
-      "rating": 79
+      "rating": 80
+    },
+    {
+      "name": "Anthony Miller",
+      "position": "FW",
+      "rating": 84
+    },
+    {
+      "name": "John Smith",
+      "position": "FW",
+      "rating": 65
     }
   ]
 }

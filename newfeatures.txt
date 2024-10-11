@@ -10,4 +10,8 @@ Let's create a football manager game in python. I want to emulate the FA Premier
 
 + I want you to create simulation of all 38 weeks next like we discussed earlier. So each week, the teams will play each other based on the created fixture list. Right now keep it simple.
 
-Let's create a folder called Teams. And in that folder, let's create a file for each of the 20 teams. In those files, I want to create 20 random players when a new game starts for each team. This is so we can make a deeper simulation with players, ratings and transfer market later.
++ Let's create a folder called Teams. And in that folder, let's create a file for each of the 20 teams. In those files, I want to create 20 random players when a new game starts for each team. This is so we can make a deeper simulation with players, ratings and transfer market later.
+
++ Now that we have pupulated all teams with players that have ratings, let's create a submenu under 1. Team. We can have 1. View Team, 2. Select Team. The View Team option just shows the players like before, but the Select team allows the player to select 11 players that will be playing the next match. And based on the team the player is selecting, calculate the total rating. That will be used later to simulate the games, so if a team has higher rating than the opponent, there's a higher chance to win the game and vice versa.
+
+All the teams now has generated players. Create an algorithm so that each team choose their best 11 players based on ratings each week, and those players will play the current weeks match.
