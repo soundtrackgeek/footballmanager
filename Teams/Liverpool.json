@@ -2,104 +2,104 @@
   "name": "Liverpool",
   "squad": [
     {
-      "name": "Mark Taylor",
+      "name": "Anthony Miller",
       "position": "GK",
+      "rating": 90
+    },
+    {
+      "name": "Steven Garcia",
+      "position": "GK",
+      "rating": 68
+    },
+    {
+      "name": "David Lopez",
+      "position": "GK",
+      "rating": 63
+    },
+    {
+      "name": "Robert Lopez",
+      "position": "DF",
       "rating": 74
     },
     {
-      "name": "Charles Wilson",
-      "position": "GK",
+      "name": "Kenneth Davis",
+      "position": "DF",
       "rating": 84
     },
     {
-      "name": "Charles Martin",
-      "position": "GK",
-      "rating": 62
+      "name": "Richard Garcia",
+      "position": "DF",
+      "rating": 85
     },
     {
-      "name": "Anthony Moore",
+      "name": "Richard Taylor",
       "position": "DF",
       "rating": 81
     },
     {
-      "name": "Edward Taylor",
+      "name": "Daniel Rodriguez",
       "position": "DF",
-      "rating": 80
-    },
-    {
-      "name": "William Moore",
-      "position": "DF",
-      "rating": 75
-    },
-    {
-      "name": "Anthony Taylor",
-      "position": "DF",
-      "rating": 76
-    },
-    {
-      "name": "Daniel Johnson",
-      "position": "DF",
-      "rating": 80
-    },
-    {
-      "name": "Steven Brown",
-      "position": "DF",
-      "rating": 60
-    },
-    {
-      "name": "Robert Garcia",
-      "position": "MF",
-      "rating": 67
-    },
-    {
-      "name": "Paul Jones",
-      "position": "MF",
-      "rating": 89
-    },
-    {
-      "name": "David Johnson",
-      "position": "MF",
-      "rating": 62
-    },
-    {
-      "name": "Edward Thomas",
-      "position": "MF",
-      "rating": 72
-    },
-    {
-      "name": "Mark Smith",
-      "position": "MF",
       "rating": 64
     },
     {
-      "name": "David Davis",
+      "name": "Steven Jackson",
+      "position": "DF",
+      "rating": 67
+    },
+    {
+      "name": "James Thomas",
       "position": "MF",
-      "rating": 66
+      "rating": 75
     },
     {
-      "name": "George Moore",
-      "position": "FW",
-      "rating": 86
+      "name": "Daniel Martinez",
+      "position": "MF",
+      "rating": 83
     },
     {
-      "name": "David Gonzalez",
-      "position": "FW",
-      "rating": 74
+      "name": "Charles Rodriguez",
+      "position": "MF",
+      "rating": 87
     },
     {
-      "name": "Anthony Anderson",
-      "position": "FW",
-      "rating": 85
+      "name": "Charles Wilson",
+      "position": "MF",
+      "rating": 83
     },
     {
-      "name": "Brian Rodriguez",
-      "position": "FW",
-      "rating": 66
+      "name": "Steven Martin",
+      "position": "MF",
+      "rating": 63
     },
     {
-      "name": "Richard Brown",
+      "name": "Michael Martin",
+      "position": "MF",
+      "rating": 84
+    },
+    {
+      "name": "Donald Garcia",
       "position": "FW",
       "rating": 88
+    },
+    {
+      "name": "Daniel Martinez",
+      "position": "FW",
+      "rating": 81
+    },
+    {
+      "name": "Robert Wilson",
+      "position": "FW",
+      "rating": 68
+    },
+    {
+      "name": "David Smith",
+      "position": "FW",
+      "rating": 67
+    },
+    {
+      "name": "David Martin",
+      "position": "FW",
+      "rating": 70
     }
   ]
 }

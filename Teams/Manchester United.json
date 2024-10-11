@@ -2,104 +2,104 @@
   "name": "Manchester United",
   "squad": [
     {
-      "name": "William Moore",
-      "position": "GK",
-      "rating": 60
-    },
-    {
-      "name": "Anthony Martin",
-      "position": "GK",
-      "rating": 64
-    },
-    {
-      "name": "John Smith",
+      "name": "George Williams",
       "position": "GK",
       "rating": 84
     },
     {
-      "name": "Thomas Garcia",
-      "position": "DF",
-      "rating": 89
+      "name": "Paul Moore",
+      "position": "GK",
+      "rating": 74
     },
     {
-      "name": "Mark Johnson",
-      "position": "DF",
-      "rating": 70
+      "name": "Thomas Wilson",
+      "position": "GK",
+      "rating": 81
     },
     {
-      "name": "Robert Jackson",
+      "name": "Daniel Moore",
+      "position": "DF",
+      "rating": 77
+    },
+    {
+      "name": "Daniel Thomas",
+      "position": "DF",
+      "rating": 76
+    },
+    {
+      "name": "Steven Rodriguez",
+      "position": "DF",
+      "rating": 68
+    },
+    {
+      "name": "Brian Rodriguez",
+      "position": "DF",
+      "rating": 64
+    },
+    {
+      "name": "Steven Gonzalez",
       "position": "DF",
       "rating": 63
     },
     {
-      "name": "Charles Martinez",
+      "name": "George Smith",
       "position": "DF",
-      "rating": 60
-    },
-    {
-      "name": "George Hernandez",
-      "position": "DF",
-      "rating": 86
-    },
-    {
-      "name": "Kenneth Davis",
-      "position": "DF",
-      "rating": 78
-    },
-    {
-      "name": "Daniel Lopez",
-      "position": "MF",
       "rating": 62
     },
     {
-      "name": "Michael Taylor",
+      "name": "Steven Anderson",
       "position": "MF",
-      "rating": 78
+      "rating": 69
     },
     {
-      "name": "Michael Rodriguez",
+      "name": "Richard Jones",
       "position": "MF",
-      "rating": 80
+      "rating": 87
     },
     {
-      "name": "Anthony Gonzalez",
+      "name": "John Davis",
       "position": "MF",
-      "rating": 75
+      "rating": 60
     },
     {
-      "name": "Thomas Jones",
+      "name": "Robert Wilson",
       "position": "MF",
-      "rating": 71
+      "rating": 69
     },
     {
-      "name": "Kenneth Jones",
+      "name": "Donald Lopez",
       "position": "MF",
-      "rating": 89
-    },
-    {
-      "name": "Paul Jones",
-      "position": "FW",
       "rating": 66
     },
     {
-      "name": "Robert Thomas",
-      "position": "FW",
-      "rating": 73
+      "name": "Daniel Thomas",
+      "position": "MF",
+      "rating": 84
     },
     {
-      "name": "Charles Brown",
-      "position": "FW",
-      "rating": 90
-    },
-    {
-      "name": "Mark Jackson",
-      "position": "FW",
-      "rating": 76
-    },
-    {
-      "name": "Michael Moore",
+      "name": "John Rodriguez",
       "position": "FW",
       "rating": 64
+    },
+    {
+      "name": "Charles Lopez",
+      "position": "FW",
+      "rating": 69
+    },
+    {
+      "name": "Donald Wilson",
+      "position": "FW",
+      "rating": 71
+    },
+    {
+      "name": "George Jones",
+      "position": "FW",
+      "rating": 85
+    },
+    {
+      "name": "Ronald Thomas",
+      "position": "FW",
+      "rating": 68
     }
   ]
 }

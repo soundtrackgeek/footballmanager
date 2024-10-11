@@ -2,104 +2,104 @@
   "name": "Wolves",
   "squad": [
     {
-      "name": "Brian Rodriguez",
+      "name": "David Lopez",
       "position": "GK",
-      "rating": 71
+      "rating": 68
     },
     {
-      "name": "Steven Jackson",
+      "name": "Paul Rodriguez",
       "position": "GK",
-      "rating": 60
-    },
-    {
-      "name": "David Williams",
-      "position": "GK",
-      "rating": 60
-    },
-    {
-      "name": "John Garcia",
-      "position": "DF",
-      "rating": 86
-    },
-    {
-      "name": "Mark Rodriguez",
-      "position": "DF",
       "rating": 85
     },
     {
-      "name": "Richard Rodriguez",
-      "position": "DF",
-      "rating": 72
-    },
-    {
-      "name": "Paul Williams",
-      "position": "DF",
+      "name": "Kenneth Johnson",
+      "position": "GK",
       "rating": 84
     },
     {
-      "name": "Anthony Brown",
+      "name": "Anthony Lopez",
       "position": "DF",
-      "rating": 87
+      "rating": 73
     },
     {
-      "name": "Edward Jackson",
+      "name": "Anthony Wilson",
+      "position": "DF",
+      "rating": 74
+    },
+    {
+      "name": "Michael Lopez",
       "position": "DF",
       "rating": 77
     },
     {
-      "name": "Charles Williams",
-      "position": "MF",
-      "rating": 70
+      "name": "Robert Wilson",
+      "position": "DF",
+      "rating": 82
     },
     {
-      "name": "Donald Brown",
-      "position": "MF",
+      "name": "Anthony Thomas",
+      "position": "DF",
       "rating": 86
     },
     {
-      "name": "Robert Hernandez",
-      "position": "MF",
-      "rating": 75
+      "name": "Edward Wilson",
+      "position": "DF",
+      "rating": 84
     },
     {
-      "name": "Edward Martin",
+      "name": "William Miller",
       "position": "MF",
-      "rating": 78
+      "rating": 63
     },
     {
-      "name": "David Davis",
+      "name": "George Martin",
       "position": "MF",
-      "rating": 87
+      "rating": 68
     },
     {
-      "name": "Richard Smith",
+      "name": "Ronald Martin",
+      "position": "MF",
+      "rating": 69
+    },
+    {
+      "name": "Brian Johnson",
       "position": "MF",
       "rating": 88
     },
     {
-      "name": "John Johnson",
-      "position": "FW",
-      "rating": 80
+      "name": "George Moore",
+      "position": "MF",
+      "rating": 81
     },
     {
-      "name": "William Moore",
-      "position": "FW",
-      "rating": 76
-    },
-    {
-      "name": "David Davis",
-      "position": "FW",
-      "rating": 82
-    },
-    {
-      "name": "Paul Martinez",
-      "position": "FW",
+      "name": "Brian Taylor",
+      "position": "MF",
       "rating": 62
     },
     {
-      "name": "Robert Lopez",
+      "name": "Robert Garcia",
       "position": "FW",
-      "rating": 82
+      "rating": 60
+    },
+    {
+      "name": "Richard Brown",
+      "position": "FW",
+      "rating": 78
+    },
+    {
+      "name": "William Williams",
+      "position": "FW",
+      "rating": 66
+    },
+    {
+      "name": "Mark Martinez",
+      "position": "FW",
+      "rating": 65
+    },
+    {
+      "name": "Charles Martin",
+      "position": "FW",
+      "rating": 72
     }
   ]
 }

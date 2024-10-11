@@ -2,104 +2,104 @@
   "name": "Aston Villa",
   "squad": [
     {
-      "name": "Thomas Anderson",
+      "name": "Paul Thomas",
       "position": "GK",
-      "rating": 62
+      "rating": 72
     },
     {
-      "name": "Thomas Hernandez",
+      "name": "Brian Williams",
       "position": "GK",
-      "rating": 75
+      "rating": 83
     },
     {
-      "name": "Kenneth Smith",
+      "name": "Steven Garcia",
       "position": "GK",
-      "rating": 66
-    },
-    {
-      "name": "David Martin",
-      "position": "DF",
       "rating": 89
     },
     {
-      "name": "Michael Anderson",
+      "name": "Kenneth Wilson",
+      "position": "DF",
+      "rating": 82
+    },
+    {
+      "name": "Paul Williams",
+      "position": "DF",
+      "rating": 63
+    },
+    {
+      "name": "John Taylor",
+      "position": "DF",
+      "rating": 86
+    },
+    {
+      "name": "Thomas Brown",
+      "position": "DF",
+      "rating": 66
+    },
+    {
+      "name": "Richard Smith",
       "position": "DF",
       "rating": 76
     },
     {
-      "name": "Ronald Garcia",
-      "position": "DF",
-      "rating": 78
-    },
-    {
-      "name": "Paul Lopez",
-      "position": "DF",
-      "rating": 89
-    },
-    {
-      "name": "Edward Jackson",
-      "position": "DF",
-      "rating": 66
-    },
-    {
-      "name": "Michael Jones",
+      "name": "Paul Martin",
       "position": "DF",
       "rating": 84
     },
     {
       "name": "George Williams",
       "position": "MF",
-      "rating": 66
+      "rating": 65
     },
     {
-      "name": "Anthony Thomas",
+      "name": "Michael Miller",
       "position": "MF",
-      "rating": 64
+      "rating": 88
     },
     {
-      "name": "Brian Anderson",
+      "name": "Thomas Miller",
+      "position": "MF",
+      "rating": 85
+    },
+    {
+      "name": "Brian Gonzalez",
+      "position": "MF",
+      "rating": 90
+    },
+    {
+      "name": "Brian Martin",
       "position": "MF",
       "rating": 83
     },
     {
-      "name": "Kenneth Jackson",
+      "name": "Edward Gonzalez",
       "position": "MF",
       "rating": 73
     },
     {
-      "name": "David Jackson",
-      "position": "MF",
-      "rating": 81
+      "name": "Ronald Jackson",
+      "position": "FW",
+      "rating": 64
     },
     {
-      "name": "Mark Davis",
-      "position": "MF",
-      "rating": 61
+      "name": "Richard Williams",
+      "position": "FW",
+      "rating": 68
     },
     {
-      "name": "Mark Moore",
+      "name": "George Brown",
+      "position": "FW",
+      "rating": 70
+    },
+    {
+      "name": "Thomas Martin",
+      "position": "FW",
+      "rating": 73
+    },
+    {
+      "name": "Kenneth Garcia",
       "position": "FW",
       "rating": 84
-    },
-    {
-      "name": "William Hernandez",
-      "position": "FW",
-      "rating": 61
-    },
-    {
-      "name": "Richard Thomas",
-      "position": "FW",
-      "rating": 82
-    },
-    {
-      "name": "Donald Miller",
-      "position": "FW",
-      "rating": 62
-    },
-    {
-      "name": "Kenneth Gonzalez",
-      "position": "FW",
-      "rating": 71
     }
   ]
 }

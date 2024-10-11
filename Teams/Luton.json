@@ -2,104 +2,104 @@
   "name": "Luton",
   "squad": [
     {
-      "name": "William Jones",
+      "name": "Daniel Wilson",
       "position": "GK",
-      "rating": 75
+      "rating": 62
     },
     {
-      "name": "Thomas Martinez",
+      "name": "Thomas Gonzalez",
       "position": "GK",
-      "rating": 80
-    },
-    {
-      "name": "Thomas Hernandez",
-      "position": "GK",
-      "rating": 89
-    },
-    {
-      "name": "Daniel Martinez",
-      "position": "DF",
       "rating": 90
     },
     {
-      "name": "John Miller",
-      "position": "DF",
-      "rating": 61
+      "name": "Richard Wilson",
+      "position": "GK",
+      "rating": 63
     },
     {
-      "name": "Ronald Hernandez",
-      "position": "DF",
-      "rating": 64
-    },
-    {
-      "name": "James Williams",
-      "position": "DF",
-      "rating": 88
-    },
-    {
-      "name": "Richard Jackson",
+      "name": "James Taylor",
       "position": "DF",
       "rating": 77
     },
     {
-      "name": "James Davis",
+      "name": "Robert Martin",
       "position": "DF",
+      "rating": 82
+    },
+    {
+      "name": "Mark Jackson",
+      "position": "DF",
+      "rating": 90
+    },
+    {
+      "name": "Ronald Anderson",
+      "position": "DF",
+      "rating": 83
+    },
+    {
+      "name": "William Lopez",
+      "position": "DF",
+      "rating": 84
+    },
+    {
+      "name": "Anthony Moore",
+      "position": "DF",
+      "rating": 71
+    },
+    {
+      "name": "George Jones",
+      "position": "MF",
+      "rating": 89
+    },
+    {
+      "name": "Daniel Garcia",
+      "position": "MF",
+      "rating": 60
+    },
+    {
+      "name": "Steven Anderson",
+      "position": "MF",
       "rating": 81
     },
     {
-      "name": "James Miller",
+      "name": "Edward Moore",
       "position": "MF",
-      "rating": 76
+      "rating": 60
     },
     {
-      "name": "Anthony Rodriguez",
+      "name": "Edward Moore",
       "position": "MF",
-      "rating": 73
+      "rating": 66
     },
     {
-      "name": "Ronald Garcia",
+      "name": "Robert Brown",
       "position": "MF",
+      "rating": 89
+    },
+    {
+      "name": "Daniel Miller",
+      "position": "FW",
       "rating": 68
     },
     {
-      "name": "David Brown",
-      "position": "MF",
-      "rating": 65
+      "name": "Mark Martinez",
+      "position": "FW",
+      "rating": 74
     },
     {
-      "name": "George Johnson",
-      "position": "MF",
-      "rating": 85
+      "name": "James Johnson",
+      "position": "FW",
+      "rating": 74
     },
     {
-      "name": "John Johnson",
-      "position": "MF",
-      "rating": 70
-    },
-    {
-      "name": "George Lopez",
+      "name": "Thomas Thomas",
       "position": "FW",
       "rating": 71
     },
     {
-      "name": "Kenneth Taylor",
+      "name": "Brian Martin",
       "position": "FW",
-      "rating": 86
-    },
-    {
-      "name": "James Williams",
-      "position": "FW",
-      "rating": 86
-    },
-    {
-      "name": "Thomas Davis",
-      "position": "FW",
-      "rating": 73
-    },
-    {
-      "name": "Paul Smith",
-      "position": "FW",
-      "rating": 79
+      "rating": 68
     }
   ]
 }

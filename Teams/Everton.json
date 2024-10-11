@@ -2,104 +2,104 @@
   "name": "Everton",
   "squad": [
     {
-      "name": "Donald Gonzalez",
+      "name": "David Thomas",
       "position": "GK",
-      "rating": 86
+      "rating": 73
     },
     {
-      "name": "Steven Moore",
+      "name": "Ronald Anderson",
       "position": "GK",
+      "rating": 60
+    },
+    {
+      "name": "Mark Davis",
+      "position": "GK",
+      "rating": 66
+    },
+    {
+      "name": "James Wilson",
+      "position": "DF",
+      "rating": 82
+    },
+    {
+      "name": "Richard Thomas",
+      "position": "DF",
+      "rating": 82
+    },
+    {
+      "name": "Thomas Thomas",
+      "position": "DF",
+      "rating": 75
+    },
+    {
+      "name": "Paul Taylor",
+      "position": "DF",
+      "rating": 71
+    },
+    {
+      "name": "Robert Wilson",
+      "position": "DF",
+      "rating": 72
+    },
+    {
+      "name": "Ronald Rodriguez",
+      "position": "DF",
+      "rating": 76
+    },
+    {
+      "name": "Mark Jones",
+      "position": "MF",
       "rating": 89
     },
     {
-      "name": "Thomas Lopez",
-      "position": "GK",
-      "rating": 79
-    },
-    {
-      "name": "Paul Williams",
-      "position": "DF",
-      "rating": 70
-    },
-    {
-      "name": "Charles Moore",
-      "position": "DF",
+      "name": "Michael Moore",
+      "position": "MF",
       "rating": 82
+    },
+    {
+      "name": "David Martin",
+      "position": "MF",
+      "rating": 60
+    },
+    {
+      "name": "Mark Gonzalez",
+      "position": "MF",
+      "rating": 73
+    },
+    {
+      "name": "William Gonzalez",
+      "position": "MF",
+      "rating": 69
+    },
+    {
+      "name": "Edward Miller",
+      "position": "MF",
+      "rating": 76
+    },
+    {
+      "name": "David Johnson",
+      "position": "FW",
+      "rating": 87
+    },
+    {
+      "name": "John Martin",
+      "position": "FW",
+      "rating": 61
+    },
+    {
+      "name": "Anthony Jackson",
+      "position": "FW",
+      "rating": 68
     },
     {
       "name": "Ronald Wilson",
-      "position": "DF",
-      "rating": 81
-    },
-    {
-      "name": "John Taylor",
-      "position": "DF",
-      "rating": 71
-    },
-    {
-      "name": "Donald Davis",
-      "position": "DF",
-      "rating": 77
-    },
-    {
-      "name": "Daniel Jackson",
-      "position": "DF",
-      "rating": 65
-    },
-    {
-      "name": "David Garcia",
-      "position": "MF",
-      "rating": 90
-    },
-    {
-      "name": "Daniel Jackson",
-      "position": "MF",
-      "rating": 78
-    },
-    {
-      "name": "John Taylor",
-      "position": "MF",
-      "rating": 88
-    },
-    {
-      "name": "Anthony Johnson",
-      "position": "MF",
-      "rating": 85
-    },
-    {
-      "name": "Charles Jones",
-      "position": "MF",
-      "rating": 67
-    },
-    {
-      "name": "Daniel Smith",
-      "position": "MF",
-      "rating": 86
-    },
-    {
-      "name": "Brian Rodriguez",
       "position": "FW",
-      "rating": 74
+      "rating": 66
     },
     {
-      "name": "Daniel Martin",
-      "position": "FW",
-      "rating": 64
-    },
-    {
-      "name": "George Gonzalez",
+      "name": "Richard Jackson",
       "position": "FW",
       "rating": 71
-    },
-    {
-      "name": "Edward Martin",
-      "position": "FW",
-      "rating": 82
-    },
-    {
-      "name": "Ronald Martinez",
-      "position": "FW",
-      "rating": 60
     }
   ]
 }

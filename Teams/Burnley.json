@@ -2,104 +2,104 @@
   "name": "Burnley",
   "squad": [
     {
-      "name": "Anthony Williams",
+      "name": "Steven Davis",
       "position": "GK",
-      "rating": 78
+      "rating": 88
     },
     {
-      "name": "Robert Anderson",
+      "name": "Edward Gonzalez",
       "position": "GK",
-      "rating": 72
+      "rating": 69
     },
     {
-      "name": "David Smith",
+      "name": "Paul Jackson",
       "position": "GK",
-      "rating": 65
+      "rating": 75
     },
     {
-      "name": "Daniel Hernandez",
+      "name": "Paul Rodriguez",
       "position": "DF",
-      "rating": 65
+      "rating": 64
     },
     {
-      "name": "Mark Jackson",
+      "name": "George Martin",
       "position": "DF",
-      "rating": 79
+      "rating": 80
     },
     {
-      "name": "Donald Hernandez",
+      "name": "Donald Jones",
       "position": "DF",
-      "rating": 70
+      "rating": 74
     },
     {
-      "name": "Steven Miller",
+      "name": "Daniel Williams",
       "position": "DF",
-      "rating": 70
+      "rating": 63
     },
     {
-      "name": "Robert Davis",
+      "name": "Michael Lopez",
       "position": "DF",
-      "rating": 67
+      "rating": 88
     },
     {
-      "name": "Paul Lopez",
+      "name": "James Thomas",
       "position": "DF",
       "rating": 69
     },
     {
-      "name": "Steven Rodriguez",
-      "position": "MF",
-      "rating": 79
-    },
-    {
       "name": "George Wilson",
       "position": "MF",
-      "rating": 90
+      "rating": 73
     },
     {
-      "name": "Brian Moore",
+      "name": "Donald Garcia",
       "position": "MF",
-      "rating": 68
+      "rating": 61
     },
     {
-      "name": "Kenneth Brown",
+      "name": "Robert Moore",
+      "position": "MF",
+      "rating": 72
+    },
+    {
+      "name": "John Brown",
+      "position": "MF",
+      "rating": 86
+    },
+    {
+      "name": "Michael Anderson",
       "position": "MF",
       "rating": 89
     },
     {
-      "name": "Anthony Brown",
+      "name": "Kenneth Garcia",
       "position": "MF",
-      "rating": 74
+      "rating": 63
     },
     {
-      "name": "David Moore",
-      "position": "MF",
-      "rating": 68
-    },
-    {
-      "name": "Paul Garcia",
-      "position": "FW",
-      "rating": 83
-    },
-    {
-      "name": "Brian Smith",
-      "position": "FW",
-      "rating": 64
-    },
-    {
-      "name": "David Williams",
+      "name": "Paul Johnson",
       "position": "FW",
       "rating": 79
     },
     {
-      "name": "John Hernandez",
+      "name": "Anthony Martin",
       "position": "FW",
-      "rating": 67
+      "rating": 84
     },
     {
-      "name": "Anthony Smith",
+      "name": "Paul Anderson",
       "position": "FW",
-      "rating": 71
+      "rating": 60
+    },
+    {
+      "name": "Richard Anderson",
+      "position": "FW",
+      "rating": 73
+    },
+    {
+      "name": "Donald Garcia",
+      "position": "FW",
+      "rating": 61
     }
   ]
 }

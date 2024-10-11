@@ -2,104 +2,104 @@
   "name": "West Ham",
   "squad": [
     {
-      "name": "Mark Johnson",
+      "name": "Brian Jones",
       "position": "GK",
-      "rating": 69
-    },
-    {
-      "name": "Charles Lopez",
-      "position": "GK",
-      "rating": 76
-    },
-    {
-      "name": "Ronald Rodriguez",
-      "position": "GK",
-      "rating": 74
-    },
-    {
-      "name": "William Smith",
-      "position": "DF",
-      "rating": 73
-    },
-    {
-      "name": "Steven Johnson",
-      "position": "DF",
-      "rating": 83
-    },
-    {
-      "name": "Daniel Gonzalez",
-      "position": "DF",
-      "rating": 90
-    },
-    {
-      "name": "Anthony Lopez",
-      "position": "DF",
-      "rating": 65
-    },
-    {
-      "name": "Richard Martinez",
-      "position": "DF",
       "rating": 84
     },
     {
-      "name": "Daniel Gonzalez",
+      "name": "Anthony Rodriguez",
+      "position": "GK",
+      "rating": 77
+    },
+    {
+      "name": "Daniel Williams",
+      "position": "GK",
+      "rating": 81
+    },
+    {
+      "name": "William Jackson",
       "position": "DF",
-      "rating": 89
+      "rating": 78
+    },
+    {
+      "name": "William Brown",
+      "position": "DF",
+      "rating": 86
+    },
+    {
+      "name": "Kenneth Anderson",
+      "position": "DF",
+      "rating": 63
+    },
+    {
+      "name": "Anthony Jackson",
+      "position": "DF",
+      "rating": 60
     },
     {
       "name": "James Miller",
+      "position": "DF",
+      "rating": 78
+    },
+    {
+      "name": "Mark Thomas",
+      "position": "DF",
+      "rating": 74
+    },
+    {
+      "name": "Anthony Anderson",
+      "position": "MF",
+      "rating": 78
+    },
+    {
+      "name": "Charles Moore",
+      "position": "MF",
+      "rating": 64
+    },
+    {
+      "name": "Michael Jackson",
       "position": "MF",
       "rating": 85
     },
     {
-      "name": "Thomas Garcia",
+      "name": "Anthony Johnson",
       "position": "MF",
-      "rating": 83
+      "rating": 82
+    },
+    {
+      "name": "David Miller",
+      "position": "MF",
+      "rating": 89
+    },
+    {
+      "name": "William Wilson",
+      "position": "MF",
+      "rating": 76
+    },
+    {
+      "name": "Robert Davis",
+      "position": "FW",
+      "rating": 87
     },
     {
       "name": "Paul Thomas",
-      "position": "MF",
-      "rating": 69
+      "position": "FW",
+      "rating": 82
     },
     {
-      "name": "Daniel Anderson",
-      "position": "MF",
-      "rating": 86
-    },
-    {
-      "name": "Michael Moore",
-      "position": "MF",
-      "rating": 71
-    },
-    {
-      "name": "Daniel Anderson",
-      "position": "MF",
+      "name": "Daniel Rodriguez",
+      "position": "FW",
       "rating": 72
     },
     {
-      "name": "Thomas Anderson",
+      "name": "Charles Thomas",
       "position": "FW",
-      "rating": 69
+      "rating": 81
     },
     {
-      "name": "Edward Jones",
+      "name": "George Martinez",
       "position": "FW",
-      "rating": 75
-    },
-    {
-      "name": "Paul Martin",
-      "position": "FW",
-      "rating": 74
-    },
-    {
-      "name": "John Williams",
-      "position": "FW",
-      "rating": 62
-    },
-    {
-      "name": "Richard Gonzalez",
-      "position": "FW",
-      "rating": 69
+      "rating": 82
     }
   ]
 }

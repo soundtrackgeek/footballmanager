@@ -1,5 +1,6 @@
 import random
 from team_management import select_team, auto_select_team
+from stats import stats
 
 def determine_goal_scorer(team):
     weights = {'FW': 0.6, 'MF': 0.3, 'DF': 0.08, 'GK': 0.02}
@@ -68,6 +69,11 @@ def play_week(fixtures, table, current_week, player_team):
 
         home_goals, away_goals, home_scorers, away_scorers = simulate_game(home_team, away_team)
         table.update(home_team_name, away_team_name, home_goals, away_goals)
+        
+        # Update statistics
+        stats.update_goal_scorers(home_scorers)
+        stats.update_goal_scorers(away_scorers)
+        stats.update_club_stats(home_team_name, away_team_name, home_goals, away_goals)
         
         print(f"\n{home_team_name} {home_goals} - {away_goals} {away_team_name}")
         if home_scorers:

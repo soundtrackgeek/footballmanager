@@ -2,6 +2,7 @@ from team_management import create_teams, choose_team, display_squad, select_tea
 from fixtures import generate_fixture_list, save_fixture_list, get_current_week_fixtures, load_fixture_list
 from table import create_table
 from game_simulation import play_week, simulate_season
+from stats import stats
 
 def display_menu():
     print("\nFootball Manager Menu:")
@@ -12,12 +13,19 @@ def display_menu():
     print("5. Play Game")
     print("6. Table")
     print("7. Simulate Season")
+    print("8. Stats")
     print("0. Exit")
 
 def display_team_menu():
     print("\nTeam Menu:")
     print("1. View Team")
     print("2. Select Team")
+    print("0. Back to Main Menu")
+
+def display_stats_menu():
+    print("\nStats Menu:")
+    print("1. Player Stats")
+    print("2. Club Stats")
     print("0. Back to Main Menu")
 
 def team_menu(player_team):
@@ -30,6 +38,20 @@ def team_menu(player_team):
         elif choice == "2":
             select_team(player_team)
             print("Team selected successfully.")
+        elif choice == "0":
+            break
+        else:
+            print("Invalid choice. Please try again.")
+
+def stats_menu():
+    while True:
+        display_stats_menu()
+        choice = input("Enter your choice: ")
+
+        if choice == "1":
+            stats.display_top_scorers()
+        elif choice == "2":
+            stats.display_club_stats()
         elif choice == "0":
             break
         else:
@@ -86,6 +108,8 @@ def main():
                 current_week = total_weeks + 1
             else:
                 print("Season simulation cancelled.")
+        elif choice == "8":
+            stats_menu()
         elif choice == "0":
             print("Thank you for playing. Goodbye!")
             break

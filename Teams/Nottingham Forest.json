@@ -2,104 +2,104 @@
   "name": "Nottingham Forest",
   "squad": [
     {
-      "name": "Michael Smith",
+      "name": "George Thomas",
       "position": "GK",
-      "rating": 77
+      "rating": 72
     },
     {
-      "name": "Robert Martin",
+      "name": "David Brown",
       "position": "GK",
-      "rating": 69
+      "rating": 81
     },
     {
-      "name": "Michael Lopez",
+      "name": "James Taylor",
       "position": "GK",
+      "rating": 68
+    },
+    {
+      "name": "Ronald Moore",
+      "position": "DF",
       "rating": 82
     },
     {
-      "name": "Anthony Moore",
+      "name": "Daniel Johnson",
       "position": "DF",
-      "rating": 89
+      "rating": 69
     },
     {
-      "name": "Richard Lopez",
+      "name": "George Thomas",
       "position": "DF",
-      "rating": 85
+      "rating": 63
     },
     {
-      "name": "Ronald Thomas",
+      "name": "Brian Martinez",
       "position": "DF",
-      "rating": 77
+      "rating": 74
     },
     {
-      "name": "Anthony Lopez",
+      "name": "Edward Williams",
       "position": "DF",
-      "rating": 90
+      "rating": 88
     },
     {
-      "name": "Donald Martinez",
+      "name": "Robert Williams",
       "position": "DF",
-      "rating": 76
+      "rating": 61
     },
     {
-      "name": "Charles Lopez",
-      "position": "DF",
-      "rating": 77
-    },
-    {
-      "name": "Ronald Wilson",
+      "name": "Robert Lopez",
       "position": "MF",
-      "rating": 81
+      "rating": 86
+    },
+    {
+      "name": "Ronald Gonzalez",
+      "position": "MF",
+      "rating": 66
+    },
+    {
+      "name": "John Jackson",
+      "position": "MF",
+      "rating": 82
+    },
+    {
+      "name": "Donald Lopez",
+      "position": "MF",
+      "rating": 85
     },
     {
       "name": "Brian Thomas",
       "position": "MF",
-      "rating": 72
+      "rating": 67
     },
     {
-      "name": "Charles Gonzalez",
+      "name": "Richard Smith",
       "position": "MF",
-      "rating": 77
+      "rating": 68
     },
     {
-      "name": "James Johnson",
-      "position": "MF",
-      "rating": 83
-    },
-    {
-      "name": "George Anderson",
-      "position": "MF",
-      "rating": 76
-    },
-    {
-      "name": "David Williams",
-      "position": "MF",
-      "rating": 89
-    },
-    {
-      "name": "Anthony Anderson",
-      "position": "FW",
-      "rating": 80
-    },
-    {
-      "name": "Charles Miller",
+      "name": "William Martin",
       "position": "FW",
       "rating": 88
     },
     {
-      "name": "Edward Moore",
+      "name": "Paul Moore",
       "position": "FW",
-      "rating": 68
+      "rating": 76
+    },
+    {
+      "name": "Kenneth Johnson",
+      "position": "FW",
+      "rating": 65
     },
     {
       "name": "Brian Davis",
       "position": "FW",
-      "rating": 74
+      "rating": 72
     },
     {
-      "name": "Richard Johnson",
+      "name": "John Anderson",
       "position": "FW",
-      "rating": 71
+      "rating": 82
     }
   ]
 }

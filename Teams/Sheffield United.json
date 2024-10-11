@@ -2,104 +2,104 @@
   "name": "Sheffield United",
   "squad": [
     {
-      "name": "Thomas Hernandez",
+      "name": "George Anderson",
       "position": "GK",
-      "rating": 83
-    },
-    {
-      "name": "Paul Wilson",
-      "position": "GK",
-      "rating": 67
-    },
-    {
-      "name": "William Anderson",
-      "position": "GK",
-      "rating": 78
-    },
-    {
-      "name": "Robert Rodriguez",
-      "position": "DF",
-      "rating": 88
-    },
-    {
-      "name": "Charles Smith",
-      "position": "DF",
-      "rating": 79
-    },
-    {
-      "name": "Richard Martin",
-      "position": "DF",
-      "rating": 63
-    },
-    {
-      "name": "George Jackson",
-      "position": "DF",
-      "rating": 60
-    },
-    {
-      "name": "Mark Hernandez",
-      "position": "DF",
-      "rating": 80
-    },
-    {
-      "name": "Anthony Martinez",
-      "position": "DF",
-      "rating": 86
-    },
-    {
-      "name": "Daniel Garcia",
-      "position": "MF",
-      "rating": 80
-    },
-    {
-      "name": "Richard Williams",
-      "position": "MF",
-      "rating": 63
-    },
-    {
-      "name": "Brian Jones",
-      "position": "MF",
-      "rating": 80
-    },
-    {
-      "name": "Steven Martinez",
-      "position": "MF",
-      "rating": 89
-    },
-    {
-      "name": "Anthony Smith",
-      "position": "MF",
-      "rating": 77
-    },
-    {
-      "name": "Ronald Hernandez",
-      "position": "MF",
-      "rating": 77
-    },
-    {
-      "name": "Ronald Lopez",
-      "position": "FW",
-      "rating": 71
-    },
-    {
-      "name": "Donald Anderson",
-      "position": "FW",
-      "rating": 79
-    },
-    {
-      "name": "William Martin",
-      "position": "FW",
-      "rating": 64
-    },
-    {
-      "name": "William Wilson",
-      "position": "FW",
       "rating": 66
     },
     {
-      "name": "Thomas Moore",
+      "name": "George Jackson",
+      "position": "GK",
+      "rating": 76
+    },
+    {
+      "name": "James Wilson",
+      "position": "GK",
+      "rating": 85
+    },
+    {
+      "name": "Michael Rodriguez",
+      "position": "DF",
+      "rating": 83
+    },
+    {
+      "name": "Michael Gonzalez",
+      "position": "DF",
+      "rating": 80
+    },
+    {
+      "name": "Ronald Davis",
+      "position": "DF",
+      "rating": 80
+    },
+    {
+      "name": "Robert Taylor",
+      "position": "DF",
+      "rating": 75
+    },
+    {
+      "name": "John Martinez",
+      "position": "DF",
+      "rating": 87
+    },
+    {
+      "name": "Michael Gonzalez",
+      "position": "DF",
+      "rating": 74
+    },
+    {
+      "name": "Edward Johnson",
+      "position": "MF",
+      "rating": 80
+    },
+    {
+      "name": "Robert Garcia",
+      "position": "MF",
+      "rating": 85
+    },
+    {
+      "name": "Paul Hernandez",
+      "position": "MF",
+      "rating": 81
+    },
+    {
+      "name": "Kenneth Jones",
+      "position": "MF",
+      "rating": 85
+    },
+    {
+      "name": "Robert Miller",
+      "position": "MF",
+      "rating": 76
+    },
+    {
+      "name": "Richard Jones",
+      "position": "MF",
+      "rating": 73
+    },
+    {
+      "name": "Charles Martinez",
       "position": "FW",
-      "rating": 86
+      "rating": 62
+    },
+    {
+      "name": "Charles Garcia",
+      "position": "FW",
+      "rating": 81
+    },
+    {
+      "name": "David Rodriguez",
+      "position": "FW",
+      "rating": 63
+    },
+    {
+      "name": "Steven Smith",
+      "position": "FW",
+      "rating": 73
+    },
+    {
+      "name": "Charles Jones",
+      "position": "FW",
+      "rating": 65
     }
   ]
 }
