@@ -26,11 +26,16 @@ def create_teams():
 
 def generate_player(position):
     first_names = ["John", "David", "Michael", "James", "William", "Robert", "Richard", "Thomas", "Charles", "Daniel",
-                   "Juan", "Mohammed", "Yuki", "Liam", "Sven", "Alejandro", "Dmitri", "Kwame", "Raj", "Giovanni",
-                   "Hiroshi", "Fatima", "Olga", "Zain", "Aisha", "Chen", "Priya", "Hassan", "Ingrid", "Paolo"]
+                   "Juan", "Mohammed", "Ian", "Liam", "Sven", "Alejandro", "Dmitri", "Kwame", "Raj", "Giovanni",
+                   "Hiroshi", "Mohammed", "Holger", "Zain", "Aisha", "Chet", "Priya", "Hassan", "Ingvald", "Paolo",
+                   "Mateo", "Nikolai", "Omar", "Thiago", "Rafael", "Khalid", "Yusuf", "Andrei", "Luca", "Emilio",
+                   "Santiago", "Dario", "Tomas", "Viktor", "Marek", "Jasper", "Ruben", "Kieran", "Dante", "Zachary",
+                   "Felix", "Nico", "Rami", "Anwar", "Sergio", "Milo"]
     last_names = ["Smith", "Johnson", "Williams", "Brown", "Jones", "Garcia", "Miller", "Davis", "Rodriguez", "Martinez",
                   "Nguyen", "Kim", "Patel", "Müller", "Ivanov", "Silva", "Kowalski", "Tanaka", "O'Brien", "Dubois",
-                  "Yamamoto", "Ali", "Petrov", "Gonzalez", "Andersson", "Chen", "Singh", "Rossi", "Novak", "Sato"]
+                  "Yamamoto", "Ali", "Petrov", "Gonzalez", "Andersson", "Chen", "Singh", "Rossi", "Novak", "Sato",
+                  "Henderson", "Khan", "López", "Bianchi", "Kovács", "Nielsen", "Sokolov", "Fernández", "O'Reilly", "Liu",
+                  "Matsumoto", "Kumar", "Rojas", "Björk", "Dimitrov", "Santos", "Takahashi", "Zhang", "Huang", "Meyer"]
     return Player(f"{random.choice(first_names)} {random.choice(last_names)}", position)
 
 def generate_squad(team):
