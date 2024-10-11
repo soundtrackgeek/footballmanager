@@ -2,144 +2,144 @@
   "name": "Manchester City",
   "squad": [
     {
-      "name": "Brian Hernandez",
-      "position": "GK",
-      "rating": 81,
-      "age": 25,
-      "value": 49452631
-    },
-    {
-      "name": "Donald Martinez",
-      "position": "GK",
-      "rating": 74,
-      "age": 25,
-      "value": 45178947
-    },
-    {
-      "name": "David Hernandez",
+      "name": "Richard Martinez",
       "position": "GK",
       "rating": 62,
-      "age": 25,
-      "value": 37852631
+      "age": 22,
+      "value": 41768421
     },
     {
-      "name": "Daniel Davis",
+      "name": "Brian Thomas",
+      "position": "GK",
+      "rating": 63,
+      "age": 23,
+      "value": 41115789
+    },
+    {
+      "name": "George Anderson",
+      "position": "GK",
+      "rating": 87,
+      "age": 33,
+      "value": 38463157
+    },
+    {
+      "name": "John Smith",
+      "position": "DF",
+      "rating": 86,
+      "age": 17,
+      "value": 83736842
+    },
+    {
+      "name": "Steven Thomas",
       "position": "DF",
       "rating": 74,
-      "age": 31,
-      "value": 44789473
+      "age": 20,
+      "value": 66210526
     },
     {
-      "name": "David Thomas",
-      "position": "DF",
-      "rating": 79,
-      "age": 33,
-      "value": 43657894
-    },
-    {
-      "name": "William Thomas",
-      "position": "DF",
-      "rating": 65,
-      "age": 30,
-      "value": 41052631
-    },
-    {
-      "name": "Edward Hernandez",
-      "position": "DF",
-      "rating": 88,
-      "age": 32,
-      "value": 50947368
-    },
-    {
-      "name": "Paul Miller",
-      "position": "DF",
-      "rating": 63,
-      "age": 16,
-      "value": 63000000
-    },
-    {
-      "name": "Brian Martin",
+      "name": "William Brown",
       "position": "DF",
       "rating": 68,
-      "age": 23,
-      "value": 55473684
-    },
-    {
-      "name": "William Martin",
-      "position": "MF",
-      "rating": 87,
       "age": 19,
-      "value": 96157894
+      "value": 62631578
     },
     {
-      "name": "Donald Martinez",
+      "name": "Robert Hernandez",
+      "position": "DF",
+      "rating": 75,
+      "age": 31,
+      "value": 45394736
+    },
+    {
+      "name": "Donald Miller",
+      "position": "DF",
+      "rating": 72,
+      "age": 22,
+      "value": 60631578
+    },
+    {
+      "name": "Michael Taylor",
+      "position": "DF",
+      "rating": 69,
+      "age": 16,
+      "value": 69000000
+    },
+    {
+      "name": "James Jackson",
       "position": "MF",
-      "rating": 61,
-      "age": 18,
-      "value": 69347368
+      "rating": 72,
+      "age": 27,
+      "value": 61389473
     },
     {
-      "name": "David Moore",
-      "position": "MF",
-      "rating": 84,
-      "age": 33,
-      "value": 55705263
-    },
-    {
-      "name": "James Gonzalez",
+      "name": "Edward Brown",
       "position": "MF",
       "rating": 73,
-      "age": 25,
-      "value": 66852631
+      "age": 23,
+      "value": 71463157
     },
     {
-      "name": "Thomas Gonzalez",
+      "name": "William Moore",
       "position": "MF",
-      "rating": 63,
-      "age": 34,
-      "value": 39789473
+      "rating": 85,
+      "age": 17,
+      "value": 99315789
     },
     {
-      "name": "Kenneth Gonzalez",
+      "name": "David Johnson",
       "position": "MF",
-      "rating": 67,
-      "age": 25,
-      "value": 61357894
+      "rating": 65,
+      "age": 23,
+      "value": 63631578
     },
     {
-      "name": "Steven Taylor",
-      "position": "FW",
-      "rating": 90,
-      "age": 18,
+      "name": "David Williams",
+      "position": "MF",
+      "rating": 88,
+      "age": 16,
       "value": 100000000
     },
     {
-      "name": "Robert Williams",
-      "position": "FW",
-      "rating": 87,
-      "age": 33,
-      "value": 72118421
+      "name": "Ronald Johnson",
+      "position": "MF",
+      "rating": 75,
+      "age": 24,
+      "value": 71052631
     },
     {
-      "name": "Edward Smith",
+      "name": "Michael Wilson",
+      "position": "FW",
+      "rating": 90,
+      "age": 16,
+      "value": 100000000
+    },
+    {
+      "name": "David Lopez",
+      "position": "FW",
+      "rating": 60,
+      "age": 24,
+      "value": 71052631
+    },
+    {
+      "name": "Edward Hernandez",
+      "position": "FW",
+      "rating": 86,
+      "age": 16,
+      "value": 100000000
+    },
+    {
+      "name": "James Rodriguez",
       "position": "FW",
       "rating": 62,
-      "age": 33,
-      "value": 51394736
+      "age": 24,
+      "value": 73421052
     },
     {
-      "name": "David Martinez",
+      "name": "Daniel Lopez",
       "position": "FW",
-      "rating": 61,
-      "age": 30,
-      "value": 57789473
-    },
-    {
-      "name": "Mark Jones",
-      "position": "FW",
-      "rating": 82,
-      "age": 25,
-      "value": 93868421
+      "rating": 78,
+      "age": 26,
+      "value": 86210526
     }
   ]
 }

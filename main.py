@@ -1,4 +1,4 @@
-from team_management import create_teams, choose_team, display_squad, select_team
+from team_management import create_teams, choose_team, display_squad, select_team, generate_sponsorship_offers
 from fixtures import generate_fixture_list, save_fixture_list, get_current_week_fixtures, load_fixture_list
 from table import create_table
 from game_simulation import play_week, simulate_season
@@ -75,7 +75,7 @@ def finances_menu(player_team):
         if choice == "1":
             view_finances(player_team)
         elif choice == "2":
-            print("\nSponsorships feature not implemented yet.")
+            handle_sponsorships(player_team)
         elif choice == "3":
             handle_bank_loan(player_team)
         elif choice == "0":
@@ -95,6 +95,41 @@ def view_finances(team):
         print(f"Weeks left: {loan['weeks_left']}")
     else:
         print("\nNo active loans.")
+    
+    if team.finances['sponsorship']:
+        sponsorship = team.finances['sponsorship']
+        print("\nActive Sponsorship:")
+        print(f"Sponsor: {sponsorship['sponsor']}")
+        print(f"Weekly income: £{sponsorship['weekly_amount']:,}")
+        print(f"Weeks left: {sponsorship['weeks_left']}")
+    else:
+        print("\nNo active sponsorship.")
+
+def handle_sponsorships(team):
+    if team.finances['sponsorship']:
+        print("\nYou already have an active sponsorship. You can't have multiple sponsorships at the same time.")
+        return
+
+    offers = generate_sponsorship_offers()
+    
+    print("\nSponsorship Offers:")
+    for i, offer in enumerate(offers, 1):
+        print(f"{i}. {offer['sponsor']}")
+        print(f"   Weekly Amount: £{offer['weekly_amount']:,}")
+        print(f"   Duration: {offer['duration']} weeks")
+        print()
+    
+    choice = int(input("Enter the number of the sponsorship you want to accept (0 to decline all): ")) - 1
+    
+    if 0 <= choice < len(offers):
+        selected_offer = offers[choice]
+        team.add_sponsorship(selected_offer['sponsor'], selected_offer['weekly_amount'], selected_offer['duration'])
+        print(f"\nCongratulations! You have accepted the sponsorship offer from {selected_offer['sponsor']}.")
+        print(f"You will receive £{selected_offer['weekly_amount']:,} per week for {selected_offer['duration']} weeks.")
+    elif choice == -1:
+        print("\nYou have declined all sponsorship offers.")
+    else:
+        print("\nInvalid choice. No sponsorship accepted.")
 
 def handle_bank_loan(team):
     bank_names = [

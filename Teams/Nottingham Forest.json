@@ -2,144 +2,144 @@
   "name": "Nottingham Forest",
   "squad": [
     {
-      "name": "Brian Martin",
+      "name": "Daniel Martin",
       "position": "GK",
-      "rating": 74,
-      "age": 24,
-      "value": 46736842
+      "rating": 84,
+      "age": 17,
+      "value": 65431578
     },
     {
-      "name": "Donald Wilson",
+      "name": "Kenneth Lopez",
       "position": "GK",
-      "rating": 77,
-      "age": 29,
-      "value": 40526315
-    },
-    {
-      "name": "Edward Jones",
-      "position": "GK",
-      "rating": 60,
-      "age": 31,
-      "value": 29052631
-    },
-    {
-      "name": "James Moore",
-      "position": "DF",
-      "rating": 86,
-      "age": 24,
-      "value": 67894736
-    },
-    {
-      "name": "Daniel Taylor",
-      "position": "DF",
-      "rating": 65,
-      "age": 27,
-      "value": 46184210
-    },
-    {
-      "name": "James Martin",
-      "position": "DF",
-      "rating": 72,
-      "age": 34,
-      "value": 37894736
-    },
-    {
-      "name": "Michael Smith",
-      "position": "DF",
-      "rating": 66,
-      "age": 30,
-      "value": 41684210
-    },
-    {
-      "name": "Edward Davis",
-      "position": "DF",
-      "rating": 85,
-      "age": 18,
-      "value": 80526315
-    },
-    {
-      "name": "David Hernandez",
-      "position": "DF",
-      "rating": 61,
-      "age": 31,
-      "value": 36921052
-    },
-    {
-      "name": "Mark Rodriguez",
-      "position": "MF",
-      "rating": 75,
-      "age": 16,
-      "value": 90000000
-    },
-    {
-      "name": "John Jones",
-      "position": "MF",
-      "rating": 64,
-      "age": 25,
-      "value": 58610526
-    },
-    {
-      "name": "Richard Smith",
-      "position": "MF",
-      "rating": 89,
+      "rating": 84,
       "age": 21,
-      "value": 92747368
+      "value": 58357894
     },
     {
-      "name": "Brian Williams",
+      "name": "Daniel Thomas",
+      "position": "GK",
+      "rating": 70,
+      "age": 19,
+      "value": 51578947
+    },
+    {
+      "name": "Mark Taylor",
+      "position": "DF",
+      "rating": 62,
+      "age": 27,
+      "value": 44052631
+    },
+    {
+      "name": "Ronald Garcia",
+      "position": "DF",
+      "rating": 79,
+      "age": 22,
+      "value": 66526315
+    },
+    {
+      "name": "Thomas Williams",
+      "position": "DF",
+      "rating": 71,
+      "age": 30,
+      "value": 44842105
+    },
+    {
+      "name": "Charles Williams",
+      "position": "DF",
+      "rating": 77,
+      "age": 32,
+      "value": 44578947
+    },
+    {
+      "name": "John Jackson",
+      "position": "DF",
+      "rating": 78,
+      "age": 21,
+      "value": 67736842
+    },
+    {
+      "name": "Robert Miller",
+      "position": "DF",
+      "rating": 84,
+      "age": 33,
+      "value": 46421052
+    },
+    {
+      "name": "Edward Wilson",
+      "position": "MF",
+      "rating": 86,
+      "age": 23,
+      "value": 84189473
+    },
+    {
+      "name": "John Gonzalez",
+      "position": "MF",
+      "rating": 69,
+      "age": 34,
+      "value": 43578947
+    },
+    {
+      "name": "David Smith",
+      "position": "MF",
+      "rating": 90,
+      "age": 19,
+      "value": 99473684
+    },
+    {
+      "name": "Charles Jackson",
+      "position": "MF",
+      "rating": 66,
+      "age": 35,
+      "value": 39600000
+    },
+    {
+      "name": "Ronald Brown",
+      "position": "MF",
+      "rating": 86,
+      "age": 17,
+      "value": 100000000
+    },
+    {
+      "name": "Robert Jones",
       "position": "MF",
       "rating": 65,
-      "age": 27,
-      "value": 55421052
-    },
-    {
-      "name": "Anthony Smith",
-      "position": "MF",
-      "rating": 62,
-      "age": 18,
-      "value": 70484210
-    },
-    {
-      "name": "George Garcia",
-      "position": "MF",
-      "rating": 63,
-      "age": 26,
-      "value": 55705263
-    },
-    {
-      "name": "Daniel Miller",
-      "position": "FW",
-      "rating": 62,
-      "age": 24,
-      "value": 73421052
-    },
-    {
-      "name": "Charles Lopez",
-      "position": "FW",
-      "rating": 82,
-      "age": 26,
-      "value": 90631578
+      "age": 30,
+      "value": 49263157
     },
     {
       "name": "William Brown",
       "position": "FW",
-      "rating": 84,
+      "rating": 85,
+      "age": 28,
+      "value": 87236842
+    },
+    {
+      "name": "Michael Thomas",
+      "position": "FW",
+      "rating": 90,
+      "age": 35,
+      "value": 67500000
+    },
+    {
+      "name": "David Anderson",
+      "position": "FW",
+      "rating": 71,
       "age": 26,
-      "value": 92842105
+      "value": 78473684
     },
     {
-      "name": "William Thomas",
+      "name": "Edward Gonzalez",
       "position": "FW",
-      "rating": 63,
-      "age": 22,
-      "value": 79578947
+      "rating": 61,
+      "age": 25,
+      "value": 69828947
     },
     {
-      "name": "Ronald Williams",
+      "name": "Michael Wilson",
       "position": "FW",
-      "rating": 87,
-      "age": 30,
-      "value": 82421052
+      "rating": 83,
+      "age": 32,
+      "value": 72078947
     }
   ]
 }

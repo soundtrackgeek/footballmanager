@@ -2,144 +2,144 @@
   "name": "West Ham",
   "squad": [
     {
-      "name": "Robert Wilson",
+      "name": "Brian Jackson",
       "position": "GK",
-      "rating": 84,
-      "age": 29,
-      "value": 44210526
+      "rating": 80,
+      "age": 28,
+      "value": 43789473
     },
     {
-      "name": "Brian Davis",
+      "name": "Donald Johnson",
       "position": "GK",
-      "rating": 87,
-      "age": 23,
-      "value": 56778947
+      "rating": 70,
+      "age": 18,
+      "value": 53052631
+    },
+    {
+      "name": "Charles Anderson",
+      "position": "GK",
+      "rating": 68,
+      "age": 32,
+      "value": 31494736
     },
     {
       "name": "John Rodriguez",
-      "position": "GK",
-      "rating": 87,
-      "age": 33,
-      "value": 38463157
-    },
-    {
-      "name": "Ronald Lopez",
       "position": "DF",
-      "rating": 82,
-      "age": 31,
-      "value": 49631578
+      "rating": 78,
+      "age": 20,
+      "value": 69789473
     },
     {
-      "name": "John Jones",
-      "position": "DF",
-      "rating": 83,
-      "age": 22,
-      "value": 69894736
-    },
-    {
-      "name": "Charles Taylor",
-      "position": "DF",
-      "rating": 77,
-      "age": 16,
-      "value": 77000000
-    },
-    {
-      "name": "Daniel Taylor",
-      "position": "DF",
-      "rating": 80,
-      "age": 26,
-      "value": 58947368
-    },
-    {
-      "name": "George Anderson",
-      "position": "DF",
-      "rating": 70,
-      "age": 31,
-      "value": 42368421
-    },
-    {
-      "name": "Daniel Hernandez",
+      "name": "Mark Anderson",
       "position": "DF",
       "rating": 65,
-      "age": 21,
-      "value": 56447368
+      "age": 18,
+      "value": 61578947
     },
     {
-      "name": "John Smith",
-      "position": "MF",
-      "rating": 87,
-      "age": 19,
-      "value": 96157894
+      "name": "James Williams",
+      "position": "DF",
+      "rating": 69,
+      "age": 32,
+      "value": 39947368
     },
     {
-      "name": "Steven Gonzalez",
+      "name": "Donald Brown",
+      "position": "DF",
+      "rating": 60,
+      "age": 25,
+      "value": 45789473
+    },
+    {
+      "name": "Michael Thomas",
+      "position": "DF",
+      "rating": 66,
+      "age": 22,
+      "value": 55578947
+    },
+    {
+      "name": "Paul Anderson",
+      "position": "DF",
+      "rating": 73,
+      "age": 22,
+      "value": 61473684
+    },
+    {
+      "name": "Mark Rodriguez",
       "position": "MF",
-      "rating": 72,
+      "rating": 73,
+      "age": 35,
+      "value": 43800000
+    },
+    {
+      "name": "Mark Johnson",
+      "position": "MF",
+      "rating": 81,
+      "age": 16,
+      "value": 97200000
+    },
+    {
+      "name": "Edward Anderson",
+      "position": "MF",
+      "rating": 69,
+      "age": 31,
+      "value": 50115789
+    },
+    {
+      "name": "Richard Moore",
+      "position": "MF",
+      "rating": 83,
+      "age": 24,
+      "value": 78631578
+    },
+    {
+      "name": "Robert Garcia",
+      "position": "MF",
+      "rating": 70,
+      "age": 25,
+      "value": 64105263
+    },
+    {
+      "name": "Edward Taylor",
+      "position": "MF",
+      "rating": 74,
       "age": 20,
-      "value": 77305263
+      "value": 79452631
     },
     {
-      "name": "Edward Johnson",
-      "position": "MF",
-      "rating": 90,
+      "name": "Robert Jackson",
+      "position": "FW",
+      "rating": 85,
+      "age": 23,
+      "value": 100000000
+    },
+    {
+      "name": "George Martinez",
+      "position": "FW",
+      "rating": 72,
       "age": 17,
       "value": 100000000
     },
     {
-      "name": "Charles Anderson",
-      "position": "MF",
-      "rating": 78,
-      "age": 31,
-      "value": 56652631
-    },
-    {
-      "name": "Paul Gonzalez",
-      "position": "MF",
-      "rating": 62,
-      "age": 35,
-      "value": 37200000
-    },
-    {
-      "name": "George Williams",
-      "position": "MF",
-      "rating": 71,
-      "age": 35,
-      "value": 42600000
-    },
-    {
-      "name": "Richard Rodriguez",
+      "name": "Robert Johnson",
       "position": "FW",
-      "rating": 61,
+      "rating": 77,
       "age": 29,
-      "value": 60197368
+      "value": 75986842
     },
     {
-      "name": "Edward Garcia",
+      "name": "Edward Johnson",
       "position": "FW",
       "rating": 69,
-      "age": 23,
-      "value": 84434210
+      "age": 30,
+      "value": 65368421
     },
     {
-      "name": "Mark Garcia",
+      "name": "Kenneth Thomas",
       "position": "FW",
-      "rating": 62,
-      "age": 31,
-      "value": 56289473
-    },
-    {
-      "name": "Edward Garcia",
-      "position": "FW",
-      "rating": 89,
-      "age": 25,
-      "value": 100000000
-    },
-    {
-      "name": "Robert Taylor",
-      "position": "FW",
-      "rating": 62,
-      "age": 33,
-      "value": 51394736
+      "rating": 87,
+      "age": 29,
+      "value": 85855263
     }
   ]
 }

@@ -2,144 +2,144 @@
   "name": "Brighton",
   "squad": [
     {
-      "name": "Paul Anderson",
+      "name": "Charles Jones",
       "position": "GK",
-      "rating": 81,
-      "age": 26,
-      "value": 47747368
+      "rating": 88,
+      "age": 21,
+      "value": 61136842
     },
     {
-      "name": "Donald Jones",
+      "name": "Mark Jones",
       "position": "GK",
-      "rating": 63,
+      "rating": 73,
+      "age": 17,
+      "value": 56863157
+    },
+    {
+      "name": "Steven Garcia",
+      "position": "GK",
+      "rating": 67,
+      "age": 19,
+      "value": 49368421
+    },
+    {
+      "name": "George Jones",
+      "position": "DF",
+      "rating": 76,
       "age": 23,
-      "value": 41115789
+      "value": 62000000
     },
     {
-      "name": "Mark Martin",
-      "position": "GK",
-      "rating": 60,
-      "age": 18,
-      "value": 45473684
-    },
-    {
-      "name": "Mark Thomas",
+      "name": "Richard Brown",
       "position": "DF",
-      "rating": 75,
-      "age": 25,
-      "value": 57236842
+      "rating": 67,
+      "age": 30,
+      "value": 42315789
     },
     {
-      "name": "Donald Jones",
-      "position": "DF",
-      "rating": 90,
-      "age": 33,
-      "value": 49736842
-    },
-    {
-      "name": "Ronald Gonzalez",
-      "position": "DF",
-      "rating": 62,
-      "age": 33,
-      "value": 34263157
-    },
-    {
-      "name": "Donald Moore",
-      "position": "DF",
-      "rating": 60,
-      "age": 24,
-      "value": 47368421
-    },
-    {
-      "name": "Anthony Anderson",
-      "position": "DF",
-      "rating": 70,
-      "age": 27,
-      "value": 49736842
-    },
-    {
-      "name": "Mark Gonzalez",
+      "name": "Anthony Hernandez",
       "position": "DF",
       "rating": 68,
-      "age": 24,
-      "value": 53684210
+      "age": 30,
+      "value": 42947368
     },
     {
-      "name": "David Rodriguez",
+      "name": "David Wilson",
+      "position": "DF",
+      "rating": 83,
+      "age": 26,
+      "value": 61157894
+    },
+    {
+      "name": "David Jones",
+      "position": "DF",
+      "rating": 81,
+      "age": 19,
+      "value": 74605263
+    },
+    {
+      "name": "Thomas Miller",
+      "position": "DF",
+      "rating": 68,
+      "age": 27,
+      "value": 48315789
+    },
+    {
+      "name": "Charles Garcia",
       "position": "MF",
-      "rating": 80,
-      "age": 23,
-      "value": 78315789
+      "rating": 74,
+      "age": 30,
+      "value": 56084210
     },
     {
-      "name": "James Thomas",
+      "name": "Paul Jones",
+      "position": "MF",
+      "rating": 68,
+      "age": 18,
+      "value": 77305263
+    },
+    {
+      "name": "Michael Anderson",
       "position": "MF",
       "rating": 82,
-      "age": 30,
-      "value": 62147368
+      "age": 22,
+      "value": 82863157
     },
     {
-      "name": "Paul Jackson",
+      "name": "Anthony Smith",
       "position": "MF",
       "rating": 75,
-      "age": 29,
-      "value": 59210526
+      "age": 27,
+      "value": 63947368
     },
     {
-      "name": "Paul Davis",
+      "name": "John Davis",
       "position": "MF",
-      "rating": 90,
-      "age": 30,
-      "value": 68210526
+      "rating": 71,
+      "age": 21,
+      "value": 73989473
     },
     {
-      "name": "Steven Miller",
+      "name": "John Moore",
       "position": "MF",
-      "rating": 63,
-      "age": 18,
-      "value": 71621052
+      "rating": 66,
+      "age": 26,
+      "value": 58357894
     },
     {
-      "name": "Edward Williams",
-      "position": "MF",
+      "name": "Kenneth Smith",
+      "position": "FW",
+      "rating": 73,
+      "age": 22,
+      "value": 92210526
+    },
+    {
+      "name": "William Martin",
+      "position": "FW",
       "rating": 79,
-      "age": 25,
-      "value": 72347368
-    },
-    {
-      "name": "Paul Smith",
-      "position": "FW",
-      "rating": 77,
-      "age": 25,
-      "value": 88144736
-    },
-    {
-      "name": "David Taylor",
-      "position": "FW",
-      "rating": 68,
-      "age": 33,
-      "value": 56368421
-    },
-    {
-      "name": "Robert Jackson",
-      "position": "FW",
-      "rating": 86,
-      "age": 24,
+      "age": 20,
       "value": 100000000
     },
     {
-      "name": "Robert Smith",
+      "name": "Ronald Lopez",
       "position": "FW",
       "rating": 68,
-      "age": 31,
-      "value": 61736842
+      "age": 20,
+      "value": 91263157
     },
     {
-      "name": "Richard Moore",
+      "name": "Daniel Jackson",
       "position": "FW",
-      "rating": 69,
-      "age": 34,
-      "value": 54473684
+      "rating": 63,
+      "age": 30,
+      "value": 59684210
+    },
+    {
+      "name": "Robert Johnson",
+      "position": "FW",
+      "rating": 68,
+      "age": 17,
+      "value": 99315789
     }
   ]
 }

@@ -10,7 +10,8 @@ class Team:
         self.selected_players = []
         self.finances = {
             'bank_balance': random.randint(20_000_000, 100_000_000),
-            'loan': None
+            'loan': None,
+            'sponsorship': None
         }
 
     def add_player(self, player):
@@ -34,6 +35,14 @@ class Team:
             self.selected_players.extend(available_players[:count])
 
         return self.calculate_team_rating()
+
+    def add_sponsorship(self, sponsor, weekly_amount, duration):
+        self.finances['sponsorship'] = {
+            'sponsor': sponsor,
+            'weekly_amount': weekly_amount,
+            'duration': duration,
+            'weeks_left': duration
+        }
 
 def create_teams():
     team_names = [
@@ -128,3 +137,28 @@ def select_team(team):
 
 def auto_select_team(team):
     team.auto_select_team()
+
+def generate_sponsorship_offers():
+    business_names = [
+        "AirWave Airlines", "TechTron Solutions", "GreenLeaf Energy",
+        "MegaMart Stores", "SwiftStream Internet", "GlobalGear Sports",
+        "HealthHub Hospitals", "CrystalClear Beverages", "FutureFinance Bank",
+        "EcoEats Restaurants", "SkyHigh Construction", "BrightStar Electronics",
+        "RapidRide Automobiles", "CozyHome Furniture", "PetPals Supplies",
+        "FitFocus Gyms", "LuxeLook Fashion", "SmartStudy Education",
+        "TravelTrends Agency", "MediaMax Entertainment"
+    ]
+    
+    selected_businesses = random.sample(business_names, 3)
+    offers = []
+    
+    for business in selected_businesses:
+        weekly_amount = random.randint(50_000, 500_000)
+        duration = random.randint(10, 52)  # 10 weeks to 1 year
+        offers.append({
+            'sponsor': business,
+            'weekly_amount': weekly_amount,
+            'duration': duration
+        })
+    
+    return offers

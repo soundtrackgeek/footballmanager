@@ -22,7 +22,11 @@ Let's create a football manager game in python. I want to emulate the FA Premier
 
 + Let's add some more stats to players. I think we need Age and Value. Age can be between 16 and 35. Value can be between 0 and 100 million pounds. Value is calculated based on the rating of the player, the age and position. FW are worth most, then MF, then DF, then GK. The younger a player are the more value he has, but overall rating is most important.
 
-Let's add another menu option called "Finances". We'll have a submenu under here. 1. View Finances. 2. Sponsorships. 3. Bank Loan. View Finances just shows us an overall view of how much money we have. The others for now can just be placeholders when we add those later.
++ Let's add another menu option called "Finances". We'll have a submenu under here. 1. View Finances. 2. Sponsorships. 3. Bank Loan. View Finances just shows us an overall view of how much money we have. The others for now can just be placeholders when we add those later.
+
++ Let's work on that Bank Loan option. In here we'll be able to loan money from the bank. First you type in how much you want to loan. Then we can choose between 3 different banks. Come up with 10 random bank names and randomly choose 3 of them to choose from. When you choose a bank, you can see the terms. You can see how long the loan goes for, and how much interest, and also a calculation to see how much I have to pay each week.
+
+Let's work on sponsorships. When you go into that menu you are presented with 3 different sponsorships (You can come up with 20 random business names from which you display 3). So we can choose one of the sponsorship deals. When we do, we get the details on how much money they will give us each week and for how many weeks.
 
 what sponsorships we have and how much money they give us and any bank loan we might have. Sponsorships allow us to get sponsorships for the club. Create a random list of 20 fake company names
 

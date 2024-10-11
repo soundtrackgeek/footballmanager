@@ -2,144 +2,144 @@
   "name": "Luton",
   "squad": [
     {
-      "name": "James Moore",
+      "name": "Charles Gonzalez",
       "position": "GK",
       "rating": 78,
-      "age": 30,
-      "value": 39410526
+      "age": 20,
+      "value": 55831578
     },
     {
-      "name": "Steven Taylor",
+      "name": "Ronald Gonzalez",
       "position": "GK",
-      "rating": 74,
-      "age": 22,
-      "value": 49852631
+      "rating": 70,
+      "age": 17,
+      "value": 54526315
     },
     {
-      "name": "Richard Miller",
+      "name": "Brian Miller",
       "position": "GK",
-      "rating": 78,
+      "rating": 66,
+      "age": 20,
+      "value": 47242105
+    },
+    {
+      "name": "David Davis",
+      "position": "DF",
+      "rating": 82,
+      "age": 16,
+      "value": 82000000
+    },
+    {
+      "name": "Paul Wilson",
+      "position": "DF",
+      "rating": 86,
+      "age": 28,
+      "value": 58842105
+    },
+    {
+      "name": "Mark Miller",
+      "position": "DF",
+      "rating": 72,
+      "age": 18,
+      "value": 68210526
+    },
+    {
+      "name": "David Jones",
+      "position": "DF",
+      "rating": 70,
+      "age": 21,
+      "value": 60789473
+    },
+    {
+      "name": "Paul Davis",
+      "position": "DF",
+      "rating": 63,
       "age": 17,
-      "value": 60757894
+      "value": 61342105
     },
     {
-      "name": "Mark Lopez",
+      "name": "George Moore",
       "position": "DF",
-      "rating": 60,
-      "age": 35,
-      "value": 30000000
+      "rating": 72,
+      "age": 27,
+      "value": 51157894
     },
     {
-      "name": "George Martin",
-      "position": "DF",
-      "rating": 88,
-      "age": 17,
-      "value": 85684210
+      "name": "Richard Thomas",
+      "position": "MF",
+      "rating": 68,
+      "age": 27,
+      "value": 57978947
     },
     {
-      "name": "David Johnson",
-      "position": "DF",
-      "rating": 88,
-      "age": 31,
-      "value": 53263157
-    },
-    {
-      "name": "Thomas Brown",
-      "position": "DF",
+      "name": "Richard Jones",
+      "position": "MF",
       "rating": 67,
-      "age": 35,
-      "value": 33500000
+      "age": 22,
+      "value": 67705263
     },
     {
-      "name": "Michael Thomas",
-      "position": "DF",
-      "rating": 75,
+      "name": "Kenneth Martin",
+      "position": "MF",
+      "rating": 74,
+      "age": 33,
+      "value": 49073684
+    },
+    {
+      "name": "Robert Williams",
+      "position": "MF",
+      "rating": 70,
+      "age": 26,
+      "value": 61894736
+    },
+    {
+      "name": "Kenneth Williams",
+      "position": "MF",
+      "rating": 86,
       "age": 22,
-      "value": 63157894
+      "value": 86905263
     },
     {
       "name": "Kenneth Jackson",
-      "position": "DF",
-      "rating": 89,
-      "age": 28,
-      "value": 60894736
-    },
-    {
-      "name": "James Garcia",
       "position": "MF",
-      "rating": 89,
-      "age": 30,
-      "value": 67452631
+      "rating": 75,
+      "age": 29,
+      "value": 59210526
     },
     {
-      "name": "John Jones",
-      "position": "MF",
-      "rating": 87,
-      "age": 35,
-      "value": 52200000
-    },
-    {
-      "name": "Edward Gonzalez",
-      "position": "MF",
-      "rating": 70,
-      "age": 20,
-      "value": 75157894
-    },
-    {
-      "name": "Thomas Williams",
-      "position": "MF",
-      "rating": 71,
-      "age": 30,
-      "value": 53810526
-    },
-    {
-      "name": "Paul Taylor",
-      "position": "MF",
-      "rating": 81,
-      "age": 25,
-      "value": 74178947
-    },
-    {
-      "name": "George Martinez",
-      "position": "MF",
-      "rating": 74,
-      "age": 17,
-      "value": 86463157
-    },
-    {
-      "name": "Steven Garcia",
+      "name": "Paul Jackson",
       "position": "FW",
-      "rating": 64,
-      "age": 33,
-      "value": 53052631
+      "rating": 68,
+      "age": 18,
+      "value": 96631578
+    },
+    {
+      "name": "George Gonzalez",
+      "position": "FW",
+      "rating": 80,
+      "age": 31,
+      "value": 72631578
+    },
+    {
+      "name": "Robert Jones",
+      "position": "FW",
+      "rating": 88,
+      "age": 28,
+      "value": 90315789
     },
     {
       "name": "David Garcia",
       "position": "FW",
-      "rating": 73,
-      "age": 22,
-      "value": 92210526
+      "rating": 65,
+      "age": 31,
+      "value": 59013157
     },
     {
-      "name": "Robert Garcia",
+      "name": "William Davis",
       "position": "FW",
-      "rating": 71,
-      "age": 30,
-      "value": 67263157
-    },
-    {
-      "name": "Charles Brown",
-      "position": "FW",
-      "rating": 73,
-      "age": 21,
-      "value": 95092105
-    },
-    {
-      "name": "Edward Johnson",
-      "position": "FW",
-      "rating": 73,
-      "age": 33,
-      "value": 60513157
+      "rating": 80,
+      "age": 26,
+      "value": 88421052
     }
   ]
 }

@@ -2,144 +2,144 @@
   "name": "Bournemouth",
   "squad": [
     {
-      "name": "Brian Jackson",
-      "position": "GK",
-      "rating": 72,
-      "age": 27,
-      "value": 40926315
-    },
-    {
-      "name": "Michael Martin",
+      "name": "Robert Davis",
       "position": "GK",
       "rating": 70,
-      "age": 33,
-      "value": 30947368
+      "age": 23,
+      "value": 45684210
     },
     {
-      "name": "Michael Miller",
+      "name": "Michael Brown",
       "position": "GK",
-      "rating": 85,
-      "age": 21,
-      "value": 59052631
-    },
-    {
-      "name": "James Rodriguez",
-      "position": "DF",
-      "rating": 81,
-      "age": 33,
-      "value": 44763157
-    },
-    {
-      "name": "Ronald Jackson",
-      "position": "DF",
-      "rating": 87,
-      "age": 20,
-      "value": 77842105
-    },
-    {
-      "name": "Thomas Rodriguez",
-      "position": "DF",
       "rating": 72,
-      "age": 26,
-      "value": 53052631
+      "age": 22,
+      "value": 48505263
     },
     {
-      "name": "David Wilson",
+      "name": "David Gonzalez",
+      "position": "GK",
+      "rating": 88,
+      "age": 28,
+      "value": 48168421
+    },
+    {
+      "name": "James Brown",
       "position": "DF",
-      "rating": 72,
+      "rating": 84,
       "age": 25,
-      "value": 54947368
+      "value": 64105263
     },
     {
-      "name": "Daniel Wilson",
+      "name": "Donald Miller",
       "position": "DF",
-      "rating": 90,
+      "rating": 74,
+      "age": 21,
+      "value": 64263157
+    },
+    {
+      "name": "Robert Hernandez",
+      "position": "DF",
+      "rating": 77,
+      "age": 30,
+      "value": 48631578
+    },
+    {
+      "name": "Mark Thomas",
+      "position": "DF",
+      "rating": 76,
       "age": 24,
-      "value": 71052631
+      "value": 60000000
     },
     {
-      "name": "Mark Williams",
+      "name": "James Anderson",
       "position": "DF",
-      "rating": 90,
-      "age": 32,
-      "value": 52105263
+      "rating": 85,
+      "age": 29,
+      "value": 55921052
     },
     {
-      "name": "Kenneth Anderson",
-      "position": "MF",
-      "rating": 70,
-      "age": 16,
-      "value": 84000000
+      "name": "Michael Anderson",
+      "position": "DF",
+      "rating": 80,
+      "age": 21,
+      "value": 69473684
     },
     {
-      "name": "Steven Hernandez",
+      "name": "Anthony Smith",
       "position": "MF",
-      "rating": 73,
-      "age": 35,
-      "value": 43800000
+      "rating": 68,
+      "age": 18,
+      "value": 77305263
     },
     {
       "name": "Anthony Gonzalez",
       "position": "MF",
-      "rating": 82,
+      "rating": 76,
       "age": 20,
-      "value": 88042105
+      "value": 81600000
     },
     {
-      "name": "Brian Williams",
-      "position": "MF",
-      "rating": 84,
-      "age": 34,
-      "value": 53052631
-    },
-    {
-      "name": "Richard Moore",
-      "position": "MF",
-      "rating": 61,
-      "age": 35,
-      "value": 36600000
-    },
-    {
-      "name": "Steven Anderson",
+      "name": "David Gonzalez",
       "position": "MF",
       "rating": 74,
-      "age": 26,
-      "value": 65431578
+      "age": 18,
+      "value": 84126315
     },
     {
-      "name": "John Taylor",
+      "name": "David Anderson",
+      "position": "MF",
+      "rating": 90,
+      "age": 23,
+      "value": 88105263
+    },
+    {
+      "name": "Donald Rodriguez",
+      "position": "MF",
+      "rating": 71,
+      "age": 18,
+      "value": 80715789
+    },
+    {
+      "name": "Kenneth Williams",
+      "position": "MF",
+      "rating": 82,
+      "age": 33,
+      "value": 54378947
+    },
+    {
+      "name": "Donald Rodriguez",
+      "position": "FW",
+      "rating": 60,
+      "age": 27,
+      "value": 63947368
+    },
+    {
+      "name": "Steven Lopez",
+      "position": "FW",
+      "rating": 82,
+      "age": 17,
+      "value": 100000000
+    },
+    {
+      "name": "Daniel Martinez",
       "position": "FW",
       "rating": 64,
-      "age": 18,
-      "value": 90947368
-    },
-    {
-      "name": "George Brown",
-      "position": "FW",
-      "rating": 63,
-      "age": 31,
-      "value": 57197368
-    },
-    {
-      "name": "Kenneth Lopez",
-      "position": "FW",
-      "rating": 68,
-      "age": 24,
-      "value": 80526315
-    },
-    {
-      "name": "Donald Gonzalez",
-      "position": "FW",
-      "rating": 85,
-      "age": 26,
-      "value": 93947368
-    },
-    {
-      "name": "William Williams",
-      "position": "FW",
-      "rating": 70,
       "age": 30,
-      "value": 66315789
+      "value": 60631578
+    },
+    {
+      "name": "Brian Brown",
+      "position": "FW",
+      "rating": 82,
+      "age": 33,
+      "value": 67973684
+    },
+    {
+      "name": "William Anderson",
+      "position": "FW",
+      "rating": 83,
+      "age": 16,
+      "value": 100000000
     }
   ]
 }

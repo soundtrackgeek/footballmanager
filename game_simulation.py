@@ -86,7 +86,33 @@ def play_week(fixtures, table, current_week, player_team):
             for scorer, minute in away_scorers:
                 print(f"  {scorer.name} ({minute}')")
 
+    # Update finances for all teams
+    for team in table.teams:
+        update_team_finances(team)
+
     return current_week + 1
+
+def update_team_finances(team):
+    # Handle sponsorship
+    if team.finances['sponsorship']:
+        sponsorship = team.finances['sponsorship']
+        team.finances['bank_balance'] += sponsorship['weekly_amount']
+        sponsorship['weeks_left'] -= 1
+        
+        if sponsorship['weeks_left'] == 0:
+            print(f"\n{team.name}'s sponsorship with {sponsorship['sponsor']} has ended.")
+            team.finances['sponsorship'] = None
+
+    # Handle loan repayment
+    if team.finances['loan']:
+        loan = team.finances['loan']
+        team.finances['bank_balance'] -= loan['weekly_payment']
+        loan['remaining'] -= loan['weekly_payment']
+        loan['weeks_left'] -= 1
+        
+        if loan['weeks_left'] == 0:
+            print(f"\n{team.name} has fully repaid their loan.")
+            team.finances['loan'] = None
 
 def simulate_season(fixtures, table, start_week, player_team):
     total_weeks = len(fixtures)
