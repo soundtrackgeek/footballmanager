@@ -2,104 +2,144 @@
   "name": "Bournemouth",
   "squad": [
     {
-      "name": "George Hernandez",
+      "name": "Charles Davis",
       "position": "GK",
-      "rating": 60
+      "rating": 64,
+      "age": 24,
+      "value": 40421052
     },
     {
-      "name": "Charles Thomas",
+      "name": "Ronald Thomas",
       "position": "GK",
-      "rating": 69
+      "rating": 66,
+      "age": 21,
+      "value": 45852631
     },
     {
-      "name": "George Hernandez",
+      "name": "George Lopez",
       "position": "GK",
-      "rating": 89
+      "rating": 61,
+      "age": 17,
+      "value": 47515789
     },
     {
-      "name": "Thomas Hernandez",
+      "name": "Mark Martinez",
       "position": "DF",
-      "rating": 83
+      "rating": 75,
+      "age": 30,
+      "value": 47368421
     },
     {
-      "name": "Kenneth Lopez",
+      "name": "William Brown",
       "position": "DF",
-      "rating": 66
-    },
-    {
-      "name": "Michael Hernandez",
-      "position": "DF",
-      "rating": 79
-    },
-    {
-      "name": "James Thomas",
-      "position": "DF",
-      "rating": 83
+      "rating": 84,
+      "age": 31,
+      "value": 50842105
     },
     {
       "name": "Ronald Thomas",
       "position": "DF",
-      "rating": 62
+      "rating": 85,
+      "age": 22,
+      "value": 71578947
     },
     {
-      "name": "Richard Miller",
+      "name": "George Anderson",
       "position": "DF",
-      "rating": 88
+      "rating": 67,
+      "age": 22,
+      "value": 56421052
     },
     {
-      "name": "Daniel Smith",
+      "name": "Richard Gonzalez",
+      "position": "DF",
+      "rating": 81,
+      "age": 24,
+      "value": 63947368
+    },
+    {
+      "name": "David Davis",
+      "position": "DF",
+      "rating": 77,
+      "age": 18,
+      "value": 72947368
+    },
+    {
+      "name": "Michael Jones",
       "position": "MF",
-      "rating": 61
+      "rating": 64,
+      "age": 29,
+      "value": 50526315
     },
     {
-      "name": "Edward Moore",
+      "name": "George Davis",
       "position": "MF",
-      "rating": 62
+      "rating": 71,
+      "age": 19,
+      "value": 78473684
     },
     {
-      "name": "Steven Thomas",
+      "name": "Richard Jones",
       "position": "MF",
-      "rating": 62
+      "rating": 67,
+      "age": 34,
+      "value": 42315789
     },
     {
-      "name": "Steven Hernandez",
+      "name": "William Johnson",
       "position": "MF",
-      "rating": 78
+      "rating": 84,
+      "age": 16,
+      "value": 100000000
     },
     {
-      "name": "Steven Smith",
+      "name": "George Martin",
       "position": "MF",
-      "rating": 70
+      "rating": 61,
+      "age": 25,
+      "value": 55863157
     },
     {
-      "name": "Thomas Jones",
+      "name": "Brian Brown",
       "position": "MF",
-      "rating": 87
+      "rating": 77,
+      "age": 34,
+      "value": 48631578
     },
     {
-      "name": "Charles Wilson",
+      "name": "James Johnson",
       "position": "FW",
-      "rating": 69
+      "rating": 72,
+      "age": 27,
+      "value": 76736842
     },
     {
-      "name": "David Taylor",
+      "name": "Donald Brown",
       "position": "FW",
-      "rating": 87
+      "rating": 88,
+      "age": 22,
+      "value": 100000000
     },
     {
-      "name": "Brian Wilson",
+      "name": "William Gonzalez",
       "position": "FW",
-      "rating": 80
+      "rating": 66,
+      "age": 20,
+      "value": 88578947
     },
     {
-      "name": "John Miller",
+      "name": "David Hernandez",
       "position": "FW",
-      "rating": 78
+      "rating": 78,
+      "age": 16,
+      "value": 100000000
     },
     {
-      "name": "David Brown",
+      "name": "Mark Johnson",
       "position": "FW",
-      "rating": 61
+      "rating": 68,
+      "age": 18,
+      "value": 96631578
     }
   ]
 }

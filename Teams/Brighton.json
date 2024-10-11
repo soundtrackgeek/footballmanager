@@ -2,104 +2,144 @@
   "name": "Brighton",
   "squad": [
     {
-      "name": "Anthony Smith",
+      "name": "Ronald Thomas",
       "position": "GK",
-      "rating": 77
+      "rating": 77,
+      "age": 20,
+      "value": 55115789
     },
     {
-      "name": "Mark Hernandez",
+      "name": "Paul Davis",
       "position": "GK",
-      "rating": 63
+      "rating": 62,
+      "age": 22,
+      "value": 41768421
     },
     {
-      "name": "Richard Anderson",
+      "name": "Michael Johnson",
       "position": "GK",
-      "rating": 61
+      "rating": 79,
+      "age": 29,
+      "value": 41578947
     },
     {
-      "name": "Paul Thomas",
+      "name": "Richard Martinez",
       "position": "DF",
-      "rating": 66
+      "rating": 84,
+      "age": 17,
+      "value": 81789473
     },
     {
-      "name": "John Thomas",
+      "name": "Donald Moore",
       "position": "DF",
-      "rating": 71
+      "rating": 82,
+      "age": 26,
+      "value": 60421052
     },
     {
-      "name": "Ronald Martin",
+      "name": "Edward Brown",
       "position": "DF",
-      "rating": 78
+      "rating": 90,
+      "age": 31,
+      "value": 54473684
     },
     {
-      "name": "Daniel Davis",
+      "name": "Anthony Brown",
       "position": "DF",
-      "rating": 90
+      "rating": 78,
+      "age": 21,
+      "value": 67736842
     },
     {
-      "name": "Edward Gonzalez",
+      "name": "Ronald Rodriguez",
       "position": "DF",
-      "rating": 69
+      "rating": 83,
+      "age": 31,
+      "value": 50236842
     },
     {
-      "name": "James Davis",
+      "name": "David Williams",
       "position": "DF",
-      "rating": 79
+      "rating": 63,
+      "age": 35,
+      "value": 31500000
     },
     {
-      "name": "Edward Moore",
+      "name": "Robert Martin",
       "position": "MF",
-      "rating": 83
+      "rating": 70,
+      "age": 33,
+      "value": 46421052
     },
     {
-      "name": "Anthony Miller",
+      "name": "David Anderson",
       "position": "MF",
-      "rating": 65
+      "rating": 81,
+      "age": 20,
+      "value": 86968421
     },
     {
-      "name": "Steven Taylor",
+      "name": "Ronald Smith",
       "position": "MF",
-      "rating": 85
+      "rating": 80,
+      "age": 31,
+      "value": 58105263
     },
     {
-      "name": "Richard Williams",
+      "name": "Daniel Hernandez",
       "position": "MF",
-      "rating": 90
+      "rating": 81,
+      "age": 17,
+      "value": 94642105
     },
     {
-      "name": "Robert Brown",
+      "name": "Mark Williams",
       "position": "MF",
-      "rating": 67
+      "rating": 65,
+      "age": 28,
+      "value": 53368421
     },
     {
-      "name": "John Thomas",
+      "name": "James Smith",
       "position": "MF",
-      "rating": 75
+      "rating": 83,
+      "age": 22,
+      "value": 83873684
     },
     {
-      "name": "Edward Lopez",
+      "name": "Anthony Martinez",
       "position": "FW",
-      "rating": 87
+      "rating": 77,
+      "age": 19,
+      "value": 100000000
     },
     {
-      "name": "George Anderson",
+      "name": "Mark Williams",
       "position": "FW",
-      "rating": 67
+      "rating": 61,
+      "age": 17,
+      "value": 89092105
     },
     {
-      "name": "Anthony Rodriguez",
+      "name": "John Martinez",
       "position": "FW",
-      "rating": 72
+      "rating": 80,
+      "age": 34,
+      "value": 63157894
     },
     {
-      "name": "Mark Thomas",
+      "name": "Mark Davis",
       "position": "FW",
-      "rating": 89
+      "rating": 62,
+      "age": 27,
+      "value": 66078947
     },
     {
-      "name": "Brian Lopez",
+      "name": "Brian Taylor",
       "position": "FW",
-      "rating": 62
+      "rating": 87,
+      "age": 24,
+      "value": 100000000
     }
   ]
 }

@@ -2,104 +2,144 @@
   "name": "Aston Villa",
   "squad": [
     {
-      "name": "Paul Thomas",
+      "name": "Anthony Brown",
       "position": "GK",
-      "rating": 72
+      "rating": 64,
+      "age": 35,
+      "value": 25600000
     },
     {
-      "name": "Brian Williams",
+      "name": "Kenneth Lopez",
       "position": "GK",
-      "rating": 83
+      "rating": 82,
+      "age": 32,
+      "value": 37978947
     },
     {
-      "name": "Steven Garcia",
+      "name": "Edward Thomas",
       "position": "GK",
-      "rating": 89
+      "rating": 61,
+      "age": 19,
+      "value": 44947368
     },
     {
-      "name": "Kenneth Wilson",
+      "name": "Thomas Jones",
       "position": "DF",
-      "rating": 82
+      "rating": 64,
+      "age": 28,
+      "value": 43789473
     },
     {
-      "name": "Paul Williams",
+      "name": "Ronald Lopez",
       "position": "DF",
-      "rating": 63
+      "rating": 88,
+      "age": 34,
+      "value": 46315789
     },
     {
-      "name": "John Taylor",
+      "name": "John Lopez",
       "position": "DF",
-      "rating": 86
+      "rating": 86,
+      "age": 32,
+      "value": 49789473
     },
     {
-      "name": "Thomas Brown",
+      "name": "Robert Moore",
       "position": "DF",
-      "rating": 66
-    },
-    {
-      "name": "Richard Smith",
-      "position": "DF",
-      "rating": 76
-    },
-    {
-      "name": "Paul Martin",
-      "position": "DF",
-      "rating": 84
-    },
-    {
-      "name": "George Williams",
-      "position": "MF",
-      "rating": 65
-    },
-    {
-      "name": "Michael Miller",
-      "position": "MF",
-      "rating": 88
-    },
-    {
-      "name": "Thomas Miller",
-      "position": "MF",
-      "rating": 85
+      "rating": 83,
+      "age": 22,
+      "value": 69894736
     },
     {
       "name": "Brian Gonzalez",
+      "position": "DF",
+      "rating": 68,
+      "age": 18,
+      "value": 64421052
+    },
+    {
+      "name": "William Lopez",
+      "position": "DF",
+      "rating": 61,
+      "age": 22,
+      "value": 51368421
+    },
+    {
+      "name": "Steven Jackson",
       "position": "MF",
-      "rating": 90
+      "rating": 88,
+      "age": 20,
+      "value": 94484210
     },
     {
-      "name": "Brian Martin",
+      "name": "Ronald Williams",
       "position": "MF",
-      "rating": 83
+      "rating": 87,
+      "age": 28,
+      "value": 71431578
     },
     {
-      "name": "Edward Gonzalez",
+      "name": "Paul Lopez",
       "position": "MF",
-      "rating": 73
+      "rating": 74,
+      "age": 17,
+      "value": 86463157
     },
     {
-      "name": "Ronald Jackson",
-      "position": "FW",
-      "rating": 64
+      "name": "Steven Gonzalez",
+      "position": "MF",
+      "rating": 74,
+      "age": 19,
+      "value": 81789473
     },
     {
-      "name": "Richard Williams",
-      "position": "FW",
-      "rating": 68
+      "name": "David Smith",
+      "position": "MF",
+      "rating": 60,
+      "age": 19,
+      "value": 66315789
     },
     {
-      "name": "George Brown",
-      "position": "FW",
-      "rating": 70
+      "name": "Steven Johnson",
+      "position": "MF",
+      "rating": 67,
+      "age": 23,
+      "value": 65589473
     },
     {
-      "name": "Thomas Martin",
+      "name": "Anthony Martin",
       "position": "FW",
-      "rating": 73
+      "rating": 86,
+      "age": 16,
+      "value": 100000000
     },
     {
-      "name": "Kenneth Garcia",
+      "name": "Robert Garcia",
       "position": "FW",
-      "rating": 84
+      "rating": 76,
+      "age": 32,
+      "value": 66000000
+    },
+    {
+      "name": "James Taylor",
+      "position": "FW",
+      "rating": 72,
+      "age": 33,
+      "value": 59684210
+    },
+    {
+      "name": "Kenneth Johnson",
+      "position": "FW",
+      "rating": 72,
+      "age": 31,
+      "value": 65368421
+    },
+    {
+      "name": "Richard Jones",
+      "position": "FW",
+      "rating": 90,
+      "age": 34,
+      "value": 71052631
     }
   ]
 }

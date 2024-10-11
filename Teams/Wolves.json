@@ -2,104 +2,144 @@
   "name": "Wolves",
   "squad": [
     {
-      "name": "David Lopez",
+      "name": "Edward Martinez",
       "position": "GK",
-      "rating": 68
+      "rating": 82,
+      "age": 17,
+      "value": 63873684
     },
     {
-      "name": "Paul Rodriguez",
+      "name": "Thomas Anderson",
       "position": "GK",
-      "rating": 85
+      "rating": 77,
+      "age": 32,
+      "value": 35663157
     },
     {
-      "name": "Kenneth Johnson",
+      "name": "Paul Gonzalez",
       "position": "GK",
-      "rating": 84
+      "rating": 83,
+      "age": 18,
+      "value": 62905263
     },
     {
-      "name": "Anthony Lopez",
+      "name": "Charles Rodriguez",
       "position": "DF",
-      "rating": 73
+      "rating": 63,
+      "age": 29,
+      "value": 41447368
     },
     {
-      "name": "Anthony Wilson",
+      "name": "Steven Moore",
       "position": "DF",
-      "rating": 74
+      "rating": 82,
+      "age": 29,
+      "value": 53947368
     },
     {
-      "name": "Michael Lopez",
+      "name": "Robert Gonzalez",
       "position": "DF",
-      "rating": 77
+      "rating": 78,
+      "age": 33,
+      "value": 43105263
     },
     {
-      "name": "Robert Wilson",
+      "name": "Thomas Jackson",
       "position": "DF",
-      "rating": 82
+      "rating": 64,
+      "age": 26,
+      "value": 47157894
     },
     {
-      "name": "Anthony Thomas",
+      "name": "Donald Martin",
       "position": "DF",
-      "rating": 86
+      "rating": 67,
+      "age": 27,
+      "value": 47605263
     },
     {
-      "name": "Edward Wilson",
+      "name": "Donald Martinez",
       "position": "DF",
-      "rating": 84
+      "rating": 74,
+      "age": 28,
+      "value": 50631578
     },
     {
-      "name": "William Miller",
+      "name": "John Hernandez",
       "position": "MF",
-      "rating": 63
+      "rating": 68,
+      "age": 16,
+      "value": 81600000
     },
     {
-      "name": "George Martin",
+      "name": "Thomas Taylor",
       "position": "MF",
-      "rating": 68
+      "rating": 76,
+      "age": 34,
+      "value": 48000000
     },
     {
-      "name": "Ronald Martin",
+      "name": "Edward Taylor",
       "position": "MF",
-      "rating": 69
+      "rating": 79,
+      "age": 25,
+      "value": 72347368
     },
     {
-      "name": "Brian Johnson",
+      "name": "Brian Garcia",
       "position": "MF",
-      "rating": 88
+      "rating": 88,
+      "age": 16,
+      "value": 100000000
     },
     {
-      "name": "George Moore",
+      "name": "Steven Anderson",
       "position": "MF",
-      "rating": 81
+      "rating": 62,
+      "age": 28,
+      "value": 50905263
     },
     {
-      "name": "Brian Taylor",
+      "name": "Michael Taylor",
       "position": "MF",
-      "rating": 62
+      "rating": 84,
+      "age": 31,
+      "value": 61010526
     },
     {
-      "name": "Robert Garcia",
+      "name": "John Brown",
       "position": "FW",
-      "rating": 60
+      "rating": 77,
+      "age": 32,
+      "value": 66868421
     },
     {
-      "name": "Richard Brown",
+      "name": "Donald Gonzalez",
       "position": "FW",
-      "rating": 78
+      "rating": 62,
+      "age": 16,
+      "value": 93000000
     },
     {
-      "name": "William Williams",
+      "name": "Daniel Hernandez",
       "position": "FW",
-      "rating": 66
+      "rating": 67,
+      "age": 22,
+      "value": 84631578
     },
     {
-      "name": "Mark Martinez",
+      "name": "Paul Jackson",
       "position": "FW",
-      "rating": 65
+      "rating": 74,
+      "age": 21,
+      "value": 96394736
     },
     {
-      "name": "Charles Martin",
+      "name": "Daniel Wilson",
       "position": "FW",
-      "rating": 72
+      "rating": 62,
+      "age": 32,
+      "value": 53842105
     }
   ]
 }

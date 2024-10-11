@@ -2,104 +2,144 @@
   "name": "Manchester City",
   "squad": [
     {
-      "name": "Steven Lopez",
+      "name": "Edward Brown",
       "position": "GK",
-      "rating": 65
+      "rating": 74,
+      "age": 27,
+      "value": 42063157
     },
     {
-      "name": "Paul Martinez",
+      "name": "William Martin",
       "position": "GK",
-      "rating": 61
+      "rating": 83,
+      "age": 22,
+      "value": 55915789
     },
     {
-      "name": "James Rodriguez",
+      "name": "David Thomas",
       "position": "GK",
-      "rating": 67
+      "rating": 61,
+      "age": 20,
+      "value": 43663157
     },
     {
-      "name": "Daniel Jackson",
+      "name": "George Smith",
       "position": "DF",
-      "rating": 67
+      "rating": 89,
+      "age": 22,
+      "value": 74947368
     },
     {
-      "name": "William Gonzalez",
+      "name": "Charles Brown",
       "position": "DF",
-      "rating": 74
+      "rating": 86,
+      "age": 17,
+      "value": 83736842
     },
     {
-      "name": "Charles Jackson",
+      "name": "Edward Rodriguez",
       "position": "DF",
-      "rating": 76
+      "rating": 63,
+      "age": 19,
+      "value": 58026315
     },
     {
-      "name": "Kenneth Garcia",
+      "name": "George Miller",
       "position": "DF",
-      "rating": 84
+      "rating": 66,
+      "age": 18,
+      "value": 62526315
     },
     {
-      "name": "David Brown",
+      "name": "Steven Brown",
       "position": "DF",
-      "rating": 79
+      "rating": 72,
+      "age": 18,
+      "value": 68210526
     },
     {
-      "name": "Mark Garcia",
+      "name": "Michael Martin",
       "position": "DF",
-      "rating": 88
+      "rating": 85,
+      "age": 30,
+      "value": 53684210
     },
     {
-      "name": "Robert Thomas",
+      "name": "Brian Taylor",
       "position": "MF",
-      "rating": 85
+      "rating": 60,
+      "age": 27,
+      "value": 51157894
     },
     {
-      "name": "Brian Martin",
+      "name": "Steven Jones",
       "position": "MF",
-      "rating": 68
+      "rating": 68,
+      "age": 28,
+      "value": 55831578
     },
     {
-      "name": "Richard Smith",
+      "name": "Daniel Garcia",
       "position": "MF",
-      "rating": 80
+      "rating": 60,
+      "age": 33,
+      "value": 39789473
     },
     {
-      "name": "William Wilson",
+      "name": "Thomas Smith",
       "position": "MF",
-      "rating": 78
+      "rating": 78,
+      "age": 19,
+      "value": 86210526
     },
     {
-      "name": "Charles Lopez",
+      "name": "William Hernandez",
       "position": "MF",
-      "rating": 77
+      "rating": 66,
+      "age": 35,
+      "value": 39600000
     },
     {
-      "name": "Steven Smith",
+      "name": "Steven Davis",
       "position": "MF",
-      "rating": 90
+      "rating": 65,
+      "age": 19,
+      "value": 71842105
     },
     {
-      "name": "Anthony Miller",
+      "name": "William Brown",
       "position": "FW",
-      "rating": 87
+      "rating": 78,
+      "age": 28,
+      "value": 80052631
     },
     {
-      "name": "Mark Taylor",
+      "name": "Edward Davis",
       "position": "FW",
-      "rating": 82
+      "rating": 62,
+      "age": 24,
+      "value": 73421052
     },
     {
-      "name": "John Thomas",
+      "name": "David Martin",
       "position": "FW",
-      "rating": 71
+      "rating": 84,
+      "age": 34,
+      "value": 66315789
     },
     {
-      "name": "Michael Johnson",
+      "name": "Robert Martin",
       "position": "FW",
-      "rating": 75
+      "rating": 60,
+      "age": 18,
+      "value": 85263157
     },
     {
-      "name": "Michael Brown",
+      "name": "Ronald Taylor",
       "position": "FW",
-      "rating": 74
+      "rating": 63,
+      "age": 25,
+      "value": 72118421
     }
   ]
 }

@@ -2,104 +2,144 @@
   "name": "West Ham",
   "squad": [
     {
-      "name": "Brian Jones",
+      "name": "Richard Anderson",
       "position": "GK",
-      "rating": 84
+      "rating": 81,
+      "age": 27,
+      "value": 46042105
     },
     {
-      "name": "Anthony Rodriguez",
+      "name": "Mark Miller",
       "position": "GK",
-      "rating": 77
+      "rating": 82,
+      "age": 33,
+      "value": 36252631
     },
     {
-      "name": "Daniel Williams",
+      "name": "Edward Hernandez",
       "position": "GK",
-      "rating": 81
+      "rating": 77,
+      "age": 17,
+      "value": 59978947
     },
     {
-      "name": "William Jackson",
+      "name": "Thomas Miller",
       "position": "DF",
-      "rating": 78
+      "rating": 76,
+      "age": 25,
+      "value": 57999999
     },
     {
-      "name": "William Brown",
+      "name": "Charles Jones",
       "position": "DF",
-      "rating": 86
+      "rating": 68,
+      "age": 27,
+      "value": 48315789
     },
     {
-      "name": "Kenneth Anderson",
+      "name": "Mark Anderson",
       "position": "DF",
-      "rating": 63
+      "rating": 68,
+      "age": 22,
+      "value": 57263157
     },
     {
-      "name": "Anthony Jackson",
+      "name": "Daniel Jackson",
       "position": "DF",
-      "rating": 60
+      "rating": 74,
+      "age": 28,
+      "value": 50631578
     },
     {
-      "name": "James Miller",
+      "name": "George Johnson",
       "position": "DF",
-      "rating": 78
+      "rating": 80,
+      "age": 29,
+      "value": 52631578
     },
     {
-      "name": "Mark Thomas",
+      "name": "Robert Thomas",
       "position": "DF",
-      "rating": 74
+      "rating": 65,
+      "age": 21,
+      "value": 56447368
     },
     {
-      "name": "Anthony Anderson",
+      "name": "Anthony Davis",
       "position": "MF",
-      "rating": 78
+      "rating": 62,
+      "age": 30,
+      "value": 46989473
     },
     {
-      "name": "Charles Moore",
+      "name": "Michael Thomas",
       "position": "MF",
-      "rating": 64
+      "rating": 84,
+      "age": 31,
+      "value": 61010526
     },
     {
-      "name": "Michael Jackson",
+      "name": "George Miller",
       "position": "MF",
-      "rating": 85
+      "rating": 88,
+      "age": 23,
+      "value": 86147368
     },
     {
-      "name": "Anthony Johnson",
+      "name": "Anthony Wilson",
       "position": "MF",
-      "rating": 82
+      "rating": 75,
+      "age": 22,
+      "value": 75789473
     },
     {
-      "name": "David Miller",
+      "name": "Daniel Brown",
       "position": "MF",
-      "rating": 89
+      "rating": 75,
+      "age": 31,
+      "value": 54473684
     },
     {
-      "name": "William Wilson",
+      "name": "Richard Jackson",
       "position": "MF",
-      "rating": 76
+      "rating": 84,
+      "age": 20,
+      "value": 90189473
     },
     {
-      "name": "Robert Davis",
+      "name": "Michael Jones",
       "position": "FW",
-      "rating": 87
+      "rating": 88,
+      "age": 27,
+      "value": 93789473
     },
     {
-      "name": "Paul Thomas",
+      "name": "Anthony Martin",
       "position": "FW",
-      "rating": 82
+      "rating": 77,
+      "age": 29,
+      "value": 75986842
     },
     {
-      "name": "Daniel Rodriguez",
+      "name": "David Lopez",
       "position": "FW",
-      "rating": 72
+      "rating": 68,
+      "age": 35,
+      "value": 51000000
     },
     {
-      "name": "Charles Thomas",
+      "name": "Paul Davis",
       "position": "FW",
-      "rating": 81
+      "rating": 62,
+      "age": 26,
+      "value": 68526315
     },
     {
-      "name": "George Martinez",
+      "name": "Anthony Lopez",
       "position": "FW",
-      "rating": 82
+      "rating": 62,
+      "age": 20,
+      "value": 83210526
     }
   ]
 }

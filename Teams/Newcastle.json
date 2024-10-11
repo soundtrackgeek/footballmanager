@@ -2,104 +2,144 @@
   "name": "Newcastle",
   "squad": [
     {
-      "name": "Michael Taylor",
+      "name": "Edward Jones",
       "position": "GK",
-      "rating": 60
+      "rating": 86,
+      "age": 33,
+      "value": 38021052
     },
     {
-      "name": "Kenneth Lopez",
+      "name": "Mark Brown",
       "position": "GK",
-      "rating": 76
+      "rating": 77,
+      "age": 32,
+      "value": 35663157
     },
     {
-      "name": "Brian Wilson",
+      "name": "Anthony Rodriguez",
       "position": "GK",
-      "rating": 88
+      "rating": 88,
+      "age": 22,
+      "value": 59284210
     },
     {
-      "name": "Robert Rodriguez",
+      "name": "Richard Martin",
       "position": "DF",
-      "rating": 84
+      "rating": 88,
+      "age": 16,
+      "value": 88000000
     },
     {
-      "name": "Steven Brown",
+      "name": "Ronald Williams",
       "position": "DF",
-      "rating": 60
+      "rating": 88,
+      "age": 34,
+      "value": 46315789
     },
     {
-      "name": "Edward Lopez",
+      "name": "John Miller",
       "position": "DF",
-      "rating": 68
+      "rating": 90,
+      "age": 19,
+      "value": 82894736
     },
     {
-      "name": "Donald Thomas",
+      "name": "James Jackson",
       "position": "DF",
-      "rating": 76
+      "rating": 76,
+      "age": 29,
+      "value": 50000000
     },
     {
-      "name": "Ronald Miller",
+      "name": "Ronald Wilson",
       "position": "DF",
-      "rating": 74
+      "rating": 65,
+      "age": 29,
+      "value": 42763157
     },
     {
-      "name": "Donald Davis",
+      "name": "John Brown",
       "position": "DF",
-      "rating": 70
+      "rating": 82,
+      "age": 19,
+      "value": 75526315
     },
     {
-      "name": "James Thomas",
+      "name": "David Anderson",
       "position": "MF",
-      "rating": 71
+      "rating": 74,
+      "age": 34,
+      "value": 46736842
     },
     {
-      "name": "Paul Hernandez",
+      "name": "Robert Anderson",
       "position": "MF",
-      "rating": 74
+      "rating": 62,
+      "age": 20,
+      "value": 66568421
     },
     {
-      "name": "John Smith",
+      "name": "Michael Wilson",
       "position": "MF",
-      "rating": 70
+      "rating": 82,
+      "age": 35,
+      "value": 49200000
     },
     {
-      "name": "Thomas Thomas",
+      "name": "Paul Martinez",
       "position": "MF",
-      "rating": 77
+      "rating": 85,
+      "age": 31,
+      "value": 61736842
     },
     {
-      "name": "Ronald Brown",
+      "name": "Daniel Smith",
       "position": "MF",
-      "rating": 73
+      "rating": 75,
+      "age": 16,
+      "value": 90000000
     },
     {
-      "name": "Thomas Johnson",
+      "name": "Michael Jackson",
       "position": "MF",
-      "rating": 87
+      "rating": 67,
+      "age": 31,
+      "value": 48663157
     },
     {
-      "name": "Daniel Taylor",
+      "name": "Ronald Thomas",
       "position": "FW",
-      "rating": 72
+      "rating": 75,
+      "age": 28,
+      "value": 76973684
     },
     {
-      "name": "David Martinez",
+      "name": "Kenneth Garcia",
       "position": "FW",
-      "rating": 89
+      "rating": 71,
+      "age": 29,
+      "value": 70065789
     },
     {
-      "name": "Ronald Smith",
+      "name": "Anthony Gonzalez",
       "position": "FW",
-      "rating": 82
+      "rating": 90,
+      "age": 17,
+      "value": 100000000
     },
     {
-      "name": "Paul Smith",
+      "name": "Brian Martin",
       "position": "FW",
-      "rating": 87
+      "rating": 63,
+      "age": 30,
+      "value": 59684210
     },
     {
-      "name": "George Moore",
+      "name": "Thomas Taylor",
       "position": "FW",
-      "rating": 66
+      "rating": 88,
+      "age": 20,
+      "value": 100000000
     }
   ]
 }

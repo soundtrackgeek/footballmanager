@@ -1,12 +1,7 @@
 import random
 import json
 import os
-
-class Player:
-    def __init__(self, name, position, rating):
-        self.name = name
-        self.position = position
-        self.rating = rating
+from player import Player, Position
 
 class Team:
     def __init__(self, name):
@@ -23,7 +18,7 @@ class Team:
         return sum(player.rating for player in self.selected_players) / len(self.selected_players)
 
     def auto_select_team(self):
-        required_positions = {"GK": 1, "DF": 4, "MF": 4, "FW": 2}
+        required_positions = {Position.GK: 1, Position.DF: 4, Position.MF: 4, Position.FW: 2}
         self.selected_players = []
 
         for position, count in required_positions.items():
@@ -49,32 +44,22 @@ def create_teams():
         save_team_to_file(team)
     return teams
 
-def generate_random_rating():
-    return random.randint(60, 90)
-
-def generate_player(position):
-    first_names = ["John", "David", "Michael", "James", "William", "Robert", "Richard", "Thomas", "Charles", "Daniel",
-                   "Paul", "Mark", "Donald", "George", "Kenneth", "Steven", "Edward", "Brian", "Ronald", "Anthony"]
-    last_names = ["Smith", "Johnson", "Williams", "Brown", "Jones", "Garcia", "Miller", "Davis", "Rodriguez", "Martinez",
-                  "Hernandez", "Lopez", "Gonzalez", "Wilson", "Anderson", "Thomas", "Taylor", "Moore", "Jackson", "Martin"]
-    return Player(f"{random.choice(first_names)} {random.choice(last_names)}", position, generate_random_rating())
-
 def generate_squad(team):
     positions = {
-        "GK": 3,
-        "DF": 6,
-        "MF": 6,
-        "FW": 5
+        Position.GK: 3,
+        Position.DF: 6,
+        Position.MF: 6,
+        Position.FW: 5
     }
     for position, count in positions.items():
         for _ in range(count):
-            player = generate_player(position)
+            player = Player.generate_player(position)
             team.add_player(player)
 
 def save_team_to_file(team):
     team_data = {
         "name": team.name,
-        "squad": [{"name": player.name, "position": player.position, "rating": player.rating} for player in team.squad]
+        "squad": [{"name": player.name, "position": player.position.name, "rating": player.rating, "age": player.age, "value": player.value} for player in team.squad]
     }
     
     file_path = os.path.join("Teams", f"{team.name}.json")
@@ -99,22 +84,22 @@ def choose_team(teams):
 def display_squad(team):
     print(f"\n{team.name} Squad:")
     for i, player in enumerate(team.squad, 1):
-        print(f"{i}. {player.name} - {player.position} - Rating: {player.rating}")
+        print(f"{i}. {player.name} - {player.position.name} - Rating: {player.rating} - Age: {player.age} - Value: £{player.value:,}")
 
 def select_team(team):
-    required_positions = {"GK": 1, "DF": 4, "MF": 4, "FW": 2}
+    required_positions = {Position.GK: 1, Position.DF: 4, Position.MF: 4, Position.FW: 2}
     selected_players = []
 
     print(f"\nSelect 11 players for {team.name}:")
     
     for position, count in required_positions.items():
-        print(f"\nSelect {count} {position}(s):")
+        print(f"\nSelect {count} {position.name}(s):")
         available_players = [p for p in team.squad if p.position == position and p not in selected_players]
         
         for _ in range(count):
             display_squad = [p for p in available_players if p not in selected_players]
             for i, player in enumerate(display_squad, 1):
-                print(f"{i}. {player.name} - Rating: {player.rating}")
+                print(f"{i}. {player.name} - Rating: {player.rating} - Age: {player.age} - Value: £{player.value:,}")
             
             while True:
                 try:
@@ -130,7 +115,7 @@ def select_team(team):
     team.selected_players = selected_players
     print("\nSelected Team:")
     for player in team.selected_players:
-        print(f"{player.name} - {player.position} - Rating: {player.rating}")
+        print(f"{player.name} - {player.position.name} - Rating: {player.rating} - Age: {player.age} - Value: £{player.value:,}")
     
     team_rating = team.calculate_team_rating()
     print(f"\nTeam Rating: {team_rating:.2f}")

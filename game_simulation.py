@@ -1,9 +1,10 @@
 import random
 from team_management import select_team, auto_select_team
 from stats import stats
+from player import Position
 
 def determine_goal_scorer(team):
-    weights = {'FW': 0.6, 'MF': 0.3, 'DF': 0.08, 'GK': 0.02}
+    weights = {Position.FW: 0.6, Position.MF: 0.3, Position.DF: 0.08, Position.GK: 0.02}
     players = team.selected_players
     weighted_players = [(p, weights[p.position] * p.rating) for p in players]
     total_weight = sum(w for _, w in weighted_players)

@@ -2,104 +2,144 @@
   "name": "Tottenham",
   "squad": [
     {
-      "name": "Mark Taylor",
+      "name": "John Moore",
       "position": "GK",
-      "rating": 82
+      "rating": 86,
+      "age": 17,
+      "value": 66989473
     },
     {
-      "name": "Kenneth Thomas",
+      "name": "Ronald Moore",
       "position": "GK",
-      "rating": 77
+      "rating": 60,
+      "age": 34,
+      "value": 25263157
     },
     {
-      "name": "David Gonzalez",
+      "name": "Daniel Brown",
       "position": "GK",
-      "rating": 90
+      "rating": 79,
+      "age": 33,
+      "value": 34926315
     },
     {
-      "name": "William Davis",
+      "name": "Brian Moore",
       "position": "DF",
-      "rating": 67
+      "rating": 73,
+      "age": 16,
+      "value": 73000000
     },
     {
-      "name": "Paul Taylor",
+      "name": "Kenneth Brown",
       "position": "DF",
-      "rating": 88
+      "rating": 78,
+      "age": 20,
+      "value": 69789473
     },
     {
-      "name": "David Jones",
+      "name": "David Lopez",
       "position": "DF",
-      "rating": 70
+      "rating": 80,
+      "age": 17,
+      "value": 77894736
     },
     {
-      "name": "David Anderson",
+      "name": "James Hernandez",
       "position": "DF",
-      "rating": 80
+      "rating": 68,
+      "age": 35,
+      "value": 34000000
     },
     {
-      "name": "James Williams",
+      "name": "Thomas Martin",
       "position": "DF",
-      "rating": 69
+      "rating": 89,
+      "age": 29,
+      "value": 58552631
     },
     {
-      "name": "Donald Martinez",
+      "name": "Richard Thomas",
       "position": "DF",
-      "rating": 85
+      "rating": 79,
+      "age": 23,
+      "value": 64447368
     },
     {
-      "name": "Robert Martin",
+      "name": "Michael Gonzalez",
       "position": "MF",
-      "rating": 63
+      "rating": 74,
+      "age": 31,
+      "value": 53747368
     },
     {
-      "name": "William Jackson",
+      "name": "Mark Lopez",
       "position": "MF",
-      "rating": 70
+      "rating": 74,
+      "age": 16,
+      "value": 88800000
     },
     {
-      "name": "Michael Jackson",
+      "name": "James Jones",
       "position": "MF",
-      "rating": 67
-    },
-    {
-      "name": "Donald Hernandez",
-      "position": "MF",
-      "rating": 63
-    },
-    {
-      "name": "Charles Lopez",
-      "position": "MF",
-      "rating": 79
-    },
-    {
-      "name": "John Jackson",
-      "position": "MF",
-      "rating": 64
-    },
-    {
-      "name": "Mark Taylor",
-      "position": "FW",
-      "rating": 79
+      "rating": 61,
+      "age": 19,
+      "value": 67421052
     },
     {
       "name": "Brian Thomas",
-      "position": "FW",
-      "rating": 81
+      "position": "MF",
+      "rating": 80,
+      "age": 29,
+      "value": 63157894
     },
     {
-      "name": "Anthony Garcia",
-      "position": "FW",
-      "rating": 71
+      "name": "Mark Brown",
+      "position": "MF",
+      "rating": 62,
+      "age": 28,
+      "value": 50905263
     },
     {
-      "name": "Anthony Moore",
-      "position": "FW",
-      "rating": 73
+      "name": "Edward Taylor",
+      "position": "MF",
+      "rating": 64,
+      "age": 24,
+      "value": 60631578
     },
     {
-      "name": "Brian Anderson",
+      "name": "William Gonzalez",
       "position": "FW",
-      "rating": 87
+      "rating": 66,
+      "age": 35,
+      "value": 49500000
+    },
+    {
+      "name": "David Anderson",
+      "position": "FW",
+      "rating": 68,
+      "age": 33,
+      "value": 56368421
+    },
+    {
+      "name": "James Thomas",
+      "position": "FW",
+      "rating": 80,
+      "age": 24,
+      "value": 94736842
+    },
+    {
+      "name": "Richard Rodriguez",
+      "position": "FW",
+      "rating": 68,
+      "age": 28,
+      "value": 69789473
+    },
+    {
+      "name": "Charles Rodriguez",
+      "position": "FW",
+      "rating": 68,
+      "age": 29,
+      "value": 67105263
     }
   ]
 }

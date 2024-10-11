@@ -2,104 +2,144 @@
   "name": "Burnley",
   "squad": [
     {
-      "name": "Steven Davis",
+      "name": "Kenneth Hernandez",
       "position": "GK",
-      "rating": 88
+      "rating": 64,
+      "age": 24,
+      "value": 40421052
     },
     {
-      "name": "Edward Gonzalez",
+      "name": "Steven Martinez",
       "position": "GK",
-      "rating": 69
+      "rating": 76,
+      "age": 18,
+      "value": 57600000
     },
     {
-      "name": "Paul Jackson",
+      "name": "Steven Thomas",
       "position": "GK",
-      "rating": 75
+      "rating": 70,
+      "age": 33,
+      "value": 30947368
     },
     {
-      "name": "Paul Rodriguez",
+      "name": "Paul Hernandez",
       "position": "DF",
-      "rating": 64
+      "rating": 71,
+      "age": 19,
+      "value": 65394736
     },
     {
-      "name": "George Martin",
+      "name": "David Smith",
       "position": "DF",
-      "rating": 80
+      "rating": 76,
+      "age": 21,
+      "value": 66000000
     },
     {
-      "name": "Donald Jones",
+      "name": "James Davis",
       "position": "DF",
-      "rating": 74
+      "rating": 77,
+      "age": 32,
+      "value": 44578947
+    },
+    {
+      "name": "George Williams",
+      "position": "DF",
+      "rating": 79,
+      "age": 18,
+      "value": 74842105
+    },
+    {
+      "name": "Daniel Smith",
+      "position": "DF",
+      "rating": 86,
+      "age": 26,
+      "value": 63368421
+    },
+    {
+      "name": "Robert Brown",
+      "position": "DF",
+      "rating": 89,
+      "age": 26,
+      "value": 65578947
+    },
+    {
+      "name": "James Brown",
+      "position": "MF",
+      "rating": 87,
+      "age": 30,
+      "value": 65936842
+    },
+    {
+      "name": "Edward Williams",
+      "position": "MF",
+      "rating": 84,
+      "age": 27,
+      "value": 71621052
+    },
+    {
+      "name": "Brian Martin",
+      "position": "MF",
+      "rating": 72,
+      "age": 30,
+      "value": 54568421
+    },
+    {
+      "name": "Edward Anderson",
+      "position": "MF",
+      "rating": 67,
+      "age": 35,
+      "value": 40200000
+    },
+    {
+      "name": "Michael Jackson",
+      "position": "MF",
+      "rating": 87,
+      "age": 16,
+      "value": 100000000
     },
     {
       "name": "Daniel Williams",
-      "position": "DF",
-      "rating": 63
-    },
-    {
-      "name": "Michael Lopez",
-      "position": "DF",
-      "rating": 88
-    },
-    {
-      "name": "James Thomas",
-      "position": "DF",
-      "rating": 69
-    },
-    {
-      "name": "George Wilson",
       "position": "MF",
-      "rating": 73
+      "rating": 89,
+      "age": 28,
+      "value": 73073684
     },
     {
-      "name": "Donald Garcia",
-      "position": "MF",
-      "rating": 61
-    },
-    {
-      "name": "Robert Moore",
-      "position": "MF",
-      "rating": 72
-    },
-    {
-      "name": "John Brown",
-      "position": "MF",
-      "rating": 86
-    },
-    {
-      "name": "Michael Anderson",
-      "position": "MF",
-      "rating": 89
-    },
-    {
-      "name": "Kenneth Garcia",
-      "position": "MF",
-      "rating": 63
-    },
-    {
-      "name": "Paul Johnson",
+      "name": "William Wilson",
       "position": "FW",
-      "rating": 79
+      "rating": 90,
+      "age": 19,
+      "value": 100000000
     },
     {
-      "name": "Anthony Martin",
+      "name": "Thomas Johnson",
       "position": "FW",
-      "rating": 84
+      "rating": 66,
+      "age": 26,
+      "value": 72947368
     },
     {
-      "name": "Paul Anderson",
+      "name": "John Taylor",
       "position": "FW",
-      "rating": 60
+      "rating": 68,
+      "age": 35,
+      "value": 51000000
     },
     {
-      "name": "Richard Anderson",
+      "name": "John Rodriguez",
       "position": "FW",
-      "rating": 73
+      "rating": 76,
+      "age": 28,
+      "value": 78000000
     },
     {
-      "name": "Donald Garcia",
+      "name": "Robert Taylor",
       "position": "FW",
-      "rating": 61
+      "rating": 88,
+      "age": 25,
+      "value": 100000000
     }
   ]
 }
