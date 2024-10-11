@@ -28,3 +28,6 @@ Let's create a football manager game in python. I want to emulate the FA Premier
 
 + Let's work on sponsorships. When you go into that menu you are presented with 3 different sponsorships (You can come up with 20 random business names from which you display 3). So we can choose one of the sponsorship deals. When we do, we get the details on how much money they will give us each week and for how many weeks.
 
++ Let's keep a list of stadiums and their maximum attendance for each club. Use the proper statium names and proper attendance numbers. For each home game, the fans fill the stadiums. Sometimes it's almost full and sometimes, there's less. This will be used for financial reasons later.
+
+Lets add some financial things to happen every week. So after every gameweek, we can have a summary screen of things happening. For example if we have home games, the fans fill the stadiums, sometimes almost full and sometimes there's less, but each fan buys a ticket to get in, so use realistic ticket prices, and calculate how much money each club makes in a gameweek and add it to the finances.

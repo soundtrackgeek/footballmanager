@@ -47,9 +47,25 @@ def simulate_game(home_team, away_team):
 
     return home_goals, away_goals, home_scorers, away_scorers
 
+def calculate_ticket_revenue(team, attendance):
+    # Define ticket prices based on team prestige (you can adjust these values)
+    ticket_prices = {
+        "Manchester City": 75, "Liverpool": 70, "Manchester United": 70, "Arsenal": 65,
+        "Chelsea": 65, "Tottenham": 60, "Newcastle": 55, "West Ham": 55,
+        "Aston Villa": 50, "Brighton": 50, "Everton": 45, "Wolves": 45,
+        "Crystal Palace": 40, "Fulham": 40, "Brentford": 35, "Nottingham Forest": 35,
+        "Bournemouth": 30, "Burnley": 30, "Sheffield United": 30, "Luton": 25
+    }
+    
+    ticket_price = ticket_prices.get(team.name, 40)  # Default to 40 if team not found
+    return attendance * ticket_price
+
 def play_week(fixtures, table, current_week, player_team):
     week_fixtures = fixtures[current_week - 1]["matches"]
     print(f"\nWeek {current_week} Results:")
+    
+    weekly_financial_summary = {}
+    
     for match in week_fixtures:
         home_team_name = match["home"]
         away_team_name = match["away"]
@@ -76,7 +92,18 @@ def play_week(fixtures, table, current_week, player_team):
         stats.update_goal_scorers(away_scorers)
         stats.update_club_stats(home_team_name, away_team_name, home_goals, away_goals)
         
+        # Calculate attendance and ticket revenue
+        attendance = home_team.calculate_match_attendance()
+        ticket_revenue = calculate_ticket_revenue(home_team, attendance)
+        
+        # Update financial summary
+        if home_team_name not in weekly_financial_summary:
+            weekly_financial_summary[home_team_name] = {'ticket_revenue': 0, 'sponsorship': 0, 'loan_payment': 0}
+        weekly_financial_summary[home_team_name]['ticket_revenue'] += ticket_revenue
+        
         print(f"\n{home_team_name} {home_goals} - {away_goals} {away_team_name}")
+        print(f"Attendance: {attendance:,}")
+        print(f"Ticket Revenue: £{ticket_revenue:,}")
         if home_scorers:
             print(f"{home_team_name} scorers:")
             for scorer, minute in home_scorers:
@@ -88,15 +115,30 @@ def play_week(fixtures, table, current_week, player_team):
 
     # Update finances for all teams
     for team in table.teams:
-        update_team_finances(team)
+        update_team_finances(team, weekly_financial_summary)
+
+    # Display weekly financial summary
+    print("\nWeekly Financial Summary:")
+    for team_name, finances in weekly_financial_summary.items():
+        print(f"\n{team_name}:")
+        print(f"  Ticket Revenue: £{finances['ticket_revenue']:,}")
+        print(f"  Sponsorship Income: £{finances['sponsorship']:,}")
+        print(f"  Loan Payment: £{finances['loan_payment']:,}")
+        net_income = finances['ticket_revenue'] + finances['sponsorship'] - finances['loan_payment']
+        print(f"  Net Income: £{net_income:,}")
 
     return current_week + 1
 
-def update_team_finances(team):
+def update_team_finances(team, weekly_financial_summary):
+    if team.name not in weekly_financial_summary:
+        weekly_financial_summary[team.name] = {'ticket_revenue': 0, 'sponsorship': 0, 'loan_payment': 0}
+    
     # Handle sponsorship
     if team.finances['sponsorship']:
         sponsorship = team.finances['sponsorship']
-        team.finances['bank_balance'] += sponsorship['weekly_amount']
+        sponsorship_income = sponsorship['weekly_amount']
+        team.finances['bank_balance'] += sponsorship_income
+        weekly_financial_summary[team.name]['sponsorship'] = sponsorship_income
         sponsorship['weeks_left'] -= 1
         
         if sponsorship['weeks_left'] == 0:
@@ -106,13 +148,18 @@ def update_team_finances(team):
     # Handle loan repayment
     if team.finances['loan']:
         loan = team.finances['loan']
-        team.finances['bank_balance'] -= loan['weekly_payment']
-        loan['remaining'] -= loan['weekly_payment']
+        loan_payment = loan['weekly_payment']
+        team.finances['bank_balance'] -= loan_payment
+        weekly_financial_summary[team.name]['loan_payment'] = loan_payment
+        loan['remaining'] -= loan_payment
         loan['weeks_left'] -= 1
         
         if loan['weeks_left'] == 0:
             print(f"\n{team.name} has fully repaid their loan.")
             team.finances['loan'] = None
+
+    # Add ticket revenue to bank balance
+    team.finances['bank_balance'] += weekly_financial_summary[team.name]['ticket_revenue']
 
 def simulate_season(fixtures, table, start_week, player_team):
     total_weeks = len(fixtures)

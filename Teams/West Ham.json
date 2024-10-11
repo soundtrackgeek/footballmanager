@@ -2,144 +2,144 @@
   "name": "West Ham",
   "squad": [
     {
-      "name": "Edward Taylor",
+      "name": "Richard Thomas",
       "position": "GK",
-      "rating": 85,
-      "age": 21,
-      "value": 59052631
-    },
-    {
-      "name": "Donald Smith",
-      "position": "GK",
-      "rating": 63,
-      "age": 30,
-      "value": 31831578
-    },
-    {
-      "name": "Daniel Moore",
-      "position": "GK",
-      "rating": 78,
+      "rating": 70,
       "age": 24,
-      "value": 49263157
-    },
-    {
-      "name": "Ronald Taylor",
-      "position": "DF",
-      "rating": 63,
-      "age": 34,
-      "value": 33157894
-    },
-    {
-      "name": "James Johnson",
-      "position": "DF",
-      "rating": 63,
-      "age": 33,
-      "value": 34815789
-    },
-    {
-      "name": "William Lopez",
-      "position": "DF",
-      "rating": 64,
-      "age": 33,
-      "value": 35368421
-    },
-    {
-      "name": "Donald Anderson",
-      "position": "DF",
-      "rating": 79,
-      "age": 28,
-      "value": 54052631
-    },
-    {
-      "name": "Mark Martin",
-      "position": "DF",
-      "rating": 76,
-      "age": 27,
-      "value": 54000000
-    },
-    {
-      "name": "William Brown",
-      "position": "DF",
-      "rating": 81,
-      "age": 20,
-      "value": 72473684
-    },
-    {
-      "name": "Robert Johnson",
-      "position": "MF",
-      "rating": 67,
-      "age": 29,
-      "value": 52894736
-    },
-    {
-      "name": "Donald Davis",
-      "position": "MF",
-      "rating": 73,
-      "age": 22,
-      "value": 73768421
-    },
-    {
-      "name": "Robert Wilson",
-      "position": "MF",
-      "rating": 61,
-      "age": 24,
-      "value": 57789473
-    },
-    {
-      "name": "Thomas Smith",
-      "position": "MF",
-      "rating": 79,
-      "age": 33,
-      "value": 52389473
-    },
-    {
-      "name": "Daniel Anderson",
-      "position": "MF",
-      "rating": 82,
-      "age": 25,
-      "value": 75094736
-    },
-    {
-      "name": "Edward Brown",
-      "position": "MF",
-      "rating": 64,
-      "age": 31,
-      "value": 46484210
+      "value": 44210526
     },
     {
       "name": "Michael Wilson",
-      "position": "FW",
-      "rating": 65,
-      "age": 16,
-      "value": 97500000
+      "position": "GK",
+      "rating": 75,
+      "age": 24,
+      "value": 47368421
     },
     {
-      "name": "Steven Rodriguez",
-      "position": "FW",
-      "rating": 87,
-      "age": 29,
-      "value": 85855263
+      "name": "Thomas Lopez",
+      "position": "GK",
+      "rating": 71,
+      "age": 32,
+      "value": 32884210
     },
     {
-      "name": "George Anderson",
-      "position": "FW",
-      "rating": 76,
+      "name": "Kenneth Johnson",
+      "position": "DF",
+      "rating": 63,
       "age": 17,
-      "value": 100000000
+      "value": 61342105
     },
     {
-      "name": "Donald Miller",
+      "name": "Robert Thomas",
+      "position": "DF",
+      "rating": 72,
+      "age": 20,
+      "value": 64421052
+    },
+    {
+      "name": "Charles Johnson",
+      "position": "DF",
+      "rating": 69,
+      "age": 34,
+      "value": 36315789
+    },
+    {
+      "name": "Robert Jackson",
+      "position": "DF",
+      "rating": 72,
+      "age": 26,
+      "value": 53052631
+    },
+    {
+      "name": "David Garcia",
+      "position": "DF",
+      "rating": 89,
+      "age": 28,
+      "value": 60894736
+    },
+    {
+      "name": "Kenneth Smith",
+      "position": "DF",
+      "rating": 64,
+      "age": 20,
+      "value": 57263157
+    },
+    {
+      "name": "Ronald Gonzalez",
+      "position": "MF",
+      "rating": 78,
+      "age": 22,
+      "value": 78821052
+    },
+    {
+      "name": "George Smith",
+      "position": "MF",
+      "rating": 65,
+      "age": 34,
+      "value": 41052631
+    },
+    {
+      "name": "Brian Gonzalez",
+      "position": "MF",
+      "rating": 74,
+      "age": 23,
+      "value": 72442105
+    },
+    {
+      "name": "David Brown",
+      "position": "MF",
+      "rating": 86,
+      "age": 22,
+      "value": 86905263
+    },
+    {
+      "name": "Robert Smith",
+      "position": "MF",
+      "rating": 60,
+      "age": 21,
+      "value": 62526315
+    },
+    {
+      "name": "Michael Johnson",
+      "position": "MF",
+      "rating": 77,
+      "age": 18,
+      "value": 87536842
+    },
+    {
+      "name": "Robert Miller",
       "position": "FW",
       "rating": 73,
-      "age": 35,
-      "value": 54750000
+      "age": 31,
+      "value": 66276315
     },
     {
-      "name": "Paul Williams",
+      "name": "Thomas Miller",
       "position": "FW",
-      "rating": 83,
-      "age": 16,
+      "rating": 64,
+      "age": 28,
+      "value": 65684210
+    },
+    {
+      "name": "Anthony Smith",
+      "position": "FW",
+      "rating": 85,
+      "age": 27,
+      "value": 90592105
+    },
+    {
+      "name": "Kenneth Miller",
+      "position": "FW",
+      "rating": 87,
+      "age": 18,
       "value": 100000000
+    },
+    {
+      "name": "Robert Thomas",
+      "position": "FW",
+      "rating": 75,
+      "age": 23,
+      "value": 91776315
     }
   ],
   "stadium": {

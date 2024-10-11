@@ -2,144 +2,144 @@
   "name": "Nottingham Forest",
   "squad": [
     {
-      "name": "Edward Jackson",
+      "name": "James Anderson",
       "position": "GK",
-      "rating": 80,
-      "age": 31,
-      "value": 38736842
+      "rating": 70,
+      "age": 29,
+      "value": 36842105
     },
     {
-      "name": "Steven Garcia",
+      "name": "Anthony Wilson",
       "position": "GK",
-      "rating": 79,
-      "age": 32,
-      "value": 36589473
-    },
-    {
-      "name": "Daniel Garcia",
-      "position": "GK",
-      "rating": 85,
-      "age": 34,
-      "value": 35789473
-    },
-    {
-      "name": "Thomas Martin",
-      "position": "DF",
       "rating": 75,
-      "age": 34,
-      "value": 39473684
+      "age": 21,
+      "value": 52105263
     },
     {
-      "name": "Edward Smith",
-      "position": "DF",
-      "rating": 82,
-      "age": 32,
-      "value": 47473684
-    },
-    {
-      "name": "Charles Taylor",
-      "position": "DF",
-      "rating": 80,
-      "age": 32,
-      "value": 46315789
-    },
-    {
-      "name": "Edward Taylor",
-      "position": "DF",
+      "name": "Mark Smith",
+      "position": "GK",
       "rating": 79,
+      "age": 26,
+      "value": 46568421
+    },
+    {
+      "name": "David Miller",
+      "position": "DF",
+      "rating": 74,
+      "age": 22,
+      "value": 62315789
+    },
+    {
+      "name": "John Martinez",
+      "position": "DF",
+      "rating": 90,
+      "age": 31,
+      "value": 54473684
+    },
+    {
+      "name": "Paul Jackson",
+      "position": "DF",
+      "rating": 78,
+      "age": 16,
+      "value": 78000000
+    },
+    {
+      "name": "Edward Lopez",
+      "position": "DF",
+      "rating": 66,
       "age": 25,
-      "value": 60289473
+      "value": 50368421
     },
     {
-      "name": "Mark Moore",
+      "name": "George Jones",
       "position": "DF",
-      "rating": 71,
-      "age": 35,
-      "value": 35500000
+      "rating": 87,
+      "age": 22,
+      "value": 73263157
     },
     {
-      "name": "Thomas Jones",
+      "name": "James Martin",
       "position": "DF",
-      "rating": 72,
-      "age": 34,
-      "value": 37894736
+      "rating": 86,
+      "age": 17,
+      "value": 83736842
     },
     {
-      "name": "Brian Rodriguez",
+      "name": "David Anderson",
       "position": "MF",
       "rating": 89,
-      "age": 19,
-      "value": 98368421
-    },
-    {
-      "name": "Richard Garcia",
-      "position": "MF",
-      "rating": 86,
-      "age": 30,
-      "value": 65178947
-    },
-    {
-      "name": "Ronald Moore",
-      "position": "MF",
-      "rating": 85,
-      "age": 32,
-      "value": 59052631
-    },
-    {
-      "name": "James Johnson",
-      "position": "MF",
-      "rating": 74,
-      "age": 26,
-      "value": 65431578
-    },
-    {
-      "name": "Robert Wilson",
-      "position": "MF",
-      "rating": 83,
-      "age": 33,
-      "value": 55042105
-    },
-    {
-      "name": "Paul Taylor",
-      "position": "MF",
-      "rating": 86,
-      "age": 34,
-      "value": 54315789
-    },
-    {
-      "name": "Brian Rodriguez",
-      "position": "FW",
-      "rating": 73,
       "age": 22,
-      "value": 92210526
+      "value": 89936842
     },
     {
-      "name": "Michael Anderson",
+      "name": "Thomas Anderson",
+      "position": "MF",
+      "rating": 89,
+      "age": 24,
+      "value": 84315789
+    },
+    {
+      "name": "James Garcia",
+      "position": "MF",
+      "rating": 70,
+      "age": 25,
+      "value": 64105263
+    },
+    {
+      "name": "Robert Thomas",
+      "position": "MF",
+      "rating": 72,
+      "age": 20,
+      "value": 77305263
+    },
+    {
+      "name": "Donald Miller",
+      "position": "MF",
+      "rating": 66,
+      "age": 17,
+      "value": 77115789
+    },
+    {
+      "name": "Daniel Jackson",
+      "position": "MF",
+      "rating": 82,
+      "age": 26,
+      "value": 72505263
+    },
+    {
+      "name": "Steven Miller",
       "position": "FW",
-      "rating": 75,
+      "rating": 90,
       "age": 20,
       "value": 100000000
     },
     {
-      "name": "Kenneth Williams",
+      "name": "Thomas Taylor",
       "position": "FW",
-      "rating": 90,
+      "rating": 76,
+      "age": 26,
+      "value": 84000000
+    },
+    {
+      "name": "Michael Jones",
+      "position": "FW",
+      "rating": 62,
+      "age": 24,
+      "value": 73421052
+    },
+    {
+      "name": "Thomas Garcia",
+      "position": "FW",
+      "rating": 63,
+      "age": 19,
+      "value": 87039473
+    },
+    {
+      "name": "Anthony Brown",
+      "position": "FW",
+      "rating": 86,
       "age": 23,
       "value": 100000000
-    },
-    {
-      "name": "Paul Davis",
-      "position": "FW",
-      "rating": 78,
-      "age": 32,
-      "value": 67736842
-    },
-    {
-      "name": "Richard Williams",
-      "position": "FW",
-      "rating": 61,
-      "age": 28,
-      "value": 62605263
     }
   ],
   "stadium": {
