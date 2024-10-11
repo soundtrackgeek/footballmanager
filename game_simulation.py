@@ -116,7 +116,6 @@ def simulate_user_match(home_team, away_team):
 def play_week(fixtures, table, current_week, player_team):
     week_fixtures = fixtures[current_week - 1]["matches"]
     print(f"\nWeek {current_week} Results:")
-    
     weekly_financial_summary = {}
     
     for match in week_fixtures:
@@ -172,19 +171,28 @@ def play_week(fixtures, table, current_week, player_team):
                 for scorer, minute in away_scorers:
                     print(f"  {scorer.name} ({minute}')")
 
-    # Update finances for all teams
-    for team in table.teams:
-        update_team_finances(team, weekly_financial_summary)
-
-    # Display weekly financial summary
-    print("\nWeekly Financial Summary:")
-    for team_name, finances in weekly_financial_summary.items():
-        print(f"\n{team_name}:")
+    # After simulating all matches, only show financial summary for player's team
+    if player_team.name in weekly_financial_summary:
+        finances = weekly_financial_summary[player_team.name]
+        print(f"\nFinancial Summary for {player_team.name}:")
         print(f"  Ticket Revenue: £{finances['ticket_revenue']:,}")
         print(f"  Sponsorship Income: £{finances['sponsorship']:,}")
         print(f"  Loan Payment: £{finances['loan_payment']:,}")
         net_income = finances['ticket_revenue'] + finances['sponsorship'] - finances['loan_payment']
         print(f"  Net Income: £{net_income:,}")
+
+    # Update the player team's finances
+    if player_team.name in weekly_financial_summary:
+        finances = weekly_financial_summary[player_team.name]
+        player_team.finances['bank_balance'] += (finances['ticket_revenue'] + finances['sponsorship'] - finances['loan_payment'])
+        
+        # Update loan if exists
+        if player_team.finances['loan']:
+            player_team.finances['loan']['remaining'] -= finances['loan_payment']
+            player_team.finances['loan']['weeks_left'] -= 1
+            if player_team.finances['loan']['weeks_left'] <= 0:
+                player_team.finances['loan'] = None
+                print(f"\n{player_team.name} has fully repaid their loan!")
 
     return current_week + 1
 

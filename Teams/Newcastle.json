@@ -2,140 +2,140 @@
   "name": "Newcastle",
   "squad": [
     {
-      "name": "David Thomas",
+      "name": "Michael Martinez",
       "position": "GK",
-      "rating": 72,
-      "age": 27,
-      "value": 40926315
+      "rating": 69,
+      "age": 16,
+      "value": 55200000
     },
     {
-      "name": "Mark Moore",
+      "name": "Daniel Jones",
       "position": "GK",
-      "rating": 83,
-      "age": 28,
-      "value": 45431578
+      "rating": 89,
+      "age": 17,
+      "value": 69326315
     },
     {
-      "name": "Steven Anderson",
+      "name": "Donald Thomas",
       "position": "GK",
-      "rating": 82,
-      "age": 20,
-      "value": 58694736
-    },
-    {
-      "name": "Anthony Brown",
-      "position": "DF",
-      "rating": 82,
-      "age": 18,
-      "value": 77684210
-    },
-    {
-      "name": "Ronald Jackson",
-      "position": "DF",
-      "rating": 78,
-      "age": 30,
-      "value": 49263157
-    },
-    {
-      "name": "Kenneth Hernandez",
-      "position": "DF",
-      "rating": 66,
-      "age": 20,
-      "value": 59052631
-    },
-    {
-      "name": "Richard Williams",
-      "position": "DF",
-      "rating": 70,
+      "rating": 74,
       "age": 34,
-      "value": 36842105
+      "value": 31157894
     },
     {
-      "name": "William Garcia",
+      "name": "Paul Martin",
+      "position": "DF",
+      "rating": 86,
+      "age": 19,
+      "value": 79210526
+    },
+    {
+      "name": "Charles Anderson",
+      "position": "DF",
+      "rating": 64,
+      "age": 25,
+      "value": 48842105
+    },
+    {
+      "name": "Robert Johnson",
+      "position": "DF",
+      "rating": 84,
+      "age": 29,
+      "value": 55263157
+    },
+    {
+      "name": "Ronald Moore",
+      "position": "DF",
+      "rating": 89,
+      "age": 33,
+      "value": 49184210
+    },
+    {
+      "name": "Donald Williams",
       "position": "DF",
       "rating": 79,
-      "age": 16,
-      "value": 79000000
+      "age": 21,
+      "value": 68605263
     },
     {
-      "name": "Anthony Brown",
+      "name": "Anthony Jones",
       "position": "DF",
       "rating": 70,
+      "age": 31,
+      "value": 42368421
+    },
+    {
+      "name": "William Rodriguez",
+      "position": "MF",
+      "rating": 70,
+      "age": 24,
+      "value": 66315789
+    },
+    {
+      "name": "Robert Martin",
+      "position": "MF",
+      "rating": 69,
+      "age": 18,
+      "value": 78442105
+    },
+    {
+      "name": "Paul Rodriguez",
+      "position": "MF",
+      "rating": 87,
+      "age": 25,
+      "value": 79673684
+    },
+    {
+      "name": "Robert Williams",
+      "position": "MF",
+      "rating": 81,
       "age": 20,
-      "value": 62631578
+      "value": 86968421
     },
     {
       "name": "David Miller",
       "position": "MF",
-      "rating": 67,
-      "age": 19,
-      "value": 74052631
-    },
-    {
-      "name": "Charles Taylor",
-      "position": "MF",
-      "rating": 73,
-      "age": 22,
-      "value": 73768421
-    },
-    {
-      "name": "Mark Rodriguez",
-      "position": "MF",
       "rating": 78,
-      "age": 17,
-      "value": 91136842
-    },
-    {
-      "name": "Paul Davis",
-      "position": "MF",
-      "rating": 89,
-      "age": 35,
-      "value": 53400000
-    },
-    {
-      "name": "Robert Rodriguez",
-      "position": "MF",
-      "rating": 78,
-      "age": 18,
-      "value": 88673684
-    },
-    {
-      "name": "Mark Miller",
-      "position": "MF",
-      "rating": 80,
       "age": 24,
-      "value": 75789473
+      "value": 73894736
     },
     {
-      "name": "Donald Thomas",
-      "position": "FW",
-      "rating": 76,
-      "age": 26,
-      "value": 84000000
+      "name": "Steven Lopez",
+      "position": "MF",
+      "rating": 81,
+      "age": 18,
+      "value": 92084210
     },
     {
-      "name": "William Miller",
+      "name": "John Moore",
       "position": "FW",
-      "rating": 79,
+      "rating": 87,
+      "age": 18,
+      "value": 100000000
+    },
+    {
+      "name": "Charles Williams",
+      "position": "FW",
+      "rating": 65,
+      "age": 16,
+      "value": 97500000
+    },
+    {
+      "name": "Paul Jones",
+      "position": "FW",
+      "rating": 74,
+      "age": 28,
+      "value": 75947368
+    },
+    {
+      "name": "John Taylor",
+      "position": "FW",
+      "rating": 71,
       "age": 21,
-      "value": 100000000
+      "value": 92486842
     },
     {
-      "name": "Edward Thomas",
-      "position": "FW",
-      "rating": 79,
-      "age": 31,
-      "value": 71723684
-    },
-    {
-      "name": "Daniel Smith",
-      "position": "FW",
-      "rating": 85,
-      "age": 20,
-      "value": 100000000
-    },
-    {
-      "name": "Donald Martin",
+      "name": "John Williams",
       "position": "FW",
       "rating": 90,
       "age": 20,
