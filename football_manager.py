@@ -25,8 +25,12 @@ def create_teams():
     return [Team(name) for name in teams]
 
 def generate_player(position):
-    first_names = ["John", "David", "Michael", "James", "William", "Robert", "Richard", "Thomas", "Charles", "Daniel"]
-    last_names = ["Smith", "Johnson", "Williams", "Brown", "Jones", "Garcia", "Miller", "Davis", "Rodriguez", "Martinez"]
+    first_names = ["John", "David", "Michael", "James", "William", "Robert", "Richard", "Thomas", "Charles", "Daniel",
+                   "Juan", "Mohammed", "Yuki", "Liam", "Sven", "Alejandro", "Dmitri", "Kwame", "Raj", "Giovanni",
+                   "Hiroshi", "Fatima", "Olga", "Zain", "Aisha", "Chen", "Priya", "Hassan", "Ingrid", "Paolo"]
+    last_names = ["Smith", "Johnson", "Williams", "Brown", "Jones", "Garcia", "Miller", "Davis", "Rodriguez", "Martinez",
+                  "Nguyen", "Kim", "Patel", "Müller", "Ivanov", "Silva", "Kowalski", "Tanaka", "O'Brien", "Dubois",
+                  "Yamamoto", "Ali", "Petrov", "Gonzalez", "Andersson", "Chen", "Singh", "Rossi", "Novak", "Sato"]
     return Player(f"{random.choice(first_names)} {random.choice(last_names)}", position)
 
 def generate_squad(team):
