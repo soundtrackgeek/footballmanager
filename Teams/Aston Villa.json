@@ -1,0 +1,105 @@
+{
+  "name": "Aston Villa",
+  "squad": [
+    {
+      "name": "Daniel Anderson",
+      "position": "GK",
+      "rating": 81
+    },
+    {
+      "name": "Ronald Garcia",
+      "position": "GK",
+      "rating": 67
+    },
+    {
+      "name": "William Jones",
+      "position": "GK",
+      "rating": 67
+    },
+    {
+      "name": "Thomas Gonzalez",
+      "position": "DF",
+      "rating": 89
+    },
+    {
+      "name": "Brian Lopez",
+      "position": "DF",
+      "rating": 82
+    },
+    {
+      "name": "Charles Anderson",
+      "position": "DF",
+      "rating": 87
+    },
+    {
+      "name": "Brian Thomas",
+      "position": "DF",
+      "rating": 60
+    },
+    {
+      "name": "Richard Jones",
+      "position": "DF",
+      "rating": 70
+    },
+    {
+      "name": "Steven Jones",
+      "position": "DF",
+      "rating": 87
+    },
+    {
+      "name": "Richard Jones",
+      "position": "MF",
+      "rating": 69
+    },
+    {
+      "name": "Donald Rodriguez",
+      "position": "MF",
+      "rating": 85
+    },
+    {
+      "name": "Thomas Martinez",
+      "position": "MF",
+      "rating": 85
+    },
+    {
+      "name": "Richard Davis",
+      "position": "MF",
+      "rating": 63
+    },
+    {
+      "name": "Charles Garcia",
+      "position": "MF",
+      "rating": 87
+    },
+    {
+      "name": "James Garcia",
+      "position": "MF",
+      "rating": 84
+    },
+    {
+      "name": "Michael Brown",
+      "position": "FW",
+      "rating": 85
+    },
+    {
+      "name": "Brian Rodriguez",
+      "position": "FW",
+      "rating": 68
+    },
+    {
+      "name": "Daniel Martinez",
+      "position": "FW",
+      "rating": 80
+    },
+    {
+      "name": "Daniel Rodriguez",
+      "position": "FW",
+      "rating": 85
+    },
+    {
+      "name": "George Gonzalez",
+      "position": "FW",
+      "rating": 64
+    }
+  ]
+}

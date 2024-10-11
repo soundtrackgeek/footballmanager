@@ -1,0 +1,105 @@
+{
+  "name": "Nottingham Forest",
+  "squad": [
+    {
+      "name": "George Jones",
+      "position": "GK",
+      "rating": 84
+    },
+    {
+      "name": "Robert Brown",
+      "position": "GK",
+      "rating": 82
+    },
+    {
+      "name": "William Jackson",
+      "position": "GK",
+      "rating": 85
+    },
+    {
+      "name": "William Brown",
+      "position": "DF",
+      "rating": 90
+    },
+    {
+      "name": "George Williams",
+      "position": "DF",
+      "rating": 76
+    },
+    {
+      "name": "Mark Anderson",
+      "position": "DF",
+      "rating": 69
+    },
+    {
+      "name": "Mark Garcia",
+      "position": "DF",
+      "rating": 86
+    },
+    {
+      "name": "William Jackson",
+      "position": "DF",
+      "rating": 88
+    },
+    {
+      "name": "Charles Lopez",
+      "position": "DF",
+      "rating": 69
+    },
+    {
+      "name": "Daniel Rodriguez",
+      "position": "MF",
+      "rating": 86
+    },
+    {
+      "name": "Ronald Jackson",
+      "position": "MF",
+      "rating": 81
+    },
+    {
+      "name": "Brian Thomas",
+      "position": "MF",
+      "rating": 63
+    },
+    {
+      "name": "Ronald Martinez",
+      "position": "MF",
+      "rating": 74
+    },
+    {
+      "name": "James Martin",
+      "position": "MF",
+      "rating": 75
+    },
+    {
+      "name": "Paul Jones",
+      "position": "MF",
+      "rating": 83
+    },
+    {
+      "name": "John Jones",
+      "position": "FW",
+      "rating": 68
+    },
+    {
+      "name": "William Wilson",
+      "position": "FW",
+      "rating": 70
+    },
+    {
+      "name": "Michael Williams",
+      "position": "FW",
+      "rating": 76
+    },
+    {
+      "name": "Ronald Jackson",
+      "position": "FW",
+      "rating": 68
+    },
+    {
+      "name": "Steven Wilson",
+      "position": "FW",
+      "rating": 84
+    }
+  ]
+}

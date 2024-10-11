@@ -1,9 +1,12 @@
 import random
+import json
+import os
 
 class Player:
-    def __init__(self, name, position):
+    def __init__(self, name, position, rating):
         self.name = name
         self.position = position
+        self.rating = rating
 
 class Team:
     def __init__(self, name):
@@ -23,26 +26,40 @@ def create_teams():
     teams = [Team(name) for name in team_names]
     for team in teams:
         generate_squad(team)
+        save_team_to_file(team)
     return teams
+
+def generate_random_rating():
+    return random.randint(60, 90)
 
 def generate_player(position):
     first_names = ["John", "David", "Michael", "James", "William", "Robert", "Richard", "Thomas", "Charles", "Daniel",
                    "Paul", "Mark", "Donald", "George", "Kenneth", "Steven", "Edward", "Brian", "Ronald", "Anthony"]
     last_names = ["Smith", "Johnson", "Williams", "Brown", "Jones", "Garcia", "Miller", "Davis", "Rodriguez", "Martinez",
                   "Hernandez", "Lopez", "Gonzalez", "Wilson", "Anderson", "Thomas", "Taylor", "Moore", "Jackson", "Martin"]
-    return Player(f"{random.choice(first_names)} {random.choice(last_names)}", position)
+    return Player(f"{random.choice(first_names)} {random.choice(last_names)}", position, generate_random_rating())
 
 def generate_squad(team):
     positions = {
         "GK": 3,
-        "DF": 8,
-        "MF": 8,
-        "FW": 6
+        "DF": 6,
+        "MF": 6,
+        "FW": 5
     }
     for position, count in positions.items():
         for _ in range(count):
             player = generate_player(position)
             team.add_player(player)
+
+def save_team_to_file(team):
+    team_data = {
+        "name": team.name,
+        "squad": [{"name": player.name, "position": player.position, "rating": player.rating} for player in team.squad]
+    }
+    
+    file_path = os.path.join("Teams", f"{team.name}.json")
+    with open(file_path, "w") as f:
+        json.dump(team_data, f, indent=2)
 
 def choose_team(teams):
     print("\nChoose your team:")

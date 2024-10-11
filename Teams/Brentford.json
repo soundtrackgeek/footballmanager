@@ -1,0 +1,105 @@
+{
+  "name": "Brentford",
+  "squad": [
+    {
+      "name": "Steven Smith",
+      "position": "GK",
+      "rating": 84
+    },
+    {
+      "name": "James Miller",
+      "position": "GK",
+      "rating": 76
+    },
+    {
+      "name": "George Garcia",
+      "position": "GK",
+      "rating": 62
+    },
+    {
+      "name": "Charles Williams",
+      "position": "DF",
+      "rating": 67
+    },
+    {
+      "name": "John Brown",
+      "position": "DF",
+      "rating": 80
+    },
+    {
+      "name": "Daniel Martin",
+      "position": "DF",
+      "rating": 74
+    },
+    {
+      "name": "Edward Wilson",
+      "position": "DF",
+      "rating": 81
+    },
+    {
+      "name": "Brian Davis",
+      "position": "DF",
+      "rating": 75
+    },
+    {
+      "name": "Paul Thomas",
+      "position": "DF",
+      "rating": 90
+    },
+    {
+      "name": "Anthony Taylor",
+      "position": "MF",
+      "rating": 64
+    },
+    {
+      "name": "Daniel Jackson",
+      "position": "MF",
+      "rating": 69
+    },
+    {
+      "name": "Michael Jones",
+      "position": "MF",
+      "rating": 71
+    },
+    {
+      "name": "Paul Wilson",
+      "position": "MF",
+      "rating": 77
+    },
+    {
+      "name": "Daniel Jackson",
+      "position": "MF",
+      "rating": 84
+    },
+    {
+      "name": "Edward Gonzalez",
+      "position": "MF",
+      "rating": 66
+    },
+    {
+      "name": "Donald Williams",
+      "position": "FW",
+      "rating": 85
+    },
+    {
+      "name": "John Martinez",
+      "position": "FW",
+      "rating": 81
+    },
+    {
+      "name": "Mark Martin",
+      "position": "FW",
+      "rating": 73
+    },
+    {
+      "name": "George Rodriguez",
+      "position": "FW",
+      "rating": 85
+    },
+    {
+      "name": "David Wilson",
+      "position": "FW",
+      "rating": 66
+    }
+  ]
+}

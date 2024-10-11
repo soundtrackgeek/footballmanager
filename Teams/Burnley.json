@@ -1,0 +1,105 @@
+{
+  "name": "Burnley",
+  "squad": [
+    {
+      "name": "Donald Miller",
+      "position": "GK",
+      "rating": 80
+    },
+    {
+      "name": "William Gonzalez",
+      "position": "GK",
+      "rating": 79
+    },
+    {
+      "name": "James Taylor",
+      "position": "GK",
+      "rating": 66
+    },
+    {
+      "name": "Donald Gonzalez",
+      "position": "DF",
+      "rating": 78
+    },
+    {
+      "name": "John Hernandez",
+      "position": "DF",
+      "rating": 70
+    },
+    {
+      "name": "Daniel Brown",
+      "position": "DF",
+      "rating": 75
+    },
+    {
+      "name": "Ronald Taylor",
+      "position": "DF",
+      "rating": 83
+    },
+    {
+      "name": "Ronald Hernandez",
+      "position": "DF",
+      "rating": 74
+    },
+    {
+      "name": "Thomas Jones",
+      "position": "DF",
+      "rating": 90
+    },
+    {
+      "name": "George Martinez",
+      "position": "MF",
+      "rating": 84
+    },
+    {
+      "name": "John Smith",
+      "position": "MF",
+      "rating": 64
+    },
+    {
+      "name": "Brian Miller",
+      "position": "MF",
+      "rating": 76
+    },
+    {
+      "name": "Edward Wilson",
+      "position": "MF",
+      "rating": 76
+    },
+    {
+      "name": "Anthony Garcia",
+      "position": "MF",
+      "rating": 68
+    },
+    {
+      "name": "Ronald Martin",
+      "position": "MF",
+      "rating": 62
+    },
+    {
+      "name": "Edward Martinez",
+      "position": "FW",
+      "rating": 88
+    },
+    {
+      "name": "Richard Jones",
+      "position": "FW",
+      "rating": 84
+    },
+    {
+      "name": "Thomas Martin",
+      "position": "FW",
+      "rating": 64
+    },
+    {
+      "name": "John Davis",
+      "position": "FW",
+      "rating": 76
+    },
+    {
+      "name": "Edward Martinez",
+      "position": "FW",
+      "rating": 74
+    }
+  ]
+}

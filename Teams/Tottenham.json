@@ -1,0 +1,105 @@
+{
+  "name": "Tottenham",
+  "squad": [
+    {
+      "name": "Michael Miller",
+      "position": "GK",
+      "rating": 79
+    },
+    {
+      "name": "Michael Miller",
+      "position": "GK",
+      "rating": 69
+    },
+    {
+      "name": "Paul Garcia",
+      "position": "GK",
+      "rating": 84
+    },
+    {
+      "name": "Richard Jackson",
+      "position": "DF",
+      "rating": 86
+    },
+    {
+      "name": "Kenneth Davis",
+      "position": "DF",
+      "rating": 72
+    },
+    {
+      "name": "John Jackson",
+      "position": "DF",
+      "rating": 71
+    },
+    {
+      "name": "Richard Anderson",
+      "position": "DF",
+      "rating": 67
+    },
+    {
+      "name": "Robert Martin",
+      "position": "DF",
+      "rating": 60
+    },
+    {
+      "name": "Richard Taylor",
+      "position": "DF",
+      "rating": 86
+    },
+    {
+      "name": "George Martinez",
+      "position": "MF",
+      "rating": 69
+    },
+    {
+      "name": "David Williams",
+      "position": "MF",
+      "rating": 62
+    },
+    {
+      "name": "John Rodriguez",
+      "position": "MF",
+      "rating": 79
+    },
+    {
+      "name": "Ronald Thomas",
+      "position": "MF",
+      "rating": 75
+    },
+    {
+      "name": "John Taylor",
+      "position": "MF",
+      "rating": 68
+    },
+    {
+      "name": "Paul Johnson",
+      "position": "MF",
+      "rating": 69
+    },
+    {
+      "name": "Steven Taylor",
+      "position": "FW",
+      "rating": 75
+    },
+    {
+      "name": "Donald Lopez",
+      "position": "FW",
+      "rating": 69
+    },
+    {
+      "name": "Thomas Jackson",
+      "position": "FW",
+      "rating": 69
+    },
+    {
+      "name": "Richard Thomas",
+      "position": "FW",
+      "rating": 74
+    },
+    {
+      "name": "Charles Rodriguez",
+      "position": "FW",
+      "rating": 81
+    }
+  ]
+}

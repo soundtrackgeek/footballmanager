@@ -1,0 +1,105 @@
+{
+  "name": "Manchester City",
+  "squad": [
+    {
+      "name": "Steven Taylor",
+      "position": "GK",
+      "rating": 60
+    },
+    {
+      "name": "Brian Thomas",
+      "position": "GK",
+      "rating": 60
+    },
+    {
+      "name": "William Rodriguez",
+      "position": "GK",
+      "rating": 83
+    },
+    {
+      "name": "Edward Miller",
+      "position": "DF",
+      "rating": 63
+    },
+    {
+      "name": "Steven Williams",
+      "position": "DF",
+      "rating": 90
+    },
+    {
+      "name": "James Davis",
+      "position": "DF",
+      "rating": 74
+    },
+    {
+      "name": "Donald Martin",
+      "position": "DF",
+      "rating": 77
+    },
+    {
+      "name": "Ronald Rodriguez",
+      "position": "DF",
+      "rating": 68
+    },
+    {
+      "name": "Charles Jones",
+      "position": "DF",
+      "rating": 73
+    },
+    {
+      "name": "Ronald Davis",
+      "position": "MF",
+      "rating": 68
+    },
+    {
+      "name": "Charles Martinez",
+      "position": "MF",
+      "rating": 90
+    },
+    {
+      "name": "Ronald Wilson",
+      "position": "MF",
+      "rating": 69
+    },
+    {
+      "name": "Paul Moore",
+      "position": "MF",
+      "rating": 72
+    },
+    {
+      "name": "James Hernandez",
+      "position": "MF",
+      "rating": 75
+    },
+    {
+      "name": "Kenneth Taylor",
+      "position": "MF",
+      "rating": 67
+    },
+    {
+      "name": "Robert Taylor",
+      "position": "FW",
+      "rating": 62
+    },
+    {
+      "name": "James Williams",
+      "position": "FW",
+      "rating": 77
+    },
+    {
+      "name": "Mark Martin",
+      "position": "FW",
+      "rating": 72
+    },
+    {
+      "name": "David Taylor",
+      "position": "FW",
+      "rating": 68
+    },
+    {
+      "name": "Michael Lopez",
+      "position": "FW",
+      "rating": 79
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "name": "Chelsea",
+  "squad": [
+    {
+      "name": "Charles Garcia",
+      "position": "GK",
+      "rating": 62
+    },
+    {
+      "name": "John Thomas",
+      "position": "GK",
+      "rating": 80
+    },
+    {
+      "name": "Thomas Brown",
+      "position": "GK",
+      "rating": 81
+    },
+    {
+      "name": "Ronald Williams",
+      "position": "DF",
+      "rating": 62
+    },
+    {
+      "name": "Daniel Rodriguez",
+      "position": "DF",
+      "rating": 70
+    },
+    {
+      "name": "Michael Miller",
+      "position": "DF",
+      "rating": 71
+    },
+    {
+      "name": "Brian Jones",
+      "position": "DF",
+      "rating": 69
+    },
+    {
+      "name": "Kenneth Jackson",
+      "position": "DF",
+      "rating": 83
+    },
+    {
+      "name": "Thomas Smith",
+      "position": "DF",
+      "rating": 76
+    },
+    {
+      "name": "John Davis",
+      "position": "MF",
+      "rating": 80
+    },
+    {
+      "name": "Richard Hernandez",
+      "position": "MF",
+      "rating": 75
+    },
+    {
+      "name": "Edward Gonzalez",
+      "position": "MF",
+      "rating": 65
+    },
+    {
+      "name": "Thomas Williams",
+      "position": "MF",
+      "rating": 77
+    },
+    {
+      "name": "Steven Taylor",
+      "position": "MF",
+      "rating": 83
+    },
+    {
+      "name": "Paul Martinez",
+      "position": "MF",
+      "rating": 64
+    },
+    {
+      "name": "Robert Jackson",
+      "position": "FW",
+      "rating": 60
+    },
+    {
+      "name": "William Brown",
+      "position": "FW",
+      "rating": 88
+    },
+    {
+      "name": "Paul Garcia",
+      "position": "FW",
+      "rating": 85
+    },
+    {
+      "name": "Paul Wilson",
+      "position": "FW",
+      "rating": 74
+    },
+    {
+      "name": "William Johnson",
+      "position": "FW",
+      "rating": 66
+    }
+  ]
+}

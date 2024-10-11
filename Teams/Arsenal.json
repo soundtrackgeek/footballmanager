@@ -1,0 +1,105 @@
+{
+  "name": "Arsenal",
+  "squad": [
+    {
+      "name": "Anthony Rodriguez",
+      "position": "GK",
+      "rating": 90
+    },
+    {
+      "name": "Michael Miller",
+      "position": "GK",
+      "rating": 69
+    },
+    {
+      "name": "John Smith",
+      "position": "GK",
+      "rating": 79
+    },
+    {
+      "name": "David Johnson",
+      "position": "DF",
+      "rating": 64
+    },
+    {
+      "name": "Donald Gonzalez",
+      "position": "DF",
+      "rating": 86
+    },
+    {
+      "name": "Donald Williams",
+      "position": "DF",
+      "rating": 73
+    },
+    {
+      "name": "Ronald Thomas",
+      "position": "DF",
+      "rating": 76
+    },
+    {
+      "name": "Kenneth Jones",
+      "position": "DF",
+      "rating": 61
+    },
+    {
+      "name": "William Martin",
+      "position": "DF",
+      "rating": 75
+    },
+    {
+      "name": "Ronald Gonzalez",
+      "position": "MF",
+      "rating": 86
+    },
+    {
+      "name": "James Gonzalez",
+      "position": "MF",
+      "rating": 83
+    },
+    {
+      "name": "William Wilson",
+      "position": "MF",
+      "rating": 89
+    },
+    {
+      "name": "Michael Brown",
+      "position": "MF",
+      "rating": 60
+    },
+    {
+      "name": "Ronald Williams",
+      "position": "MF",
+      "rating": 61
+    },
+    {
+      "name": "George Rodriguez",
+      "position": "MF",
+      "rating": 79
+    },
+    {
+      "name": "Paul Williams",
+      "position": "FW",
+      "rating": 61
+    },
+    {
+      "name": "Ronald Gonzalez",
+      "position": "FW",
+      "rating": 77
+    },
+    {
+      "name": "Kenneth Martin",
+      "position": "FW",
+      "rating": 82
+    },
+    {
+      "name": "Donald Johnson",
+      "position": "FW",
+      "rating": 78
+    },
+    {
+      "name": "James Johnson",
+      "position": "FW",
+      "rating": 86
+    }
+  ]
+}

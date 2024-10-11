@@ -1,0 +1,105 @@
+{
+  "name": "Fulham",
+  "squad": [
+    {
+      "name": "Kenneth Moore",
+      "position": "GK",
+      "rating": 74
+    },
+    {
+      "name": "Kenneth Anderson",
+      "position": "GK",
+      "rating": 87
+    },
+    {
+      "name": "Edward Lopez",
+      "position": "GK",
+      "rating": 88
+    },
+    {
+      "name": "Brian Hernandez",
+      "position": "DF",
+      "rating": 87
+    },
+    {
+      "name": "John Brown",
+      "position": "DF",
+      "rating": 81
+    },
+    {
+      "name": "Daniel Wilson",
+      "position": "DF",
+      "rating": 85
+    },
+    {
+      "name": "David Hernandez",
+      "position": "DF",
+      "rating": 76
+    },
+    {
+      "name": "Charles Jones",
+      "position": "DF",
+      "rating": 87
+    },
+    {
+      "name": "Edward Thomas",
+      "position": "DF",
+      "rating": 72
+    },
+    {
+      "name": "John Moore",
+      "position": "MF",
+      "rating": 84
+    },
+    {
+      "name": "Steven Jackson",
+      "position": "MF",
+      "rating": 80
+    },
+    {
+      "name": "Brian Moore",
+      "position": "MF",
+      "rating": 80
+    },
+    {
+      "name": "Steven Brown",
+      "position": "MF",
+      "rating": 85
+    },
+    {
+      "name": "Charles Anderson",
+      "position": "MF",
+      "rating": 67
+    },
+    {
+      "name": "Ronald Rodriguez",
+      "position": "MF",
+      "rating": 85
+    },
+    {
+      "name": "Steven Jackson",
+      "position": "FW",
+      "rating": 71
+    },
+    {
+      "name": "Edward Brown",
+      "position": "FW",
+      "rating": 86
+    },
+    {
+      "name": "David Williams",
+      "position": "FW",
+      "rating": 86
+    },
+    {
+      "name": "Kenneth Brown",
+      "position": "FW",
+      "rating": 70
+    },
+    {
+      "name": "Brian Smith",
+      "position": "FW",
+      "rating": 66
+    }
+  ]
+}

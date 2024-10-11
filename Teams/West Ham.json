@@ -1,0 +1,105 @@
+{
+  "name": "West Ham",
+  "squad": [
+    {
+      "name": "James Wilson",
+      "position": "GK",
+      "rating": 76
+    },
+    {
+      "name": "Robert Gonzalez",
+      "position": "GK",
+      "rating": 83
+    },
+    {
+      "name": "Thomas Martinez",
+      "position": "GK",
+      "rating": 65
+    },
+    {
+      "name": "Steven Garcia",
+      "position": "DF",
+      "rating": 78
+    },
+    {
+      "name": "Robert Wilson",
+      "position": "DF",
+      "rating": 69
+    },
+    {
+      "name": "Charles Hernandez",
+      "position": "DF",
+      "rating": 61
+    },
+    {
+      "name": "Kenneth Wilson",
+      "position": "DF",
+      "rating": 87
+    },
+    {
+      "name": "Robert Wilson",
+      "position": "DF",
+      "rating": 69
+    },
+    {
+      "name": "Charles Hernandez",
+      "position": "DF",
+      "rating": 84
+    },
+    {
+      "name": "John Jackson",
+      "position": "MF",
+      "rating": 76
+    },
+    {
+      "name": "Richard Garcia",
+      "position": "MF",
+      "rating": 76
+    },
+    {
+      "name": "Ronald Brown",
+      "position": "MF",
+      "rating": 66
+    },
+    {
+      "name": "Thomas Johnson",
+      "position": "MF",
+      "rating": 71
+    },
+    {
+      "name": "Mark Martinez",
+      "position": "MF",
+      "rating": 67
+    },
+    {
+      "name": "Paul Hernandez",
+      "position": "MF",
+      "rating": 71
+    },
+    {
+      "name": "Brian Jackson",
+      "position": "FW",
+      "rating": 67
+    },
+    {
+      "name": "Paul Wilson",
+      "position": "FW",
+      "rating": 81
+    },
+    {
+      "name": "Paul Martinez",
+      "position": "FW",
+      "rating": 77
+    },
+    {
+      "name": "Kenneth Brown",
+      "position": "FW",
+      "rating": 71
+    },
+    {
+      "name": "Ronald Jones",
+      "position": "FW",
+      "rating": 69
+    }
+  ]
+}

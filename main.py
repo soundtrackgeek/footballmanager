@@ -32,9 +32,10 @@ def main():
         choice = input("Enter your choice: ")
 
         if choice == "1":
-            print("\nYour Team:")
+            print(f"\nYour Team: {player_team.name}")
+            print("Squad:")
             for player in player_team.squad:
-                print(f"{player.name} - {player.position}")
+                print(f"{player.name} - {player.position} - Rating: {player.rating}")
         elif choice == "2":
             print("\nTactics feature not implemented yet.")
         elif choice == "3":

@@ -1,0 +1,105 @@
+{
+  "name": "Wolves",
+  "squad": [
+    {
+      "name": "Anthony Gonzalez",
+      "position": "GK",
+      "rating": 83
+    },
+    {
+      "name": "Charles Rodriguez",
+      "position": "GK",
+      "rating": 82
+    },
+    {
+      "name": "Michael Miller",
+      "position": "GK",
+      "rating": 87
+    },
+    {
+      "name": "William Thomas",
+      "position": "DF",
+      "rating": 78
+    },
+    {
+      "name": "Kenneth Wilson",
+      "position": "DF",
+      "rating": 67
+    },
+    {
+      "name": "David Brown",
+      "position": "DF",
+      "rating": 60
+    },
+    {
+      "name": "Edward Martin",
+      "position": "DF",
+      "rating": 67
+    },
+    {
+      "name": "Paul Rodriguez",
+      "position": "DF",
+      "rating": 86
+    },
+    {
+      "name": "David Miller",
+      "position": "DF",
+      "rating": 85
+    },
+    {
+      "name": "Robert Jones",
+      "position": "MF",
+      "rating": 77
+    },
+    {
+      "name": "George Thomas",
+      "position": "MF",
+      "rating": 67
+    },
+    {
+      "name": "Donald Jones",
+      "position": "MF",
+      "rating": 82
+    },
+    {
+      "name": "George Smith",
+      "position": "MF",
+      "rating": 60
+    },
+    {
+      "name": "Kenneth Lopez",
+      "position": "MF",
+      "rating": 83
+    },
+    {
+      "name": "George Thomas",
+      "position": "MF",
+      "rating": 74
+    },
+    {
+      "name": "Kenneth Anderson",
+      "position": "FW",
+      "rating": 70
+    },
+    {
+      "name": "Mark Wilson",
+      "position": "FW",
+      "rating": 84
+    },
+    {
+      "name": "Anthony Miller",
+      "position": "FW",
+      "rating": 70
+    },
+    {
+      "name": "George Johnson",
+      "position": "FW",
+      "rating": 77
+    },
+    {
+      "name": "Brian Hernandez",
+      "position": "FW",
+      "rating": 87
+    }
+  ]
+}

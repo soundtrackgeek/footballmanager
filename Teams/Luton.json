@@ -1,0 +1,105 @@
+{
+  "name": "Luton",
+  "squad": [
+    {
+      "name": "Thomas Anderson",
+      "position": "GK",
+      "rating": 72
+    },
+    {
+      "name": "Robert Johnson",
+      "position": "GK",
+      "rating": 67
+    },
+    {
+      "name": "Ronald Jones",
+      "position": "GK",
+      "rating": 85
+    },
+    {
+      "name": "Daniel Davis",
+      "position": "DF",
+      "rating": 80
+    },
+    {
+      "name": "Thomas Gonzalez",
+      "position": "DF",
+      "rating": 75
+    },
+    {
+      "name": "Thomas Smith",
+      "position": "DF",
+      "rating": 61
+    },
+    {
+      "name": "David Martinez",
+      "position": "DF",
+      "rating": 60
+    },
+    {
+      "name": "John Wilson",
+      "position": "DF",
+      "rating": 70
+    },
+    {
+      "name": "Richard Brown",
+      "position": "DF",
+      "rating": 60
+    },
+    {
+      "name": "Anthony Thomas",
+      "position": "MF",
+      "rating": 68
+    },
+    {
+      "name": "Mark Davis",
+      "position": "MF",
+      "rating": 71
+    },
+    {
+      "name": "Anthony Garcia",
+      "position": "MF",
+      "rating": 90
+    },
+    {
+      "name": "Paul Moore",
+      "position": "MF",
+      "rating": 72
+    },
+    {
+      "name": "Brian Johnson",
+      "position": "MF",
+      "rating": 72
+    },
+    {
+      "name": "David Johnson",
+      "position": "MF",
+      "rating": 75
+    },
+    {
+      "name": "William Brown",
+      "position": "FW",
+      "rating": 66
+    },
+    {
+      "name": "Richard Jones",
+      "position": "FW",
+      "rating": 60
+    },
+    {
+      "name": "William Hernandez",
+      "position": "FW",
+      "rating": 83
+    },
+    {
+      "name": "Edward Rodriguez",
+      "position": "FW",
+      "rating": 85
+    },
+    {
+      "name": "John Moore",
+      "position": "FW",
+      "rating": 89
+    }
+  ]
+}

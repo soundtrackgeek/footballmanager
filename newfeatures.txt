@@ -6,6 +6,8 @@ Let's create a football manager game in python. I want to emulate the FA Premier
 
 + Let's create a football table. It will list Team, Played, Won, Drawn, Lost, GF, GA, GD, Points. Team is the team. Played is how many games the team has played. Won is how many games the team has won. Drawn is how many games the team has drawn. Lost is how many games the team has lost. GF stands for Goals For and shows how many goals the team has scored in total. GA stands for Goals Against and shows how many goals the team has conceded in total. GD stands for Goal Difference and shows the Goals For minus Goals Against. Points is how many points a team has. There's 3 points for a win, 1 point for a draw and 0 point for a loss. We also need a menu option for Table that shows the current table.
 
-As you can see after I pressed 5 to simulate games, it simulated some games, but look at the table. It doesn't make sense. We've only in week 1 and played 1 game, yet Luton has played 4 and Tottenham 3 and some teams like Bournemouth and Burnley hasn't played any. Each team needs to play only 1 game in week 1 and the table need to reflect that.
++ As you can see after I pressed 5 to simulate games, it simulated some games, but look at the table. It doesn't make sense. We've only in week 1 and played 1 game, yet Luton has played 4 and Tottenham 3 and some teams like Bournemouth and Burnley hasn't played any. Each team needs to play only 1 game in week 1 and the table need to reflect that.
 
- I want you to create simulation of all 38 weeks next like we discussed earlier. So each week, the teams will play each other based on the created fixture list. Right now keep it simple.
++ I want you to create simulation of all 38 weeks next like we discussed earlier. So each week, the teams will play each other based on the created fixture list. Right now keep it simple.
+
+Let's create a folder called Teams. And in that folder, let's create a file for each of the 20 teams. In those files, I want to create 20 random players when a new game starts for each team. This is so we can make a deeper simulation with players, ratings and transfer market later.

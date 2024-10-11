@@ -1,0 +1,105 @@
+{
+  "name": "Sheffield United",
+  "squad": [
+    {
+      "name": "Ronald Jones",
+      "position": "GK",
+      "rating": 68
+    },
+    {
+      "name": "Michael Hernandez",
+      "position": "GK",
+      "rating": 69
+    },
+    {
+      "name": "Daniel Jackson",
+      "position": "GK",
+      "rating": 61
+    },
+    {
+      "name": "Michael Brown",
+      "position": "DF",
+      "rating": 63
+    },
+    {
+      "name": "Anthony Martin",
+      "position": "DF",
+      "rating": 66
+    },
+    {
+      "name": "David Hernandez",
+      "position": "DF",
+      "rating": 76
+    },
+    {
+      "name": "Michael Rodriguez",
+      "position": "DF",
+      "rating": 79
+    },
+    {
+      "name": "Michael Brown",
+      "position": "DF",
+      "rating": 85
+    },
+    {
+      "name": "George Smith",
+      "position": "DF",
+      "rating": 71
+    },
+    {
+      "name": "Edward Williams",
+      "position": "MF",
+      "rating": 82
+    },
+    {
+      "name": "David Johnson",
+      "position": "MF",
+      "rating": 85
+    },
+    {
+      "name": "Anthony Garcia",
+      "position": "MF",
+      "rating": 63
+    },
+    {
+      "name": "Mark Garcia",
+      "position": "MF",
+      "rating": 78
+    },
+    {
+      "name": "Ronald Thomas",
+      "position": "MF",
+      "rating": 85
+    },
+    {
+      "name": "Michael Williams",
+      "position": "MF",
+      "rating": 81
+    },
+    {
+      "name": "David Garcia",
+      "position": "FW",
+      "rating": 89
+    },
+    {
+      "name": "Steven Brown",
+      "position": "FW",
+      "rating": 70
+    },
+    {
+      "name": "David Lopez",
+      "position": "FW",
+      "rating": 86
+    },
+    {
+      "name": "James Hernandez",
+      "position": "FW",
+      "rating": 89
+    },
+    {
+      "name": "Kenneth Davis",
+      "position": "FW",
+      "rating": 79
+    }
+  ]
+}
