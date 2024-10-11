@@ -2,104 +2,104 @@
   "name": "Wolves",
   "squad": [
     {
-      "name": "Brian Thomas",
+      "name": "Michael Rodriguez",
       "position": "GK",
-      "rating": 90
+      "rating": 66
     },
     {
-      "name": "Anthony Williams",
+      "name": "Daniel Gonzalez",
       "position": "GK",
-      "rating": 87
+      "rating": 68
     },
     {
-      "name": "John Garcia",
+      "name": "Mark Brown",
       "position": "GK",
-      "rating": 86
+      "rating": 80
     },
     {
-      "name": "William Smith",
+      "name": "Edward Rodriguez",
       "position": "DF",
-      "rating": 74
+      "rating": 82
     },
     {
-      "name": "David Garcia",
+      "name": "Anthony Davis",
       "position": "DF",
-      "rating": 64
+      "rating": 89
     },
     {
-      "name": "Mark Rodriguez",
+      "name": "John Anderson",
+      "position": "DF",
+      "rating": 61
+    },
+    {
+      "name": "John Hernandez",
       "position": "DF",
       "rating": 60
     },
     {
-      "name": "Anthony Gonzalez",
+      "name": "Edward Smith",
       "position": "DF",
-      "rating": 86
+      "rating": 65
     },
     {
-      "name": "Robert Brown",
+      "name": "Richard Gonzalez",
       "position": "DF",
-      "rating": 85
-    },
-    {
-      "name": "Brian Moore",
-      "position": "DF",
-      "rating": 69
-    },
-    {
-      "name": "Anthony Anderson",
-      "position": "MF",
-      "rating": 84
-    },
-    {
-      "name": "Thomas Brown",
-      "position": "MF",
       "rating": 70
     },
     {
-      "name": "Ronald Jackson",
+      "name": "David Gonzalez",
       "position": "MF",
       "rating": 81
     },
     {
-      "name": "Kenneth Anderson",
+      "name": "James Wilson",
+      "position": "MF",
+      "rating": 62
+    },
+    {
+      "name": "Robert Johnson",
+      "position": "MF",
+      "rating": 60
+    },
+    {
+      "name": "Anthony Anderson",
+      "position": "MF",
+      "rating": 67
+    },
+    {
+      "name": "Mark Smith",
+      "position": "MF",
+      "rating": 81
+    },
+    {
+      "name": "Mark Smith",
       "position": "MF",
       "rating": 73
     },
     {
-      "name": "Charles Moore",
-      "position": "MF",
-      "rating": 78
-    },
-    {
-      "name": "Charles Davis",
-      "position": "MF",
-      "rating": 86
-    },
-    {
-      "name": "William Lopez",
+      "name": "Paul Miller",
       "position": "FW",
-      "rating": 77
+      "rating": 80
     },
     {
-      "name": "Paul Moore",
+      "name": "Daniel Smith",
       "position": "FW",
-      "rating": 88
+      "rating": 62
     },
     {
-      "name": "Charles Jackson",
+      "name": "Robert Thomas",
       "position": "FW",
-      "rating": 63
+      "rating": 69
     },
     {
-      "name": "Richard Miller",
-      "position": "FW",
-      "rating": 87
-    },
-    {
-      "name": "Mark Gonzalez",
+      "name": "David Martinez",
       "position": "FW",
       "rating": 84
+    },
+    {
+      "name": "Thomas Smith",
+      "position": "FW",
+      "rating": 65
     }
   ]
 }

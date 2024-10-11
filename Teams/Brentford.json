@@ -2,104 +2,104 @@
   "name": "Brentford",
   "squad": [
     {
-      "name": "Michael Jackson",
+      "name": "Daniel Anderson",
+      "position": "GK",
+      "rating": 84
+    },
+    {
+      "name": "Ronald Martin",
+      "position": "GK",
+      "rating": 73
+    },
+    {
+      "name": "George Williams",
       "position": "GK",
       "rating": 61
     },
     {
-      "name": "John Thomas",
-      "position": "GK",
-      "rating": 67
-    },
-    {
-      "name": "George Garcia",
-      "position": "GK",
-      "rating": 69
-    },
-    {
-      "name": "Paul Johnson",
+      "name": "Michael Smith",
       "position": "DF",
-      "rating": 60
+      "rating": 65
     },
     {
-      "name": "Michael Miller",
+      "name": "Ronald Martin",
       "position": "DF",
-      "rating": 68
+      "rating": 66
     },
     {
-      "name": "Robert Lopez",
+      "name": "Paul Anderson",
+      "position": "DF",
+      "rating": 64
+    },
+    {
+      "name": "Edward Smith",
+      "position": "DF",
+      "rating": 64
+    },
+    {
+      "name": "James Jackson",
       "position": "DF",
       "rating": 77
     },
     {
-      "name": "Donald Jones",
+      "name": "Edward Martinez",
       "position": "DF",
-      "rating": 85
-    },
-    {
-      "name": "Edward Jones",
-      "position": "DF",
-      "rating": 88
-    },
-    {
-      "name": "Kenneth Jackson",
-      "position": "DF",
-      "rating": 89
-    },
-    {
-      "name": "Ronald Davis",
-      "position": "MF",
-      "rating": 60
-    },
-    {
-      "name": "George Johnson",
-      "position": "MF",
-      "rating": 62
-    },
-    {
-      "name": "Kenneth Lopez",
-      "position": "MF",
-      "rating": 89
-    },
-    {
-      "name": "Daniel Smith",
-      "position": "MF",
-      "rating": 81
-    },
-    {
-      "name": "Robert Garcia",
-      "position": "MF",
-      "rating": 82
-    },
-    {
-      "name": "Brian Martin",
-      "position": "MF",
-      "rating": 82
-    },
-    {
-      "name": "Richard Taylor",
-      "position": "FW",
-      "rating": 83
-    },
-    {
-      "name": "Donald Miller",
-      "position": "FW",
-      "rating": 82
-    },
-    {
-      "name": "Paul Thomas",
-      "position": "FW",
-      "rating": 90
-    },
-    {
-      "name": "James Martin",
-      "position": "FW",
-      "rating": 67
-    },
-    {
-      "name": "Edward Moore",
-      "position": "FW",
       "rating": 63
+    },
+    {
+      "name": "William Thomas",
+      "position": "MF",
+      "rating": 79
+    },
+    {
+      "name": "William Brown",
+      "position": "MF",
+      "rating": 78
+    },
+    {
+      "name": "Kenneth Smith",
+      "position": "MF",
+      "rating": 75
+    },
+    {
+      "name": "Robert Moore",
+      "position": "MF",
+      "rating": 79
+    },
+    {
+      "name": "Brian Johnson",
+      "position": "MF",
+      "rating": 73
+    },
+    {
+      "name": "Ronald Martin",
+      "position": "MF",
+      "rating": 87
+    },
+    {
+      "name": "Ronald Lopez",
+      "position": "FW",
+      "rating": 86
+    },
+    {
+      "name": "Ronald Taylor",
+      "position": "FW",
+      "rating": 78
+    },
+    {
+      "name": "Charles Miller",
+      "position": "FW",
+      "rating": 64
+    },
+    {
+      "name": "William Taylor",
+      "position": "FW",
+      "rating": 86
+    },
+    {
+      "name": "Richard Thomas",
+      "position": "FW",
+      "rating": 87
     }
   ]
 }

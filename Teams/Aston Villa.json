@@ -2,104 +2,104 @@
   "name": "Aston Villa",
   "squad": [
     {
-      "name": "Kenneth Martin",
-      "position": "GK",
-      "rating": 87
-    },
-    {
-      "name": "Michael Taylor",
+      "name": "David Hernandez",
       "position": "GK",
       "rating": 76
     },
     {
-      "name": "Steven Brown",
+      "name": "Thomas Taylor",
       "position": "GK",
-      "rating": 62
+      "rating": 74
     },
     {
-      "name": "Robert Rodriguez",
-      "position": "DF",
-      "rating": 87
-    },
-    {
-      "name": "Charles Anderson",
-      "position": "DF",
-      "rating": 82
-    },
-    {
-      "name": "Richard Jones",
-      "position": "DF",
-      "rating": 90
-    },
-    {
-      "name": "Richard Brown",
-      "position": "DF",
-      "rating": 81
-    },
-    {
-      "name": "John Smith",
-      "position": "DF",
+      "name": "Daniel Taylor",
+      "position": "GK",
       "rating": 88
     },
     {
-      "name": "James Wilson",
+      "name": "Donald Jones",
       "position": "DF",
-      "rating": 87
+      "rating": 60
     },
     {
-      "name": "Mark Davis",
-      "position": "MF",
-      "rating": 86
+      "name": "Robert Hernandez",
+      "position": "DF",
+      "rating": 65
     },
     {
-      "name": "James Taylor",
-      "position": "MF",
-      "rating": 66
+      "name": "Ronald Moore",
+      "position": "DF",
+      "rating": 75
     },
     {
-      "name": "Ronald Garcia",
-      "position": "MF",
-      "rating": 66
+      "name": "Paul Hernandez",
+      "position": "DF",
+      "rating": 73
     },
     {
-      "name": "Edward Hernandez",
+      "name": "Ronald Wilson",
+      "position": "DF",
+      "rating": 61
+    },
+    {
+      "name": "Donald Jackson",
+      "position": "DF",
+      "rating": 77
+    },
+    {
+      "name": "Mark Jones",
       "position": "MF",
       "rating": 80
     },
     {
-      "name": "Donald Jones",
+      "name": "Paul Smith",
       "position": "MF",
       "rating": 81
     },
     {
-      "name": "David Jones",
+      "name": "Daniel Brown",
+      "position": "MF",
+      "rating": 60
+    },
+    {
+      "name": "Richard Johnson",
+      "position": "MF",
+      "rating": 71
+    },
+    {
+      "name": "John Miller",
+      "position": "MF",
+      "rating": 84
+    },
+    {
+      "name": "Richard Anderson",
       "position": "MF",
       "rating": 61
     },
     {
-      "name": "Anthony Wilson",
-      "position": "FW",
-      "rating": 71
-    },
-    {
-      "name": "Paul Martin",
-      "position": "FW",
-      "rating": 67
-    },
-    {
-      "name": "Anthony Jones",
+      "name": "Mark Taylor",
       "position": "FW",
       "rating": 74
     },
     {
-      "name": "Steven Lopez",
+      "name": "Steven Martin",
       "position": "FW",
-      "rating": 73
+      "rating": 63
     },
     {
-      "name": "John Brown",
+      "name": "Michael Rodriguez",
       "position": "FW",
-      "rating": 85
+      "rating": 75
+    },
+    {
+      "name": "Thomas Smith",
+      "position": "FW",
+      "rating": 66
+    },
+    {
+      "name": "Daniel Martinez",
+      "position": "FW",
+      "rating": 78
     }
   ]
 }

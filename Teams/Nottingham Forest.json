@@ -2,104 +2,104 @@
   "name": "Nottingham Forest",
   "squad": [
     {
-      "name": "Paul Garcia",
+      "name": "Richard Williams",
       "position": "GK",
-      "rating": 85
-    },
-    {
-      "name": "John Williams",
-      "position": "GK",
-      "rating": 86
-    },
-    {
-      "name": "David Jackson",
-      "position": "GK",
-      "rating": 83
-    },
-    {
-      "name": "Edward Moore",
-      "position": "DF",
-      "rating": 68
-    },
-    {
-      "name": "Thomas Hernandez",
-      "position": "DF",
       "rating": 71
     },
     {
-      "name": "Daniel Lopez",
-      "position": "DF",
-      "rating": 66
+      "name": "William Smith",
+      "position": "GK",
+      "rating": 64
     },
     {
-      "name": "Mark Johnson",
-      "position": "DF",
-      "rating": 88
+      "name": "George Garcia",
+      "position": "GK",
+      "rating": 68
     },
     {
-      "name": "Daniel Johnson",
+      "name": "Donald Johnson",
       "position": "DF",
-      "rating": 88
-    },
-    {
-      "name": "John Anderson",
-      "position": "DF",
-      "rating": 61
-    },
-    {
-      "name": "Robert Williams",
-      "position": "MF",
       "rating": 72
     },
     {
-      "name": "Thomas Williams",
+      "name": "Kenneth Gonzalez",
+      "position": "DF",
+      "rating": 81
+    },
+    {
+      "name": "Thomas Smith",
+      "position": "DF",
+      "rating": 74
+    },
+    {
+      "name": "Richard Taylor",
+      "position": "DF",
+      "rating": 70
+    },
+    {
+      "name": "Charles Martinez",
+      "position": "DF",
+      "rating": 86
+    },
+    {
+      "name": "Steven Jones",
+      "position": "DF",
+      "rating": 89
+    },
+    {
+      "name": "John Davis",
       "position": "MF",
       "rating": 86
     },
     {
-      "name": "Paul Davis",
-      "position": "MF",
-      "rating": 86
-    },
-    {
-      "name": "Thomas Jones",
+      "name": "Charles Smith",
       "position": "MF",
       "rating": 90
     },
     {
-      "name": "Steven Moore",
+      "name": "Kenneth Martinez",
       "position": "MF",
-      "rating": 78
+      "rating": 65
     },
     {
-      "name": "Edward Smith",
+      "name": "Daniel Gonzalez",
       "position": "MF",
-      "rating": 81
+      "rating": 76
     },
     {
-      "name": "Robert Rodriguez",
-      "position": "FW",
+      "name": "Donald Miller",
+      "position": "MF",
+      "rating": 72
+    },
+    {
+      "name": "David Thomas",
+      "position": "MF",
       "rating": 73
-    },
-    {
-      "name": "Michael Taylor",
-      "position": "FW",
-      "rating": 61
-    },
-    {
-      "name": "Brian Moore",
-      "position": "FW",
-      "rating": 88
     },
     {
       "name": "Ronald Smith",
       "position": "FW",
-      "rating": 77
+      "rating": 74
     },
     {
-      "name": "Anthony Hernandez",
+      "name": "Daniel Johnson",
       "position": "FW",
-      "rating": 67
+      "rating": 79
+    },
+    {
+      "name": "Edward Thomas",
+      "position": "FW",
+      "rating": 85
+    },
+    {
+      "name": "Robert Moore",
+      "position": "FW",
+      "rating": 89
+    },
+    {
+      "name": "Daniel Smith",
+      "position": "FW",
+      "rating": 90
     }
   ]
 }

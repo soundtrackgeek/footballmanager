@@ -2,104 +2,104 @@
   "name": "Crystal Palace",
   "squad": [
     {
-      "name": "Richard Wilson",
+      "name": "Richard Gonzalez",
       "position": "GK",
-      "rating": 81
+      "rating": 75
     },
     {
-      "name": "Donald Garcia",
+      "name": "Michael Smith",
       "position": "GK",
-      "rating": 77
+      "rating": 85
     },
     {
-      "name": "John Jones",
+      "name": "Edward Rodriguez",
       "position": "GK",
-      "rating": 72
+      "rating": 68
     },
     {
-      "name": "James Anderson",
+      "name": "Anthony Garcia",
       "position": "DF",
-      "rating": 60
+      "rating": 78
     },
     {
-      "name": "Michael Wilson",
+      "name": "Charles Anderson",
       "position": "DF",
-      "rating": 82
-    },
-    {
-      "name": "Brian Johnson",
-      "position": "DF",
-      "rating": 84
-    },
-    {
-      "name": "Michael Rodriguez",
-      "position": "DF",
-      "rating": 84
-    },
-    {
-      "name": "Robert Taylor",
-      "position": "DF",
-      "rating": 67
-    },
-    {
-      "name": "William Anderson",
-      "position": "DF",
-      "rating": 89
-    },
-    {
-      "name": "Kenneth Taylor",
-      "position": "MF",
       "rating": 70
     },
     {
-      "name": "Donald Thomas",
-      "position": "MF",
-      "rating": 80
+      "name": "Edward Smith",
+      "position": "DF",
+      "rating": 66
     },
     {
-      "name": "Brian Martin",
+      "name": "Steven Martinez",
+      "position": "DF",
+      "rating": 87
+    },
+    {
+      "name": "James Thomas",
+      "position": "DF",
+      "rating": 87
+    },
+    {
+      "name": "Edward Jones",
+      "position": "DF",
+      "rating": 75
+    },
+    {
+      "name": "Paul Moore",
       "position": "MF",
       "rating": 73
     },
     {
-      "name": "Michael Garcia",
+      "name": "Richard Garcia",
       "position": "MF",
+      "rating": 68
+    },
+    {
+      "name": "Kenneth Moore",
+      "position": "MF",
+      "rating": 75
+    },
+    {
+      "name": "James Gonzalez",
+      "position": "MF",
+      "rating": 88
+    },
+    {
+      "name": "David Jones",
+      "position": "MF",
+      "rating": 71
+    },
+    {
+      "name": "Charles Thomas",
+      "position": "MF",
+      "rating": 68
+    },
+    {
+      "name": "Paul Rodriguez",
+      "position": "FW",
       "rating": 64
     },
     {
-      "name": "George Moore",
-      "position": "MF",
+      "name": "John Williams",
+      "position": "FW",
+      "rating": 63
+    },
+    {
+      "name": "Mark Thomas",
+      "position": "FW",
+      "rating": 83
+    },
+    {
+      "name": "Paul Martinez",
+      "position": "FW",
       "rating": 67
     },
     {
-      "name": "Anthony Anderson",
-      "position": "MF",
-      "rating": 89
-    },
-    {
-      "name": "George Miller",
+      "name": "George Johnson",
       "position": "FW",
-      "rating": 64
-    },
-    {
-      "name": "Robert Thomas",
-      "position": "FW",
-      "rating": 62
-    },
-    {
-      "name": "Richard Garcia",
-      "position": "FW",
-      "rating": 87
-    },
-    {
-      "name": "Kenneth Brown",
-      "position": "FW",
-      "rating": 72
-    },
-    {
-      "name": "Charles Taylor",
-      "position": "FW",
-      "rating": 62
+      "rating": 69
     }
   ]
 }

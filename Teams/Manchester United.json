@@ -2,104 +2,104 @@
   "name": "Manchester United",
   "squad": [
     {
-      "name": "Brian Johnson",
+      "name": "Charles Brown",
       "position": "GK",
-      "rating": 80
+      "rating": 74
     },
     {
-      "name": "George Taylor",
+      "name": "Ronald Lopez",
       "position": "GK",
-      "rating": 66
+      "rating": 67
     },
     {
-      "name": "George Hernandez",
+      "name": "Kenneth Garcia",
       "position": "GK",
-      "rating": 73
+      "rating": 67
     },
     {
-      "name": "Donald Davis",
-      "position": "DF",
-      "rating": 60
-    },
-    {
-      "name": "David Wilson",
-      "position": "DF",
-      "rating": 69
-    },
-    {
-      "name": "Anthony Smith",
+      "name": "James Davis",
       "position": "DF",
       "rating": 76
     },
     {
-      "name": "Ronald Gonzalez",
+      "name": "Mark Gonzalez",
       "position": "DF",
-      "rating": 73
+      "rating": 88
     },
     {
-      "name": "Donald Martinez",
+      "name": "Brian Gonzalez",
+      "position": "DF",
+      "rating": 66
+    },
+    {
+      "name": "Anthony Garcia",
       "position": "DF",
       "rating": 77
     },
     {
-      "name": "Charles Hernandez",
+      "name": "David Thomas",
       "position": "DF",
+      "rating": 69
+    },
+    {
+      "name": "John Miller",
+      "position": "DF",
+      "rating": 68
+    },
+    {
+      "name": "Steven Martinez",
+      "position": "MF",
       "rating": 72
     },
     {
-      "name": "Ronald Jackson",
+      "name": "George Anderson",
       "position": "MF",
-      "rating": 90
+      "rating": 65
     },
     {
-      "name": "Donald Wilson",
+      "name": "Robert Anderson",
       "position": "MF",
-      "rating": 66
+      "rating": 84
     },
     {
-      "name": "Brian Anderson",
-      "position": "MF",
-      "rating": 88
-    },
-    {
-      "name": "George Gonzalez",
-      "position": "MF",
-      "rating": 78
-    },
-    {
-      "name": "Steven Johnson",
+      "name": "Donald Thomas",
       "position": "MF",
       "rating": 61
     },
     {
-      "name": "James Brown",
+      "name": "Michael Jones",
       "position": "MF",
-      "rating": 70
+      "rating": 65
     },
     {
-      "name": "George Jackson",
+      "name": "Thomas Moore",
+      "position": "MF",
+      "rating": 60
+    },
+    {
+      "name": "Robert Davis",
       "position": "FW",
-      "rating": 66
+      "rating": 61
     },
     {
-      "name": "Daniel Brown",
+      "name": "Charles Williams",
       "position": "FW",
-      "rating": 77
+      "rating": 89
     },
     {
-      "name": "Kenneth Wilson",
+      "name": "Daniel Thomas",
       "position": "FW",
-      "rating": 84
+      "rating": 64
     },
     {
-      "name": "Daniel Smith",
+      "name": "Michael Thomas",
       "position": "FW",
       "rating": 79
     },
     {
-      "name": "Charles Johnson",
+      "name": "John Davis",
       "position": "FW",
-      "rating": 72
+      "rating": 82
     }
   ]
 }

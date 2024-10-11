@@ -2,104 +2,104 @@
   "name": "Everton",
   "squad": [
     {
-      "name": "William Anderson",
+      "name": "Brian Taylor",
       "position": "GK",
-      "rating": 61
+      "rating": 65
     },
     {
-      "name": "William Thomas",
+      "name": "Paul Smith",
       "position": "GK",
-      "rating": 70
+      "rating": 78
     },
     {
-      "name": "John Martinez",
+      "name": "Mark Jones",
       "position": "GK",
-      "rating": 68
+      "rating": 86
     },
     {
-      "name": "Kenneth Lopez",
+      "name": "Donald Moore",
       "position": "DF",
-      "rating": 81
+      "rating": 74
     },
     {
-      "name": "Thomas Martinez",
+      "name": "Anthony Gonzalez",
       "position": "DF",
-      "rating": 70
+      "rating": 85
     },
     {
-      "name": "Edward Miller",
+      "name": "Kenneth Jones",
       "position": "DF",
       "rating": 88
     },
     {
-      "name": "Thomas Thomas",
+      "name": "George Rodriguez",
       "position": "DF",
-      "rating": 74
+      "rating": 90
     },
     {
-      "name": "Michael Davis",
+      "name": "David Gonzalez",
       "position": "DF",
-      "rating": 82
+      "rating": 63
     },
     {
-      "name": "Steven Brown",
+      "name": "Mark Jones",
       "position": "DF",
-      "rating": 71
-    },
-    {
-      "name": "William Jones",
-      "position": "MF",
-      "rating": 83
-    },
-    {
-      "name": "Robert Hernandez",
-      "position": "MF",
-      "rating": 75
-    },
-    {
-      "name": "James Brown",
-      "position": "MF",
       "rating": 67
     },
     {
-      "name": "Donald Moore",
+      "name": "John Davis",
       "position": "MF",
-      "rating": 78
+      "rating": 68
     },
     {
-      "name": "Michael Martinez",
+      "name": "Thomas Gonzalez",
       "position": "MF",
-      "rating": 78
+      "rating": 68
     },
     {
-      "name": "Edward Davis",
+      "name": "Ronald Jackson",
       "position": "MF",
-      "rating": 86
+      "rating": 65
     },
     {
-      "name": "Steven Miller",
-      "position": "FW",
-      "rating": 75
+      "name": "George Thomas",
+      "position": "MF",
+      "rating": 70
     },
     {
-      "name": "Ronald Taylor",
-      "position": "FW",
-      "rating": 86
+      "name": "Anthony Jackson",
+      "position": "MF",
+      "rating": 90
     },
     {
-      "name": "Steven Wilson",
-      "position": "FW",
+      "name": "Steven Hernandez",
+      "position": "MF",
       "rating": 74
     },
     {
-      "name": "Steven Rodriguez",
+      "name": "Mark Brown",
       "position": "FW",
-      "rating": 69
+      "rating": 65
     },
     {
-      "name": "Richard Miller",
+      "name": "Mark Thomas",
       "position": "FW",
-      "rating": 81
+      "rating": 79
+    },
+    {
+      "name": "Mark Miller",
+      "position": "FW",
+      "rating": 79
+    },
+    {
+      "name": "Anthony Anderson",
+      "position": "FW",
+      "rating": 67
+    },
+    {
+      "name": "Michael Gonzalez",
+      "position": "FW",
+      "rating": 90
     }
   ]
 }

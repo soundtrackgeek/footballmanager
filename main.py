@@ -47,6 +47,11 @@ def main():
     current_week = 1
     total_weeks = len(fixtures)
 
+    print("\nWelcome to Football Manager!")
+    print("You are managing", player_team.name)
+    print("AI-controlled teams will automatically select their best 11 players for each match.")
+    print("You can manually select your team or let the game auto-select for you before each match.")
+
     while True:
         print(f"\nCurrent Week: {current_week}/{total_weeks}")
         display_menu()
@@ -67,8 +72,7 @@ def main():
             if current_week <= total_weeks:
                 print(f"\nSimulating Week {current_week}")
                 if not player_team.selected_players:
-                    print("Please select your team first.")
-                    team_rating = select_team(player_team)
+                    print("You haven't selected your team. The game will auto-select for you.")
                 current_week = play_week(fixtures, table, current_week, player_team)
                 print("\nWeek completed. Updated table:")
                 table.display()
@@ -80,8 +84,7 @@ def main():
             confirm = input(f"Are you sure you want to simulate the remaining {total_weeks - current_week + 1} weeks of the season? (y/n): ")
             if confirm.lower() == 'y':
                 if not player_team.selected_players:
-                    print("Please select your team first.")
-                    team_rating = select_team(player_team)
+                    print("You haven't selected your team. The game will auto-select for each match.")
                 simulate_season(fixtures, table, current_week, player_team)
                 current_week = total_weeks + 1
             else:

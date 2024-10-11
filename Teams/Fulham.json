@@ -2,104 +2,104 @@
   "name": "Fulham",
   "squad": [
     {
-      "name": "Anthony Jones",
+      "name": "William Hernandez",
       "position": "GK",
-      "rating": 75
+      "rating": 87
     },
     {
-      "name": "William Anderson",
+      "name": "Donald Jones",
       "position": "GK",
-      "rating": 71
+      "rating": 79
     },
     {
-      "name": "Anthony Wilson",
+      "name": "George Miller",
       "position": "GK",
-      "rating": 85
+      "rating": 69
     },
     {
-      "name": "Charles Jones",
-      "position": "DF",
-      "rating": 70
-    },
-    {
-      "name": "Ronald Taylor",
-      "position": "DF",
-      "rating": 62
-    },
-    {
-      "name": "Richard Gonzalez",
-      "position": "DF",
-      "rating": 88
-    },
-    {
-      "name": "Edward Lopez",
+      "name": "Brian Anderson",
       "position": "DF",
       "rating": 86
     },
     {
-      "name": "David Lopez",
+      "name": "John Rodriguez",
       "position": "DF",
-      "rating": 82
+      "rating": 90
     },
     {
-      "name": "Daniel Martin",
+      "name": "George Thomas",
       "position": "DF",
-      "rating": 78
+      "rating": 90
     },
     {
-      "name": "Charles Jones",
+      "name": "Thomas Jones",
+      "position": "DF",
+      "rating": 77
+    },
+    {
+      "name": "Donald Martinez",
+      "position": "DF",
+      "rating": 79
+    },
+    {
+      "name": "William Brown",
+      "position": "DF",
+      "rating": 86
+    },
+    {
+      "name": "Robert Gonzalez",
       "position": "MF",
-      "rating": 82
+      "rating": 90
     },
     {
-      "name": "Richard Martin",
-      "position": "MF",
-      "rating": 61
-    },
-    {
-      "name": "John Martinez",
+      "name": "Robert Anderson",
       "position": "MF",
       "rating": 77
     },
     {
-      "name": "John Brown",
+      "name": "Ronald Smith",
       "position": "MF",
-      "rating": 70
-    },
-    {
-      "name": "Paul Jones",
-      "position": "MF",
-      "rating": 89
-    },
-    {
-      "name": "William Jones",
-      "position": "MF",
-      "rating": 72
-    },
-    {
-      "name": "George Wilson",
-      "position": "FW",
-      "rating": 89
-    },
-    {
-      "name": "John Wilson",
-      "position": "FW",
       "rating": 66
     },
     {
-      "name": "George Jones",
-      "position": "FW",
-      "rating": 73
+      "name": "Robert Miller",
+      "position": "MF",
+      "rating": 75
     },
     {
-      "name": "Anthony Brown",
-      "position": "FW",
-      "rating": 60
+      "name": "Michael Anderson",
+      "position": "MF",
+      "rating": 71
     },
     {
-      "name": "John Taylor",
+      "name": "Brian Williams",
+      "position": "MF",
+      "rating": 64
+    },
+    {
+      "name": "William Wilson",
       "position": "FW",
-      "rating": 89
+      "rating": 90
+    },
+    {
+      "name": "Steven Williams",
+      "position": "FW",
+      "rating": 88
+    },
+    {
+      "name": "Michael Thomas",
+      "position": "FW",
+      "rating": 69
+    },
+    {
+      "name": "Michael Davis",
+      "position": "FW",
+      "rating": 74
+    },
+    {
+      "name": "Ronald Johnson",
+      "position": "FW",
+      "rating": 77
     }
   ]
 }

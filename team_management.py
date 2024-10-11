@@ -22,6 +22,20 @@ class Team:
             return 0
         return sum(player.rating for player in self.selected_players) / len(self.selected_players)
 
+    def auto_select_team(self):
+        required_positions = {"GK": 1, "DF": 4, "MF": 4, "FW": 2}
+        self.selected_players = []
+
+        for position, count in required_positions.items():
+            available_players = sorted(
+                [p for p in self.squad if p.position == position],
+                key=lambda x: x.rating,
+                reverse=True
+            )
+            self.selected_players.extend(available_players[:count])
+
+        return self.calculate_team_rating()
+
 def create_teams():
     team_names = [
         "Arsenal", "Aston Villa", "Bournemouth", "Brentford", "Brighton",
@@ -121,4 +135,12 @@ def select_team(team):
     team_rating = team.calculate_team_rating()
     print(f"\nTeam Rating: {team_rating:.2f}")
 
+    return team_rating
+
+def auto_select_team(team):
+    team_rating = team.auto_select_team()
+    print(f"\nAuto-selected team for {team.name}:")
+    for player in team.selected_players:
+        print(f"{player.name} - {player.position} - Rating: {player.rating}")
+    print(f"\nTeam Rating: {team_rating:.2f}")
     return team_rating

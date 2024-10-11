@@ -2,104 +2,104 @@
   "name": "West Ham",
   "squad": [
     {
-      "name": "Charles Johnson",
+      "name": "David Hernandez",
       "position": "GK",
-      "rating": 83
+      "rating": 74
     },
     {
-      "name": "Kenneth Gonzalez",
+      "name": "Donald Martinez",
       "position": "GK",
-      "rating": 64
-    },
-    {
-      "name": "Ronald Taylor",
-      "position": "GK",
-      "rating": 85
-    },
-    {
-      "name": "Thomas Miller",
-      "position": "DF",
-      "rating": 67
-    },
-    {
-      "name": "Donald Hernandez",
-      "position": "DF",
-      "rating": 81
-    },
-    {
-      "name": "Thomas Davis",
-      "position": "DF",
-      "rating": 88
-    },
-    {
-      "name": "David Davis",
-      "position": "DF",
-      "rating": 78
-    },
-    {
-      "name": "Robert Gonzalez",
-      "position": "DF",
-      "rating": 85
-    },
-    {
-      "name": "Paul Jones",
-      "position": "DF",
-      "rating": 81
-    },
-    {
-      "name": "Anthony Anderson",
-      "position": "MF",
-      "rating": 61
+      "rating": 86
     },
     {
       "name": "Ronald Garcia",
-      "position": "MF",
-      "rating": 83
+      "position": "GK",
+      "rating": 77
     },
     {
-      "name": "Brian Smith",
-      "position": "MF",
-      "rating": 66
-    },
-    {
-      "name": "Anthony Wilson",
-      "position": "MF",
-      "rating": 85
-    },
-    {
-      "name": "Ronald Smith",
-      "position": "MF",
-      "rating": 68
-    },
-    {
-      "name": "Robert Brown",
-      "position": "MF",
-      "rating": 86
-    },
-    {
-      "name": "William Lopez",
-      "position": "FW",
-      "rating": 79
-    },
-    {
-      "name": "Mark Johnson",
-      "position": "FW",
-      "rating": 82
-    },
-    {
-      "name": "John Anderson",
-      "position": "FW",
-      "rating": 71
+      "name": "Brian Thomas",
+      "position": "DF",
+      "rating": 60
     },
     {
       "name": "Kenneth Martinez",
-      "position": "FW",
-      "rating": 86
+      "position": "DF",
+      "rating": 62
     },
     {
-      "name": "Ronald Wilson",
+      "name": "Robert Rodriguez",
+      "position": "DF",
+      "rating": 69
+    },
+    {
+      "name": "Steven Rodriguez",
+      "position": "DF",
+      "rating": 66
+    },
+    {
+      "name": "Paul Davis",
+      "position": "DF",
+      "rating": 61
+    },
+    {
+      "name": "Anthony Moore",
+      "position": "DF",
+      "rating": 87
+    },
+    {
+      "name": "James Wilson",
+      "position": "MF",
+      "rating": 89
+    },
+    {
+      "name": "Donald Thomas",
+      "position": "MF",
+      "rating": 62
+    },
+    {
+      "name": "Michael Taylor",
+      "position": "MF",
+      "rating": 63
+    },
+    {
+      "name": "Brian Johnson",
+      "position": "MF",
+      "rating": 78
+    },
+    {
+      "name": "Brian Hernandez",
+      "position": "MF",
+      "rating": 64
+    },
+    {
+      "name": "Steven Thomas",
+      "position": "MF",
+      "rating": 70
+    },
+    {
+      "name": "Edward Lopez",
       "position": "FW",
-      "rating": 84
+      "rating": 72
+    },
+    {
+      "name": "Robert Smith",
+      "position": "FW",
+      "rating": 63
+    },
+    {
+      "name": "Edward Brown",
+      "position": "FW",
+      "rating": 70
+    },
+    {
+      "name": "Donald Garcia",
+      "position": "FW",
+      "rating": 62
+    },
+    {
+      "name": "Richard Taylor",
+      "position": "FW",
+      "rating": 61
     }
   ]
 }

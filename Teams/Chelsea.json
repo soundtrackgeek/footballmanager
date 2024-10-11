@@ -2,104 +2,104 @@
   "name": "Chelsea",
   "squad": [
     {
-      "name": "Ronald Gonzalez",
+      "name": "Robert Rodriguez",
       "position": "GK",
-      "rating": 68
+      "rating": 79
     },
     {
-      "name": "William Rodriguez",
+      "name": "Charles Martin",
       "position": "GK",
-      "rating": 71
+      "rating": 74
     },
     {
-      "name": "Steven Jackson",
+      "name": "William Brown",
       "position": "GK",
-      "rating": 70
+      "rating": 80
     },
     {
-      "name": "Brian Garcia",
+      "name": "Steven Davis",
       "position": "DF",
       "rating": 75
     },
     {
-      "name": "Daniel Garcia",
-      "position": "DF",
-      "rating": 60
-    },
-    {
-      "name": "Kenneth Jackson",
+      "name": "William Miller",
       "position": "DF",
       "rating": 71
     },
     {
-      "name": "Robert Brown",
+      "name": "William Smith",
       "position": "DF",
-      "rating": 63
+      "rating": 78
     },
     {
-      "name": "Thomas Wilson",
+      "name": "Richard Miller",
       "position": "DF",
-      "rating": 60
-    },
-    {
-      "name": "Edward Gonzalez",
-      "position": "DF",
-      "rating": 89
-    },
-    {
-      "name": "Steven Jones",
-      "position": "MF",
-      "rating": 86
-    },
-    {
-      "name": "James Davis",
-      "position": "MF",
-      "rating": 64
-    },
-    {
-      "name": "Edward Taylor",
-      "position": "MF",
-      "rating": 73
-    },
-    {
-      "name": "David Brown",
-      "position": "MF",
       "rating": 66
     },
     {
-      "name": "Edward Martinez",
+      "name": "Steven Rodriguez",
+      "position": "DF",
+      "rating": 80
+    },
+    {
+      "name": "James Rodriguez",
+      "position": "DF",
+      "rating": 79
+    },
+    {
+      "name": "George Garcia",
       "position": "MF",
-      "rating": 75
+      "rating": 84
     },
     {
-      "name": "Michael Rodriguez",
+      "name": "Richard Jones",
       "position": "MF",
-      "rating": 83
+      "rating": 88
     },
     {
-      "name": "Michael Brown",
+      "name": "William Taylor",
+      "position": "MF",
+      "rating": 88
+    },
+    {
+      "name": "William Moore",
+      "position": "MF",
+      "rating": 69
+    },
+    {
+      "name": "Brian Johnson",
+      "position": "MF",
+      "rating": 79
+    },
+    {
+      "name": "David Hernandez",
+      "position": "MF",
+      "rating": 79
+    },
+    {
+      "name": "Richard Anderson",
       "position": "FW",
-      "rating": 86
+      "rating": 78
     },
     {
-      "name": "Ronald Miller",
+      "name": "Donald Rodriguez",
       "position": "FW",
-      "rating": 72
+      "rating": 88
     },
     {
-      "name": "Ronald Martinez",
-      "position": "FW",
-      "rating": 82
-    },
-    {
-      "name": "Steven Taylor",
+      "name": "Daniel Davis",
       "position": "FW",
       "rating": 85
     },
     {
-      "name": "Robert Anderson",
+      "name": "Kenneth Smith",
       "position": "FW",
-      "rating": 61
+      "rating": 76
+    },
+    {
+      "name": "James Davis",
+      "position": "FW",
+      "rating": 69
     }
   ]
 }

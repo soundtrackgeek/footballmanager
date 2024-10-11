@@ -1,4 +1,5 @@
 import random
+from team_management import select_team, auto_select_team
 
 def simulate_game(home_team, away_team):
     home_rating = home_team.calculate_team_rating()
@@ -25,10 +26,16 @@ def play_week(fixtures, table, current_week, player_team):
         home_team = next(team for team in table.teams if team.name == home_team_name)
         away_team = next(team for team in table.teams if team.name == away_team_name)
 
+        # Auto-select team for AI-controlled teams
+        if home_team != player_team:
+            auto_select_team(home_team)
+        if away_team != player_team:
+            auto_select_team(away_team)
+
+        # Handle player's team selection
         if home_team == player_team or away_team == player_team:
             if not player_team.selected_players:
                 print(f"Please select your team for the match: {home_team_name} vs {away_team_name}")
-                from team_management import select_team
                 select_team(player_team)
 
         home_goals, away_goals = simulate_game(home_team, away_team)

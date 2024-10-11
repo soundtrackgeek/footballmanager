@@ -2,104 +2,104 @@
   "name": "Bournemouth",
   "squad": [
     {
-      "name": "Daniel Jones",
+      "name": "Richard Garcia",
       "position": "GK",
-      "rating": 77
+      "rating": 86
     },
     {
-      "name": "Robert Brown",
+      "name": "Ronald Smith",
       "position": "GK",
+      "rating": 69
+    },
+    {
+      "name": "Richard Thomas",
+      "position": "GK",
+      "rating": 72
+    },
+    {
+      "name": "George Lopez",
+      "position": "DF",
       "rating": 74
     },
     {
-      "name": "John Miller",
-      "position": "GK",
-      "rating": 64
+      "name": "Michael Wilson",
+      "position": "DF",
+      "rating": 70
     },
     {
-      "name": "Richard Wilson",
+      "name": "Brian Martin",
       "position": "DF",
-      "rating": 66
-    },
-    {
-      "name": "Anthony Jones",
-      "position": "DF",
-      "rating": 63
+      "rating": 90
     },
     {
       "name": "Thomas Moore",
       "position": "DF",
-      "rating": 86
+      "rating": 89
     },
     {
-      "name": "Robert Taylor",
+      "name": "William Brown",
       "position": "DF",
-      "rating": 69
+      "rating": 81
     },
     {
-      "name": "David Martin",
+      "name": "Richard Anderson",
       "position": "DF",
       "rating": 75
     },
     {
-      "name": "Paul Jackson",
-      "position": "DF",
-      "rating": 61
-    },
-    {
-      "name": "Robert Garcia",
+      "name": "Donald Smith",
       "position": "MF",
-      "rating": 72
+      "rating": 83
     },
     {
-      "name": "Donald Martin",
-      "position": "MF",
-      "rating": 60
-    },
-    {
-      "name": "Steven Garcia",
-      "position": "MF",
-      "rating": 72
-    },
-    {
-      "name": "Brian Lopez",
-      "position": "MF",
-      "rating": 85
-    },
-    {
-      "name": "John Jackson",
-      "position": "MF",
-      "rating": 69
-    },
-    {
-      "name": "Steven Martin",
+      "name": "Robert Jones",
       "position": "MF",
       "rating": 90
     },
     {
-      "name": "Steven Brown",
-      "position": "FW",
-      "rating": 72
+      "name": "Anthony Rodriguez",
+      "position": "MF",
+      "rating": 85
     },
     {
-      "name": "James Davis",
+      "name": "Thomas Jones",
+      "position": "MF",
+      "rating": 87
+    },
+    {
+      "name": "Ronald Miller",
+      "position": "MF",
+      "rating": 71
+    },
+    {
+      "name": "Charles Rodriguez",
+      "position": "MF",
+      "rating": 62
+    },
+    {
+      "name": "Thomas Moore",
+      "position": "FW",
+      "rating": 83
+    },
+    {
+      "name": "Michael Thomas",
       "position": "FW",
       "rating": 82
     },
     {
-      "name": "Ronald Brown",
+      "name": "Brian Miller",
       "position": "FW",
-      "rating": 85
+      "rating": 60
     },
     {
-      "name": "Brian Moore",
+      "name": "Thomas Brown",
       "position": "FW",
-      "rating": 80
+      "rating": 60
     },
     {
-      "name": "George Thomas",
+      "name": "Paul Davis",
       "position": "FW",
-      "rating": 79
+      "rating": 74
     }
   ]
 }
