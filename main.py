@@ -213,7 +213,9 @@ def main():
         elif choice == "4":
             print("\nTransfer Market feature not implemented yet.")
         elif choice == "5":
-            if current_week <= total_weeks:
+            if not player_team.selected_players:
+                print("\nYou haven't selected a team yet. Please select your team first.")
+            elif current_week <= total_weeks:
                 print(f"\nSimulating Week {current_week}")
                 current_week = play_week(fixtures, table, current_week, player_team)
             else:
