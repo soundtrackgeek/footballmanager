@@ -4,6 +4,8 @@ from table import create_table
 from game_simulation import play_week, simulate_season
 from stats import stats
 
+import random
+
 def display_menu():
     print("\nFootball Manager Menu:")
     print("1. Team")
@@ -75,16 +77,69 @@ def finances_menu(player_team):
         elif choice == "2":
             print("\nSponsorships feature not implemented yet.")
         elif choice == "3":
-            print("\nBank Loan feature not implemented yet.")
+            handle_bank_loan(player_team)
         elif choice == "0":
             break
         else:
             print("Invalid choice. Please try again.")
 
 def view_finances(team):
-    # For now, we'll just display a placeholder value
     print(f"\n{team.name} Finances:")
-    print(f"Available Funds: £10,000,000")
+    print(f"Available Funds: £{team.finances['bank_balance']:,}")
+    
+    if team.finances['loan']:
+        loan = team.finances['loan']
+        print("\nActive Loan:")
+        print(f"Remaining balance: £{loan['remaining']:,.2f}")
+        print(f"Weekly payment: £{loan['weekly_payment']:,.2f}")
+        print(f"Weeks left: {loan['weeks_left']}")
+    else:
+        print("\nNo active loans.")
+
+def handle_bank_loan(team):
+    bank_names = [
+        "Royal Bank of Football", "Goalkeepers' Trust", "Midfield Mutual",
+        "Striker Savings", "Defender's Credit Union", "Premier Financial",
+        "Champions League Bank", "Football Association Savings",
+        "Golden Boot Banking", "Hat-Trick Holdings"
+    ]
+    
+    loan_amount = int(input("Enter the amount you want to loan (in pounds): "))
+    
+    available_banks = random.sample(bank_names, 3)
+    
+    print("\nChoose a bank for your loan:")
+    for i, bank in enumerate(available_banks, 1):
+        print(f"{i}. {bank}")
+    
+    bank_choice = int(input("Enter the number of your chosen bank: ")) - 1
+    chosen_bank = available_banks[bank_choice]
+    
+    loan_duration = random.randint(52, 260)  # 1 to 5 years in weeks
+    interest_rate = random.uniform(0.05, 0.15)  # 5% to 15%
+    
+    total_repayment = loan_amount * (1 + interest_rate)
+    weekly_payment = total_repayment / loan_duration
+    
+    print(f"\nLoan terms from {chosen_bank}:")
+    print(f"Loan amount: £{loan_amount:,}")
+    print(f"Duration: {loan_duration} weeks")
+    print(f"Interest rate: {interest_rate:.2%}")
+    print(f"Total repayment: £{total_repayment:,.2f}")
+    print(f"Weekly payment: £{weekly_payment:,.2f}")
+    
+    confirm = input("\nDo you want to accept this loan? (y/n): ")
+    if confirm.lower() == 'y':
+        team.finances['bank_balance'] += loan_amount
+        team.finances['loan'] = {
+            'amount': loan_amount,
+            'remaining': total_repayment,
+            'weekly_payment': weekly_payment,
+            'weeks_left': loan_duration
+        }
+        print(f"\nLoan accepted. £{loan_amount:,} has been added to your bank balance.")
+    else:
+        print("\nLoan offer declined.")
 
 def main():
     teams = create_teams()

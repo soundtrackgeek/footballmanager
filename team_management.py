@@ -8,6 +8,10 @@ class Team:
         self.name = name
         self.squad = []
         self.selected_players = []
+        self.finances = {
+            'bank_balance': random.randint(20_000_000, 100_000_000),
+            'loan': None
+        }
 
     def add_player(self, player):
         self.squad.append(player)
