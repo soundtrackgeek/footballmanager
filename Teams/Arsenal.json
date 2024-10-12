@@ -2,144 +2,144 @@
   "name": "Arsenal",
   "squad": [
     {
-      "name": "Nils Fields",
+      "name": "Terry Singh",
       "position": "GK",
-      "rating": 70,
-      "age": 16,
-      "value": 22400000
+      "rating": 76,
+      "age": 18,
+      "value": 23040000
     },
     {
-      "name": "August Mcdonald",
+      "name": "Trevor Brooks",
       "position": "GK",
       "rating": 80,
-      "age": 21,
-      "value": 22231578
+      "age": 23,
+      "value": 20884210
     },
     {
-      "name": "Tom\u00e1s Karlberg",
+      "name": "Diego Barnes",
       "position": "GK",
-      "rating": 60,
+      "rating": 86,
       "age": 34,
-      "value": 10105263
+      "value": 14484210
     },
     {
-      "name": "Alexander Bennett",
-      "position": "DF",
-      "rating": 76,
-      "age": 28,
-      "value": 20800000
-    },
-    {
-      "name": "Vance Guo",
-      "position": "DF",
-      "rating": 72,
-      "age": 21,
-      "value": 25010526
-    },
-    {
-      "name": "Pablo Barton",
-      "position": "DF",
-      "rating": 79,
-      "age": 29,
-      "value": 20789473
-    },
-    {
-      "name": "Viktor Cabrera",
+      "name": "Damon Flores",
       "position": "DF",
       "rating": 61,
-      "age": 31,
-      "value": 14768421
+      "age": 33,
+      "value": 13484210
     },
     {
-      "name": "Anthony Franklin",
+      "name": "Kelly Franco",
       "position": "DF",
-      "rating": 86,
-      "age": 24,
-      "value": 27157894
-    },
-    {
-      "name": "Reid Gray",
-      "position": "DF",
-      "rating": 81,
-      "age": 29,
-      "value": 21315789
-    },
-    {
-      "name": "Ricardo Bennett",
-      "position": "MF",
-      "rating": 86,
+      "rating": 68,
       "age": 18,
-      "value": 39107368
+      "value": 25768421
     },
     {
-      "name": "Richard Quartey",
+      "name": "Johnny Olson",
+      "position": "DF",
+      "rating": 61,
+      "age": 23,
+      "value": 19905263
+    },
+    {
+      "name": "Shane Cruz",
+      "position": "DF",
+      "rating": 65,
+      "age": 28,
+      "value": 17789473
+    },
+    {
+      "name": "Steven Kim",
+      "position": "DF",
+      "rating": 69,
+      "age": 31,
+      "value": 16705263
+    },
+    {
+      "name": "Harold Brooks",
+      "position": "DF",
+      "rating": 61,
+      "age": 25,
+      "value": 18621052
+    },
+    {
+      "name": "Mathias Ellis",
       "position": "MF",
-      "rating": 90,
-      "age": 20,
-      "value": 38652631
+      "rating": 84,
+      "age": 22,
+      "value": 33953684
     },
     {
-      "name": "Jos\u00e9 Marshall",
+      "name": "Morten Barnes",
+      "position": "MF",
+      "rating": 74,
+      "age": 25,
+      "value": 27107368
+    },
+    {
+      "name": "Mauricio Bell",
       "position": "MF",
       "rating": 66,
-      "age": 20,
-      "value": 28345263
-    },
-    {
-      "name": "Curtis Griffin",
-      "position": "MF",
-      "rating": 73,
-      "age": 24,
-      "value": 27663157
-    },
-    {
-      "name": "Waylon S\u00f6derberg",
-      "position": "MF",
-      "rating": 72,
-      "age": 28,
-      "value": 23646315
-    },
-    {
-      "name": "Morten Meadows",
-      "position": "MF",
-      "rating": 90,
-      "age": 21,
-      "value": 37515789
-    },
-    {
-      "name": "Toshiro Whitaker",
-      "position": "FW",
-      "rating": 86,
       "age": 34,
-      "value": 27157894
+      "value": 16673684
     },
     {
-      "name": "Alan Garza",
-      "position": "FW",
-      "rating": 68,
-      "age": 25,
-      "value": 31136842
+      "name": "Adan Lee",
+      "position": "MF",
+      "rating": 61,
+      "age": 19,
+      "value": 26968421
     },
     {
-      "name": "Rory Garc\u00eda",
-      "position": "FW",
-      "rating": 63,
-      "age": 21,
-      "value": 32826315
+      "name": "Babatunde Murphy",
+      "position": "MF",
+      "rating": 77,
+      "age": 22,
+      "value": 31124210
     },
     {
-      "name": "Aiden Jabari",
-      "position": "FW",
-      "rating": 62,
-      "age": 28,
-      "value": 25452631
+      "name": "Adekunle Jackson",
+      "position": "MF",
+      "rating": 77,
+      "age": 16,
+      "value": 36960000
     },
     {
-      "name": "Brock Mart\u00ednez",
+      "name": "Gustav Adams",
       "position": "FW",
-      "rating": 90,
-      "age": 31,
-      "value": 32684210
+      "rating": 85,
+      "age": 17,
+      "value": 40000000
+    },
+    {
+      "name": "Lucas Lubega",
+      "position": "FW",
+      "rating": 78,
+      "age": 16,
+      "value": 40000000
+    },
+    {
+      "name": "Vance Beck",
+      "position": "FW",
+      "rating": 73,
+      "age": 29,
+      "value": 28815789
+    },
+    {
+      "name": "Rohan Griffin",
+      "position": "FW",
+      "rating": 82,
+      "age": 17,
+      "value": 40000000
+    },
+    {
+      "name": "Adekunle Hernandez",
+      "position": "FW",
+      "rating": 78,
+      "age": 34,
+      "value": 24631578
     }
   ],
   "stadium": {

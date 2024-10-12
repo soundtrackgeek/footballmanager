@@ -2,144 +2,144 @@
   "name": "Manchester United",
   "squad": [
     {
-      "name": "Mathew Green",
+      "name": "Noah Pena",
       "position": "GK",
-      "rating": 72,
-      "age": 34,
-      "value": 12126315
+      "rating": 70,
+      "age": 19,
+      "value": 20631578
     },
     {
-      "name": "Cian Beck",
+      "name": "Uriah Griffin",
       "position": "GK",
       "rating": 90,
-      "age": 22,
-      "value": 24252631
+      "age": 25,
+      "value": 21978947
     },
     {
-      "name": "Jayden King",
+      "name": "Yahir Franklin",
       "position": "GK",
-      "rating": 88,
-      "age": 18,
-      "value": 26677894
+      "rating": 89,
+      "age": 22,
+      "value": 23983157
     },
     {
-      "name": "Kirk Harmon",
+      "name": "Kenny Sandstr\u00f6m",
       "position": "DF",
-      "rating": 71,
-      "age": 19,
-      "value": 26157894
+      "rating": 80,
+      "age": 29,
+      "value": 21052631
     },
     {
-      "name": "Ibrahim Ramsey",
+      "name": "Shawn Hart",
       "position": "DF",
       "rating": 77,
-      "age": 16,
-      "value": 30800000
+      "age": 29,
+      "value": 20263157
     },
     {
-      "name": "Raymond Hansen",
+      "name": "Rasmus Choi",
       "position": "DF",
-      "rating": 72,
-      "age": 23,
-      "value": 23494736
+      "rating": 88,
+      "age": 21,
+      "value": 30568421
     },
     {
-      "name": "Elias Ben\u00edtez",
+      "name": "Kenneth Kimura",
       "position": "DF",
-      "rating": 78,
-      "age": 20,
+      "rating": 80,
+      "age": 28,
+      "value": 21894736
+    },
+    {
+      "name": "Ronald Lin",
+      "position": "DF",
+      "rating": 71,
+      "age": 25,
+      "value": 21673684
+    },
+    {
+      "name": "Riley Barnett",
+      "position": "DF",
+      "rating": 87,
+      "age": 27,
+      "value": 24726315
+    },
+    {
+      "name": "Jack Jabari",
+      "position": "MF",
+      "rating": 60,
+      "age": 25,
+      "value": 21978947
+    },
+    {
+      "name": "Ralph Guerrero",
+      "position": "MF",
+      "rating": 85,
+      "age": 28,
       "value": 27915789
     },
     {
-      "name": "Einar Abebe",
-      "position": "DF",
-      "rating": 83,
-      "age": 22,
-      "value": 27957894
-    },
-    {
-      "name": "Pranav Dixon",
-      "position": "DF",
-      "rating": 82,
-      "age": 25,
-      "value": 25031578
-    },
-    {
-      "name": "Veer Little",
+      "name": "Adam Webster",
       "position": "MF",
       "rating": 83,
-      "age": 34,
-      "value": 20968421
+      "age": 24,
+      "value": 31452631
     },
     {
-      "name": "Malachi Moore",
+      "name": "Wayne Valencia",
       "position": "MF",
-      "rating": 69,
-      "age": 18,
-      "value": 31376842
-    },
-    {
-      "name": "Raul Magnusson",
-      "position": "MF",
-      "rating": 90,
-      "age": 25,
-      "value": 32968421
-    },
-    {
-      "name": "Hugo Nakajima",
-      "position": "MF",
-      "rating": 76,
-      "age": 19,
-      "value": 33600000
-    },
-    {
-      "name": "Cameron Garc\u00eda",
-      "position": "MF",
-      "rating": 83,
-      "age": 18,
-      "value": 37743157
-    },
-    {
-      "name": "Nicolas Rice",
-      "position": "MF",
-      "rating": 84,
+      "rating": 77,
       "age": 20,
-      "value": 36075789
+      "value": 33069473
     },
     {
-      "name": "Clayton Baker",
+      "name": "Finn Medina",
+      "position": "MF",
+      "rating": 65,
+      "age": 21,
+      "value": 27094736
+    },
+    {
+      "name": "Nathan Barnett",
+      "position": "MF",
+      "rating": 85,
+      "age": 19,
+      "value": 37578947
+    },
+    {
+      "name": "Damon Bhatia",
       "position": "FW",
-      "rating": 78,
+      "rating": 83,
+      "age": 28,
+      "value": 34073684
+    },
+    {
+      "name": "Isaiah Hunt",
+      "position": "FW",
+      "rating": 71,
       "age": 16,
       "value": 40000000
     },
     {
-      "name": "Rajesh Howard",
+      "name": "Jacob Stone",
       "position": "FW",
-      "rating": 80,
-      "age": 35,
-      "value": 24000000
-    },
-    {
-      "name": "Carter Sanchez",
-      "position": "FW",
-      "rating": 73,
-      "age": 17,
+      "rating": 85,
+      "age": 22,
       "value": 40000000
     },
     {
-      "name": "Trenton Scott",
+      "name": "Orlando Rose",
       "position": "FW",
-      "rating": 84,
-      "age": 30,
-      "value": 31831578
+      "rating": 70,
+      "age": 34,
+      "value": 22105263
     },
     {
-      "name": "Brayden Bailey",
+      "name": "Kevin Mehta",
       "position": "FW",
-      "rating": 63,
-      "age": 28,
-      "value": 25863157
+      "rating": 62,
+      "age": 19,
+      "value": 34263157
     }
   ],
   "stadium": {

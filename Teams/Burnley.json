@@ -2,144 +2,144 @@
   "name": "Burnley",
   "squad": [
     {
-      "name": "Zane Barton",
+      "name": "Declan Stone",
       "position": "GK",
-      "rating": 76,
-      "age": 18,
-      "value": 23040000
+      "rating": 65,
+      "age": 26,
+      "value": 15326315
     },
     {
-      "name": "Daichi Sandberg",
+      "name": "Keita Palmer",
       "position": "GK",
       "rating": 84,
-      "age": 31,
-      "value": 16269473
+      "age": 22,
+      "value": 22635789
     },
     {
-      "name": "Aedan Shin",
+      "name": "Milton Holmes",
       "position": "GK",
-      "rating": 85,
-      "age": 27,
-      "value": 19326315
+      "rating": 75,
+      "age": 25,
+      "value": 18315789
     },
     {
-      "name": "Luis Cabrera",
+      "name": "Tao Lindholm",
       "position": "DF",
-      "rating": 88,
-      "age": 29,
-      "value": 23157894
+      "rating": 62,
+      "age": 33,
+      "value": 13705263
     },
     {
-      "name": "Gustavo Castro",
+      "name": "Bryan Howard",
       "position": "DF",
-      "rating": 80,
-      "age": 27,
-      "value": 22736842
+      "rating": 84,
+      "age": 24,
+      "value": 26526315
     },
     {
-      "name": "Mathew Boone",
+      "name": "Masashi Bell",
       "position": "DF",
-      "rating": 67,
-      "age": 34,
-      "value": 14105263
+      "rating": 60,
+      "age": 23,
+      "value": 19578947
     },
     {
-      "name": "Nuru Woods",
+      "name": "Jiro Cunningham",
+      "position": "DF",
+      "rating": 66,
+      "age": 19,
+      "value": 24315789
+    },
+    {
+      "name": "Andreas Payne",
       "position": "DF",
       "rating": 77,
-      "age": 30,
-      "value": 19452631
+      "age": 26,
+      "value": 22694736
     },
     {
-      "name": "Leif Freeman",
+      "name": "Colin Toure",
       "position": "DF",
-      "rating": 90,
-      "age": 35,
-      "value": 18000000
+      "rating": 74,
+      "age": 31,
+      "value": 17915789
     },
     {
-      "name": "Vance Kwon",
-      "position": "DF",
-      "rating": 75,
-      "age": 35,
-      "value": 15000000
-    },
-    {
-      "name": "Roderick Rasmussen",
+      "name": "Edgar Campbell",
       "position": "MF",
       "rating": 63,
-      "age": 30,
-      "value": 19098947
+      "age": 17,
+      "value": 29444210
     },
     {
-      "name": "Tunde Parker",
+      "name": "Nnamdi Perry",
       "position": "MF",
-      "rating": 63,
-      "age": 29,
-      "value": 19894736
-    },
-    {
-      "name": "Amani Ross",
-      "position": "MF",
-      "rating": 63,
+      "rating": 69,
       "age": 33,
-      "value": 16711578
+      "value": 18303157
     },
     {
-      "name": "Stewart Alvarez",
+      "name": "Rune Rodriguez",
       "position": "MF",
-      "rating": 89,
-      "age": 25,
-      "value": 32602105
-    },
-    {
-      "name": "Axel Palacios",
-      "position": "MF",
-      "rating": 68,
-      "age": 28,
-      "value": 22332631
-    },
-    {
-      "name": "Henrik Fisher",
-      "position": "MF",
-      "rating": 60,
-      "age": 18,
-      "value": 27284210
-    },
-    {
-      "name": "Mandla Njoroge",
-      "position": "FW",
-      "rating": 86,
-      "age": 35,
-      "value": 25800000
-    },
-    {
-      "name": "Thiago Rogers",
-      "position": "FW",
       "rating": 67,
-      "age": 32,
-      "value": 23273684
+      "age": 30,
+      "value": 20311578
     },
     {
-      "name": "Edward Baker",
-      "position": "FW",
+      "name": "Zion Akinyele",
+      "position": "MF",
       "rating": 88,
-      "age": 34,
-      "value": 27789473
-    },
-    {
-      "name": "Max Mills",
-      "position": "FW",
-      "rating": 81,
-      "age": 22,
+      "age": 17,
       "value": 40000000
     },
     {
-      "name": "Keegan Roberts",
+      "name": "Taylor Silva",
+      "position": "MF",
+      "rating": 63,
+      "age": 16,
+      "value": 30240000
+    },
+    {
+      "name": "Sim\u00f3n Kabiru",
+      "position": "MF",
+      "rating": 82,
+      "age": 21,
+      "value": 34181052
+    },
+    {
+      "name": "Renato Kabiru",
       "position": "FW",
-      "rating": 75,
+      "rating": 65,
+      "age": 26,
+      "value": 28736842
+    },
+    {
+      "name": "Easton Bailey",
+      "position": "FW",
+      "rating": 80,
+      "age": 21,
+      "value": 40000000
+    },
+    {
+      "name": "Kellen Reyes",
+      "position": "FW",
+      "rating": 77,
       "age": 24,
-      "value": 35526315
+      "value": 36473684
+    },
+    {
+      "name": "Izaiah Hassan",
+      "position": "FW",
+      "rating": 87,
+      "age": 35,
+      "value": 26100000
+    },
+    {
+      "name": "Anton West",
+      "position": "FW",
+      "rating": 81,
+      "age": 35,
+      "value": 24300000
     }
   ],
   "stadium": {

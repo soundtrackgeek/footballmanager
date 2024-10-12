@@ -2,144 +2,144 @@
   "name": "Everton",
   "squad": [
     {
-      "name": "Lewis Morris",
+      "name": "August Marshall",
       "position": "GK",
-      "rating": 70,
-      "age": 32,
-      "value": 12968421
+      "rating": 60,
+      "age": 20,
+      "value": 17178947
     },
     {
-      "name": "Kyle Quartey",
+      "name": "Sebasti\u00e1n Haynes",
       "position": "GK",
-      "rating": 86,
-      "age": 35,
-      "value": 13760000
+      "rating": 84,
+      "age": 30,
+      "value": 16976842
     },
     {
-      "name": "Mandla Bryant",
+      "name": "Matt Valencia",
       "position": "GK",
-      "rating": 64,
-      "age": 17,
-      "value": 19941052
+      "rating": 84,
+      "age": 22,
+      "value": 22635789
     },
     {
-      "name": "Marlon Benson",
+      "name": "Jeremy West",
       "position": "DF",
       "rating": 83,
-      "age": 24,
-      "value": 26210526
+      "age": 18,
+      "value": 31452631
     },
     {
-      "name": "Jesse Abebe",
+      "name": "Jett Henderson",
       "position": "DF",
-      "rating": 60,
-      "age": 17,
-      "value": 23368421
+      "rating": 86,
+      "age": 19,
+      "value": 31684210
     },
     {
-      "name": "Andr\u00e9s Flores",
-      "position": "DF",
-      "rating": 73,
-      "age": 28,
-      "value": 19978947
-    },
-    {
-      "name": "Wei-Lun Valdez",
-      "position": "DF",
-      "rating": 82,
-      "age": 34,
-      "value": 17263157
-    },
-    {
-      "name": "Emmanuel Shin",
-      "position": "DF",
-      "rating": 62,
-      "age": 23,
-      "value": 20231578
-    },
-    {
-      "name": "Oscar Kim",
+      "name": "Sulaiman Kabiru",
       "position": "DF",
       "rating": 75,
-      "age": 30,
-      "value": 18947368
-    },
-    {
-      "name": "Malachi Morgan",
-      "position": "MF",
-      "rating": 84,
-      "age": 34,
-      "value": 21221052
-    },
-    {
-      "name": "Mat\u00edas Marshall",
-      "position": "MF",
-      "rating": 71,
       "age": 20,
-      "value": 30492631
+      "value": 26842105
     },
     {
-      "name": "Liam Umar",
-      "position": "MF",
-      "rating": 70,
-      "age": 26,
-      "value": 24757894
+      "name": "Randy Scott",
+      "position": "DF",
+      "rating": 80,
+      "age": 28,
+      "value": 21894736
     },
     {
-      "name": "David Rojas",
-      "position": "MF",
-      "rating": 71,
-      "age": 21,
-      "value": 29595789
-    },
-    {
-      "name": "Francisco Green",
-      "position": "MF",
-      "rating": 70,
-      "age": 35,
-      "value": 16800000
-    },
-    {
-      "name": "Logan Phillips",
-      "position": "MF",
-      "rating": 89,
-      "age": 29,
-      "value": 28105263
-    },
-    {
-      "name": "Gustavo West",
-      "position": "FW",
+      "name": "Johnny Holmes",
+      "position": "DF",
       "rating": 63,
-      "age": 32,
-      "value": 21884210
+      "age": 17,
+      "value": 24536842
     },
     {
-      "name": "Bart Fuentes",
-      "position": "FW",
-      "rating": 69,
-      "age": 26,
-      "value": 30505263
+      "name": "James Guo",
+      "position": "DF",
+      "rating": 64,
+      "age": 35,
+      "value": 12800000
     },
     {
-      "name": "Hugo Perry",
-      "position": "FW",
-      "rating": 60,
-      "age": 30,
-      "value": 22736842
+      "name": "Damien Watanabe",
+      "position": "MF",
+      "rating": 82,
+      "age": 27,
+      "value": 27966315
     },
     {
-      "name": "Nicolas Beck",
-      "position": "FW",
-      "rating": 89,
-      "age": 32,
-      "value": 30915789
+      "name": "Morgan Rodriguez",
+      "position": "MF",
+      "rating": 82,
+      "age": 18,
+      "value": 37288421
     },
     {
-      "name": "Zion Gray",
+      "name": "Daniel Newman",
+      "position": "MF",
+      "rating": 90,
+      "age": 16,
+      "value": 40000000
+    },
+    {
+      "name": "Rodney Oliver",
+      "position": "MF",
+      "rating": 80,
+      "age": 16,
+      "value": 38400000
+    },
+    {
+      "name": "Dwayne Huang",
+      "position": "MF",
+      "rating": 79,
+      "age": 17,
+      "value": 36922105
+    },
+    {
+      "name": "Vincent Pena",
+      "position": "MF",
+      "rating": 79,
+      "age": 29,
+      "value": 24947368
+    },
+    {
+      "name": "Daniel Bates",
       "position": "FW",
-      "rating": 66,
-      "age": 30,
-      "value": 25010526
+      "rating": 75,
+      "age": 23,
+      "value": 36710526
+    },
+    {
+      "name": "Gustav Marin",
+      "position": "FW",
+      "rating": 84,
+      "age": 35,
+      "value": 25200000
+    },
+    {
+      "name": "Sean Oliver",
+      "position": "FW",
+      "rating": 61,
+      "age": 28,
+      "value": 25042105
+    },
+    {
+      "name": "Matt Patel",
+      "position": "FW",
+      "rating": 62,
+      "age": 35,
+      "value": 18600000
+    },
+    {
+      "name": "Ben Fernandes",
+      "position": "FW",
+      "rating": 72,
+      "age": 18,
+      "value": 40000000
     }
   ],
   "stadium": {

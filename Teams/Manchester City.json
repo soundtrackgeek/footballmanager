@@ -2,144 +2,144 @@
   "name": "Manchester City",
   "squad": [
     {
-      "name": "Sebastian White",
+      "name": "Mario Franklin",
       "position": "GK",
-      "rating": 70,
-      "age": 29,
-      "value": 14736842
+      "rating": 80,
+      "age": 19,
+      "value": 23578947
     },
     {
-      "name": "Luis West",
+      "name": "Owen Whitaker",
       "position": "GK",
-      "rating": 72,
-      "age": 23,
-      "value": 18795789
+      "rating": 83,
+      "age": 28,
+      "value": 18172631
     },
     {
-      "name": "Lucas Burke",
+      "name": "Victor Delgado",
       "position": "GK",
-      "rating": 71,
-      "age": 32,
-      "value": 13153684
+      "rating": 76,
+      "age": 21,
+      "value": 21120000
     },
     {
-      "name": "Devin Palmer",
+      "name": "Reese Hayes",
       "position": "DF",
-      "rating": 62,
-      "age": 34,
-      "value": 13052631
-    },
-    {
-      "name": "Ivan Marshall",
-      "position": "DF",
-      "rating": 71,
+      "rating": 67,
       "age": 31,
-      "value": 17189473
+      "value": 16221052
     },
     {
-      "name": "Andres Burke",
+      "name": "Dalton Phelps",
       "position": "DF",
-      "rating": 66,
+      "rating": 79,
       "age": 20,
-      "value": 23621052
+      "value": 28273684
     },
     {
-      "name": "Hector Perry",
+      "name": "Joshua Morris",
       "position": "DF",
-      "rating": 90,
-      "age": 23,
-      "value": 29368421
+      "rating": 86,
+      "age": 19,
+      "value": 31684210
     },
     {
-      "name": "Uriah Barnett",
+      "name": "Jett Hicks",
       "position": "DF",
-      "rating": 69,
-      "age": 30,
-      "value": 17431578
+      "rating": 65,
+      "age": 20,
+      "value": 23263157
     },
     {
-      "name": "Will Rodr\u00edguez",
+      "name": "Jengo Newman",
       "position": "DF",
+      "rating": 82,
+      "age": 17,
+      "value": 31936842
+    },
+    {
+      "name": "Aedan Hayes",
+      "position": "DF",
+      "rating": 81,
+      "age": 16,
+      "value": 32400000
+    },
+    {
+      "name": "Ralph Balogun",
+      "position": "MF",
+      "rating": 70,
+      "age": 33,
+      "value": 18568421
+    },
+    {
+      "name": "Ra\u00fal Butler",
+      "position": "MF",
+      "rating": 86,
+      "age": 18,
+      "value": 39107368
+    },
+    {
+      "name": "Kabelo Ramsey",
+      "position": "MF",
+      "rating": 89,
+      "age": 25,
+      "value": 32602105
+    },
+    {
+      "name": "Shane Hayes",
+      "position": "MF",
+      "rating": 75,
+      "age": 27,
+      "value": 25578947
+    },
+    {
+      "name": "Uriah Garza",
+      "position": "MF",
+      "rating": 68,
+      "age": 31,
+      "value": 19755789
+    },
+    {
+      "name": "Clinton Holland",
+      "position": "MF",
+      "rating": 61,
+      "age": 25,
+      "value": 22345263
+    },
+    {
+      "name": "Brendan Bergstrom",
+      "position": "FW",
+      "rating": 87,
+      "age": 19,
+      "value": 40000000
+    },
+    {
+      "name": "Wei Medina",
+      "position": "FW",
       "rating": 83,
       "age": 26,
-      "value": 24463157
+      "value": 36694736
     },
     {
-      "name": "Haruki Holmberg",
-      "position": "MF",
-      "rating": 69,
-      "age": 35,
-      "value": 16560000
-    },
-    {
-      "name": "Angel Burke",
-      "position": "MF",
-      "rating": 62,
+      "name": "James Lewis",
+      "position": "FW",
+      "rating": 82,
       "age": 27,
-      "value": 21145263
+      "value": 34957894
     },
     {
-      "name": "Aiden Bryant",
-      "position": "MF",
-      "rating": 80,
-      "age": 22,
-      "value": 32336842
-    },
-    {
-      "name": "Nnamdi Flores",
-      "position": "MF",
-      "rating": 62,
-      "age": 30,
-      "value": 18795789
-    },
-    {
-      "name": "Guillermo Shaw",
-      "position": "MF",
-      "rating": 74,
-      "age": 18,
-      "value": 33650526
-    },
-    {
-      "name": "Sulaiman Burke",
-      "position": "MF",
-      "rating": 66,
-      "age": 35,
-      "value": 15840000
-    },
-    {
-      "name": "Bradley Arnold",
+      "name": "Darren Wood",
       "position": "FW",
-      "rating": 72,
-      "age": 35,
-      "value": 21600000
-    },
-    {
-      "name": "Agust\u00edn Schmidt",
-      "position": "FW",
-      "rating": 67,
-      "age": 25,
-      "value": 30678947
-    },
-    {
-      "name": "Amari Burke",
-      "position": "FW",
-      "rating": 60,
-      "age": 35,
-      "value": 18000000
-    },
-    {
-      "name": "Connor Sandstr\u00f6m",
-      "position": "FW",
-      "rating": 68,
-      "age": 22,
-      "value": 34357894
-    },
-    {
-      "name": "Matthew Dean",
-      "position": "FW",
-      "rating": 72,
+      "rating": 70,
       "age": 24,
-      "value": 34105263
+      "value": 33157894
+    },
+    {
+      "name": "Louis Patel",
+      "position": "FW",
+      "rating": 73,
+      "age": 25,
+      "value": 33426315
     }
   ],
   "stadium": {

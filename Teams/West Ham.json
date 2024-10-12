@@ -2,144 +2,144 @@
   "name": "West Ham",
   "squad": [
     {
-      "name": "Ivan Ben\u00edtez",
-      "position": "GK",
-      "rating": 63,
-      "age": 34,
-      "value": 10610526
-    },
-    {
-      "name": "Rene Bell",
+      "name": "Karl Molina",
       "position": "GK",
       "rating": 82,
       "age": 17,
       "value": 25549473
     },
     {
-      "name": "Axel Murray",
+      "name": "Jarrett Marshall",
       "position": "GK",
-      "rating": 64,
+      "rating": 77,
       "age": 18,
-      "value": 19402105
+      "value": 23343157
     },
     {
-      "name": "Baojun Singh",
-      "position": "DF",
-      "rating": 64,
-      "age": 25,
-      "value": 19536842
+      "name": "Roland Stone",
+      "position": "GK",
+      "rating": 84,
+      "age": 24,
+      "value": 21221052
     },
     {
-      "name": "Randy Dean",
-      "position": "DF",
-      "rating": 61,
-      "age": 28,
-      "value": 16694736
-    },
-    {
-      "name": "Glen Goodman",
-      "position": "DF",
-      "rating": 63,
-      "age": 27,
-      "value": 17905263
-    },
-    {
-      "name": "Francisco Palmer",
-      "position": "DF",
-      "rating": 66,
-      "age": 28,
-      "value": 18063157
-    },
-    {
-      "name": "Hector Balogun",
-      "position": "DF",
-      "rating": 72,
-      "age": 35,
-      "value": 14400000
-    },
-    {
-      "name": "Morten Rao",
+      "name": "Kobe Burke",
       "position": "DF",
       "rating": 85,
-      "age": 23,
-      "value": 27736842
+      "age": 32,
+      "value": 19684210
     },
     {
-      "name": "Fredrik Dixon",
+      "name": "Dominic Owens",
+      "position": "DF",
+      "rating": 88,
+      "age": 25,
+      "value": 26863157
+    },
+    {
+      "name": "Ken Henderson",
+      "position": "DF",
+      "rating": 89,
+      "age": 24,
+      "value": 28105263
+    },
+    {
+      "name": "Henry Baker",
+      "position": "DF",
+      "rating": 72,
+      "age": 28,
+      "value": 19705263
+    },
+    {
+      "name": "Suraj Craig",
+      "position": "DF",
+      "rating": 60,
+      "age": 29,
+      "value": 15789473
+    },
+    {
+      "name": "Kenji Howard",
+      "position": "DF",
+      "rating": 66,
+      "age": 23,
+      "value": 21536842
+    },
+    {
+      "name": "Cristian Reid",
       "position": "MF",
       "rating": 61,
-      "age": 29,
-      "value": 19263157
+      "age": 34,
+      "value": 15410526
     },
     {
-      "name": "Ezra Kwon",
+      "name": "Joaquin Dur\u00e1n",
       "position": "MF",
-      "rating": 79,
+      "rating": 90,
+      "age": 34,
+      "value": 22736842
+    },
+    {
+      "name": "Israel Zhu",
+      "position": "MF",
+      "rating": 70,
+      "age": 18,
+      "value": 31831578
+    },
+    {
+      "name": "Tanner Pedersen",
+      "position": "MF",
+      "rating": 82,
+      "age": 16,
+      "value": 39360000
+    },
+    {
+      "name": "Kwabena Fuller",
+      "position": "MF",
+      "rating": 87,
       "age": 21,
-      "value": 32930526
+      "value": 36265263
     },
     {
-      "name": "Kendall Sangare",
+      "name": "Easton Yamamoto",
       "position": "MF",
-      "rating": 60,
-      "age": 34,
-      "value": 15157894
+      "rating": 73,
+      "age": 21,
+      "value": 30429473
     },
     {
-      "name": "Danny Pedersen",
-      "position": "MF",
-      "rating": 84,
+      "name": "Curtis Holland",
+      "position": "FW",
+      "rating": 88,
+      "age": 33,
+      "value": 29178947
+    },
+    {
+      "name": "Aditya Shaw",
+      "position": "FW",
+      "rating": 68,
       "age": 20,
-      "value": 36075789
+      "value": 36505263
     },
     {
-      "name": "Walter Perry",
-      "position": "MF",
-      "rating": 83,
-      "age": 34,
-      "value": 20968421
-    },
-    {
-      "name": "Jamie Griffin",
-      "position": "MF",
-      "rating": 83,
-      "age": 33,
-      "value": 22016842
-    },
-    {
-      "name": "Ping Barnes",
+      "name": "Ra\u00fal Kwon",
       "position": "FW",
-      "rating": 86,
+      "rating": 78,
       "age": 28,
-      "value": 35305263
+      "value": 32021052
     },
     {
-      "name": "Cameron Nelson",
+      "name": "Miles Palmer",
       "position": "FW",
-      "rating": 72,
-      "age": 19,
-      "value": 39789473
-    },
-    {
-      "name": "Chris Vestergaard",
-      "position": "FW",
-      "rating": 76,
+      "rating": 85,
       "age": 23,
-      "value": 37200000
+      "value": 40000000
     },
     {
-      "name": "Ping Wallace",
+      "name": "Chad Kim",
       "position": "FW",
-      "rating": 60,
-      "age": 33,
-      "value": 19894736
-    },
-    {
-      "name": "Simon Murphy",
-      "position": "FW",
-      "rating": 71,
-      "age": 28,
-      "value": 29147368
+      "rating": 64,
+      "age": 16,
+      "value": 38400000
     }
   ],
   "stadium": {

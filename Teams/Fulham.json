@@ -2,144 +2,144 @@
   "name": "Fulham",
   "squad": [
     {
-      "name": "Randy Long",
+      "name": "Eugene Gonzalez",
       "position": "GK",
-      "rating": 83,
-      "age": 24,
-      "value": 20968421
+      "rating": 65,
+      "age": 28,
+      "value": 14231578
     },
     {
-      "name": "Mandla Edwards",
+      "name": "Shane Fredriksson",
       "position": "GK",
-      "rating": 73,
-      "age": 19,
-      "value": 21515789
+      "rating": 61,
+      "age": 27,
+      "value": 13869473
     },
     {
-      "name": "Bhekizizwe Benjumea",
+      "name": "Cristian Mabena",
       "position": "GK",
-      "rating": 72,
-      "age": 33,
-      "value": 12732631
+      "rating": 69,
+      "age": 26,
+      "value": 16269473
     },
     {
-      "name": "Vance Wheeler",
+      "name": "Sam Kabiru",
       "position": "DF",
-      "rating": 75,
-      "age": 33,
-      "value": 16578947
+      "rating": 62,
+      "age": 23,
+      "value": 20231578
     },
     {
-      "name": "Dwayne Cruz",
+      "name": "Cameron Long",
+      "position": "DF",
+      "rating": 64,
+      "age": 27,
+      "value": 18189473
+    },
+    {
+      "name": "Kwesi Mitchell",
       "position": "DF",
       "rating": 68,
-      "age": 35,
-      "value": 13600000
-    },
-    {
-      "name": "Jiro Suzuki",
-      "position": "DF",
-      "rating": 71,
-      "age": 22,
-      "value": 23915789
-    },
-    {
-      "name": "Mathias Webster",
-      "position": "DF",
-      "rating": 73,
-      "age": 22,
-      "value": 24589473
-    },
-    {
-      "name": "Hector Robinson",
-      "position": "DF",
-      "rating": 79,
-      "age": 23,
-      "value": 25778947
-    },
-    {
-      "name": "Rene Coleman",
-      "position": "DF",
-      "rating": 67,
-      "age": 23,
-      "value": 21863157
-    },
-    {
-      "name": "Joaquin Bell",
-      "position": "MF",
-      "rating": 62,
       "age": 18,
-      "value": 28193684
+      "value": 25768421
     },
     {
-      "name": "Kyan Umar",
-      "position": "MF",
+      "name": "Keith Goodman",
+      "position": "DF",
+      "rating": 64,
+      "age": 28,
+      "value": 17515789
+    },
+    {
+      "name": "Cian Holland",
+      "position": "DF",
       "rating": 87,
-      "age": 21,
-      "value": 36265263
+      "age": 20,
+      "value": 31136842
     },
     {
-      "name": "Jae Quartey",
-      "position": "MF",
-      "rating": 75,
-      "age": 24,
-      "value": 28421052
-    },
-    {
-      "name": "John Fuller",
-      "position": "MF",
-      "rating": 87,
-      "age": 30,
-      "value": 26374736
-    },
-    {
-      "name": "Gunnar Webster",
-      "position": "MF",
-      "rating": 66,
-      "age": 17,
-      "value": 30846315
-    },
-    {
-      "name": "Liang Bryant",
-      "position": "MF",
-      "rating": 62,
-      "age": 34,
-      "value": 15663157
-    },
-    {
-      "name": "Keith Moore",
-      "position": "FW",
-      "rating": 70,
+      "name": "Milton Ciss\u00e9",
+      "position": "DF",
+      "rating": 69,
       "age": 32,
+      "value": 15978947
+    },
+    {
+      "name": "Cecil Reed",
+      "position": "MF",
+      "rating": 82,
+      "age": 34,
+      "value": 20715789
+    },
+    {
+      "name": "Erik Hamilton",
+      "position": "MF",
+      "rating": 84,
+      "age": 27,
+      "value": 28648421
+    },
+    {
+      "name": "Josiah Baldwin",
+      "position": "MF",
+      "rating": 88,
+      "age": 29,
+      "value": 27789473
+    },
+    {
+      "name": "Aziz Nelson",
+      "position": "MF",
+      "rating": 69,
+      "age": 29,
+      "value": 21789473
+    },
+    {
+      "name": "Andreas Fernandes",
+      "position": "MF",
+      "rating": 83,
+      "age": 18,
+      "value": 37743157
+    },
+    {
+      "name": "Brayden Murray",
+      "position": "MF",
+      "rating": 89,
+      "age": 16,
+      "value": 40000000
+    },
+    {
+      "name": "Axel Morales",
+      "position": "FW",
+      "rating": 77,
+      "age": 34,
       "value": 24315789
     },
     {
-      "name": "Cooper \u00c5kesson",
+      "name": "Jeremiah Manning",
       "position": "FW",
-      "rating": 89,
-      "age": 32,
-      "value": 30915789
+      "rating": 71,
+      "age": 29,
+      "value": 28026315
     },
     {
-      "name": "Roland Navarro",
+      "name": "Aaron Long",
       "position": "FW",
       "rating": 67,
-      "age": 17,
-      "value": 39142105
+      "age": 21,
+      "value": 34910526
     },
     {
-      "name": "Erik Delgado",
+      "name": "Anton Palmer",
       "position": "FW",
-      "rating": 88,
-      "age": 26,
-      "value": 38905263
+      "rating": 83,
+      "age": 34,
+      "value": 26210526
     },
     {
-      "name": "Benny Palmer",
+      "name": "Will Ramsey",
       "position": "FW",
-      "rating": 76,
-      "age": 25,
-      "value": 34799999
+      "rating": 64,
+      "age": 35,
+      "value": 19200000
     }
   ],
   "stadium": {

@@ -2,144 +2,144 @@
   "name": "Chelsea",
   "squad": [
     {
-      "name": "Andre Jansson",
-      "position": "GK",
-      "rating": 73,
-      "age": 24,
-      "value": 18442105
-    },
-    {
-      "name": "Omar Gonzales",
-      "position": "GK",
-      "rating": 80,
-      "age": 30,
-      "value": 16168421
-    },
-    {
-      "name": "Colin Harris",
+      "name": "Dylan Fletcher",
       "position": "GK",
       "rating": 89,
-      "age": 26,
-      "value": 20985263
-    },
-    {
-      "name": "Kody Bennett",
-      "position": "DF",
-      "rating": 64,
-      "age": 16,
-      "value": 25600000
-    },
-    {
-      "name": "Viktor Chukwu",
-      "position": "DF",
-      "rating": 82,
       "age": 19,
-      "value": 30210526
+      "value": 26231578
     },
     {
-      "name": "Orlando Reddy",
-      "position": "DF",
-      "rating": 73,
-      "age": 32,
-      "value": 16905263
-    },
-    {
-      "name": "Henry Cabrera",
-      "position": "DF",
-      "rating": 72,
-      "age": 23,
-      "value": 23494736
-    },
-    {
-      "name": "Anil Holm",
-      "position": "DF",
-      "rating": 82,
-      "age": 22,
-      "value": 27621052
-    },
-    {
-      "name": "Anil Saye",
-      "position": "DF",
-      "rating": 65,
-      "age": 33,
-      "value": 14368421
-    },
-    {
-      "name": "Vidar Marin",
-      "position": "MF",
-      "rating": 63,
-      "age": 28,
-      "value": 20690526
-    },
-    {
-      "name": "Anthony Wang",
-      "position": "MF",
-      "rating": 64,
-      "age": 22,
-      "value": 25869473
-    },
-    {
-      "name": "Kwame Lambert",
-      "position": "MF",
-      "rating": 73,
-      "age": 32,
-      "value": 20286315
-    },
-    {
-      "name": "Tao-Jun Sj\u00f6berg",
-      "position": "MF",
+      "name": "Anthony Hansen",
+      "position": "GK",
       "rating": 84,
-      "age": 21,
-      "value": 35014736
+      "age": 27,
+      "value": 19098947
     },
     {
-      "name": "Filip Stone",
+      "name": "Francisco Le\u00f3n",
+      "position": "GK",
+      "rating": 84,
+      "age": 20,
+      "value": 24050526
+    },
+    {
+      "name": "Wei Price",
+      "position": "DF",
+      "rating": 67,
+      "age": 34,
+      "value": 14105263
+    },
+    {
+      "name": "Anton Ellis",
+      "position": "DF",
+      "rating": 77,
+      "age": 32,
+      "value": 17831578
+    },
+    {
+      "name": "Elias Hayes",
+      "position": "DF",
+      "rating": 68,
+      "age": 29,
+      "value": 17894736
+    },
+    {
+      "name": "Ming Morris",
+      "position": "DF",
+      "rating": 60,
+      "age": 35,
+      "value": 12000000
+    },
+    {
+      "name": "Malcolm Morgan",
+      "position": "DF",
+      "rating": 69,
+      "age": 34,
+      "value": 14526315
+    },
+    {
+      "name": "Leslie Gonzalez",
+      "position": "DF",
+      "rating": 84,
+      "age": 25,
+      "value": 25642105
+    },
+    {
+      "name": "Frank Morrison",
+      "position": "MF",
+      "rating": 78,
+      "age": 16,
+      "value": 37440000
+    },
+    {
+      "name": "Guillermo Phelps",
+      "position": "MF",
+      "rating": 76,
+      "age": 33,
+      "value": 20160000
+    },
+    {
+      "name": "Victor Lin",
       "position": "MF",
       "rating": 88,
-      "age": 24,
-      "value": 33347368
+      "age": 34,
+      "value": 22231578
     },
     {
-      "name": "Clement Watanabe",
+      "name": "Jin Bennett",
+      "position": "MF",
+      "rating": 65,
+      "age": 24,
+      "value": 24631578
+    },
+    {
+      "name": "Tyler Valdez",
+      "position": "MF",
+      "rating": 75,
+      "age": 21,
+      "value": 31263157
+    },
+    {
+      "name": "Ronald Stewart",
       "position": "MF",
       "rating": 74,
-      "age": 21,
-      "value": 30846315
+      "age": 24,
+      "value": 28042105
     },
     {
-      "name": "Marlon Espinoza",
-      "position": "FW",
-      "rating": 70,
-      "age": 21,
-      "value": 36473684
-    },
-    {
-      "name": "Cian Griffin",
-      "position": "FW",
-      "rating": 73,
-      "age": 28,
-      "value": 29968421
-    },
-    {
-      "name": "Thomas Rivera",
-      "position": "FW",
-      "rating": 88,
-      "age": 27,
-      "value": 37515789
-    },
-    {
-      "name": "Jake Gao",
+      "name": "Stewart Baxter",
       "position": "FW",
       "rating": 76,
-      "age": 25,
-      "value": 34799999
+      "age": 30,
+      "value": 28800000
     },
     {
-      "name": "Kwame Bergstrom",
+      "name": "Jesse Brooks",
+      "position": "FW",
+      "rating": 63,
+      "age": 28,
+      "value": 25863157
+    },
+    {
+      "name": "Yusuf Murphy",
+      "position": "FW",
+      "rating": 89,
+      "age": 19,
+      "value": 40000000
+    },
+    {
+      "name": "Sven Brooks",
+      "position": "FW",
+      "rating": 70,
+      "age": 31,
+      "value": 25421052
+    },
+    {
+      "name": "Shawn Takahashi",
       "position": "FW",
       "rating": 61,
-      "age": 17,
-      "value": 35636842
+      "age": 26,
+      "value": 26968421
     }
   ],
   "stadium": {

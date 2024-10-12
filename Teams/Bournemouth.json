@@ -2,144 +2,144 @@
   "name": "Bournemouth",
   "squad": [
     {
-      "name": "Tyler Osei",
+      "name": "Logan Marshall",
       "position": "GK",
-      "rating": 79,
-      "age": 28,
-      "value": 17296842
+      "rating": 67,
+      "age": 25,
+      "value": 16362105
     },
     {
-      "name": "Ade Guerrero",
+      "name": "Myles Ferguson",
       "position": "GK",
       "rating": 83,
-      "age": 33,
-      "value": 14677894
+      "age": 26,
+      "value": 19570526
     },
     {
-      "name": "Ian Murphy",
+      "name": "Spencer Garc\u00eda",
       "position": "GK",
-      "rating": 85,
-      "age": 35,
-      "value": 13600000
-    },
-    {
-      "name": "Wayne Eklund",
-      "position": "DF",
-      "rating": 69,
-      "age": 22,
-      "value": 23242105
-    },
-    {
-      "name": "Daryl Stephens",
-      "position": "DF",
-      "rating": 87,
-      "age": 29,
-      "value": 22894736
-    },
-    {
-      "name": "Luis Fuller",
-      "position": "DF",
-      "rating": 62,
-      "age": 31,
-      "value": 15010526
-    },
-    {
-      "name": "Karl Stewart",
-      "position": "DF",
-      "rating": 82,
-      "age": 19,
-      "value": 30210526
-    },
-    {
-      "name": "Wyatt Black",
-      "position": "DF",
-      "rating": 62,
-      "age": 16,
-      "value": 24800000
-    },
-    {
-      "name": "Zayden Torres",
-      "position": "DF",
-      "rating": 87,
-      "age": 23,
-      "value": 28389473
-    },
-    {
-      "name": "Cory Harrison",
-      "position": "MF",
       "rating": 71,
+      "age": 19,
+      "value": 20926315
+    },
+    {
+      "name": "Kofi Stewart",
+      "position": "DF",
+      "rating": 79,
       "age": 24,
-      "value": 26905263
+      "value": 24947368
     },
     {
-      "name": "Shawn Henriksen",
+      "name": "Gunnar Palmer",
+      "position": "DF",
+      "rating": 86,
+      "age": 16,
+      "value": 34400000
+    },
+    {
+      "name": "Kyle Long",
+      "position": "DF",
+      "rating": 64,
+      "age": 16,
+      "value": 25600000
+    },
+    {
+      "name": "Lucas Medina",
+      "position": "DF",
+      "rating": 77,
+      "age": 23,
+      "value": 25126315
+    },
+    {
+      "name": "Erik Page",
+      "position": "DF",
+      "rating": 86,
+      "age": 20,
+      "value": 30778947
+    },
+    {
+      "name": "Ade J\u00f8rgensen",
+      "position": "DF",
+      "rating": 66,
+      "age": 26,
+      "value": 19452631
+    },
+    {
+      "name": "Tyrone Perry",
       "position": "MF",
-      "rating": 60,
-      "age": 17,
-      "value": 28042105
+      "rating": 81,
+      "age": 26,
+      "value": 28648421
     },
     {
-      "name": "Drew Sj\u00f6berg",
+      "name": "Babatunde Watts",
       "position": "MF",
-      "rating": 88,
-      "age": 34,
-      "value": 22231578
+      "rating": 81,
+      "age": 26,
+      "value": 28648421
     },
     {
-      "name": "Benjamin Lee",
+      "name": "Dylan Bell",
       "position": "MF",
       "rating": 87,
-      "age": 25,
-      "value": 31869473
+      "age": 31,
+      "value": 25275789
     },
     {
-      "name": "Paige Ross",
+      "name": "Zuberi Franco",
       "position": "MF",
-      "rating": 66,
-      "age": 34,
-      "value": 16673684
+      "rating": 70,
+      "age": 22,
+      "value": 28294736
     },
     {
-      "name": "Joseph Barnes",
+      "name": "Curtis Morrison",
       "position": "MF",
       "rating": 89,
+      "age": 31,
+      "value": 25856842
+    },
+    {
+      "name": "Andre Yeboah",
+      "position": "MF",
+      "rating": 82,
+      "age": 18,
+      "value": 37288421
+    },
+    {
+      "name": "Jos\u00e9 Wright",
+      "position": "FW",
+      "rating": 61,
+      "age": 29,
+      "value": 24078947
+    },
+    {
+      "name": "Zayden Olsen",
+      "position": "FW",
+      "rating": 85,
+      "age": 22,
+      "value": 40000000
+    },
+    {
+      "name": "Victor Karlberg",
+      "position": "FW",
+      "rating": 89,
       "age": 33,
-      "value": 23608421
+      "value": 29510526
     },
     {
-      "name": "Nicholas Bennett",
+      "name": "Yusuf Haynes",
       "position": "FW",
-      "rating": 81,
-      "age": 20,
-      "value": 40000000
+      "rating": 70,
+      "age": 30,
+      "value": 26526315
     },
     {
-      "name": "Casey Eze",
+      "name": "Lars Hamilton",
       "position": "FW",
-      "rating": 62,
-      "age": 23,
-      "value": 30347368
-    },
-    {
-      "name": "Yuki Mills",
-      "position": "FW",
-      "rating": 75,
-      "age": 19,
-      "value": 40000000
-    },
-    {
-      "name": "Izaiah Long",
-      "position": "FW",
-      "rating": 64,
-      "age": 17,
-      "value": 37389473
-    },
-    {
-      "name": "Emerson Shin",
-      "position": "FW",
-      "rating": 79,
-      "age": 27,
-      "value": 33678947
+      "rating": 76,
+      "age": 25,
+      "value": 34799999
     }
   ],
   "stadium": {

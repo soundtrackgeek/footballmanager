@@ -2,144 +2,144 @@
   "name": "Sheffield United",
   "squad": [
     {
-      "name": "Johnny Onyango",
+      "name": "Keith Cook",
       "position": "GK",
-      "rating": 90,
-      "age": 31,
-      "value": 17431578
-    },
-    {
-      "name": "Mason Guo",
-      "position": "GK",
-      "rating": 86,
-      "age": 31,
-      "value": 16656842
-    },
-    {
-      "name": "Adri\u00e1n Delgado",
-      "position": "GK",
-      "rating": 63,
-      "age": 20,
-      "value": 18037894
-    },
-    {
-      "name": "Shawn Brooks",
-      "position": "DF",
-      "rating": 75,
-      "age": 18,
-      "value": 28421052
-    },
-    {
-      "name": "Javier Patel",
-      "position": "DF",
-      "rating": 65,
-      "age": 30,
-      "value": 16421052
-    },
-    {
-      "name": "Elijah Seo",
-      "position": "DF",
-      "rating": 77,
-      "age": 28,
-      "value": 21073684
-    },
-    {
-      "name": "Ali Andersen",
-      "position": "DF",
-      "rating": 62,
-      "age": 22,
-      "value": 20884210
-    },
-    {
-      "name": "Ra\u00fal Jabari",
-      "position": "DF",
       "rating": 78,
       "age": 30,
-      "value": 19705263
+      "value": 15764210
     },
     {
-      "name": "Brian Murphy",
-      "position": "DF",
-      "rating": 78,
-      "age": 25,
-      "value": 23810526
-    },
-    {
-      "name": "Victor Eriksson",
-      "position": "MF",
-      "rating": 69,
-      "age": 34,
-      "value": 17431578
-    },
-    {
-      "name": "Hank Webster",
-      "position": "MF",
+      "name": "Sven J\u00f8rgensen",
+      "position": "GK",
       "rating": 79,
       "age": 22,
-      "value": 31932631
+      "value": 21288421
     },
     {
-      "name": "Amir Newman",
-      "position": "MF",
-      "rating": 60,
-      "age": 35,
-      "value": 14400000
+      "name": "Isaiah Das",
+      "position": "GK",
+      "rating": 88,
+      "age": 19,
+      "value": 25936842
     },
     {
-      "name": "Frederick Fowler",
-      "position": "MF",
-      "rating": 86,
-      "age": 22,
-      "value": 34762105
-    },
-    {
-      "name": "Shawn Pedersen",
-      "position": "MF",
-      "rating": 63,
-      "age": 16,
-      "value": 30240000
-    },
-    {
-      "name": "Damon Reid",
-      "position": "MF",
-      "rating": 76,
-      "age": 23,
-      "value": 29760000
-    },
-    {
-      "name": "Kris Foster",
-      "position": "FW",
-      "rating": 61,
-      "age": 30,
-      "value": 23115789
-    },
-    {
-      "name": "Soren Gray",
-      "position": "FW",
-      "rating": 63,
+      "name": "Pablo Manning",
+      "position": "DF",
+      "rating": 75,
       "age": 34,
+      "value": 15789473
+    },
+    {
+      "name": "Dakota Hunt",
+      "position": "DF",
+      "rating": 79,
+      "age": 18,
+      "value": 29936842
+    },
+    {
+      "name": "Ram\u00f3n Lindgren",
+      "position": "DF",
+      "rating": 73,
+      "age": 33,
+      "value": 16136842
+    },
+    {
+      "name": "Nicolas Palmer",
+      "position": "DF",
+      "rating": 66,
+      "age": 25,
+      "value": 20147368
+    },
+    {
+      "name": "Kenneth Hart",
+      "position": "DF",
+      "rating": 69,
+      "age": 19,
+      "value": 25421052
+    },
+    {
+      "name": "Marlon Sanders",
+      "position": "DF",
+      "rating": 88,
+      "age": 20,
+      "value": 31494736
+    },
+    {
+      "name": "Musa Torbj\u00f6rnsson",
+      "position": "MF",
+      "rating": 84,
+      "age": 34,
+      "value": 21221052
+    },
+    {
+      "name": "Morten Griffin",
+      "position": "MF",
+      "rating": 79,
+      "age": 19,
+      "value": 34926315
+    },
+    {
+      "name": "Uriah Dixon",
+      "position": "MF",
+      "rating": 74,
+      "age": 28,
+      "value": 24303157
+    },
+    {
+      "name": "Max Gustavsson",
+      "position": "MF",
+      "rating": 73,
+      "age": 33,
+      "value": 19364210
+    },
+    {
+      "name": "Roberto Kabiru",
+      "position": "MF",
+      "rating": 68,
+      "age": 18,
+      "value": 30922105
+    },
+    {
+      "name": "Kwabena Griffin",
+      "position": "MF",
+      "rating": 89,
+      "age": 30,
+      "value": 26981052
+    },
+    {
+      "name": "Mandla Holmes",
+      "position": "FW",
+      "rating": 83,
+      "age": 26,
+      "value": 36694736
+    },
+    {
+      "name": "Antonio Young",
+      "position": "FW",
+      "rating": 60,
+      "age": 33,
       "value": 19894736
     },
     {
-      "name": "Lawrence Stone",
+      "name": "Uriah Sandstr\u00f6m",
       "position": "FW",
-      "rating": 67,
-      "age": 19,
-      "value": 37026315
+      "rating": 63,
+      "age": 20,
+      "value": 33821052
     },
     {
-      "name": "Isaac Grant",
+      "name": "Brian Eklund",
       "position": "FW",
-      "rating": 83,
-      "age": 20,
+      "rating": 89,
+      "age": 23,
       "value": 40000000
     },
     {
-      "name": "Liang Martinez",
+      "name": "Cory Lindberg",
       "position": "FW",
-      "rating": 89,
-      "age": 30,
-      "value": 33726315
+      "rating": 85,
+      "age": 32,
+      "value": 29526315
     }
   ],
   "stadium": {

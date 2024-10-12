@@ -2,144 +2,144 @@
   "name": "Wolves",
   "squad": [
     {
-      "name": "Alejandro Franklin",
+      "name": "Lucas Reid",
       "position": "GK",
-      "rating": 75,
-      "age": 29,
-      "value": 15789473
+      "rating": 65,
+      "age": 30,
+      "value": 13136842
     },
     {
-      "name": "Adeola Brooks",
-      "position": "GK",
-      "rating": 90,
-      "age": 21,
-      "value": 25010526
-    },
-    {
-      "name": "Timothy Holmberg",
+      "name": "Tyler Bishop",
       "position": "GK",
       "rating": 77,
-      "age": 31,
-      "value": 14913684
-    },
-    {
-      "name": "Francisco Zamani",
-      "position": "DF",
-      "rating": 89,
-      "age": 21,
-      "value": 30915789
-    },
-    {
-      "name": "Henry Black",
-      "position": "DF",
-      "rating": 79,
-      "age": 17,
-      "value": 30768421
-    },
-    {
-      "name": "Lucas Benson",
-      "position": "DF",
-      "rating": 60,
-      "age": 23,
-      "value": 19578947
-    },
-    {
-      "name": "Thomas Jordan",
-      "position": "DF",
-      "rating": 76,
-      "age": 30,
-      "value": 19200000
-    },
-    {
-      "name": "Easton Hayes",
-      "position": "DF",
-      "rating": 67,
-      "age": 28,
-      "value": 18336842
-    },
-    {
-      "name": "Brantley Perry",
-      "position": "DF",
-      "rating": 83,
-      "age": 31,
-      "value": 20094736
-    },
-    {
-      "name": "Giovanni Sanchez",
-      "position": "MF",
-      "rating": 89,
-      "age": 27,
-      "value": 30353684
-    },
-    {
-      "name": "Musa Hamilton",
-      "position": "MF",
-      "rating": 61,
-      "age": 25,
-      "value": 22345263
-    },
-    {
-      "name": "Wayne Reed",
-      "position": "MF",
-      "rating": 76,
-      "age": 29,
-      "value": 24000000
-    },
-    {
-      "name": "Sage Mart\u00ednez",
-      "position": "MF",
-      "rating": 70,
-      "age": 21,
-      "value": 29178947
-    },
-    {
-      "name": "Ken Alexander",
-      "position": "MF",
-      "rating": 64,
-      "age": 25,
-      "value": 23444210
-    },
-    {
-      "name": "Bo Medina",
-      "position": "MF",
-      "rating": 86,
-      "age": 31,
-      "value": 24985263
-    },
-    {
-      "name": "Frank Nakajima",
-      "position": "FW",
-      "rating": 64,
       "age": 34,
-      "value": 20210526
+      "value": 12968421
     },
     {
-      "name": "Kwame Brooks",
-      "position": "FW",
-      "rating": 67,
-      "age": 26,
-      "value": 29621052
+      "name": "Walter Dlamini",
+      "position": "GK",
+      "rating": 76,
+      "age": 34,
+      "value": 12800000
     },
     {
-      "name": "Brody Sato",
-      "position": "FW",
-      "rating": 81,
+      "name": "Jacob Fofana",
+      "position": "DF",
+      "rating": 70,
+      "age": 18,
+      "value": 26526315
+    },
+    {
+      "name": "Kofi Stewart",
+      "position": "DF",
+      "rating": 76,
+      "age": 35,
+      "value": 15200000
+    },
+    {
+      "name": "Oliver Diaz",
+      "position": "DF",
+      "rating": 89,
       "age": 22,
-      "value": 40000000
+      "value": 29978947
     },
     {
-      "name": "Taylor Hart",
-      "position": "FW",
+      "name": "Adam Kang",
+      "position": "DF",
+      "rating": 75,
+      "age": 27,
+      "value": 21315789
+    },
+    {
+      "name": "Jos\u00e9 Nakajima",
+      "position": "DF",
+      "rating": 87,
+      "age": 21,
+      "value": 30221052
+    },
+    {
+      "name": "Wyatt Lubega",
+      "position": "DF",
+      "rating": 81,
+      "age": 35,
+      "value": 16200000
+    },
+    {
+      "name": "Luis Lee",
+      "position": "MF",
+      "rating": 65,
+      "age": 18,
+      "value": 29557894
+    },
+    {
+      "name": "Lucas Martin",
+      "position": "MF",
+      "rating": 90,
+      "age": 33,
+      "value": 23873684
+    },
+    {
+      "name": "Desmond Foster",
+      "position": "MF",
+      "rating": 77,
+      "age": 32,
+      "value": 21397894
+    },
+    {
+      "name": "Austin Jansen",
+      "position": "MF",
       "rating": 84,
-      "age": 31,
-      "value": 30505263
+      "age": 35,
+      "value": 20160000
     },
     {
-      "name": "Fredrik Hart",
+      "name": "Jae Rojas",
+      "position": "MF",
+      "rating": 79,
+      "age": 22,
+      "value": 31932631
+    },
+    {
+      "name": "Hector Lambert",
+      "position": "MF",
+      "rating": 81,
+      "age": 35,
+      "value": 19440000
+    },
+    {
+      "name": "Emil Reid",
+      "position": "FW",
+      "rating": 66,
+      "age": 27,
+      "value": 28136842
+    },
+    {
+      "name": "Cecil Andersen",
       "position": "FW",
       "rating": 69,
-      "age": 20,
-      "value": 37042105
+      "age": 35,
+      "value": 20700000
+    },
+    {
+      "name": "Morten Abiola",
+      "position": "FW",
+      "rating": 65,
+      "age": 32,
+      "value": 22578947
+    },
+    {
+      "name": "Darren Evans",
+      "position": "FW",
+      "rating": 65,
+      "age": 30,
+      "value": 24631578
+    },
+    {
+      "name": "Amani Rodriguez",
+      "position": "FW",
+      "rating": 62,
+      "age": 28,
+      "value": 25452631
     }
   ],
   "stadium": {

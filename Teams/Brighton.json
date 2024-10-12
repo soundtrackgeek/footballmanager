@@ -2,144 +2,144 @@
   "name": "Brighton",
   "squad": [
     {
-      "name": "Jorge Liu",
+      "name": "Samuel Perez",
       "position": "GK",
-      "rating": 63,
-      "age": 21,
-      "value": 17507368
+      "rating": 90,
+      "age": 27,
+      "value": 20463157
     },
     {
-      "name": "Sebastian Whitaker",
+      "name": "Hank Marshall",
       "position": "GK",
-      "rating": 63,
-      "age": 16,
-      "value": 20160000
-    },
-    {
-      "name": "Paige Reyes",
-      "position": "GK",
-      "rating": 85,
-      "age": 29,
-      "value": 17894736
-    },
-    {
-      "name": "Gustavo Manning",
-      "position": "DF",
-      "rating": 80,
-      "age": 32,
-      "value": 18526315
-    },
-    {
-      "name": "Izaiah Stewart",
-      "position": "DF",
-      "rating": 65,
-      "age": 18,
-      "value": 24631578
-    },
-    {
-      "name": "Kyan Lambert",
-      "position": "DF",
-      "rating": 71,
-      "age": 30,
-      "value": 17936842
-    },
-    {
-      "name": "Francisco Richardson",
-      "position": "DF",
-      "rating": 76,
-      "age": 23,
-      "value": 24800000
-    },
-    {
-      "name": "Ibrahim Holm",
-      "position": "DF",
-      "rating": 71,
-      "age": 29,
-      "value": 18684210
-    },
-    {
-      "name": "Jeffrey Parsons",
-      "position": "DF",
-      "rating": 71,
+      "rating": 73,
       "age": 19,
-      "value": 26157894
+      "value": 21515789
     },
     {
-      "name": "Oluwafemi Cunningham",
+      "name": "Bryson Diaz",
+      "position": "GK",
+      "rating": 83,
+      "age": 20,
+      "value": 23764210
+    },
+    {
+      "name": "Christian Kwon",
+      "position": "DF",
+      "rating": 68,
+      "age": 21,
+      "value": 23621052
+    },
+    {
+      "name": "Leonardo Schneider",
+      "position": "DF",
+      "rating": 81,
+      "age": 16,
+      "value": 32400000
+    },
+    {
+      "name": "Daniel Edwards",
+      "position": "DF",
+      "rating": 61,
+      "age": 22,
+      "value": 20547368
+    },
+    {
+      "name": "Aiden Nielsen",
+      "position": "DF",
+      "rating": 70,
+      "age": 32,
+      "value": 16210526
+    },
+    {
+      "name": "Ryker Cruz",
+      "position": "DF",
+      "rating": 77,
+      "age": 21,
+      "value": 26747368
+    },
+    {
+      "name": "Randy Hicks",
+      "position": "DF",
+      "rating": 64,
+      "age": 30,
+      "value": 16168421
+    },
+    {
+      "name": "Simon Umar",
+      "position": "MF",
+      "rating": 81,
+      "age": 29,
+      "value": 25578947
+    },
+    {
+      "name": "Juan Lin",
       "position": "MF",
       "rating": 78,
-      "age": 24,
-      "value": 29557894
-    },
-    {
-      "name": "Timothy Bailey",
-      "position": "MF",
-      "rating": 68,
-      "age": 29,
-      "value": 21473684
-    },
-    {
-      "name": "Ross Guo",
-      "position": "MF",
-      "rating": 72,
-      "age": 28,
-      "value": 23646315
-    },
-    {
-      "name": "Chris Berry",
-      "position": "MF",
-      "rating": 69,
-      "age": 17,
-      "value": 32248421
-    },
-    {
-      "name": "Tanner Rasmussen",
-      "position": "MF",
-      "rating": 86,
-      "age": 29,
-      "value": 27157894
-    },
-    {
-      "name": "Wayne Lewis",
-      "position": "MF",
-      "rating": 82,
-      "age": 26,
-      "value": 29002105
-    },
-    {
-      "name": "Marvin Palmer",
-      "position": "FW",
-      "rating": 86,
-      "age": 28,
-      "value": 35305263
-    },
-    {
-      "name": "Conor Ferguson",
-      "position": "FW",
-      "rating": 71,
-      "age": 29,
-      "value": 28026315
-    },
-    {
-      "name": "Bart Graham",
-      "position": "FW",
-      "rating": 81,
-      "age": 23,
-      "value": 39647368
-    },
-    {
-      "name": "Renato Richardson",
-      "position": "FW",
-      "rating": 65,
-      "age": 25,
-      "value": 29763157
-    },
-    {
-      "name": "Agust\u00edn Alexander",
-      "position": "FW",
-      "rating": 61,
       "age": 27,
-      "value": 26005263
+      "value": 26602105
+    },
+    {
+      "name": "Nicolas Watson",
+      "position": "MF",
+      "rating": 79,
+      "age": 24,
+      "value": 29936842
+    },
+    {
+      "name": "Rowan Watson",
+      "position": "MF",
+      "rating": 78,
+      "age": 27,
+      "value": 26602105
+    },
+    {
+      "name": "Alex Richardson",
+      "position": "MF",
+      "rating": 79,
+      "age": 33,
+      "value": 20955789
+    },
+    {
+      "name": "Ricardo Guerrero",
+      "position": "MF",
+      "rating": 87,
+      "age": 31,
+      "value": 25275789
+    },
+    {
+      "name": "Bryson Washington",
+      "position": "FW",
+      "rating": 84,
+      "age": 32,
+      "value": 29178947
+    },
+    {
+      "name": "Danny Jung",
+      "position": "FW",
+      "rating": 76,
+      "age": 33,
+      "value": 25200000
+    },
+    {
+      "name": "Edmund Franco",
+      "position": "FW",
+      "rating": 86,
+      "age": 17,
+      "value": 40000000
+    },
+    {
+      "name": "Ibrahim Ulfsson",
+      "position": "FW",
+      "rating": 85,
+      "age": 21,
+      "value": 40000000
+    },
+    {
+      "name": "Kevin Kim",
+      "position": "FW",
+      "rating": 72,
+      "age": 19,
+      "value": 39789473
     }
   ],
   "stadium": {

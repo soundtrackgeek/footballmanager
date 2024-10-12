@@ -2,144 +2,144 @@
   "name": "Brentford",
   "squad": [
     {
-      "name": "Anders Fredriksson",
+      "name": "Rafael Lopez",
       "position": "GK",
-      "rating": 83,
-      "age": 25,
-      "value": 20269473
-    },
-    {
-      "name": "Harold Schmidt",
-      "position": "GK",
-      "rating": 66,
-      "age": 35,
-      "value": 10560000
-    },
-    {
-      "name": "Duncan Watkins",
-      "position": "GK",
-      "rating": 77,
-      "age": 18,
-      "value": 23343157
-    },
-    {
-      "name": "Kenneth Robinson",
-      "position": "DF",
-      "rating": 90,
-      "age": 19,
-      "value": 33157894
-    },
-    {
-      "name": "Marco Mills",
-      "position": "DF",
-      "rating": 68,
-      "age": 26,
-      "value": 20042105
-    },
-    {
-      "name": "Hugo Reid",
-      "position": "DF",
       "rating": 65,
-      "age": 22,
-      "value": 21894736
-    },
-    {
-      "name": "Maxwell Kim",
-      "position": "DF",
-      "rating": 70,
-      "age": 25,
-      "value": 21368421
-    },
-    {
-      "name": "Frank Abebe",
-      "position": "DF",
-      "rating": 90,
-      "age": 23,
-      "value": 29368421
-    },
-    {
-      "name": "Danny Palmer",
-      "position": "DF",
-      "rating": 77,
-      "age": 27,
-      "value": 21884210
-    },
-    {
-      "name": "Dakota Perry",
-      "position": "MF",
-      "rating": 87,
       "age": 29,
-      "value": 27473684
+      "value": 13684210
     },
     {
-      "name": "Tyrone Martin",
-      "position": "MF",
-      "rating": 75,
+      "name": "Jasper Hayes",
+      "position": "GK",
+      "rating": 68,
+      "age": 28,
+      "value": 14888421
+    },
+    {
+      "name": "Brayden Morgan",
+      "position": "GK",
+      "rating": 69,
+      "age": 21,
+      "value": 19174736
+    },
+    {
+      "name": "Renato Reyes",
+      "position": "DF",
+      "rating": 85,
+      "age": 33,
+      "value": 18789473
+    },
+    {
+      "name": "Daniel Bishop",
+      "position": "DF",
+      "rating": 88,
+      "age": 29,
+      "value": 23157894
+    },
+    {
+      "name": "Bhekizizwe Goodman",
+      "position": "DF",
+      "rating": 73,
+      "age": 29,
+      "value": 19210526
+    },
+    {
+      "name": "Thabo Franco",
+      "position": "DF",
+      "rating": 89,
+      "age": 17,
+      "value": 34663157
+    },
+    {
+      "name": "Kolby Yeboah",
+      "position": "DF",
+      "rating": 62,
+      "age": 23,
+      "value": 20231578
+    },
+    {
+      "name": "Toshiro Dahl",
+      "position": "DF",
+      "rating": 69,
       "age": 30,
+      "value": 17431578
+    },
+    {
+      "name": "Luis Baker",
+      "position": "MF",
+      "rating": 86,
+      "age": 34,
+      "value": 21726315
+    },
+    {
+      "name": "Gustavo Myers",
+      "position": "MF",
+      "rating": 61,
+      "age": 25,
+      "value": 22345263
+    },
+    {
+      "name": "Conor Pena",
+      "position": "MF",
+      "rating": 72,
+      "age": 29,
       "value": 22736842
     },
     {
-      "name": "Nuru Henriksen",
+      "name": "Louis Spencer",
       "position": "MF",
-      "rating": 83,
-      "age": 34,
-      "value": 20968421
-    },
-    {
-      "name": "River Bryan",
-      "position": "MF",
-      "rating": 62,
-      "age": 28,
-      "value": 20362105
-    },
-    {
-      "name": "Tyrone Alvarez",
-      "position": "MF",
-      "rating": 79,
-      "age": 20,
-      "value": 33928421
-    },
-    {
-      "name": "Mark Stone",
-      "position": "MF",
-      "rating": 73,
-      "age": 23,
-      "value": 28585263
-    },
-    {
-      "name": "Fernando Nkosi",
-      "position": "FW",
-      "rating": 86,
-      "age": 16,
-      "value": 40000000
-    },
-    {
-      "name": "Karl Patterson",
-      "position": "FW",
-      "rating": 61,
-      "age": 16,
-      "value": 36600000
-    },
-    {
-      "name": "Henry Osei",
-      "position": "FW",
-      "rating": 67,
-      "age": 24,
-      "value": 31736842
-    },
-    {
-      "name": "Johnny Fox",
-      "position": "FW",
-      "rating": 76,
-      "age": 33,
-      "value": 25200000
-    },
-    {
-      "name": "Isaac Baker",
-      "position": "FW",
       "rating": 75,
-      "age": 21,
-      "value": 39078947
+      "age": 24,
+      "value": 28421052
+    },
+    {
+      "name": "Elias Lambert",
+      "position": "MF",
+      "rating": 70,
+      "age": 33,
+      "value": 18568421
+    },
+    {
+      "name": "Terry Hughes",
+      "position": "MF",
+      "rating": 67,
+      "age": 16,
+      "value": 32160000
+    },
+    {
+      "name": "Kellen Saye",
+      "position": "FW",
+      "rating": 71,
+      "age": 22,
+      "value": 35873684
+    },
+    {
+      "name": "Isak Adams",
+      "position": "FW",
+      "rating": 90,
+      "age": 33,
+      "value": 29842105
+    },
+    {
+      "name": "Orlando Franklin",
+      "position": "FW",
+      "rating": 74,
+      "age": 31,
+      "value": 26873684
+    },
+    {
+      "name": "Rodney Edwards",
+      "position": "FW",
+      "rating": 68,
+      "age": 35,
+      "value": 20400000
+    },
+    {
+      "name": "Curtis Scott",
+      "position": "FW",
+      "rating": 85,
+      "age": 29,
+      "value": 33552631
     }
   ],
   "stadium": {

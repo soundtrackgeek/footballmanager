@@ -2,144 +2,144 @@
   "name": "Crystal Palace",
   "squad": [
     {
-      "name": "Orlando Gray",
+      "name": "Dean Rojas",
       "position": "GK",
-      "rating": 77,
-      "age": 16,
-      "value": 24640000
-    },
-    {
-      "name": "Adam Howard",
-      "position": "GK",
-      "rating": 83,
-      "age": 32,
-      "value": 15376842
-    },
-    {
-      "name": "Roderick Spencer",
-      "position": "GK",
-      "rating": 61,
-      "age": 29,
-      "value": 12842105
-    },
-    {
-      "name": "River Kobayashi",
-      "position": "DF",
-      "rating": 77,
-      "age": 33,
-      "value": 17021052
-    },
-    {
-      "name": "Antonio Foster",
-      "position": "DF",
-      "rating": 70,
+      "rating": 69,
       "age": 17,
-      "value": 27263157
+      "value": 21498947
     },
     {
-      "name": "Stewart Gordon",
-      "position": "DF",
-      "rating": 76,
+      "name": "Musa Valdez",
+      "position": "GK",
+      "rating": 90,
       "age": 33,
-      "value": 16799999
+      "value": 15915789
     },
     {
-      "name": "Roy Edwards",
-      "position": "DF",
-      "rating": 85,
-      "age": 24,
-      "value": 26842105
+      "name": "Nicholas Phillips",
+      "position": "GK",
+      "rating": 77,
+      "age": 23,
+      "value": 20101052
     },
     {
-      "name": "Mikkel Lindholm",
+      "name": "Alonso Delgado",
       "position": "DF",
-      "rating": 73,
-      "age": 28,
-      "value": 19978947
+      "rating": 82,
+      "age": 26,
+      "value": 24168421
     },
     {
-      "name": "Juan Peterson",
+      "name": "Samuel Castro",
       "position": "DF",
-      "rating": 66,
+      "rating": 62,
+      "age": 17,
+      "value": 24147368
+    },
+    {
+      "name": "Yuki Baker",
+      "position": "DF",
+      "rating": 74,
+      "age": 27,
+      "value": 21031578
+    },
+    {
+      "name": "Evan Palmer",
+      "position": "DF",
+      "rating": 89,
       "age": 32,
-      "value": 15284210
+      "value": 20610526
     },
     {
-      "name": "Lukas Palmer",
+      "name": "Kwasi Morrison",
+      "position": "DF",
+      "rating": 75,
+      "age": 33,
+      "value": 16578947
+    },
+    {
+      "name": "Kwabena Bowman",
+      "position": "DF",
+      "rating": 78,
+      "age": 22,
+      "value": 26273684
+    },
+    {
+      "name": "Taylor Hughes",
       "position": "MF",
-      "rating": 67,
-      "age": 29,
-      "value": 21157894
+      "rating": 60,
+      "age": 17,
+      "value": 28042105
     },
     {
-      "name": "Remington Eklund",
+      "name": "Oluwafemi Larsson",
       "position": "MF",
       "rating": 83,
-      "age": 21,
-      "value": 34597894
+      "age": 28,
+      "value": 27258947
     },
     {
-      "name": "Tyson Jordan",
+      "name": "Jabari Robinson",
       "position": "MF",
-      "rating": 66,
-      "age": 31,
-      "value": 19174736
+      "rating": 80,
+      "age": 25,
+      "value": 29305263
     },
     {
-      "name": "Remington Molina",
+      "name": "Gunnar Berglund",
+      "position": "MF",
+      "rating": 60,
+      "age": 33,
+      "value": 15915789
+    },
+    {
+      "name": "Mason Higgins",
+      "position": "MF",
+      "rating": 77,
+      "age": 34,
+      "value": 19452631
+    },
+    {
+      "name": "Wayne Reid",
       "position": "MF",
       "rating": 61,
       "age": 18,
       "value": 27738947
     },
     {
-      "name": "Thabo Hart",
-      "position": "MF",
-      "rating": 70,
-      "age": 21,
-      "value": 29178947
-    },
-    {
-      "name": "Ayden Hansen",
-      "position": "MF",
-      "rating": 79,
-      "age": 19,
-      "value": 34926315
-    },
-    {
-      "name": "Richard Holland",
+      "name": "Colin Marshall",
       "position": "FW",
-      "rating": 85,
-      "age": 22,
-      "value": 40000000
+      "rating": 75,
+      "age": 30,
+      "value": 28421052
     },
     {
-      "name": "Aiden Mills",
+      "name": "Sulaiman Hart",
       "position": "FW",
-      "rating": 72,
+      "rating": 87,
+      "age": 34,
+      "value": 27473684
+    },
+    {
+      "name": "Darren Murray",
+      "position": "FW",
+      "rating": 81,
+      "age": 32,
+      "value": 28136842
+    },
+    {
+      "name": "Jos\u00e9 Benson",
+      "position": "FW",
+      "rating": 60,
       "age": 17,
-      "value": 40000000
+      "value": 35052631
     },
     {
-      "name": "Pranav Xolani",
+      "name": "Jiro Parker",
       "position": "FW",
-      "rating": 69,
-      "age": 22,
-      "value": 34863157
-    },
-    {
-      "name": "Garrett Palmer",
-      "position": "FW",
-      "rating": 78,
-      "age": 33,
-      "value": 25863157
-    },
-    {
-      "name": "Arjun Butler",
-      "position": "FW",
-      "rating": 62,
-      "age": 28,
-      "value": 25452631
+      "rating": 65,
+      "age": 21,
+      "value": 33868421
     }
   ],
   "stadium": {

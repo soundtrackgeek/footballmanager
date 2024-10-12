@@ -3,6 +3,7 @@ from fixtures import generate_fixture_list, save_fixture_list, get_current_week_
 from table import create_table
 from game_simulation import play_week, simulate_season
 from stats import stats
+from transfer_market import TransferMarket, transfer_market_menu, update_transfer_market
 
 import random
 import codecs
@@ -188,6 +189,7 @@ def display_injured_players(teams):
 def main():
     teams = create_teams()
     player_team = choose_team(teams)
+    transfer_market = TransferMarket()
     
     # Always generate a new fixture list when starting a new game
     fixtures = generate_fixture_list(teams)
@@ -220,7 +222,7 @@ def main():
             for match in week_fixtures:
                 print(f"{match['home']} vs {match['away']}")
         elif choice == "4":
-            print("\nTransfer Market feature not implemented yet.")
+            transfer_market_menu(player_team, transfer_market, teams)
         elif choice == "5":
             if current_week <= total_weeks:
                 print(f"\nPreparing for Week {current_week}")
@@ -231,6 +233,7 @@ def main():
                 else:
                     print("Your team is already selected. You can change it from the Team menu if needed.")
                 print(f"\nSimulating Week {current_week}")
+                update_transfer_market(transfer_market, teams)  # Update transfer market before playing the week
                 current_week = play_week(fixtures, table, current_week, player_team)
             else:
                 print("\nThe season has ended. No more games to play.")

@@ -2,144 +2,144 @@
   "name": "Liverpool",
   "squad": [
     {
-      "name": "Musa Cruz",
+      "name": "Casper Nilsson",
+      "position": "GK",
+      "rating": 74,
+      "age": 22,
+      "value": 19941052
+    },
+    {
+      "name": "Cyrus Barnes",
+      "position": "GK",
+      "rating": 60,
+      "age": 27,
+      "value": 13642105
+    },
+    {
+      "name": "Shane Roberts",
       "position": "GK",
       "rating": 70,
-      "age": 19,
-      "value": 20631578
+      "age": 20,
+      "value": 20042105
     },
     {
-      "name": "Clark Pedersen",
-      "position": "GK",
-      "rating": 81,
+      "name": "Mike Desai",
+      "position": "DF",
+      "rating": 68,
       "age": 26,
-      "value": 19098947
+      "value": 20042105
     },
     {
-      "name": "Zayden Gonz\u00e1lez",
-      "position": "GK",
-      "rating": 62,
-      "age": 22,
-      "value": 16707368
+      "name": "Arjun Bates",
+      "position": "DF",
+      "rating": 80,
+      "age": 23,
+      "value": 26105263
     },
     {
-      "name": "Rory Hill",
+      "name": "Noah Shaw",
+      "position": "DF",
+      "rating": 72,
+      "age": 18,
+      "value": 27284210
+    },
+    {
+      "name": "Kody Rojas",
       "position": "DF",
       "rating": 87,
       "age": 16,
       "value": 34800000
     },
     {
-      "name": "Waylon Barnes",
+      "name": "Gavin Green",
       "position": "DF",
-      "rating": 67,
-      "age": 30,
-      "value": 16926315
-    },
-    {
-      "name": "Kenji Barnes",
-      "position": "DF",
-      "rating": 88,
-      "age": 20,
-      "value": 31494736
-    },
-    {
-      "name": "Travis Mason",
-      "position": "DF",
-      "rating": 72,
-      "age": 32,
-      "value": 16673684
-    },
-    {
-      "name": "Franklin Collins",
-      "position": "DF",
-      "rating": 84,
-      "age": 24,
-      "value": 26526315
-    },
-    {
-      "name": "Daniel Ibrahim",
-      "position": "DF",
-      "rating": 83,
-      "age": 23,
-      "value": 27084210
-    },
-    {
-      "name": "Wilson Bates",
-      "position": "MF",
-      "rating": 88,
-      "age": 29,
-      "value": 27789473
-    },
-    {
-      "name": "Reid Holt",
-      "position": "MF",
-      "rating": 60,
-      "age": 25,
-      "value": 21978947
-    },
-    {
-      "name": "Hector Nguyen",
-      "position": "MF",
-      "rating": 75,
-      "age": 32,
-      "value": 20842105
-    },
-    {
-      "name": "Brody Martinez",
-      "position": "MF",
       "rating": 70,
-      "age": 25,
-      "value": 25642105
+      "age": 28,
+      "value": 19157894
     },
     {
-      "name": "William Hart",
+      "name": "Tobias Henderson",
+      "position": "DF",
+      "rating": 88,
+      "age": 31,
+      "value": 21305263
+    },
+    {
+      "name": "Justin Palmer",
       "position": "MF",
-      "rating": 83,
-      "age": 33,
-      "value": 22016842
+      "rating": 71,
+      "age": 28,
+      "value": 23317894
     },
     {
-      "name": "Kobe Barnett",
+      "name": "Isaiah Griffin",
       "position": "MF",
-      "rating": 73,
-      "age": 34,
-      "value": 18442105
+      "rating": 89,
+      "age": 27,
+      "value": 30353684
     },
     {
-      "name": "Sebastian Bates",
-      "position": "FW",
-      "rating": 90,
-      "age": 19,
+      "name": "Salvador Patel",
+      "position": "MF",
+      "rating": 86,
+      "age": 16,
       "value": 40000000
     },
     {
-      "name": "Dalton Hicks",
-      "position": "FW",
-      "rating": 85,
-      "age": 31,
-      "value": 30868421
+      "name": "Simon Shaw",
+      "position": "MF",
+      "rating": 61,
+      "age": 17,
+      "value": 28509473
     },
     {
-      "name": "Sunil Pena",
-      "position": "FW",
-      "rating": 64,
-      "age": 34,
-      "value": 20210526
+      "name": "Roman Fisher",
+      "position": "MF",
+      "rating": 89,
+      "age": 18,
+      "value": 40000000
     },
     {
-      "name": "Suraj Reid",
-      "position": "FW",
-      "rating": 79,
-      "age": 31,
-      "value": 28689473
+      "name": "Wyatt Hansen",
+      "position": "MF",
+      "rating": 80,
+      "age": 28,
+      "value": 26273684
     },
     {
-      "name": "Raj Webster",
+      "name": "Ekon Jenkins",
       "position": "FW",
-      "rating": 68,
+      "rating": 69,
+      "age": 30,
+      "value": 26147368
+    },
+    {
+      "name": "Quinn Lopez",
+      "position": "FW",
+      "rating": 66,
       "age": 22,
-      "value": 34357894
+      "value": 33347368
+    },
+    {
+      "name": "Aziz Brooks",
+      "position": "FW",
+      "rating": 81,
+      "age": 35,
+      "value": 24300000
+    },
+    {
+      "name": "Jackson Grant",
+      "position": "FW",
+      "rating": 82,
+      "age": 18,
+      "value": 40000000
+    },
+    {
+      "name": "Adeyemi Coleman",
+      "position": "FW",
+      "rating": 77,
+      "age": 30,
+      "value": 29178947
     }
   ],
   "stadium": {
