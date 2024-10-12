@@ -5,6 +5,7 @@ from game_simulation import play_week, simulate_season
 from stats import stats
 
 import random
+import codecs
 
 def display_menu():
     print("\nFootball Manager Menu:")
@@ -133,12 +134,9 @@ def handle_sponsorships(team):
         print("\nInvalid choice. No sponsorship accepted.")
 
 def handle_bank_loan(team):
-    bank_names = [
-        "Royal Bank of Football", "Goalkeepers' Trust", "Midfield Mutual",
-        "Striker Savings", "Defender's Credit Union", "Premier Financial",
-        "Champions League Bank", "Football Association Savings",
-        "Golden Boot Banking", "Hat-Trick Holdings"
-    ]
+    # Read bank names from the file using UTF-8 encoding
+    with codecs.open('banks.txt', 'r', encoding='utf-8') as file:
+        bank_names = [line.strip() for line in file if line.strip()]
     
     loan_amount = int(input("Enter the amount you want to loan (in pounds): "))
     

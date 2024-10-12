@@ -1,0 +1,103 @@
+Bank of America
+JPMorgan Chase
+Wells Fargo
+Citibank
+Goldman Sachs
+Morgan Stanley
+HSBC
+Barclays
+Lloyds Bank
+Royal Bank of Scotland (RBS)
+Standard Chartered
+Santander
+BBVA
+Deutsche Bank
+Commerzbank
+BNP Paribas
+Société Générale
+Crédit Agricole
+UniCredit
+Intesa Sanpaolo
+Banca Monte dei Paschi di Siena
+ING Bank
+Rabobank
+ABN AMRO
+Nordea
+Danske Bank
+SEB (Skandinaviska Enskilda Banken)
+Swedbank
+DNB Bank (Den Norske Bank)
+Handelsbanken
+Erste Group Bank
+Raiffeisen Bank International
+UBS
+Credit Suisse
+Zürcher Kantonalbank
+Julius Baer Group
+DBS Bank
+OCBC Bank (Oversea-Chinese Banking Corporation)
+United Overseas Bank (UOB)
+Maybank
+CIMB Bank
+Public Bank Berhad
+Bank of China
+China Construction Bank
+Industrial and Commercial Bank of China (ICBC)
+Agricultural Bank of China
+Bank of East Asia
+Bank of Tokyo-Mitsubishi UFJ
+Sumitomo Mitsui Banking Corporation
+Mizuho Bank
+Resona Bank
+Shinsei Bank
+Nomura Holdings
+Macquarie Bank
+National Australia Bank (NAB)
+Commonwealth Bank of Australia
+Westpac
+ANZ Bank (Australia and New Zealand Banking Group)
+Kiwibank
+Bank of Montreal (BMO)
+Royal Bank of Canada (RBC)
+TD Bank (Toronto-Dominion Bank)
+Scotiabank
+National Bank of Canada
+CIBC (Canadian Imperial Bank of Commerce)
+Banco Bradesco
+Itaú Unibanco
+Banco do Brasil
+Caixa Econômica Federal
+Banco de Bogotá
+Davivienda
+Banorte
+Banamex
+Banco Santander México
+Scotiabank México
+ICICI Bank
+HDFC Bank
+Axis Bank
+State Bank of India (SBI)
+Punjab National Bank
+Bank of Baroda
+Kotak Mahindra Bank
+Union Bank of India
+Yes Bank
+IDBI Bank
+Mashreq Bank
+First Abu Dhabi Bank (FAB)
+Emirates NBD
+Qatar National Bank (QNB)
+Doha Bank
+Commercial Bank of Qatar
+National Bank of Kuwait
+Gulf Bank
+Kuwait Finance House
+Bank Muscat
+Oman Arab Bank
+Al Rajhi Bank
+Samba Financial Group
+Saudi British Bank (SABB)
+National Commercial Bank (NCB)
+Bank Leumi
+Bank Hapoalim
+Israel Discount Bank

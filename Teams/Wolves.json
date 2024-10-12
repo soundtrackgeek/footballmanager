@@ -2,144 +2,144 @@
   "name": "Wolves",
   "squad": [
     {
-      "name": "Daniel Jackson",
+      "name": "Kenneth Smith",
       "position": "GK",
-      "rating": 79,
-      "age": 18,
-      "value": 23949473
+      "rating": 81,
+      "age": 26,
+      "value": 19098947
     },
     {
-      "name": "Anthony Rodriguez",
+      "name": "David Gonzalez",
       "position": "GK",
-      "rating": 66,
-      "age": 23,
-      "value": 17229473
+      "rating": 75,
+      "age": 35,
+      "value": 12000000
     },
     {
-      "name": "Kenneth Martin",
+      "name": "James Miller",
       "position": "GK",
-      "rating": 78,
-      "age": 30,
-      "value": 15764210
-    },
-    {
-      "name": "Charles Martinez",
-      "position": "DF",
-      "rating": 78,
-      "age": 28,
-      "value": 21347368
-    },
-    {
-      "name": "James Jackson",
-      "position": "DF",
-      "rating": 90,
-      "age": 34,
-      "value": 18947368
-    },
-    {
-      "name": "Robert Taylor",
-      "position": "DF",
-      "rating": 87,
-      "age": 30,
-      "value": 21978947
-    },
-    {
-      "name": "Kenneth Lopez",
-      "position": "DF",
       "rating": 64,
-      "age": 29,
-      "value": 16842105
+      "age": 32,
+      "value": 11856842
     },
     {
-      "name": "William Brown",
+      "name": "Brian Jones",
+      "position": "DF",
+      "rating": 80,
+      "age": 26,
+      "value": 23578947
+    },
+    {
+      "name": "Edward Rodriguez",
+      "position": "DF",
+      "rating": 63,
+      "age": 34,
+      "value": 13263157
+    },
+    {
+      "name": "Anthony Lopez",
+      "position": "DF",
+      "rating": 72,
+      "age": 34,
+      "value": 15157894
+    },
+    {
+      "name": "Paul Lopez",
+      "position": "DF",
+      "rating": 80,
+      "age": 22,
+      "value": 26947368
+    },
+    {
+      "name": "Thomas Brown",
+      "position": "DF",
+      "rating": 81,
+      "age": 21,
+      "value": 28136842
+    },
+    {
+      "name": "Brian Hernandez",
       "position": "DF",
       "rating": 61,
-      "age": 23,
-      "value": 19905263
+      "age": 31,
+      "value": 14768421
     },
     {
-      "name": "Paul Taylor",
-      "position": "DF",
-      "rating": 86,
-      "age": 18,
-      "value": 32589473
+      "name": "Charles Lopez",
+      "position": "MF",
+      "rating": 89,
+      "age": 21,
+      "value": 37098947
     },
     {
-      "name": "Thomas Jackson",
+      "name": "Michael Williams",
       "position": "MF",
       "rating": 71,
-      "age": 23,
-      "value": 27802105
-    },
-    {
-      "name": "Thomas Jones",
-      "position": "MF",
-      "rating": 87,
-      "age": 30,
-      "value": 26374736
-    },
-    {
-      "name": "John Williams",
-      "position": "MF",
-      "rating": 85,
       "age": 22,
-      "value": 34357894
+      "value": 28698947
     },
     {
-      "name": "William Jackson",
+      "name": "David Rodriguez",
       "position": "MF",
-      "rating": 73,
-      "age": 32,
-      "value": 20286315
+      "rating": 69,
+      "age": 31,
+      "value": 20046315
     },
     {
-      "name": "Kenneth Brown",
+      "name": "Charles Johnson",
       "position": "MF",
-      "rating": 70,
-      "age": 24,
-      "value": 26526315
+      "rating": 75,
+      "age": 33,
+      "value": 19894736
     },
     {
-      "name": "Donald Martin",
+      "name": "Donald Moore",
       "position": "MF",
-      "rating": 84,
-      "age": 18,
-      "value": 38197894
-    },
-    {
-      "name": "James Smith",
-      "position": "FW",
-      "rating": 84,
+      "rating": 77,
       "age": 26,
-      "value": 37136842
+      "value": 27233684
     },
     {
-      "name": "Thomas Anderson",
+      "name": "Brian Johnson",
+      "position": "MF",
+      "rating": 80,
+      "age": 17,
+      "value": 37389473
+    },
+    {
+      "name": "Kenneth Garcia",
       "position": "FW",
-      "rating": 64,
+      "rating": 73,
       "age": 25,
-      "value": 29305263
+      "value": 33426315
     },
     {
-      "name": "Anthony Jones",
+      "name": "Anthony Smith",
       "position": "FW",
-      "rating": 90,
-      "age": 24,
+      "rating": 84,
+      "age": 20,
       "value": 40000000
     },
     {
-      "name": "Richard Miller",
+      "name": "Brian Rodriguez",
       "position": "FW",
-      "rating": 71,
-      "age": 28,
-      "value": 29147368
+      "rating": 74,
+      "age": 29,
+      "value": 29210526
     },
     {
-      "name": "Michael Smith",
+      "name": "William Lopez",
       "position": "FW",
-      "rating": 61,
-      "age": 16,
-      "value": 36600000
+      "rating": 80,
+      "age": 22,
+      "value": 40000000
+    },
+    {
+      "name": "Charles Brown",
+      "position": "FW",
+      "rating": 73,
+      "age": 32,
+      "value": 25357894
     }
   ],
   "stadium": {

@@ -2,144 +2,144 @@
   "name": "West Ham",
   "squad": [
     {
-      "name": "George Jones",
+      "name": "Paul Wilson",
       "position": "GK",
-      "rating": 71,
-      "age": 27,
-      "value": 16143157
-    },
-    {
-      "name": "Brian Taylor",
-      "position": "GK",
-      "rating": 70,
+      "rating": 86,
       "age": 19,
-      "value": 20631578
+      "value": 25347368
     },
     {
-      "name": "George Jackson",
+      "name": "Ronald Davis",
       "position": "GK",
-      "rating": 89,
-      "age": 21,
-      "value": 24732631
-    },
-    {
-      "name": "Charles Lopez",
-      "position": "DF",
       "rating": 63,
-      "age": 19,
-      "value": 23210526
-    },
-    {
-      "name": "John Hernandez",
-      "position": "DF",
-      "rating": 84,
-      "age": 31,
-      "value": 20336842
-    },
-    {
-      "name": "Thomas Martinez",
-      "position": "DF",
-      "rating": 67,
-      "age": 26,
-      "value": 19747368
-    },
-    {
-      "name": "Thomas Anderson",
-      "position": "DF",
-      "rating": 78,
-      "age": 35,
-      "value": 15600000
+      "age": 29,
+      "value": 13263157
     },
     {
       "name": "John Thomas",
+      "position": "GK",
+      "rating": 76,
+      "age": 30,
+      "value": 15360000
+    },
+    {
+      "name": "Daniel Martinez",
+      "position": "DF",
+      "rating": 79,
+      "age": 23,
+      "value": 25778947
+    },
+    {
+      "name": "Kenneth Wilson",
       "position": "DF",
       "rating": 66,
-      "age": 16,
-      "value": 26400000
+      "age": 19,
+      "value": 24315789
     },
     {
-      "name": "George Miller",
+      "name": "James Martinez",
       "position": "DF",
-      "rating": 82,
-      "age": 30,
-      "value": 20715789
+      "rating": 81,
+      "age": 34,
+      "value": 17052631
     },
     {
-      "name": "John Brown",
-      "position": "MF",
-      "rating": 88,
-      "age": 26,
-      "value": 31124210
+      "name": "Edward Jackson",
+      "position": "DF",
+      "rating": 67,
+      "age": 33,
+      "value": 14810526
     },
     {
-      "name": "Richard Taylor",
-      "position": "MF",
-      "rating": 61,
-      "age": 24,
-      "value": 23115789
-    },
-    {
-      "name": "Brian Martinez",
-      "position": "MF",
-      "rating": 70,
-      "age": 21,
-      "value": 29178947
-    },
-    {
-      "name": "Daniel Anderson",
-      "position": "MF",
+      "name": "Donald Thomas",
+      "position": "DF",
       "rating": 76,
-      "age": 24,
-      "value": 28800000
+      "age": 16,
+      "value": 30400000
     },
     {
-      "name": "Steven Williams",
+      "name": "Ronald Jackson",
+      "position": "DF",
+      "rating": 60,
+      "age": 27,
+      "value": 17052631
+    },
+    {
+      "name": "Anthony Davis",
       "position": "MF",
-      "rating": 77,
-      "age": 20,
-      "value": 33069473
+      "rating": 79,
+      "age": 23,
+      "value": 30934736
     },
     {
-      "name": "William Hernandez",
+      "name": "Charles Anderson",
       "position": "MF",
-      "rating": 62,
-      "age": 17,
-      "value": 28976842
-    },
-    {
-      "name": "Daniel Thomas",
-      "position": "FW",
       "rating": 75,
-      "age": 20,
-      "value": 40000000
-    },
-    {
-      "name": "Steven Brown",
-      "position": "FW",
-      "rating": 89,
-      "age": 24,
-      "value": 40000000
-    },
-    {
-      "name": "George Wilson",
-      "position": "FW",
-      "rating": 60,
-      "age": 29,
-      "value": 23684210
-    },
-    {
-      "name": "Brian Smith",
-      "position": "FW",
-      "rating": 60,
-      "age": 35,
-      "value": 18000000
+      "age": 26,
+      "value": 26526315
     },
     {
       "name": "George Davis",
+      "position": "MF",
+      "rating": 90,
+      "age": 28,
+      "value": 29557894
+    },
+    {
+      "name": "Paul Jackson",
+      "position": "MF",
+      "rating": 90,
+      "age": 35,
+      "value": 21600000
+    },
+    {
+      "name": "Edward Taylor",
+      "position": "MF",
+      "rating": 73,
+      "age": 16,
+      "value": 35040000
+    },
+    {
+      "name": "George Johnson",
+      "position": "MF",
+      "rating": 83,
+      "age": 28,
+      "value": 27258947
+    },
+    {
+      "name": "Brian Davis",
       "position": "FW",
-      "rating": 84,
-      "age": 27,
-      "value": 35810526
+      "rating": 67,
+      "age": 24,
+      "value": 31736842
+    },
+    {
+      "name": "Ronald Gonzalez",
+      "position": "FW",
+      "rating": 82,
+      "age": 30,
+      "value": 31073684
+    },
+    {
+      "name": "Paul Hernandez",
+      "position": "FW",
+      "rating": 82,
+      "age": 29,
+      "value": 32368421
+    },
+    {
+      "name": "Ronald Taylor",
+      "position": "FW",
+      "rating": 74,
+      "age": 25,
+      "value": 33884210
+    },
+    {
+      "name": "Richard Thomas",
+      "position": "FW",
+      "rating": 68,
+      "age": 22,
+      "value": 34357894
     }
   ],
   "stadium": {

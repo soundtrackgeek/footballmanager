@@ -2,144 +2,144 @@
   "name": "Luton",
   "squad": [
     {
-      "name": "George Thomas",
+      "name": "Steven Jones",
       "position": "GK",
-      "rating": 82,
+      "rating": 76,
+      "age": 33,
+      "value": 13440000
+    },
+    {
+      "name": "Donald Thomas",
+      "position": "GK",
+      "rating": 65,
       "age": 27,
-      "value": 18644210
+      "value": 14778947
     },
     {
-      "name": "Ronald Martin",
+      "name": "Paul Taylor",
       "position": "GK",
-      "rating": 60,
-      "age": 18,
-      "value": 18189473
+      "rating": 88,
+      "age": 25,
+      "value": 21490526
     },
     {
-      "name": "Michael Jackson",
-      "position": "GK",
-      "rating": 63,
-      "age": 35,
-      "value": 10080000
-    },
-    {
-      "name": "Mark Jones",
+      "name": "Robert Gonzalez",
       "position": "DF",
-      "rating": 71,
-      "age": 17,
-      "value": 27652631
+      "rating": 77,
+      "age": 20,
+      "value": 27557894
     },
     {
-      "name": "Daniel Davis",
+      "name": "Paul Jackson",
+      "position": "DF",
+      "rating": 62,
+      "age": 31,
+      "value": 15010526
+    },
+    {
+      "name": "Kenneth Davis",
+      "position": "DF",
+      "rating": 66,
+      "age": 23,
+      "value": 21536842
+    },
+    {
+      "name": "Edward Martinez",
       "position": "DF",
       "rating": 61,
-      "age": 30,
-      "value": 15410526
-    },
-    {
-      "name": "Kenneth Gonzalez",
-      "position": "DF",
-      "rating": 63,
       "age": 23,
-      "value": 20557894
+      "value": 19905263
     },
     {
-      "name": "Anthony Anderson",
+      "name": "Mark Smith",
       "position": "DF",
-      "rating": 75,
-      "age": 19,
-      "value": 27631578
-    },
-    {
-      "name": "Mark Anderson",
-      "position": "DF",
-      "rating": 83,
-      "age": 30,
-      "value": 20968421
-    },
-    {
-      "name": "Brian Martinez",
-      "position": "DF",
-      "rating": 80,
-      "age": 26,
-      "value": 23578947
-    },
-    {
-      "name": "Paul Thomas",
-      "position": "MF",
-      "rating": 80,
-      "age": 23,
-      "value": 31326315
-    },
-    {
-      "name": "Donald Hernandez",
-      "position": "MF",
       "rating": 66,
-      "age": 32,
-      "value": 18341052
+      "age": 24,
+      "value": 20842105
     },
     {
-      "name": "Brian Jackson",
+      "name": "Edward Rodriguez",
+      "position": "DF",
+      "rating": 89,
+      "age": 18,
+      "value": 33726315
+    },
+    {
+      "name": "Steven Gonzalez",
       "position": "MF",
-      "rating": 81,
-      "age": 26,
-      "value": 28648421
+      "rating": 74,
+      "age": 17,
+      "value": 34585263
     },
     {
-      "name": "Richard Davis",
+      "name": "Donald Johnson",
       "position": "MF",
       "rating": 79,
-      "age": 21,
-      "value": 32930526
+      "age": 24,
+      "value": 29936842
     },
     {
-      "name": "Robert Martin",
+      "name": "David Miller",
       "position": "MF",
-      "rating": 81,
-      "age": 28,
-      "value": 26602105
+      "rating": 68,
+      "age": 31,
+      "value": 19755789
     },
     {
-      "name": "David Wilson",
+      "name": "Brian Garcia",
+      "position": "MF",
+      "rating": 67,
+      "age": 19,
+      "value": 29621052
+    },
+    {
+      "name": "Brian Martin",
       "position": "MF",
       "rating": 70,
-      "age": 17,
-      "value": 32715789
-    },
-    {
-      "name": "Brian Williams",
-      "position": "FW",
-      "rating": 89,
       "age": 21,
-      "value": 40000000
+      "value": 29178947
     },
     {
-      "name": "George Martinez",
+      "name": "John Martinez",
+      "position": "MF",
+      "rating": 88,
+      "age": 34,
+      "value": 22231578
+    },
+    {
+      "name": "Thomas Lopez",
+      "position": "FW",
+      "rating": 88,
+      "age": 35,
+      "value": 26400000
+    },
+    {
+      "name": "James Garcia",
+      "position": "FW",
+      "rating": 75,
+      "age": 35,
+      "value": 22500000
+    },
+    {
+      "name": "Michael Davis",
       "position": "FW",
       "rating": 86,
-      "age": 34,
-      "value": 27157894
+      "age": 28,
+      "value": 35305263
     },
     {
-      "name": "Anthony Jones",
+      "name": "Mark Brown",
       "position": "FW",
-      "rating": 77,
+      "rating": 75,
+      "age": 23,
+      "value": 36710526
+    },
+    {
+      "name": "Paul Gonzalez",
+      "position": "FW",
+      "rating": 84,
       "age": 22,
-      "value": 38905263
-    },
-    {
-      "name": "Edward Hernandez",
-      "position": "FW",
-      "rating": 85,
-      "age": 34,
-      "value": 26842105
-    },
-    {
-      "name": "Ronald Taylor",
-      "position": "FW",
-      "rating": 77,
-      "age": 30,
-      "value": 29178947
+      "value": 40000000
     }
   ],
   "stadium": {
