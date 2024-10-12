@@ -2,144 +2,144 @@
   "name": "Luton",
   "squad": [
     {
-      "name": "Sefu Ramirez",
+      "name": "Giovanni Jackson",
       "position": "GK",
-      "rating": 73,
+      "rating": 81,
       "age": 21,
-      "value": 20286315
+      "value": 22509473
     },
     {
-      "name": "Desmond Cunningham",
+      "name": "George Brooks",
       "position": "GK",
-      "rating": 66,
-      "age": 28,
-      "value": 14450526
+      "rating": 61,
+      "age": 19,
+      "value": 17978947
     },
     {
-      "name": "Gavin Rivera",
+      "name": "Alonzo Jordan",
       "position": "GK",
-      "rating": 67,
-      "age": 22,
-      "value": 18054736
+      "rating": 78,
+      "age": 24,
+      "value": 19705263
     },
     {
-      "name": "Benjam\u00edn Adams",
-      "position": "DF",
-      "rating": 84,
-      "age": 33,
-      "value": 18568421
-    },
-    {
-      "name": "Riley Franco",
-      "position": "DF",
-      "rating": 68,
-      "age": 29,
-      "value": 17894736
-    },
-    {
-      "name": "Mario Green",
-      "position": "DF",
-      "rating": 66,
-      "age": 28,
-      "value": 18063157
-    },
-    {
-      "name": "Izaiah Lopez",
-      "position": "DF",
-      "rating": 77,
-      "age": 32,
-      "value": 17831578
-    },
-    {
-      "name": "Tom\u00e1s Blake",
+      "name": "Easton Scott",
       "position": "DF",
       "rating": 78,
-      "age": 19,
-      "value": 28736842
+      "age": 23,
+      "value": 25452631
     },
     {
-      "name": "Juan Stewart",
+      "name": "Sebastian Oliver",
       "position": "DF",
-      "rating": 70,
-      "age": 18,
-      "value": 26526315
-    },
-    {
-      "name": "Uriel Umar",
-      "position": "MF",
-      "rating": 62,
-      "age": 34,
-      "value": 15663157
-    },
-    {
-      "name": "Adeola Peterson",
-      "position": "MF",
       "rating": 83,
-      "age": 20,
-      "value": 35646315
+      "age": 25,
+      "value": 25336842
     },
     {
-      "name": "Vance Bhatia",
+      "name": "Julian Han",
+      "position": "DF",
+      "rating": 62,
+      "age": 21,
+      "value": 21536842
+    },
+    {
+      "name": "Sam Peterson",
+      "position": "DF",
+      "rating": 84,
+      "age": 23,
+      "value": 27410526
+    },
+    {
+      "name": "Warren Griffin",
+      "position": "DF",
+      "rating": 63,
+      "age": 24,
+      "value": 19894736
+    },
+    {
+      "name": "Franklin Rivera",
+      "position": "DF",
+      "rating": 64,
+      "age": 33,
+      "value": 14147368
+    },
+    {
+      "name": "Steve Murray",
       "position": "MF",
-      "rating": 73,
-      "age": 35,
-      "value": 17520000
+      "rating": 79,
+      "age": 26,
+      "value": 27941052
     },
     {
-      "name": "Leon Gray",
+      "name": "Logan Hicks",
+      "position": "MF",
+      "rating": 71,
+      "age": 22,
+      "value": 28698947
+    },
+    {
+      "name": "Emiliano Franco",
+      "position": "MF",
+      "rating": 63,
+      "age": 34,
+      "value": 15915789
+    },
+    {
+      "name": "Jackson Perry",
+      "position": "MF",
+      "rating": 66,
+      "age": 25,
+      "value": 24176842
+    },
+    {
+      "name": "Gabriel Sangare",
+      "position": "MF",
+      "rating": 61,
+      "age": 34,
+      "value": 15410526
+    },
+    {
+      "name": "Kwesi Wallace",
       "position": "MF",
       "rating": 62,
-      "age": 23,
-      "value": 24277894
+      "age": 27,
+      "value": 21145263
     },
     {
-      "name": "Julian Guo",
-      "position": "MF",
-      "rating": 86,
-      "age": 22,
-      "value": 34762105
-    },
-    {
-      "name": "Kobe Mehta",
-      "position": "MF",
-      "rating": 67,
-      "age": 18,
-      "value": 30467368
-    },
-    {
-      "name": "Quentin Stone",
+      "name": "Alfonso Diaz",
       "position": "FW",
-      "rating": 73,
-      "age": 18,
+      "rating": 61,
+      "age": 25,
+      "value": 27931578
+    },
+    {
+      "name": "Torsten Yeboah",
+      "position": "FW",
+      "rating": 85,
+      "age": 24,
       "value": 40000000
     },
     {
-      "name": "Obi Spencer",
+      "name": "Donovan Shin",
       "position": "FW",
-      "rating": 75,
+      "rating": 83,
+      "age": 17,
+      "value": 40000000
+    },
+    {
+      "name": "Soren S\u00f6derberg",
+      "position": "FW",
+      "rating": 82,
       "age": 19,
       "value": 40000000
     },
     {
-      "name": "Lucas Webster",
+      "name": "Carl Barnett",
       "position": "FW",
-      "rating": 69,
-      "age": 23,
-      "value": 33773684
-    },
-    {
-      "name": "Wei Hayes",
-      "position": "FW",
-      "rating": 88,
-      "age": 25,
-      "value": 40000000
-    },
-    {
-      "name": "Devin Marshall",
-      "position": "FW",
-      "rating": 72,
-      "age": 32,
-      "value": 25010526
+      "rating": 86,
+      "age": 34,
+      "value": 27157894
     }
   ],
   "stadium": {

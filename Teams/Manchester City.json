@@ -2,144 +2,144 @@
   "name": "Manchester City",
   "squad": [
     {
-      "name": "Kwesi Howard",
+      "name": "Declan Bennett",
       "position": "GK",
-      "rating": 79,
-      "age": 30,
-      "value": 15966315
+      "rating": 69,
+      "age": 23,
+      "value": 18012631
     },
     {
-      "name": "Brendan \u00c5kesson",
+      "name": "Ade West",
       "position": "GK",
-      "rating": 88,
-      "age": 21,
-      "value": 24454736
+      "rating": 69,
+      "age": 27,
+      "value": 15688421
     },
     {
-      "name": "Mikkel Boone",
+      "name": "Leo Badu",
       "position": "GK",
-      "rating": 87,
-      "age": 18,
-      "value": 26374736
+      "rating": 72,
+      "age": 25,
+      "value": 17583157
     },
     {
-      "name": "Bo Graham",
+      "name": "Jelani Ramirez",
       "position": "DF",
       "rating": 77,
-      "age": 27,
-      "value": 21884210
+      "age": 19,
+      "value": 28368421
     },
     {
-      "name": "Nikhil Jansson",
+      "name": "Easton Webster",
       "position": "DF",
-      "rating": 87,
-      "age": 29,
-      "value": 22894736
+      "rating": 78,
+      "age": 23,
+      "value": 25452631
     },
     {
-      "name": "Alan Navarro",
+      "name": "Easton Green",
       "position": "DF",
-      "rating": 67,
-      "age": 28,
-      "value": 18336842
+      "rating": 66,
+      "age": 22,
+      "value": 22231578
     },
     {
-      "name": "Ivan Joshi",
-      "position": "DF",
-      "rating": 90,
-      "age": 28,
-      "value": 24631578
-    },
-    {
-      "name": "Kelly Nilsson",
+      "name": "Emerson Cunningham",
       "position": "DF",
       "rating": 65,
-      "age": 24,
-      "value": 20526315
+      "age": 25,
+      "value": 19842105
     },
     {
-      "name": "Cooper Bergstrom",
+      "name": "Brian Alvarez",
       "position": "DF",
-      "rating": 63,
-      "age": 16,
-      "value": 25200000
+      "rating": 78,
+      "age": 23,
+      "value": 25452631
     },
     {
-      "name": "Pablo Hunt",
-      "position": "MF",
-      "rating": 81,
-      "age": 31,
-      "value": 23532631
+      "name": "Benjamin Bates",
+      "position": "DF",
+      "rating": 88,
+      "age": 25,
+      "value": 26863157
     },
     {
-      "name": "Henrik Hill",
+      "name": "Ekon Joseph",
       "position": "MF",
-      "rating": 64,
+      "rating": 69,
+      "age": 19,
+      "value": 30505263
+    },
+    {
+      "name": "Alex Perez",
+      "position": "MF",
+      "rating": 75,
       "age": 22,
-      "value": 25869473
+      "value": 30315789
     },
     {
-      "name": "Donovan Owens",
-      "position": "MF",
-      "rating": 85,
-      "age": 20,
-      "value": 36505263
-    },
-    {
-      "name": "Carlos Barnett",
-      "position": "MF",
-      "rating": 87,
-      "age": 34,
-      "value": 21978947
-    },
-    {
-      "name": "Pranav Marshall",
+      "name": "Guillermo Schmidt",
       "position": "MF",
       "rating": 90,
-      "age": 28,
-      "value": 29557894
+      "age": 26,
+      "value": 31831578
     },
     {
-      "name": "Brody Ortiz",
+      "name": "Allen West",
       "position": "MF",
-      "rating": 85,
-      "age": 18,
-      "value": 38652631
-    },
-    {
-      "name": "Thabo West",
-      "position": "FW",
-      "rating": 75,
-      "age": 17,
-      "value": 40000000
-    },
-    {
-      "name": "Haruki Morrison",
-      "position": "FW",
-      "rating": 74,
+      "rating": 73,
       "age": 33,
-      "value": 24536842
+      "value": 19364210
     },
     {
-      "name": "Ruben West",
-      "position": "FW",
-      "rating": 84,
-      "age": 35,
-      "value": 25200000
+      "name": "Jacob Black",
+      "position": "MF",
+      "rating": 77,
+      "age": 25,
+      "value": 28206315
     },
     {
-      "name": "Mario Murphy",
+      "name": "Waylon Hamilton",
+      "position": "MF",
+      "rating": 74,
+      "age": 23,
+      "value": 28976842
+    },
+    {
+      "name": "Curtis Patterson",
       "position": "FW",
-      "rating": 86,
-      "age": 24,
+      "rating": 80,
+      "age": 21,
       "value": 40000000
     },
     {
-      "name": "Finn Cox",
+      "name": "Anurak Hanson",
       "position": "FW",
-      "rating": 77,
+      "rating": 60,
+      "age": 19,
+      "value": 33157894
+    },
+    {
+      "name": "Devin Little",
+      "position": "FW",
+      "rating": 85,
+      "age": 26,
+      "value": 37578947
+    },
+    {
+      "name": "Ralph Coleman",
+      "position": "FW",
+      "rating": 87,
       "age": 16,
       "value": 40000000
+    },
+    {
+      "name": "Andre Yamamoto",
+      "position": "FW",
+      "rating": 64,
+      "age": 20,
+      "value": 34357894
     }
   ],
   "stadium": {

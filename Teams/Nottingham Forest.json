@@ -2,143 +2,143 @@
   "name": "Nottingham Forest",
   "squad": [
     {
-      "name": "Sulaiman Reid",
+      "name": "Colin Bates",
       "position": "GK",
-      "rating": 68,
+      "rating": 61,
       "age": 23,
-      "value": 17751578
+      "value": 15924210
     },
     {
-      "name": "Noel Bates",
+      "name": "Curtis Karlsson",
       "position": "GK",
-      "rating": 87,
-      "age": 19,
-      "value": 25642105
-    },
-    {
-      "name": "Frank Iversen",
-      "position": "GK",
-      "rating": 88,
-      "age": 28,
-      "value": 19267368
-    },
-    {
-      "name": "Emil Khan",
-      "position": "DF",
-      "rating": 89,
-      "age": 28,
-      "value": 24357894
-    },
-    {
-      "name": "Levi Rom\u00e1n",
-      "position": "DF",
       "rating": 66,
-      "age": 32,
-      "value": 15284210
+      "age": 35,
+      "value": 10560000
     },
     {
-      "name": "Randy Fletcher",
+      "name": "Ricardo Park",
+      "position": "GK",
+      "rating": 72,
+      "age": 18,
+      "value": 21827368
+    },
+    {
+      "name": "Ayaan Gomes",
       "position": "DF",
-      "rating": 74,
-      "age": 34,
-      "value": 15578947
+      "rating": 67,
+      "age": 28,
+      "value": 18336842
     },
     {
-      "name": "Alejandro Rodriguez",
+      "name": "Ethan Garc\u00eda",
       "position": "DF",
       "rating": 83,
-      "age": 31,
-      "value": 20094736
+      "age": 33,
+      "value": 18347368
     },
     {
-      "name": "Keith Griffin",
+      "name": "David Oliver",
       "position": "DF",
-      "rating": 82,
-      "age": 16,
-      "value": 32800000
+      "rating": 87,
+      "age": 25,
+      "value": 26557894
     },
     {
-      "name": "Cian Kim",
+      "name": "Lewis Griffin",
       "position": "DF",
-      "rating": 82,
-      "age": 25,
-      "value": 25031578
+      "rating": 67,
+      "age": 19,
+      "value": 24684210
     },
     {
-      "name": "Bart Eklund",
+      "name": "Marvin Webster",
+      "position": "DF",
+      "rating": 87,
+      "age": 32,
+      "value": 20147368
+    },
+    {
+      "name": "Jayson Richards",
+      "position": "DF",
+      "rating": 70,
+      "age": 20,
+      "value": 25052631
+    },
+    {
+      "name": "Luke Cook",
       "position": "MF",
-      "rating": 69,
-      "age": 29,
-      "value": 21789473
+      "rating": 85,
+      "age": 28,
+      "value": 27915789
     },
     {
-      "name": "Femi Barnes",
+      "name": "Tobias Bailey",
       "position": "MF",
-      "rating": 73,
-      "age": 16,
-      "value": 35040000
+      "rating": 67,
+      "age": 23,
+      "value": 26235789
     },
     {
-      "name": "Dwayne Howard",
+      "name": "Bryce Barrios",
       "position": "MF",
-      "rating": 69,
-      "age": 25,
-      "value": 25275789
+      "rating": 70,
+      "age": 33,
+      "value": 18568421
     },
     {
-      "name": "Roberto Desai",
+      "name": "Finn Parker",
       "position": "MF",
-      "rating": 66,
-      "age": 21,
-      "value": 27511578
+      "rating": 76,
+      "age": 19,
+      "value": 33600000
     },
     {
-      "name": "Kaden Molina",
+      "name": "Andres Jacobsen",
       "position": "MF",
       "rating": 62,
-      "age": 18,
-      "value": 28193684
+      "age": 23,
+      "value": 24277894
     },
     {
-      "name": "Nikhil Shaw",
+      "name": "Julian Marin",
       "position": "MF",
-      "rating": 87,
-      "age": 34,
-      "value": 21978947
+      "rating": 85,
+      "age": 33,
+      "value": 22547368
     },
     {
-      "name": "Remington Valencia",
-      "position": "FW",
-      "rating": 74,
-      "age": 26,
-      "value": 32715789
-    },
-    {
-      "name": "Bruno Nkosi",
-      "position": "FW",
-      "rating": 60,
-      "age": 24,
-      "value": 28421052
-    },
-    {
-      "name": "Elliot Gustavsson",
-      "position": "FW",
-      "rating": 69,
-      "age": 26,
-      "value": 30505263
-    },
-    {
-      "name": "Bradley Parker",
-      "position": "FW",
-      "rating": 72,
-      "age": 24,
-      "value": 34105263
-    },
-    {
-      "name": "Gage Smith",
+      "name": "Shiro Delgado",
       "position": "FW",
       "rating": 76,
       "age": 16,
+      "value": 40000000
+    },
+    {
+      "name": "Cory Suzuki",
+      "position": "FW",
+      "rating": 78,
+      "age": 30,
+      "value": 29557894
+    },
+    {
+      "name": "Mathew Bennett",
+      "position": "FW",
+      "rating": 70,
+      "age": 20,
+      "value": 37578947
+    },
+    {
+      "name": "Oscar Guo",
+      "position": "FW",
+      "rating": 74,
+      "age": 34,
+      "value": 23368421
+    },
+    {
+      "name": "Carlos Long",
+      "position": "FW",
+      "rating": 75,
+      "age": 17,
       "value": 40000000
     }
   ],

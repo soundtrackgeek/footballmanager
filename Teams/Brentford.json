@@ -2,144 +2,144 @@
   "name": "Brentford",
   "squad": [
     {
-      "name": "Finn Morgan",
+      "name": "Haruto Bryant",
       "position": "GK",
-      "rating": 78,
-      "age": 28,
-      "value": 17077894
+      "rating": 89,
+      "age": 23,
+      "value": 23233684
     },
     {
-      "name": "Jarrett Marin",
+      "name": "Adel Kim",
       "position": "GK",
-      "rating": 65,
-      "age": 18,
-      "value": 19705263
+      "rating": 82,
+      "age": 23,
+      "value": 21406315
     },
     {
-      "name": "Wayne Bauer",
+      "name": "Amari Brooks",
       "position": "GK",
-      "rating": 65,
-      "age": 28,
-      "value": 14231578
-    },
-    {
-      "name": "Adam Grant",
-      "position": "DF",
-      "rating": 68,
-      "age": 34,
-      "value": 14315789
-    },
-    {
-      "name": "Ibrahim Ross",
-      "position": "DF",
-      "rating": 75,
-      "age": 30,
-      "value": 18947368
-    },
-    {
-      "name": "Myles Gonzales",
-      "position": "DF",
       "rating": 85,
       "age": 23,
-      "value": 27736842
+      "value": 22189473
     },
     {
-      "name": "Paul Bennett",
+      "name": "Sim\u00f3n Fuentes",
       "position": "DF",
-      "rating": 83,
+      "rating": 73,
+      "age": 25,
+      "value": 22284210
+    },
+    {
+      "name": "Spencer Black",
+      "position": "DF",
+      "rating": 87,
+      "age": 30,
+      "value": 21978947
+    },
+    {
+      "name": "Leonel Bowman",
+      "position": "DF",
+      "rating": 73,
       "age": 22,
-      "value": 27957894
+      "value": 24589473
     },
     {
-      "name": "Jonathan Flores",
+      "name": "Liam Olofsson",
       "position": "DF",
-      "rating": 76,
-      "age": 18,
-      "value": 28800000
+      "rating": 66,
+      "age": 30,
+      "value": 16673684
     },
     {
-      "name": "Manuel Long",
+      "name": "Grant Hughes",
       "position": "DF",
       "rating": 62,
+      "age": 33,
+      "value": 13705263
+    },
+    {
+      "name": "Eric Nilsen",
+      "position": "DF",
+      "rating": 89,
+      "age": 20,
+      "value": 31852631
+    },
+    {
+      "name": "Aaron Ramirez",
+      "position": "MF",
+      "rating": 68,
+      "age": 35,
+      "value": 16320000
+    },
+    {
+      "name": "Caden Valdez",
+      "position": "MF",
+      "rating": 68,
       "age": 27,
-      "value": 17621052
+      "value": 23191578
     },
     {
-      "name": "Emmett Sanders",
+      "name": "Clement Diaz",
+      "position": "MF",
+      "rating": 68,
+      "age": 23,
+      "value": 26627368
+    },
+    {
+      "name": "Brian Howard",
       "position": "MF",
       "rating": 84,
-      "age": 23,
-      "value": 32892631
+      "age": 18,
+      "value": 38197894
     },
     {
-      "name": "Jake Delgado",
+      "name": "Andre Allen",
       "position": "MF",
-      "rating": 84,
-      "age": 23,
-      "value": 32892631
+      "rating": 89,
+      "age": 30,
+      "value": 26981052
     },
     {
-      "name": "Keith Umar",
-      "position": "MF",
-      "rating": 85,
-      "age": 17,
-      "value": 39726315
-    },
-    {
-      "name": "Oliver Adams",
-      "position": "MF",
-      "rating": 75,
-      "age": 21,
-      "value": 31263157
-    },
-    {
-      "name": "Hector Dean",
+      "name": "Adekunle Cook",
       "position": "MF",
       "rating": 87,
-      "age": 26,
-      "value": 30770526
+      "age": 34,
+      "value": 21978947
     },
     {
-      "name": "Victor Feng",
-      "position": "MF",
-      "rating": 70,
-      "age": 22,
-      "value": 28294736
-    },
-    {
-      "name": "Shawn Duncan",
+      "name": "Victor Brooks",
       "position": "FW",
       "rating": 72,
-      "age": 20,
-      "value": 38652631
+      "age": 24,
+      "value": 34105263
     },
     {
-      "name": "Jayden Andrews",
+      "name": "Cian Webb",
       "position": "FW",
-      "rating": 90,
-      "age": 23,
-      "value": 40000000
+      "rating": 79,
+      "age": 28,
+      "value": 32431578
     },
     {
-      "name": "Allen Adams",
+      "name": "Jesse Bryant",
       "position": "FW",
-      "rating": 75,
-      "age": 23,
-      "value": 36710526
+      "rating": 73,
+      "age": 33,
+      "value": 24205263
     },
     {
-      "name": "Thabo Ellis",
+      "name": "Jermaine Berry",
       "position": "FW",
-      "rating": 78,
-      "age": 21,
-      "value": 40000000
+      "rating": 62,
+      "age": 19,
+      "value": 34263157
     },
     {
-      "name": "Joel Palacios",
+      "name": "Cyrus Jung",
       "position": "FW",
       "rating": 82,
-      "age": 20,
-      "value": 40000000
+      "age": 26,
+      "value": 36252631
     }
   ],
   "stadium": {

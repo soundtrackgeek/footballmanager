@@ -2,144 +2,144 @@
   "name": "Fulham",
   "squad": [
     {
-      "name": "Bruno Umar",
+      "name": "Chike Benson",
+      "position": "GK",
+      "rating": 85,
+      "age": 18,
+      "value": 25768421
+    },
+    {
+      "name": "Charles Scott",
+      "position": "GK",
+      "rating": 86,
+      "age": 18,
+      "value": 26071578
+    },
+    {
+      "name": "Marlon Gray",
       "position": "GK",
       "rating": 73,
-      "age": 27,
-      "value": 16597894
+      "age": 33,
+      "value": 12909473
     },
     {
-      "name": "Amir Gray",
-      "position": "GK",
-      "rating": 89,
-      "age": 19,
-      "value": 26231578
-    },
-    {
-      "name": "Ignacio Wood",
-      "position": "GK",
-      "rating": 87,
-      "age": 26,
-      "value": 20513684
-    },
-    {
-      "name": "Benny Cohen",
+      "name": "Kris Palmer",
       "position": "DF",
-      "rating": 71,
-      "age": 34,
-      "value": 14947368
-    },
-    {
-      "name": "Marlon Sharp",
-      "position": "DF",
-      "rating": 90,
-      "age": 24,
-      "value": 28421052
-    },
-    {
-      "name": "Rohan Nilsen",
-      "position": "DF",
-      "rating": 60,
-      "age": 24,
-      "value": 18947368
-    },
-    {
-      "name": "Axel Holmes",
-      "position": "DF",
-      "rating": 75,
-      "age": 26,
-      "value": 22105263
-    },
-    {
-      "name": "Karl Norberg",
-      "position": "DF",
-      "rating": 88,
-      "age": 24,
-      "value": 27789473
-    },
-    {
-      "name": "Soren Olson",
-      "position": "DF",
-      "rating": 67,
-      "age": 30,
-      "value": 16926315
-    },
-    {
-      "name": "Esteban Richards",
-      "position": "MF",
-      "rating": 79,
-      "age": 34,
-      "value": 19957894
-    },
-    {
-      "name": "Harley Pena",
-      "position": "MF",
       "rating": 63,
-      "age": 21,
-      "value": 26261052
+      "age": 26,
+      "value": 18568421
     },
     {
-      "name": "George Reyes",
+      "name": "Roland Sharma",
+      "position": "DF",
+      "rating": 66,
+      "age": 23,
+      "value": 21536842
+    },
+    {
+      "name": "Johannes Medina",
+      "position": "DF",
+      "rating": 85,
+      "age": 34,
+      "value": 17894736
+    },
+    {
+      "name": "Stefan Fletcher",
+      "position": "DF",
+      "rating": 74,
+      "age": 16,
+      "value": 29600000
+    },
+    {
+      "name": "Chad Henry",
+      "position": "DF",
+      "rating": 89,
+      "age": 23,
+      "value": 29042105
+    },
+    {
+      "name": "Troy Shaw",
+      "position": "DF",
+      "rating": 69,
+      "age": 27,
+      "value": 19610526
+    },
+    {
+      "name": "Damon Njoroge",
       "position": "MF",
-      "rating": 83,
-      "age": 19,
-      "value": 36694736
+      "rating": 64,
+      "age": 26,
+      "value": 22635789
     },
     {
-      "name": "Thiago Rivera",
+      "name": "Mathias Griffin",
       "position": "MF",
       "rating": 75,
-      "age": 21,
+      "age": 27,
+      "value": 25578947
+    },
+    {
+      "name": "Russell Benson",
+      "position": "MF",
+      "rating": 75,
+      "age": 28,
+      "value": 24631578
+    },
+    {
+      "name": "Rogelio Han",
+      "position": "MF",
+      "rating": 81,
+      "age": 35,
+      "value": 19440000
+    },
+    {
+      "name": "Damien Abiola",
+      "position": "MF",
+      "rating": 76,
+      "age": 26,
+      "value": 26880000
+    },
+    {
+      "name": "Mason Chen",
+      "position": "MF",
+      "rating": 70,
+      "age": 32,
+      "value": 19452631
+    },
+    {
+      "name": "Hassan Hart",
+      "position": "FW",
+      "rating": 87,
+      "age": 31,
+      "value": 31594736
+    },
+    {
+      "name": "Daichi Gonzales",
+      "position": "FW",
+      "rating": 66,
+      "age": 24,
       "value": 31263157
     },
     {
-      "name": "Einar Palmer",
-      "position": "MF",
-      "rating": 84,
-      "age": 26,
-      "value": 29709473
-    },
-    {
-      "name": "Kyler Cooper",
-      "position": "MF",
-      "rating": 73,
-      "age": 29,
-      "value": 23052631
-    },
-    {
-      "name": "Adeola Reyes",
+      "name": "Waylon Campbell",
       "position": "FW",
-      "rating": 83,
+      "rating": 86,
       "age": 20,
       "value": 40000000
     },
     {
-      "name": "Oscar Haynes",
+      "name": "Uriah Campbell",
       "position": "FW",
-      "rating": 90,
+      "rating": 88,
+      "age": 22,
+      "value": 40000000
+    },
+    {
+      "name": "Trenton Su\u00e1rez",
+      "position": "FW",
+      "rating": 70,
       "age": 16,
       "value": 40000000
-    },
-    {
-      "name": "Aziz Kim",
-      "position": "FW",
-      "rating": 90,
-      "age": 23,
-      "value": 40000000
-    },
-    {
-      "name": "Jonathan Han",
-      "position": "FW",
-      "rating": 63,
-      "age": 24,
-      "value": 29842105
-    },
-    {
-      "name": "Caleb Hart",
-      "position": "FW",
-      "rating": 78,
-      "age": 33,
-      "value": 25863157
     }
   ],
   "stadium": {

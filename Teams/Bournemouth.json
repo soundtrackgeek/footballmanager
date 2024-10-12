@@ -2,144 +2,144 @@
   "name": "Bournemouth",
   "squad": [
     {
-      "name": "Ji-hoon Hansen",
+      "name": "Dashiell Fowler",
       "position": "GK",
-      "rating": 82,
-      "age": 26,
-      "value": 19334736
+      "rating": 78,
+      "age": 30,
+      "value": 15764210
     },
     {
-      "name": "Quinn Bradshaw",
+      "name": "Masashi Gomez",
       "position": "GK",
-      "rating": 66,
-      "age": 34,
-      "value": 11115789
+      "rating": 61,
+      "age": 30,
+      "value": 12328421
     },
     {
-      "name": "Kolby Murphy",
+      "name": "Hector Parker",
       "position": "GK",
-      "rating": 85,
-      "age": 31,
-      "value": 16463157
+      "rating": 60,
+      "age": 17,
+      "value": 18694736
     },
     {
-      "name": "Anders Martinez",
+      "name": "Emil Howard",
       "position": "DF",
-      "rating": 80,
-      "age": 29,
-      "value": 21052631
+      "rating": 82,
+      "age": 33,
+      "value": 18126315
     },
     {
-      "name": "Lucas Bryant",
+      "name": "Jack Diaz",
       "position": "DF",
       "rating": 83,
-      "age": 23,
-      "value": 27084210
-    },
-    {
-      "name": "Andres Ekwueme",
-      "position": "DF",
-      "rating": 70,
-      "age": 17,
-      "value": 27263157
-    },
-    {
-      "name": "Ricardo Kim",
-      "position": "DF",
-      "rating": 76,
-      "age": 17,
-      "value": 29600000
-    },
-    {
-      "name": "Bryce Chen",
-      "position": "DF",
-      "rating": 86,
-      "age": 33,
-      "value": 19010526
-    },
-    {
-      "name": "Bryson Shaw",
-      "position": "DF",
-      "rating": 67,
-      "age": 17,
-      "value": 26094736
-    },
-    {
-      "name": "Nkosinathi Zhang",
-      "position": "MF",
-      "rating": 77,
-      "age": 18,
-      "value": 35014736
-    },
-    {
-      "name": "Haruki Price",
-      "position": "MF",
-      "rating": 68,
       "age": 21,
-      "value": 28345263
+      "value": 28831578
     },
     {
-      "name": "Lucas Medina",
-      "position": "MF",
-      "rating": 62,
+      "name": "Marlon Garza",
+      "position": "DF",
+      "rating": 83,
+      "age": 16,
+      "value": 33200000
+    },
+    {
+      "name": "Leonardo Henderson",
+      "position": "DF",
+      "rating": 75,
+      "age": 26,
+      "value": 22105263
+    },
+    {
+      "name": "Sam Reed",
+      "position": "DF",
+      "rating": 61,
+      "age": 34,
+      "value": 12842105
+    },
+    {
+      "name": "Victor Coleman",
+      "position": "DF",
+      "rating": 75,
       "age": 28,
-      "value": 20362105
+      "value": 20526315
     },
     {
-      "name": "Zayden Murphy",
+      "name": "Mat\u00edas Peters",
       "position": "MF",
-      "rating": 66,
-      "age": 27,
-      "value": 22509473
+      "rating": 71,
+      "age": 29,
+      "value": 22421052
     },
     {
-      "name": "Aiden Kwamena",
+      "name": "Antonio Holt",
       "position": "MF",
-      "rating": 90,
-      "age": 22,
-      "value": 36378947
-    },
-    {
-      "name": "Curtis Banks",
-      "position": "MF",
-      "rating": 66,
-      "age": 33,
-      "value": 17507368
-    },
-    {
-      "name": "Robert Watson",
-      "position": "FW",
-      "rating": 74,
-      "age": 20,
-      "value": 39726315
-    },
-    {
-      "name": "Gunnar Reyes",
-      "position": "FW",
-      "rating": 86,
-      "age": 30,
-      "value": 32589473
-    },
-    {
-      "name": "Robert Franklin",
-      "position": "FW",
       "rating": 64,
-      "age": 24,
-      "value": 30315789
+      "age": 17,
+      "value": 29911578
     },
     {
-      "name": "Frederick Hamilton",
+      "name": "Leo J\u00f8rgensen",
+      "position": "MF",
+      "rating": 72,
+      "age": 23,
+      "value": 28193684
+    },
+    {
+      "name": "Robert Castillo",
+      "position": "MF",
+      "rating": 82,
+      "age": 33,
+      "value": 21751578
+    },
+    {
+      "name": "Guy Baker",
+      "position": "MF",
+      "rating": 73,
+      "age": 32,
+      "value": 20286315
+    },
+    {
+      "name": "Roy Griffin",
+      "position": "MF",
+      "rating": 75,
+      "age": 34,
+      "value": 18947368
+    },
+    {
+      "name": "Jaden Palacios",
+      "position": "FW",
+      "rating": 82,
+      "age": 23,
+      "value": 40000000
+    },
+    {
+      "name": "Carlos Marshall",
       "position": "FW",
       "rating": 73,
-      "age": 27,
-      "value": 31121052
+      "age": 35,
+      "value": 21900000
     },
     {
-      "name": "Javier Watkins",
+      "name": "David Edwards",
       "position": "FW",
-      "rating": 69,
+      "rating": 72,
+      "age": 34,
+      "value": 22736842
+    },
+    {
+      "name": "Logan Olson",
+      "position": "FW",
+      "rating": 84,
       "age": 21,
-      "value": 35952631
+      "value": 40000000
+    },
+    {
+      "name": "Isak Olofsson",
+      "position": "FW",
+      "rating": 71,
+      "age": 29,
+      "value": 28026315
     }
   ],
   "stadium": {

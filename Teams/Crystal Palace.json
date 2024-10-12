@@ -2,144 +2,144 @@
   "name": "Crystal Palace",
   "squad": [
     {
-      "name": "August Franklin",
+      "name": "Drew Baker",
       "position": "GK",
-      "rating": 71,
-      "age": 16,
-      "value": 22720000
+      "rating": 81,
+      "age": 26,
+      "value": 19098947
     },
     {
-      "name": "Oliver Allen",
+      "name": "Tony Peters",
       "position": "GK",
-      "rating": 70,
-      "age": 21,
-      "value": 19452631
+      "rating": 76,
+      "age": 29,
+      "value": 16000000
     },
     {
-      "name": "Kwabena Hamilton",
+      "name": "Pablo Bennett",
       "position": "GK",
-      "rating": 68,
-      "age": 25,
-      "value": 16606315
+      "rating": 78,
+      "age": 22,
+      "value": 21018947
     },
     {
-      "name": "Anton Beck",
+      "name": "Ibrahim Reyes",
       "position": "DF",
-      "rating": 73,
-      "age": 17,
-      "value": 28431578
+      "rating": 69,
+      "age": 19,
+      "value": 25421052
     },
     {
-      "name": "John Ekwueme",
+      "name": "Sebastian Morrison",
       "position": "DF",
       "rating": 63,
+      "age": 19,
+      "value": 23210526
+    },
+    {
+      "name": "Kenneth Henry",
+      "position": "DF",
+      "rating": 78,
+      "age": 32,
+      "value": 18063157
+    },
+    {
+      "name": "George S\u00f6derberg",
+      "position": "DF",
+      "rating": 77,
+      "age": 35,
+      "value": 15400000
+    },
+    {
+      "name": "Cael Little",
+      "position": "DF",
+      "rating": 62,
       "age": 28,
-      "value": 17242105
+      "value": 16968421
     },
     {
-      "name": "Bjorn Cohen",
+      "name": "Kenny Peters",
       "position": "DF",
-      "rating": 66,
-      "age": 29,
-      "value": 17368421
+      "rating": 79,
+      "age": 35,
+      "value": 15800000
     },
     {
-      "name": "Lucas Shaw",
-      "position": "DF",
-      "rating": 85,
-      "age": 20,
-      "value": 30421052
-    },
-    {
-      "name": "Gabriel Fisher",
-      "position": "DF",
+      "name": "Allen Reyes",
+      "position": "MF",
       "rating": 83,
       "age": 26,
-      "value": 24463157
+      "value": 29355789
     },
     {
-      "name": "Milton Allen",
-      "position": "DF",
-      "rating": 71,
-      "age": 28,
-      "value": 19431578
-    },
-    {
-      "name": "Oluwafemi Ramirez",
-      "position": "MF",
-      "rating": 69,
-      "age": 35,
-      "value": 16560000
-    },
-    {
-      "name": "Ling Eriksson",
-      "position": "MF",
-      "rating": 66,
-      "age": 30,
-      "value": 20008421
-    },
-    {
-      "name": "Richard Ortiz",
+      "name": "Jiro Rodr\u00edguez",
       "position": "MF",
       "rating": 82,
-      "age": 34,
-      "value": 20715789
+      "age": 28,
+      "value": 26930526
     },
     {
-      "name": "Waylon Su\u00e1rez",
+      "name": "Noah Hansen",
       "position": "MF",
-      "rating": 73,
-      "age": 34,
-      "value": 18442105
-    },
-    {
-      "name": "Isaac Baker",
-      "position": "MF",
-      "rating": 63,
-      "age": 16,
-      "value": 30240000
-    },
-    {
-      "name": "Nnamdi Smith",
-      "position": "MF",
-      "rating": 85,
+      "rating": 66,
       "age": 32,
-      "value": 23621052
+      "value": 18341052
     },
     {
-      "name": "Anton Scott",
+      "name": "Jonathan Morgan",
+      "position": "MF",
+      "rating": 65,
+      "age": 24,
+      "value": 24631578
+    },
+    {
+      "name": "Mat\u00edas Lindholm",
+      "position": "MF",
+      "rating": 82,
+      "age": 17,
+      "value": 38324210
+    },
+    {
+      "name": "Stanley Hassan",
+      "position": "MF",
+      "rating": 66,
+      "age": 16,
+      "value": 31680000
+    },
+    {
+      "name": "River Gustavsson",
+      "position": "FW",
+      "rating": 85,
+      "age": 19,
+      "value": 40000000
+    },
+    {
+      "name": "Kwame Ramsey",
+      "position": "FW",
+      "rating": 61,
+      "age": 25,
+      "value": 27931578
+    },
+    {
+      "name": "Dylan Henderson",
+      "position": "FW",
+      "rating": 88,
+      "age": 31,
+      "value": 31957894
+    },
+    {
+      "name": "Curtis Zhu",
+      "position": "FW",
+      "rating": 63,
+      "age": 29,
+      "value": 24868421
+    },
+    {
+      "name": "Joaquin Hart",
       "position": "FW",
       "rating": 77,
-      "age": 32,
-      "value": 26747368
-    },
-    {
-      "name": "Nicholas Toure",
-      "position": "FW",
-      "rating": 66,
-      "age": 30,
-      "value": 25010526
-    },
-    {
-      "name": "Gage Jansen",
-      "position": "FW",
-      "rating": 72,
-      "age": 32,
-      "value": 25010526
-    },
-    {
-      "name": "Henry Green",
-      "position": "FW",
-      "rating": 66,
-      "age": 16,
-      "value": 39600000
-    },
-    {
-      "name": "Joaquin Rasmussen",
-      "position": "FW",
-      "rating": 81,
-      "age": 33,
-      "value": 26857894
+      "age": 25,
+      "value": 35257894
     }
   ],
   "stadium": {

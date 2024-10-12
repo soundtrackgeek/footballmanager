@@ -130,6 +130,38 @@ def simulate_user_match(home_team, away_team):
     print(f"\n{Fore.GREEN}Full-time: {home_team.name} {home_goals} - {away_goals} {away_team.name}{Style.RESET_ALL}")
     return home_goals, away_goals, home_scorers, away_scorers
 
+def ensure_full_team(team):
+    if len(team.selected_players) < 11:
+        print(f"{team.name} doesn't have a full team selected. Selecting additional players...")
+        available_players = [p for p in team.squad if p not in team.selected_players]
+        
+        while len(team.selected_players) < 11 and available_players:
+            needed_position = get_needed_position(team.selected_players)
+            suitable_players = [p for p in available_players if p.position == needed_position]
+            
+            if suitable_players:
+                selected_player = max(suitable_players, key=lambda p: p.rating)
+            else:
+                selected_player = max(available_players, key=lambda p: p.rating)
+            
+            team.selected_players.append(selected_player)
+            available_players.remove(selected_player)
+            print(f"Added {selected_player.name} ({selected_player.position.name}) to the team.")
+
+def get_needed_position(selected_players):
+    position_counts = {Position.GK: 0, Position.DF: 0, Position.MF: 0, Position.FW: 0}
+    for player in selected_players:
+        position_counts[player.position] += 1
+    
+    if position_counts[Position.GK] < 1:
+        return Position.GK
+    elif position_counts[Position.DF] < 4:
+        return Position.DF
+    elif position_counts[Position.MF] < 4:
+        return Position.MF
+    else:
+        return Position.FW
+
 def play_week(fixtures, table, current_week, player_team):
     week_fixtures = fixtures[current_week - 1]["matches"]
     print(f"\nWeek {current_week} Results:")
@@ -146,16 +178,20 @@ def play_week(fixtures, table, current_week, player_team):
         home_team.handle_injuries()
         away_team.handle_injuries()
 
-        # Auto-select team for AI-controlled teams
+        # Ensure full team for AI-controlled teams
         if home_team != player_team:
             auto_select_team(home_team)
+            ensure_full_team(home_team)
         if away_team != player_team:
             auto_select_team(away_team)
+            ensure_full_team(away_team)
 
         # Handle player's team selection
         if home_team == player_team or away_team == player_team:
-            if not player_team.selected_players:
+            if not player_team.selected_players or len(player_team.selected_players) < 11:
+                print("You need to select a full team of 11 players.")
                 select_team(player_team)
+                ensure_full_team(player_team)
 
         # Simulate the match
         if home_team == player_team or away_team == player_team:

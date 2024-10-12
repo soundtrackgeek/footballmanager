@@ -2,144 +2,144 @@
   "name": "Sheffield United",
   "squad": [
     {
-      "name": "Noel Price",
+      "name": "Rene Franklin",
+      "position": "GK",
+      "rating": 77,
+      "age": 33,
+      "value": 13616842
+    },
+    {
+      "name": "Hayden Shaw",
+      "position": "GK",
+      "rating": 63,
+      "age": 16,
+      "value": 20160000
+    },
+    {
+      "name": "Hank Morgan",
       "position": "GK",
       "rating": 73,
-      "age": 22,
-      "value": 19671578
-    },
-    {
-      "name": "Bradley Nguyen",
-      "position": "GK",
-      "rating": 70,
-      "age": 31,
-      "value": 13557894
-    },
-    {
-      "name": "Alvin Joseph",
-      "position": "GK",
-      "rating": 85,
       "age": 32,
-      "value": 15747368
+      "value": 13524210
     },
     {
-      "name": "Uriah Wheeler",
+      "name": "Wei-Lun Long",
       "position": "DF",
-      "rating": 60,
-      "age": 31,
-      "value": 14526315
-    },
-    {
-      "name": "Kwabena Scott",
-      "position": "DF",
-      "rating": 67,
-      "age": 20,
-      "value": 23978947
-    },
-    {
-      "name": "Axel Romero",
-      "position": "DF",
-      "rating": 70,
-      "age": 19,
-      "value": 25789473
-    },
-    {
-      "name": "Andreas Joseph",
-      "position": "DF",
-      "rating": 86,
-      "age": 34,
-      "value": 18105263
-    },
-    {
-      "name": "Tony Jansen",
-      "position": "DF",
-      "rating": 64,
-      "age": 16,
-      "value": 25600000
-    },
-    {
-      "name": "Craig Toure",
-      "position": "DF",
-      "rating": 62,
-      "age": 33,
-      "value": 13705263
-    },
-    {
-      "name": "Travis Gonzalez",
-      "position": "MF",
-      "rating": 80,
-      "age": 33,
-      "value": 21221052
-    },
-    {
-      "name": "Tyler Vestergaard",
-      "position": "MF",
-      "rating": 71,
-      "age": 30,
-      "value": 21524210
-    },
-    {
-      "name": "Bradley Bell",
-      "position": "MF",
-      "rating": 70,
-      "age": 27,
+      "rating": 81,
+      "age": 26,
       "value": 23873684
     },
     {
-      "name": "Lars Palmer",
-      "position": "MF",
-      "rating": 74,
+      "name": "Raj Morales",
+      "position": "DF",
+      "rating": 86,
       "age": 28,
-      "value": 24303157
+      "value": 23536842
     },
     {
-      "name": "Joaquin Dahl",
+      "name": "Wesley Henriksen",
+      "position": "DF",
+      "rating": 70,
+      "age": 28,
+      "value": 19157894
+    },
+    {
+      "name": "Liang Flores",
+      "position": "DF",
+      "rating": 80,
+      "age": 16,
+      "value": 32000000
+    },
+    {
+      "name": "Lewis Wang",
+      "position": "DF",
+      "rating": 74,
+      "age": 25,
+      "value": 22589473
+    },
+    {
+      "name": "Rory Holland",
+      "position": "DF",
+      "rating": 63,
+      "age": 22,
+      "value": 21221052
+    },
+    {
+      "name": "Levi Mwangi",
       "position": "MF",
-      "rating": 79,
-      "age": 30,
-      "value": 23949473
+      "rating": 67,
+      "age": 16,
+      "value": 32160000
     },
     {
-      "name": "Milton Hill",
+      "name": "Babatunde Barnes",
       "position": "MF",
-      "rating": 66,
-      "age": 21,
-      "value": 27511578
+      "rating": 68,
+      "age": 26,
+      "value": 24050526
     },
     {
-      "name": "Kelly Morgan",
-      "position": "FW",
-      "rating": 62,
+      "name": "Carter Liu",
+      "position": "MF",
+      "rating": 60,
+      "age": 25,
+      "value": 21978947
+    },
+    {
+      "name": "Ross Stokes",
+      "position": "MF",
+      "rating": 69,
       "age": 33,
-      "value": 20557894
+      "value": 18303157
     },
     {
-      "name": "Arthur Cox",
+      "name": "Noel Rogers",
+      "position": "MF",
+      "rating": 61,
+      "age": 18,
+      "value": 27738947
+    },
+    {
+      "name": "Harold Gonzales",
+      "position": "MF",
+      "rating": 89,
+      "age": 34,
+      "value": 22484210
+    },
+    {
+      "name": "Nkosinathi Fletcher",
+      "position": "FW",
+      "rating": 63,
+      "age": 28,
+      "value": 25863157
+    },
+    {
+      "name": "Sage Barnett",
+      "position": "FW",
+      "rating": 69,
+      "age": 20,
+      "value": 37042105
+    },
+    {
+      "name": "Josiah Murphy",
+      "position": "FW",
+      "rating": 89,
+      "age": 35,
+      "value": 26700000
+    },
+    {
+      "name": "Bart Ciss\u00e9",
       "position": "FW",
       "rating": 63,
       "age": 34,
       "value": 19894736
     },
     {
-      "name": "Mateo Rivera",
+      "name": "Douglas Olson",
       "position": "FW",
-      "rating": 64,
-      "age": 32,
-      "value": 22231578
-    },
-    {
-      "name": "Alex Larsen",
-      "position": "FW",
-      "rating": 87,
-      "age": 32,
-      "value": 30221052
-    },
-    {
-      "name": "Zane Patel",
-      "position": "FW",
-      "rating": 78,
-      "age": 25,
-      "value": 35715789
+      "rating": 75,
+      "age": 35,
+      "value": 22500000
     }
   ],
   "stadium": {

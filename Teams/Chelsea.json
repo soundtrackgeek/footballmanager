@@ -2,144 +2,144 @@
   "name": "Chelsea",
   "squad": [
     {
-      "name": "Devin Dlamini",
+      "name": "Larry Murray",
       "position": "GK",
-      "rating": 78,
+      "rating": 71,
       "age": 22,
-      "value": 21018947
+      "value": 19132631
     },
     {
-      "name": "Lewis Gray",
+      "name": "Alvin Jenkins",
       "position": "GK",
-      "rating": 81,
-      "age": 21,
-      "value": 22509473
+      "rating": 84,
+      "age": 28,
+      "value": 18391578
     },
     {
-      "name": "Chidi Bradley",
+      "name": "Marvin Lim",
       "position": "GK",
-      "rating": 77,
-      "age": 27,
-      "value": 17507368
-    },
-    {
-      "name": "Satoshi Brooks",
-      "position": "DF",
-      "rating": 82,
+      "rating": 63,
       "age": 33,
-      "value": 18126315
+      "value": 11141052
     },
     {
-      "name": "Zachary Xolani",
+      "name": "Rogelio  Taylor",
       "position": "DF",
-      "rating": 61,
-      "age": 29,
-      "value": 16052631
+      "rating": 67,
+      "age": 22,
+      "value": 22568421
     },
     {
-      "name": "Bo Barnes",
-      "position": "DF",
-      "rating": 89,
-      "age": 31,
-      "value": 21547368
-    },
-    {
-      "name": "Christian Palmer",
+      "name": "Kyle Sato",
       "position": "DF",
       "rating": 60,
-      "age": 33,
-      "value": 13263157
+      "age": 16,
+      "value": 24000000
     },
     {
-      "name": "Spencer Oliver",
+      "name": "Sage Cruz",
       "position": "DF",
-      "rating": 71,
-      "age": 24,
-      "value": 22421052
+      "rating": 89,
+      "age": 30,
+      "value": 22484210
     },
     {
-      "name": "Zayden Morris",
+      "name": "David Dixon",
+      "position": "DF",
+      "rating": 89,
+      "age": 22,
+      "value": 29978947
+    },
+    {
+      "name": "Shin Simmons",
       "position": "DF",
       "rating": 79,
-      "age": 16,
-      "value": 31600000
+      "age": 18,
+      "value": 29936842
     },
     {
-      "name": "Lyle Hunt",
+      "name": "Ibrahim Russell",
+      "position": "DF",
+      "rating": 82,
+      "age": 17,
+      "value": 31936842
+    },
+    {
+      "name": "Daisuke Page",
       "position": "MF",
-      "rating": 84,
-      "age": 24,
-      "value": 31831578
+      "rating": 86,
+      "age": 26,
+      "value": 30416842
     },
     {
-      "name": "Daniel Grimes",
-      "position": "MF",
-      "rating": 73,
-      "age": 19,
-      "value": 32273684
-    },
-    {
-      "name": "Ezra Pepper",
+      "name": "Jonah Holland",
       "position": "MF",
       "rating": 64,
       "age": 31,
       "value": 18593684
     },
     {
-      "name": "Mohamed Richardson",
+      "name": "Quinn Ramsey",
       "position": "MF",
-      "rating": 70,
-      "age": 30,
-      "value": 21221052
+      "rating": 63,
+      "age": 23,
+      "value": 24669473
     },
     {
-      "name": "Garrett Reed",
+      "name": "Frank Arnold",
       "position": "MF",
-      "rating": 87,
-      "age": 25,
-      "value": 31869473
+      "rating": 76,
+      "age": 32,
+      "value": 21120000
     },
     {
-      "name": "Cael Jansen",
+      "name": "Tyler Hassan",
       "position": "MF",
       "rating": 70,
       "age": 21,
       "value": 29178947
     },
     {
-      "name": "Nehemiah Reid",
-      "position": "FW",
-      "rating": 84,
-      "age": 28,
-      "value": 34484210
+      "name": "Christian Manning",
+      "position": "MF",
+      "rating": 71,
+      "age": 20,
+      "value": 30492631
     },
     {
-      "name": "Jermaine Hughes",
+      "name": "Sanjay Rogers",
       "position": "FW",
       "rating": 74,
-      "age": 33,
-      "value": 24536842
+      "age": 32,
+      "value": 25705263
     },
     {
-      "name": "Andy Mills",
+      "name": "Yuki Patel",
       "position": "FW",
-      "rating": 72,
-      "age": 30,
-      "value": 27284210
+      "rating": 68,
+      "age": 35,
+      "value": 20400000
     },
     {
-      "name": "Christopher Hamilton",
+      "name": "Gustavo Watkins",
       "position": "FW",
-      "rating": 80,
-      "age": 17,
-      "value": 40000000
+      "rating": 68,
+      "age": 20,
+      "value": 36505263
     },
     {
-      "name": "Soren Flores",
+      "name": "Zuberi Ross",
       "position": "FW",
-      "rating": 61,
-      "age": 30,
-      "value": 23115789
+      "rating": 65,
+      "age": 35,
+      "value": 19500000
+    },
+    {
+      "name": "Carlos Silva",
+      "position": "FW",
+      "rating": 89,
+      "age": 31,
+      "value": 32321052
     }
   ],
   "stadium": {

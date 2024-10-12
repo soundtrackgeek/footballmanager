@@ -2,144 +2,144 @@
   "name": "West Ham",
   "squad": [
     {
-      "name": "Jayson Fields",
-      "position": "GK",
-      "rating": 67,
-      "age": 18,
-      "value": 20311578
-    },
-    {
-      "name": "Garrett Mason",
+      "name": "Cristian Valencia",
       "position": "GK",
       "rating": 76,
-      "age": 17,
-      "value": 23680000
-    },
-    {
-      "name": "Griffin Nielsen",
-      "position": "GK",
-      "rating": 72,
-      "age": 35,
-      "value": 11520000
-    },
-    {
-      "name": "Anders Long",
-      "position": "DF",
-      "rating": 87,
-      "age": 18,
-      "value": 32968421
-    },
-    {
-      "name": "Graham Mikkelsen",
-      "position": "DF",
-      "rating": 62,
-      "age": 21,
-      "value": 21536842
-    },
-    {
-      "name": "Frederick Medina",
-      "position": "DF",
-      "rating": 66,
       "age": 26,
-      "value": 19452631
+      "value": 17920000
     },
     {
-      "name": "Grant Barnes",
+      "name": "Guillermo Scott",
+      "position": "GK",
+      "rating": 61,
+      "age": 23,
+      "value": 15924210
+    },
+    {
+      "name": "Elias Long",
+      "position": "GK",
+      "rating": 78,
+      "age": 18,
+      "value": 23646315
+    },
+    {
+      "name": "Ekon Coleman",
       "position": "DF",
-      "rating": 70,
-      "age": 27,
+      "rating": 68,
+      "age": 20,
+      "value": 24336842
+    },
+    {
+      "name": "Tyler Evans",
+      "position": "DF",
+      "rating": 88,
+      "age": 21,
+      "value": 30568421
+    },
+    {
+      "name": "Anthony Hadj",
+      "position": "DF",
+      "rating": 82,
+      "age": 28,
+      "value": 22442105
+    },
+    {
+      "name": "Riley Nkosi",
+      "position": "DF",
+      "rating": 76,
+      "age": 34,
+      "value": 16000000
+    },
+    {
+      "name": "Brody Jimenez",
+      "position": "DF",
+      "rating": 65,
+      "age": 26,
+      "value": 19157894
+    },
+    {
+      "name": "Jos\u00e9 Fuller",
+      "position": "DF",
+      "rating": 63,
+      "age": 24,
       "value": 19894736
     },
     {
-      "name": "Dustin Bailey",
-      "position": "DF",
-      "rating": 70,
-      "age": 32,
-      "value": 16210526
-    },
-    {
-      "name": "Kenta Freeman",
-      "position": "DF",
-      "rating": 78,
-      "age": 17,
-      "value": 30378947
-    },
-    {
-      "name": "Louis Mwangi",
+      "name": "Jordan Abebe",
       "position": "MF",
-      "rating": 76,
-      "age": 20,
-      "value": 32640000
-    },
-    {
-      "name": "Sam Zamani",
-      "position": "MF",
-      "rating": 90,
-      "age": 35,
-      "value": 21600000
-    },
-    {
-      "name": "Cecil Hughes",
-      "position": "MF",
-      "rating": 89,
-      "age": 25,
-      "value": 32602105
-    },
-    {
-      "name": "Harry Allen",
-      "position": "MF",
-      "rating": 69,
-      "age": 35,
-      "value": 16560000
-    },
-    {
-      "name": "Ekon Berglund",
-      "position": "MF",
-      "rating": 67,
-      "age": 33,
-      "value": 17772631
-    },
-    {
-      "name": "Lukas Mikkelsen",
-      "position": "MF",
-      "rating": 78,
-      "age": 16,
-      "value": 37440000
-    },
-    {
-      "name": "Kwame Njoroge",
-      "position": "FW",
-      "rating": 64,
+      "rating": 87,
       "age": 23,
-      "value": 31326315
+      "value": 34067368
     },
     {
-      "name": "Tom\u00e1s Gustavsson",
-      "position": "FW",
-      "rating": 89,
-      "age": 21,
+      "name": "Carter Ramirez",
+      "position": "MF",
+      "rating": 66,
+      "age": 23,
+      "value": 25844210
+    },
+    {
+      "name": "Yuto Hughes",
+      "position": "MF",
+      "rating": 80,
+      "age": 25,
+      "value": 29305263
+    },
+    {
+      "name": "Victor Holland",
+      "position": "MF",
+      "rating": 63,
+      "age": 35,
+      "value": 15120000
+    },
+    {
+      "name": "Larry Dlamini",
+      "position": "MF",
+      "rating": 87,
+      "age": 34,
+      "value": 21978947
+    },
+    {
+      "name": "Pedro Reyes",
+      "position": "MF",
+      "rating": 85,
+      "age": 16,
       "value": 40000000
     },
     {
-      "name": "Xavier Dean",
+      "name": "Wei-Lun Hart",
       "position": "FW",
-      "rating": 79,
-      "age": 26,
-      "value": 34926315
+      "rating": 80,
+      "age": 23,
+      "value": 39157894
     },
     {
-      "name": "Gabriel Flores",
+      "name": "Roberto Gomez",
       "position": "FW",
-      "rating": 61,
-      "age": 31,
-      "value": 22152631
+      "rating": 72,
+      "age": 25,
+      "value": 32968421
     },
     {
-      "name": "Kobe Benjumea",
+      "name": "Quinn Hayes",
       "position": "FW",
-      "rating": 68,
-      "age": 19,
-      "value": 37578947
+      "rating": 64,
+      "age": 27,
+      "value": 27284210
+    },
+    {
+      "name": "Milton \u00c5kesson",
+      "position": "FW",
+      "rating": 63,
+      "age": 35,
+      "value": 18900000
+    },
+    {
+      "name": "John West",
+      "position": "FW",
+      "rating": 83,
+      "age": 33,
+      "value": 27521052
     }
   ],
   "stadium": {

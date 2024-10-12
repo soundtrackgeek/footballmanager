@@ -2,144 +2,144 @@
   "name": "Manchester United",
   "squad": [
     {
-      "name": "Alex Nielsen",
+      "name": "Noah Ellis",
       "position": "GK",
-      "rating": 61,
-      "age": 29,
-      "value": 12842105
+      "rating": 79,
+      "age": 25,
+      "value": 19292631
     },
     {
-      "name": "Clark Cohen",
+      "name": "Thomas Butler",
       "position": "GK",
-      "rating": 87,
-      "age": 28,
-      "value": 19048421
+      "rating": 81,
+      "age": 20,
+      "value": 23191578
     },
     {
-      "name": "Travis Rasmussen",
+      "name": "Felipe Howard",
       "position": "GK",
-      "rating": 61,
-      "age": 26,
-      "value": 14383157
+      "rating": 89,
+      "age": 17,
+      "value": 27730526
     },
     {
-      "name": "Adeola Berglund",
+      "name": "Angel Nguyen",
       "position": "DF",
-      "rating": 60,
-      "age": 28,
-      "value": 16421052
+      "rating": 74,
+      "age": 17,
+      "value": 28821052
     },
     {
-      "name": "Anil Sangare",
+      "name": "Derrick Gomes",
       "position": "DF",
-      "rating": 88,
+      "rating": 86,
+      "age": 28,
+      "value": 23536842
+    },
+    {
+      "name": "Olaf Sandberg",
+      "position": "DF",
+      "rating": 72,
+      "age": 28,
+      "value": 19705263
+    },
+    {
+      "name": "Elliot Newman",
+      "position": "DF",
+      "rating": 71,
       "age": 33,
-      "value": 19452631
+      "value": 15694736
     },
     {
-      "name": "Charles Sandstr\u00f6m",
+      "name": "Joel Reid",
       "position": "DF",
+      "rating": 75,
+      "age": 21,
+      "value": 26052631
+    },
+    {
+      "name": "Felipe Fields",
+      "position": "DF",
+      "rating": 85,
+      "age": 28,
+      "value": 23263157
+    },
+    {
+      "name": "Jarrett French",
+      "position": "MF",
       "rating": 66,
+      "age": 17,
+      "value": 30846315
+    },
+    {
+      "name": "Lyle Hansen",
+      "position": "MF",
+      "rating": 60,
       "age": 18,
+      "value": 27284210
+    },
+    {
+      "name": "Henry Hart",
+      "position": "MF",
+      "rating": 90,
+      "age": 32,
       "value": 25010526
     },
     {
-      "name": "Suraj Freeman",
-      "position": "DF",
-      "rating": 72,
-      "age": 32,
-      "value": 16673684
-    },
-    {
-      "name": "Terry Burke",
-      "position": "DF",
-      "rating": 83,
-      "age": 34,
-      "value": 17473684
-    },
-    {
-      "name": "Angelo Fredriksson",
-      "position": "DF",
-      "rating": 65,
-      "age": 32,
-      "value": 15052631
-    },
-    {
-      "name": "Jermaine Gray",
+      "name": "Aziz Watkins",
       "position": "MF",
-      "rating": 62,
-      "age": 20,
-      "value": 26627368
-    },
-    {
-      "name": "Ji-hoon Guerrero",
-      "position": "MF",
-      "rating": 64,
-      "age": 17,
-      "value": 29911578
-    },
-    {
-      "name": "Noel Fields",
-      "position": "MF",
-      "rating": 71,
-      "age": 22,
-      "value": 28698947
-    },
-    {
-      "name": "Min-jun Diaz",
-      "position": "MF",
-      "rating": 83,
-      "age": 33,
-      "value": 22016842
-    },
-    {
-      "name": "Pedro Coleman",
-      "position": "MF",
-      "rating": 68,
-      "age": 16,
-      "value": 32640000
-    },
-    {
-      "name": "Chad Simmons",
-      "position": "MF",
-      "rating": 86,
+      "rating": 60,
       "age": 18,
-      "value": 39107368
+      "value": 27284210
     },
     {
-      "name": "Isaiah Pena",
-      "position": "FW",
-      "rating": 89,
-      "age": 31,
-      "value": 32321052
+      "name": "Kolby Baldwin",
+      "position": "MF",
+      "rating": 74,
+      "age": 34,
+      "value": 18694736
     },
     {
-      "name": "Lee Stewart",
-      "position": "FW",
-      "rating": 78,
-      "age": 33,
-      "value": 25863157
+      "name": "Joaquin Burke",
+      "position": "MF",
+      "rating": 84,
+      "age": 29,
+      "value": 26526315
     },
     {
-      "name": "Kameron Franklin",
+      "name": "Garrett Jenkins",
       "position": "FW",
-      "rating": 90,
-      "age": 16,
-      "value": 40000000
-    },
-    {
-      "name": "Mauricio Desai",
-      "position": "FW",
-      "rating": 86,
+      "rating": 72,
       "age": 26,
-      "value": 38021052
+      "value": 31831578
     },
     {
-      "name": "Hank Lee",
+      "name": "Jamie Delgado",
       "position": "FW",
-      "rating": 79,
-      "age": 35,
-      "value": 23700000
+      "rating": 83,
+      "age": 27,
+      "value": 35384210
+    },
+    {
+      "name": "Kendall Stone",
+      "position": "FW",
+      "rating": 61,
+      "age": 25,
+      "value": 27931578
+    },
+    {
+      "name": "Kabelo Bergstrom",
+      "position": "FW",
+      "rating": 85,
+      "age": 32,
+      "value": 29526315
+    },
+    {
+      "name": "Roderick Howard",
+      "position": "FW",
+      "rating": 88,
+      "age": 17,
+      "value": 40000000
     }
   ],
   "stadium": {

@@ -2,144 +2,144 @@
   "name": "Everton",
   "squad": [
     {
-      "name": "Noel Ramirez",
-      "position": "GK",
-      "rating": 69,
-      "age": 22,
-      "value": 18593684
-    },
-    {
-      "name": "Tyrone Watts",
+      "name": "Soren Hansen",
       "position": "GK",
       "rating": 77,
-      "age": 35,
-      "value": 12320000
+      "age": 34,
+      "value": 12968421
     },
     {
-      "name": "Charlie Bennett",
+      "name": "Babatunde Brown",
       "position": "GK",
-      "rating": 76,
-      "age": 32,
-      "value": 14080000
+      "rating": 83,
+      "age": 23,
+      "value": 21667368
     },
     {
-      "name": "Kris Lewis",
-      "position": "DF",
-      "rating": 72,
+      "name": "Travis Mikkelsen",
+      "position": "GK",
+      "rating": 74,
       "age": 17,
-      "value": 28042105
+      "value": 23056842
     },
     {
-      "name": "Alejandro Webster",
+      "name": "Toshiro Parker",
       "position": "DF",
-      "rating": 76,
-      "age": 22,
-      "value": 25600000
+      "rating": 67,
+      "age": 16,
+      "value": 26800000
     },
     {
-      "name": "Oliver Joshi",
+      "name": "Jin Mason",
       "position": "DF",
-      "rating": 80,
-      "age": 19,
-      "value": 29473684
+      "rating": 62,
+      "age": 17,
+      "value": 24147368
     },
     {
-      "name": "Riley Mann",
+      "name": "Keita Hart",
       "position": "DF",
       "rating": 71,
-      "age": 21,
-      "value": 24663157
+      "age": 34,
+      "value": 14947368
     },
     {
-      "name": "Isaac Joshi",
+      "name": "Nathaniel Medina",
       "position": "DF",
-      "rating": 69,
-      "age": 16,
-      "value": 27600000
+      "rating": 66,
+      "age": 35,
+      "value": 13200000
     },
     {
-      "name": "Charlie Howard",
+      "name": "Magnus Verma",
       "position": "DF",
       "rating": 85,
-      "age": 22,
-      "value": 28631578
+      "age": 33,
+      "value": 18789473
     },
     {
-      "name": "Kwasi Hunt",
+      "name": "Sebastian Mori",
+      "position": "DF",
+      "rating": 80,
+      "age": 34,
+      "value": 16842105
+    },
+    {
+      "name": "Emiliano Pineda",
       "position": "MF",
-      "rating": 69,
+      "rating": 66,
       "age": 20,
-      "value": 29633684
+      "value": 28345263
     },
     {
-      "name": "Pedro Berg",
-      "position": "MF",
-      "rating": 67,
-      "age": 35,
-      "value": 16080000
-    },
-    {
-      "name": "Ronald Adams",
-      "position": "MF",
-      "rating": 68,
-      "age": 25,
-      "value": 24909473
-    },
-    {
-      "name": "Sunil Peterson",
-      "position": "MF",
-      "rating": 62,
-      "age": 24,
-      "value": 23494736
-    },
-    {
-      "name": "Marcos Hart",
+      "name": "Sebastian Tanaka",
       "position": "MF",
       "rating": 82,
-      "age": 20,
-      "value": 35216842
+      "age": 33,
+      "value": 21751578
     },
     {
-      "name": "Christian Lubega",
+      "name": "Ethan Cox",
       "position": "MF",
-      "rating": 74,
-      "age": 25,
-      "value": 27107368
+      "rating": 73,
+      "age": 20,
+      "value": 31351578
     },
     {
-      "name": "Roy Hamilton",
+      "name": "Taylor Flores",
+      "position": "MF",
+      "rating": 65,
+      "age": 16,
+      "value": 31200000
+    },
+    {
+      "name": "Paige \u00c5kesson",
+      "position": "MF",
+      "rating": 77,
+      "age": 31,
+      "value": 22370526
+    },
+    {
+      "name": "Travis Shaw",
+      "position": "MF",
+      "rating": 61,
+      "age": 20,
+      "value": 26197894
+    },
+    {
+      "name": "Uriah Larsson",
       "position": "FW",
       "rating": 61,
-      "age": 27,
-      "value": 26005263
+      "age": 33,
+      "value": 20226315
     },
     {
-      "name": "Aaron Jackson",
+      "name": "Desmond Griffin",
       "position": "FW",
-      "rating": 73,
-      "age": 30,
-      "value": 27663157
+      "rating": 79,
+      "age": 34,
+      "value": 24947368
     },
     {
-      "name": "Danny Howard",
+      "name": "Ricardo Murray",
       "position": "FW",
-      "rating": 80,
-      "age": 23,
-      "value": 39157894
+      "rating": 69,
+      "age": 21,
+      "value": 35952631
     },
     {
-      "name": "Daniel Morrison",
-      "position": "FW",
-      "rating": 82,
-      "age": 29,
-      "value": 32368421
-    },
-    {
-      "name": "Cameron Das",
+      "name": "Andres Sharp",
       "position": "FW",
       "rating": 68,
-      "age": 20,
-      "value": 36505263
+      "age": 24,
+      "value": 32210526
+    },
+    {
+      "name": "Terry Silva",
+      "position": "FW",
+      "rating": 81,
+      "age": 26,
+      "value": 35810526
     }
   ],
   "stadium": {

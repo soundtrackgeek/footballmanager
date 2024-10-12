@@ -172,22 +172,7 @@ def select_team(team):
         print("\nInjured players:")
         for injured_player in team.injured_players:
             print(f"{injured_player.name} - {injured_player.position.name} - Out for {injured_player.injury_weeks_left} weeks")
-            available_replacements = [p for p in team.squad if p.position == injured_player.position and not p.injured and p not in selected_players]
-            print("\nAvailable replacements:")
-            for i, player in enumerate(available_replacements, 1):
-                print(f"{i}. {player.name} - Rating: {player.rating} - Age: {player.age} - Value: £{player.value:,}")
-            
-            while True:
-                try:
-                    choice = int(input(f"Select replacement for {injured_player.name}: ")) - 1
-                    if 0 <= choice < len(available_replacements):
-                        selected_players.append(available_replacements[choice])
-                        break
-                    else:
-                        print("Invalid choice. Please try again.")
-                except ValueError:
-                    print("Please enter a valid number.")
-
+    
     # Select remaining players
     for position, count in required_positions.items():
         remaining_count = count - sum(1 for p in selected_players if p.position == position)

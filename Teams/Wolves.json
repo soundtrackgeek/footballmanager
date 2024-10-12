@@ -2,144 +2,144 @@
   "name": "Wolves",
   "squad": [
     {
-      "name": "Declan Zhu",
+      "name": "Marcos Warah",
       "position": "GK",
-      "rating": 70,
-      "age": 17,
-      "value": 21810526
+      "rating": 64,
+      "age": 18,
+      "value": 19402105
     },
     {
-      "name": "Elliot Perez",
-      "position": "GK",
-      "rating": 60,
-      "age": 20,
-      "value": 17178947
-    },
-    {
-      "name": "Yuto Powell",
+      "name": "Musa Stone",
       "position": "GK",
       "rating": 84,
-      "age": 34,
-      "value": 14147368
-    },
-    {
-      "name": "Javier Reid",
-      "position": "DF",
-      "rating": 87,
-      "age": 23,
-      "value": 28389473
-    },
-    {
-      "name": "Amir Bailey",
-      "position": "DF",
-      "rating": 63,
-      "age": 26,
-      "value": 18568421
-    },
-    {
-      "name": "Bao Watson",
-      "position": "DF",
-      "rating": 68,
       "age": 16,
-      "value": 27200000
+      "value": 26880000
     },
     {
-      "name": "Matthew Spencer",
-      "position": "DF",
-      "rating": 81,
-      "age": 20,
-      "value": 28989473
+      "name": "Adam Cook",
+      "position": "GK",
+      "rating": 85,
+      "age": 26,
+      "value": 20042105
     },
     {
-      "name": "Johan Akinyele",
+      "name": "Damon Baker",
       "position": "DF",
-      "rating": 67,
-      "age": 21,
-      "value": 23273684
+      "rating": 78,
+      "age": 33,
+      "value": 17242105
     },
     {
-      "name": "Mohammad Ellison",
+      "name": "Graham Hanson",
       "position": "DF",
-      "rating": 90,
+      "rating": 72,
+      "age": 34,
+      "value": 15157894
+    },
+    {
+      "name": "Griffin Park",
+      "position": "DF",
+      "rating": 83,
+      "age": 24,
+      "value": 26210526
+    },
+    {
+      "name": "Guy Hansen",
+      "position": "DF",
+      "rating": 83,
+      "age": 16,
+      "value": 33200000
+    },
+    {
+      "name": "Alonzo Franklin",
+      "position": "DF",
+      "rating": 62,
+      "age": 30,
+      "value": 15663157
+    },
+    {
+      "name": "Andre Kang",
+      "position": "DF",
+      "rating": 84,
+      "age": 32,
+      "value": 19452631
+    },
+    {
+      "name": "Gage Reyes",
+      "position": "MF",
+      "rating": 80,
+      "age": 16,
+      "value": 38400000
+    },
+    {
+      "name": "Hunter West",
+      "position": "MF",
+      "rating": 75,
       "age": 20,
       "value": 32210526
     },
     {
-      "name": "Juan Pablo Mori",
+      "name": "Quincy Larsen",
       "position": "MF",
-      "rating": 76,
-      "age": 35,
-      "value": 18240000
+      "rating": 65,
+      "age": 21,
+      "value": 27094736
     },
     {
-      "name": "Jean Rodr\u00edguez",
+      "name": "Rajesh Baker",
       "position": "MF",
-      "rating": 67,
-      "age": 30,
-      "value": 20311578
+      "rating": 73,
+      "age": 20,
+      "value": 31351578
     },
     {
-      "name": "Andr\u00e9s Xolani",
+      "name": "Jack Hamilton",
       "position": "MF",
-      "rating": 69,
-      "age": 17,
-      "value": 32248421
+      "rating": 61,
+      "age": 27,
+      "value": 20804210
     },
     {
-      "name": "Soren Lopez",
+      "name": "Isaac Fuller",
       "position": "MF",
-      "rating": 87,
-      "age": 18,
-      "value": 39562105
+      "rating": 77,
+      "age": 27,
+      "value": 26261052
     },
     {
-      "name": "Ping Cunningham",
-      "position": "MF",
-      "rating": 69,
-      "age": 28,
-      "value": 22661052
-    },
-    {
-      "name": "Waylon Hart",
-      "position": "MF",
-      "rating": 87,
-      "age": 31,
-      "value": 25275789
-    },
-    {
-      "name": "Jengo Ben\u00edtez",
-      "position": "FW",
-      "rating": 71,
-      "age": 16,
-      "value": 40000000
-    },
-    {
-      "name": "Juan Pablo Page",
-      "position": "FW",
-      "rating": 81,
-      "age": 25,
-      "value": 37089473
-    },
-    {
-      "name": "Tanner Fuller",
+      "name": "Mateo Reid",
       "position": "FW",
       "rating": 84,
-      "age": 16,
+      "age": 22,
       "value": 40000000
     },
     {
-      "name": "Reese Olofsson",
-      "position": "FW",
-      "rating": 67,
-      "age": 23,
-      "value": 32794736
-    },
-    {
-      "name": "Wei-Lun \u00c5kesson",
+      "name": "Haruki Oliver",
       "position": "FW",
       "rating": 72,
-      "age": 21,
-      "value": 37515789
+      "age": 32,
+      "value": 25010526
+    },
+    {
+      "name": "Adrian Baker",
+      "position": "FW",
+      "rating": 72,
+      "age": 23,
+      "value": 35242105
+    },
+    {
+      "name": "Obi Reyes",
+      "position": "FW",
+      "rating": 69,
+      "age": 17,
+      "value": 40000000
+    },
+    {
+      "name": "Oscar Torbj\u00f6rnsson",
+      "position": "FW",
+      "rating": 81,
+      "age": 22,
+      "value": 40000000
     }
   ],
   "stadium": {
