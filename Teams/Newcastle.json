@@ -2,143 +2,143 @@
   "name": "Newcastle",
   "squad": [
     {
-      "name": "Cecil Zhu",
+      "name": "Santiago Ramirez",
       "position": "GK",
-      "rating": 79,
-      "age": 26,
-      "value": 18627368
+      "rating": 69,
+      "age": 21,
+      "value": 19174736
     },
     {
-      "name": "Jean \u00c5kesson",
+      "name": "Min-jun Sandstr\u00f6m",
       "position": "GK",
       "rating": 71,
       "age": 16,
       "value": 22720000
     },
     {
-      "name": "Nils Marshall",
+      "name": "Remington Lee",
       "position": "GK",
-      "rating": 80,
-      "age": 32,
-      "value": 14821052
+      "rating": 83,
+      "age": 22,
+      "value": 22366315
     },
     {
-      "name": "Gregory Benson",
+      "name": "Carl Russell",
       "position": "DF",
-      "rating": 75,
-      "age": 16,
-      "value": 30000000
-    },
-    {
-      "name": "Ulises Richardson",
-      "position": "DF",
-      "rating": 69,
-      "age": 21,
-      "value": 23968421
-    },
-    {
-      "name": "Henrik Little",
-      "position": "DF",
-      "rating": 76,
-      "age": 17,
-      "value": 29600000
-    },
-    {
-      "name": "George Hansen",
-      "position": "DF",
-      "rating": 67,
-      "age": 16,
-      "value": 26800000
-    },
-    {
-      "name": "Alexander Warah",
-      "position": "DF",
-      "rating": 65,
-      "age": 26,
-      "value": 19157894
-    },
-    {
-      "name": "Vishal Perez",
-      "position": "DF",
-      "rating": 85,
-      "age": 25,
-      "value": 25947368
-    },
-    {
-      "name": "Wyatt Whitaker",
-      "position": "MF",
-      "rating": 86,
-      "age": 25,
-      "value": 31503157
-    },
-    {
-      "name": "Patrick Cook",
-      "position": "MF",
-      "rating": 82,
+      "rating": 73,
       "age": 34,
-      "value": 20715789
+      "value": 15368421
     },
     {
-      "name": "Emiliano White",
-      "position": "MF",
+      "name": "Adekunle Torbj\u00f6rnsson",
+      "position": "DF",
+      "rating": 64,
+      "age": 35,
+      "value": 12800000
+    },
+    {
+      "name": "Tumelo Barnett",
+      "position": "DF",
+      "rating": 82,
+      "age": 21,
+      "value": 28484210
+    },
+    {
+      "name": "Frederick Lund",
+      "position": "DF",
       "rating": 71,
       "age": 25,
-      "value": 26008421
+      "value": 21673684
     },
     {
-      "name": "Pablo Choi",
+      "name": "Marc Dlamini",
+      "position": "DF",
+      "rating": 71,
+      "age": 19,
+      "value": 26157894
+    },
+    {
+      "name": "Cody Hamilton",
+      "position": "DF",
+      "rating": 62,
+      "age": 24,
+      "value": 19578947
+    },
+    {
+      "name": "Tuan Perez",
       "position": "MF",
-      "rating": 85,
+      "rating": 66,
+      "age": 23,
+      "value": 25844210
+    },
+    {
+      "name": "Ezra Stone",
+      "position": "MF",
+      "rating": 84,
+      "age": 27,
+      "value": 28648421
+    },
+    {
+      "name": "Lucas Bailey",
+      "position": "MF",
+      "rating": 62,
       "age": 25,
-      "value": 31136842
+      "value": 22711578
     },
     {
-      "name": "Aedan Hayes",
+      "name": "Cooper Hamilton",
       "position": "MF",
-      "rating": 86,
-      "age": 31,
-      "value": 24985263
+      "rating": 81,
+      "age": 17,
+      "value": 37856842
     },
     {
-      "name": "Benjamin Hayes",
+      "name": "Asher Fox",
       "position": "MF",
-      "rating": 72,
-      "age": 16,
-      "value": 34560000
-    },
-    {
-      "name": "Casper Rodriguez",
-      "position": "FW",
-      "rating": 73,
-      "age": 18,
+      "rating": 90,
+      "age": 17,
       "value": 40000000
     },
     {
-      "name": "Cody Peterson",
-      "position": "FW",
-      "rating": 71,
-      "age": 25,
-      "value": 32510526
-    },
-    {
-      "name": "Bryson Murray",
-      "position": "FW",
-      "rating": 62,
-      "age": 23,
-      "value": 30347368
-    },
-    {
-      "name": "Milton Green",
-      "position": "FW",
-      "rating": 72,
-      "age": 32,
-      "value": 25010526
-    },
-    {
-      "name": "Arjun Olson",
-      "position": "FW",
+      "name": "Maxwell Spencer",
+      "position": "MF",
       "rating": 90,
-      "age": 22,
+      "age": 23,
+      "value": 35242105
+    },
+    {
+      "name": "Marshall West",
+      "position": "FW",
+      "rating": 64,
+      "age": 33,
+      "value": 21221052
+    },
+    {
+      "name": "Leonel Roberts",
+      "position": "FW",
+      "rating": 63,
+      "age": 34,
+      "value": 19894736
+    },
+    {
+      "name": "Jelani Sanchez",
+      "position": "FW",
+      "rating": 74,
+      "age": 30,
+      "value": 28042105
+    },
+    {
+      "name": "Tunde Butler",
+      "position": "FW",
+      "rating": 65,
+      "age": 28,
+      "value": 26684210
+    },
+    {
+      "name": "Zachary Palmer",
+      "position": "FW",
+      "rating": 77,
+      "age": 18,
       "value": 40000000
     }
   ],

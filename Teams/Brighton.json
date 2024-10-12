@@ -2,143 +2,143 @@
   "name": "Brighton",
   "squad": [
     {
-      "name": "Hector Cooper",
+      "name": "Sven Little",
+      "position": "GK",
+      "rating": 74,
+      "age": 24,
+      "value": 18694736
+    },
+    {
+      "name": "Franklin Umar",
+      "position": "GK",
+      "rating": 77,
+      "age": 25,
+      "value": 18804210
+    },
+    {
+      "name": "Ezra Oliver",
       "position": "GK",
       "rating": 90,
-      "age": 30,
-      "value": 18189473
+      "age": 34,
+      "value": 15157894
     },
     {
-      "name": "Kofi Patterson",
-      "position": "GK",
-      "rating": 90,
-      "age": 27,
-      "value": 20463157
-    },
-    {
-      "name": "Aedan Webster",
-      "position": "GK",
-      "rating": 84,
-      "age": 31,
-      "value": 16269473
-    },
-    {
-      "name": "Kingston Patterson",
-      "position": "DF",
-      "rating": 76,
-      "age": 18,
-      "value": 28800000
-    },
-    {
-      "name": "Asher Lewis",
-      "position": "DF",
-      "rating": 68,
-      "age": 26,
-      "value": 20042105
-    },
-    {
-      "name": "Jesse Olson",
+      "name": "Joseph Butler",
       "position": "DF",
       "rating": 63,
-      "age": 34,
-      "value": 13263157
+      "age": 25,
+      "value": 19231578
     },
     {
-      "name": "Theodore Pepper",
+      "name": "Stewart Jackson",
+      "position": "DF",
+      "rating": 79,
+      "age": 30,
+      "value": 19957894
+    },
+    {
+      "name": "Noel Sharp",
+      "position": "DF",
+      "rating": 71,
+      "age": 18,
+      "value": 26905263
+    },
+    {
+      "name": "Arthur Olson",
       "position": "DF",
       "rating": 83,
-      "age": 32,
-      "value": 19221052
+      "age": 26,
+      "value": 24463157
     },
     {
-      "name": "Kwame Holmes",
+      "name": "Renato Green",
       "position": "DF",
-      "rating": 77,
-      "age": 20,
-      "value": 27557894
+      "rating": 73,
+      "age": 29,
+      "value": 19210526
     },
     {
-      "name": "Carter Akinyele",
+      "name": "Samuel Espinoza",
       "position": "DF",
-      "rating": 79,
-      "age": 32,
-      "value": 18294736
+      "rating": 71,
+      "age": 35,
+      "value": 14200000
     },
     {
-      "name": "Bhekizizwe Hayes",
-      "position": "MF",
-      "rating": 75,
-      "age": 17,
-      "value": 35052631
-    },
-    {
-      "name": "Dakota Coleman",
-      "position": "MF",
-      "rating": 79,
-      "age": 21,
-      "value": 32930526
-    },
-    {
-      "name": "Israel Murray",
-      "position": "MF",
-      "rating": 88,
-      "age": 27,
-      "value": 30012631
-    },
-    {
-      "name": "Nnamdi Mason",
-      "position": "MF",
-      "rating": 85,
-      "age": 18,
-      "value": 38652631
-    },
-    {
-      "name": "Juan Nelson",
+      "name": "Oliver Ramsey",
       "position": "MF",
       "rating": 71,
-      "age": 30,
-      "value": 21524210
+      "age": 18,
+      "value": 32286315
     },
     {
-      "name": "Ian Griffin",
+      "name": "Johnny Phillips",
       "position": "MF",
-      "rating": 78,
-      "age": 30,
-      "value": 23646315
+      "rating": 74,
+      "age": 28,
+      "value": 24303157
     },
     {
-      "name": "Casper Nelson",
-      "position": "FW",
+      "name": "Harley Ramsey",
+      "position": "MF",
       "rating": 65,
-      "age": 20,
-      "value": 34894736
-    },
-    {
-      "name": "Leonardo Gomez",
-      "position": "FW",
-      "rating": 66,
       "age": 19,
-      "value": 36473684
+      "value": 28736842
     },
     {
-      "name": "Kwame Jansson",
+      "name": "Duncan Yeboah",
+      "position": "MF",
+      "rating": 72,
+      "age": 23,
+      "value": 28193684
+    },
+    {
+      "name": "Mandla Salazar",
+      "position": "MF",
+      "rating": 88,
+      "age": 32,
+      "value": 24454736
+    },
+    {
+      "name": "Miguel Hughes",
+      "position": "MF",
+      "rating": 65,
+      "age": 28,
+      "value": 21347368
+    },
+    {
+      "name": "Gabriel Walker",
       "position": "FW",
-      "rating": 85,
+      "rating": 82,
       "age": 21,
       "value": 40000000
     },
     {
-      "name": "Mikkel Perry",
-      "position": "FW",
-      "rating": 70,
-      "age": 28,
-      "value": 28736842
-    },
-    {
-      "name": "Elliot Onyango",
+      "name": "Israel Oliver",
       "position": "FW",
       "rating": 83,
-      "age": 20,
+      "age": 30,
+      "value": 31452631
+    },
+    {
+      "name": "Mauricio Washington",
+      "position": "FW",
+      "rating": 71,
+      "age": 24,
+      "value": 33631578
+    },
+    {
+      "name": "Nathan Gordon",
+      "position": "FW",
+      "rating": 81,
+      "age": 23,
+      "value": 39647368
+    },
+    {
+      "name": "Izaiah Kim",
+      "position": "FW",
+      "rating": 81,
+      "age": 18,
       "value": 40000000
     }
   ],

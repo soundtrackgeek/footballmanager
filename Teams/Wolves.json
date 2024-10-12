@@ -2,144 +2,144 @@
   "name": "Wolves",
   "squad": [
     {
-      "name": "Marcos Warah",
+      "name": "Chidi Myers",
       "position": "GK",
-      "rating": 64,
-      "age": 18,
-      "value": 19402105
-    },
-    {
-      "name": "Musa Stone",
-      "position": "GK",
-      "rating": 84,
-      "age": 16,
-      "value": 26880000
-    },
-    {
-      "name": "Adam Cook",
-      "position": "GK",
-      "rating": 85,
-      "age": 26,
-      "value": 20042105
-    },
-    {
-      "name": "Damon Baker",
-      "position": "DF",
-      "rating": 78,
-      "age": 33,
-      "value": 17242105
-    },
-    {
-      "name": "Graham Hanson",
-      "position": "DF",
-      "rating": 72,
-      "age": 34,
-      "value": 15157894
-    },
-    {
-      "name": "Griffin Park",
-      "position": "DF",
-      "rating": 83,
-      "age": 24,
-      "value": 26210526
-    },
-    {
-      "name": "Guy Hansen",
-      "position": "DF",
-      "rating": 83,
-      "age": 16,
-      "value": 33200000
-    },
-    {
-      "name": "Alonzo Franklin",
-      "position": "DF",
       "rating": 62,
-      "age": 30,
-      "value": 15663157
+      "age": 23,
+      "value": 16185263
     },
     {
-      "name": "Andre Kang",
-      "position": "DF",
-      "rating": 84,
-      "age": 32,
-      "value": 19452631
+      "name": "Adrian Robinson",
+      "position": "GK",
+      "rating": 63,
+      "age": 28,
+      "value": 13793684
     },
     {
-      "name": "Gage Reyes",
-      "position": "MF",
+      "name": "Ricardo Verma",
+      "position": "GK",
       "rating": 80,
-      "age": 16,
-      "value": 38400000
+      "age": 20,
+      "value": 22905263
     },
     {
-      "name": "Hunter West",
+      "name": "Carlos Peterson",
+      "position": "DF",
+      "rating": 90,
+      "age": 24,
+      "value": 28421052
+    },
+    {
+      "name": "Will Pena",
+      "position": "DF",
+      "rating": 68,
+      "age": 24,
+      "value": 21473684
+    },
+    {
+      "name": "Gabriel Ibrahim",
+      "position": "DF",
+      "rating": 81,
+      "age": 34,
+      "value": 17052631
+    },
+    {
+      "name": "Sulaiman Joshi",
+      "position": "DF",
+      "rating": 90,
+      "age": 22,
+      "value": 30315789
+    },
+    {
+      "name": "Huy Bryant",
+      "position": "DF",
+      "rating": 65,
+      "age": 18,
+      "value": 24631578
+    },
+    {
+      "name": "Samuel Hicks",
+      "position": "DF",
+      "rating": 77,
+      "age": 25,
+      "value": 23505263
+    },
+    {
+      "name": "Reed Desai",
+      "position": "MF",
+      "rating": 81,
+      "age": 32,
+      "value": 22509473
+    },
+    {
+      "name": "Francisco Fox",
+      "position": "MF",
+      "rating": 69,
+      "age": 23,
+      "value": 27018947
+    },
+    {
+      "name": "Uriah Bates",
       "position": "MF",
       "rating": 75,
-      "age": 20,
-      "value": 32210526
-    },
-    {
-      "name": "Quincy Larsen",
-      "position": "MF",
-      "rating": 65,
       "age": 21,
-      "value": 27094736
+      "value": 31263157
     },
     {
-      "name": "Rajesh Baker",
+      "name": "Ibrahim Curtis",
       "position": "MF",
-      "rating": 73,
-      "age": 20,
-      "value": 31351578
+      "rating": 62,
+      "age": 33,
+      "value": 16446315
     },
     {
-      "name": "Jack Hamilton",
+      "name": "Paul Garza",
       "position": "MF",
+      "rating": 89,
+      "age": 21,
+      "value": 37098947
+    },
+    {
+      "name": "Kwasi Reyes",
+      "position": "MF",
+      "rating": 62,
+      "age": 31,
+      "value": 18012631
+    },
+    {
+      "name": "Yusuf Campbell",
+      "position": "FW",
+      "rating": 82,
+      "age": 29,
+      "value": 32368421
+    },
+    {
+      "name": "Brooks Freeman",
+      "position": "FW",
       "rating": 61,
-      "age": 27,
-      "value": 20804210
+      "age": 18,
+      "value": 34673684
     },
     {
-      "name": "Isaac Fuller",
-      "position": "MF",
-      "rating": 77,
-      "age": 27,
-      "value": 26261052
-    },
-    {
-      "name": "Mateo Reid",
+      "name": "Ronald Ben\u00edtez",
       "position": "FW",
-      "rating": 84,
-      "age": 22,
-      "value": 40000000
+      "rating": 62,
+      "age": 26,
+      "value": 27410526
     },
     {
-      "name": "Haruki Oliver",
+      "name": "Sven Sanchez",
       "position": "FW",
-      "rating": 72,
+      "rating": 70,
+      "age": 25,
+      "value": 32052631
+    },
+    {
+      "name": "Toshiro Green",
+      "position": "FW",
+      "rating": 67,
       "age": 32,
-      "value": 25010526
-    },
-    {
-      "name": "Adrian Baker",
-      "position": "FW",
-      "rating": 72,
-      "age": 23,
-      "value": 35242105
-    },
-    {
-      "name": "Obi Reyes",
-      "position": "FW",
-      "rating": 69,
-      "age": 17,
-      "value": 40000000
-    },
-    {
-      "name": "Oscar Torbj\u00f6rnsson",
-      "position": "FW",
-      "rating": 81,
-      "age": 22,
-      "value": 40000000
+      "value": 23273684
     }
   ],
   "stadium": {

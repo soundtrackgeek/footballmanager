@@ -2,144 +2,144 @@
   "name": "Aston Villa",
   "squad": [
     {
-      "name": "Jean Bates",
+      "name": "Leonel Abebe",
       "position": "GK",
-      "rating": 65,
-      "age": 23,
-      "value": 16968421
-    },
-    {
-      "name": "Marcos Rojas",
-      "position": "GK",
-      "rating": 87,
-      "age": 26,
-      "value": 20513684
-    },
-    {
-      "name": "Juan Pablo Bradley",
-      "position": "GK",
-      "rating": 76,
-      "age": 31,
-      "value": 14720000
-    },
-    {
-      "name": "Kaleb Reed",
-      "position": "DF",
-      "rating": 74,
+      "rating": 80,
       "age": 33,
-      "value": 16357894
+      "value": 14147368
     },
     {
-      "name": "Ruben Fern\u00e1ndez",
-      "position": "DF",
-      "rating": 86,
-      "age": 33,
-      "value": 19010526
+      "name": "Drew Mwangi",
+      "position": "GK",
+      "rating": 68,
+      "age": 20,
+      "value": 19469473
     },
     {
-      "name": "Kobe Richardson",
-      "position": "DF",
-      "rating": 86,
-      "age": 35,
-      "value": 17200000
+      "name": "Joseph Morgan",
+      "position": "GK",
+      "rating": 85,
+      "age": 25,
+      "value": 20757894
     },
     {
-      "name": "Kaito Joshi",
+      "name": "Huy Howard",
       "position": "DF",
       "rating": 70,
-      "age": 24,
-      "value": 22105263
+      "age": 19,
+      "value": 25789473
     },
     {
-      "name": "Randy Bates",
+      "name": "Lincoln Stephens",
       "position": "DF",
-      "rating": 89,
+      "rating": 82,
       "age": 18,
-      "value": 33726315
+      "value": 31073684
     },
     {
-      "name": "Vidar West",
+      "name": "Simon Nakajima",
       "position": "DF",
-      "rating": 89,
-      "age": 16,
-      "value": 35600000
-    },
-    {
-      "name": "Charles Dean",
-      "position": "MF",
-      "rating": 83,
-      "age": 25,
-      "value": 30404210
-    },
-    {
-      "name": "Noah Day",
-      "position": "MF",
       "rating": 60,
       "age": 25,
+      "value": 18315789
+    },
+    {
+      "name": "Christian Palmer",
+      "position": "DF",
+      "rating": 61,
+      "age": 21,
+      "value": 21189473
+    },
+    {
+      "name": "Ken Ramirez",
+      "position": "DF",
+      "rating": 75,
+      "age": 34,
+      "value": 15789473
+    },
+    {
+      "name": "Ming Washington",
+      "position": "DF",
+      "rating": 71,
+      "age": 33,
+      "value": 15694736
+    },
+    {
+      "name": "Oluwafemi Liu",
+      "position": "MF",
+      "rating": 87,
+      "age": 34,
       "value": 21978947
     },
     {
-      "name": "Jelani Liu",
-      "position": "MF",
-      "rating": 77,
-      "age": 23,
-      "value": 30151578
-    },
-    {
-      "name": "Toby Russell",
+      "name": "Allen Edwards",
       "position": "MF",
       "rating": 73,
-      "age": 35,
-      "value": 17520000
+      "age": 31,
+      "value": 21208421
     },
     {
-      "name": "Sebastian Barnes",
+      "name": "Jean West",
       "position": "MF",
-      "rating": 90,
-      "age": 22,
+      "rating": 76,
+      "age": 19,
+      "value": 33600000
+    },
+    {
+      "name": "Kolby Howard",
+      "position": "MF",
+      "rating": 61,
+      "age": 29,
+      "value": 19263157
+    },
+    {
+      "name": "Diego Guo",
+      "position": "MF",
+      "rating": 80,
+      "age": 18,
       "value": 36378947
     },
     {
-      "name": "Torsten Silva",
+      "name": "Kenji Stephens",
       "position": "MF",
-      "rating": 65,
-      "age": 18,
-      "value": 29557894
-    },
-    {
-      "name": "Leandro Patterson",
-      "position": "FW",
-      "rating": 65,
-      "age": 33,
-      "value": 21552631
-    },
-    {
-      "name": "Kendall Barnes",
-      "position": "FW",
-      "rating": 90,
-      "age": 24,
-      "value": 40000000
-    },
-    {
-      "name": "Shin Williamson",
-      "position": "FW",
-      "rating": 90,
-      "age": 17,
-      "value": 40000000
-    },
-    {
-      "name": "Axel Hayes",
-      "position": "FW",
-      "rating": 81,
+      "rating": 85,
       "age": 29,
-      "value": 31973684
+      "value": 26842105
     },
     {
-      "name": "Wilson Roberts",
+      "name": "Leon Castillo",
       "position": "FW",
-      "rating": 62,
+      "rating": 68,
+      "age": 25,
+      "value": 31136842
+    },
+    {
+      "name": "Santiago Edwards",
+      "position": "FW",
+      "rating": 82,
+      "age": 25,
+      "value": 37547368
+    },
+    {
+      "name": "Victor Peterson",
+      "position": "FW",
+      "rating": 78,
+      "age": 16,
+      "value": 40000000
+    },
+    {
+      "name": "Randy Abiola",
+      "position": "FW",
+      "rating": 76,
+      "age": 20,
+      "value": 40000000
+    },
+    {
+      "name": "Nkosinathi Schneider",
+      "position": "FW",
+      "rating": 78,
       "age": 30,
-      "value": 23494736
+      "value": 29557894
     }
   ],
   "stadium": {

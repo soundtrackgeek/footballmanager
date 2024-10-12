@@ -2,144 +2,144 @@
   "name": "Brentford",
   "squad": [
     {
-      "name": "Haruto Bryant",
+      "name": "Finn Bennett",
       "position": "GK",
-      "rating": 89,
-      "age": 23,
-      "value": 23233684
+      "rating": 67,
+      "age": 24,
+      "value": 16926315
     },
     {
-      "name": "Adel Kim",
+      "name": "Gunnar Burke",
       "position": "GK",
-      "rating": 82,
-      "age": 23,
-      "value": 21406315
-    },
-    {
-      "name": "Amari Brooks",
-      "position": "GK",
-      "rating": 85,
-      "age": 23,
-      "value": 22189473
-    },
-    {
-      "name": "Sim\u00f3n Fuentes",
-      "position": "DF",
-      "rating": 73,
+      "rating": 80,
       "age": 25,
-      "value": 22284210
+      "value": 19536842
     },
     {
-      "name": "Spencer Black",
-      "position": "DF",
-      "rating": 87,
-      "age": 30,
-      "value": 21978947
-    },
-    {
-      "name": "Leonel Bowman",
-      "position": "DF",
-      "rating": 73,
-      "age": 22,
-      "value": 24589473
-    },
-    {
-      "name": "Liam Olofsson",
-      "position": "DF",
-      "rating": 66,
-      "age": 30,
-      "value": 16673684
-    },
-    {
-      "name": "Grant Hughes",
-      "position": "DF",
-      "rating": 62,
-      "age": 33,
-      "value": 13705263
-    },
-    {
-      "name": "Eric Nilsen",
-      "position": "DF",
+      "name": "Harold Oliver",
+      "position": "GK",
       "rating": 89,
-      "age": 20,
-      "value": 31852631
+      "age": 17,
+      "value": 27730526
     },
     {
-      "name": "Aaron Ramirez",
-      "position": "MF",
-      "rating": 68,
-      "age": 35,
-      "value": 16320000
-    },
-    {
-      "name": "Caden Valdez",
-      "position": "MF",
-      "rating": 68,
-      "age": 27,
-      "value": 23191578
-    },
-    {
-      "name": "Clement Diaz",
-      "position": "MF",
-      "rating": 68,
-      "age": 23,
-      "value": 26627368
-    },
-    {
-      "name": "Brian Howard",
-      "position": "MF",
+      "name": "Carlos Bates",
+      "position": "DF",
       "rating": 84,
       "age": 18,
-      "value": 38197894
+      "value": 31831578
     },
     {
-      "name": "Andre Allen",
-      "position": "MF",
-      "rating": 89,
-      "age": 30,
-      "value": 26981052
+      "name": "Yuki King",
+      "position": "DF",
+      "rating": 82,
+      "age": 29,
+      "value": 21578947
     },
     {
-      "name": "Adekunle Cook",
-      "position": "MF",
-      "rating": 87,
+      "name": "Adekunle Brooks",
+      "position": "DF",
+      "rating": 83,
       "age": 34,
-      "value": 21978947
+      "value": 17473684
     },
     {
-      "name": "Victor Brooks",
-      "position": "FW",
+      "name": "Caden Sandberg",
+      "position": "DF",
+      "rating": 78,
+      "age": 21,
+      "value": 27094736
+    },
+    {
+      "name": "Benjamin Freeman",
+      "position": "DF",
+      "rating": 72,
+      "age": 16,
+      "value": 28800000
+    },
+    {
+      "name": "Damien J\u00f8rgensen",
+      "position": "DF",
+      "rating": 88,
+      "age": 32,
+      "value": 20378947
+    },
+    {
+      "name": "Kwame Ito",
+      "position": "MF",
+      "rating": 81,
+      "age": 29,
+      "value": 25578947
+    },
+    {
+      "name": "Amani Blake",
+      "position": "MF",
       "rating": 72,
       "age": 24,
-      "value": 34105263
+      "value": 27284210
     },
     {
-      "name": "Cian Webb",
-      "position": "FW",
-      "rating": 79,
+      "name": "Colin Romero",
+      "position": "MF",
+      "rating": 75,
+      "age": 21,
+      "value": 31263157
+    },
+    {
+      "name": "Kyler Thomas",
+      "position": "MF",
+      "rating": 77,
+      "age": 33,
+      "value": 20425263
+    },
+    {
+      "name": "Kwame Butler",
+      "position": "MF",
+      "rating": 65,
+      "age": 30,
+      "value": 19705263
+    },
+    {
+      "name": "Kody Fields",
+      "position": "MF",
+      "rating": 78,
       "age": 28,
-      "value": 32431578
+      "value": 25616842
     },
     {
-      "name": "Jesse Bryant",
+      "name": "Tumelo Cox",
+      "position": "FW",
+      "rating": 77,
+      "age": 17,
+      "value": 40000000
+    },
+    {
+      "name": "Santiago Robinson",
+      "position": "FW",
+      "rating": 67,
+      "age": 18,
+      "value": 38084210
+    },
+    {
+      "name": "Gunnar Reddy",
       "position": "FW",
       "rating": 73,
-      "age": 33,
-      "value": 24205263
+      "age": 18,
+      "value": 40000000
     },
     {
-      "name": "Jermaine Berry",
+      "name": "Noah Peters",
       "position": "FW",
-      "rating": 62,
-      "age": 19,
-      "value": 34263157
+      "rating": 79,
+      "age": 17,
+      "value": 40000000
     },
     {
-      "name": "Cyrus Jung",
+      "name": "Andy Saye",
       "position": "FW",
-      "rating": 82,
-      "age": 26,
-      "value": 36252631
+      "rating": 60,
+      "age": 21,
+      "value": 31263157
     }
   ],
   "stadium": {

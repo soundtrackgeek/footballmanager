@@ -2,144 +2,144 @@
   "name": "West Ham",
   "squad": [
     {
-      "name": "Cristian Valencia",
+      "name": "Paige Morris",
       "position": "GK",
-      "rating": 76,
-      "age": 26,
-      "value": 17920000
+      "rating": 67,
+      "age": 29,
+      "value": 14105263
     },
     {
-      "name": "Guillermo Scott",
+      "name": "Keita Parker",
       "position": "GK",
-      "rating": 61,
-      "age": 23,
-      "value": 15924210
+      "rating": 80,
+      "age": 16,
+      "value": 25600000
     },
     {
-      "name": "Elias Long",
+      "name": "Steve Hayes",
       "position": "GK",
+      "rating": 69,
+      "age": 32,
+      "value": 12783157
+    },
+    {
+      "name": "Francisco Howard",
+      "position": "DF",
       "rating": 78,
-      "age": 18,
-      "value": 23646315
+      "age": 28,
+      "value": 21347368
     },
     {
-      "name": "Ekon Coleman",
+      "name": "Keegan Woods",
+      "position": "DF",
+      "rating": 71,
+      "age": 28,
+      "value": 19431578
+    },
+    {
+      "name": "Bradley Morales",
       "position": "DF",
       "rating": 68,
-      "age": 20,
-      "value": 24336842
+      "age": 31,
+      "value": 16463157
     },
     {
-      "name": "Tyler Evans",
+      "name": "Omar Dahl",
       "position": "DF",
-      "rating": 88,
-      "age": 21,
-      "value": 30568421
-    },
-    {
-      "name": "Anthony Hadj",
-      "position": "DF",
-      "rating": 82,
-      "age": 28,
-      "value": 22442105
-    },
-    {
-      "name": "Riley Nkosi",
-      "position": "DF",
-      "rating": 76,
-      "age": 34,
-      "value": 16000000
-    },
-    {
-      "name": "Brody Jimenez",
-      "position": "DF",
-      "rating": 65,
-      "age": 26,
-      "value": 19157894
-    },
-    {
-      "name": "Jos\u00e9 Fuller",
-      "position": "DF",
-      "rating": 63,
+      "rating": 69,
       "age": 24,
-      "value": 19894736
+      "value": 21789473
     },
     {
-      "name": "Jordan Abebe",
-      "position": "MF",
-      "rating": 87,
-      "age": 23,
-      "value": 34067368
+      "name": "Dominic Morales",
+      "position": "DF",
+      "rating": 85,
+      "age": 16,
+      "value": 34000000
     },
     {
-      "name": "Carter Ramirez",
-      "position": "MF",
-      "rating": 66,
-      "age": 23,
-      "value": 25844210
+      "name": "Paul Njoroge",
+      "position": "DF",
+      "rating": 64,
+      "age": 33,
+      "value": 14147368
     },
     {
-      "name": "Yuto Hughes",
-      "position": "MF",
-      "rating": 80,
-      "age": 25,
-      "value": 29305263
-    },
-    {
-      "name": "Victor Holland",
-      "position": "MF",
-      "rating": 63,
-      "age": 35,
-      "value": 15120000
-    },
-    {
-      "name": "Larry Dlamini",
-      "position": "MF",
-      "rating": 87,
-      "age": 34,
-      "value": 21978947
-    },
-    {
-      "name": "Pedro Reyes",
+      "name": "Ruben Marsh",
       "position": "MF",
       "rating": 85,
       "age": 16,
       "value": 40000000
     },
     {
-      "name": "Wei-Lun Hart",
-      "position": "FW",
-      "rating": 80,
-      "age": 23,
-      "value": 39157894
-    },
-    {
-      "name": "Roberto Gomez",
-      "position": "FW",
-      "rating": 72,
-      "age": 25,
-      "value": 32968421
-    },
-    {
-      "name": "Quinn Hayes",
-      "position": "FW",
-      "rating": 64,
-      "age": 27,
-      "value": 27284210
-    },
-    {
-      "name": "Milton \u00c5kesson",
-      "position": "FW",
-      "rating": 63,
-      "age": 35,
-      "value": 18900000
-    },
-    {
-      "name": "John West",
-      "position": "FW",
+      "name": "Carlos Ross",
+      "position": "MF",
       "rating": 83,
+      "age": 20,
+      "value": 35646315
+    },
+    {
+      "name": "Ezequiel Roberts",
+      "position": "MF",
+      "rating": 90,
+      "age": 18,
+      "value": 40000000
+    },
+    {
+      "name": "Mark Palmer",
+      "position": "MF",
+      "rating": 68,
+      "age": 24,
+      "value": 25768421
+    },
+    {
+      "name": "Jean Bell",
+      "position": "MF",
+      "rating": 80,
+      "age": 16,
+      "value": 38400000
+    },
+    {
+      "name": "Shin Griffin",
+      "position": "MF",
+      "rating": 85,
+      "age": 19,
+      "value": 37578947
+    },
+    {
+      "name": "Tyler Long",
+      "position": "FW",
+      "rating": 88,
       "age": 33,
-      "value": 27521052
+      "value": 29178947
+    },
+    {
+      "name": "Edgar Coleman",
+      "position": "FW",
+      "rating": 68,
+      "age": 24,
+      "value": 32210526
+    },
+    {
+      "name": "Matt Spencer",
+      "position": "FW",
+      "rating": 88,
+      "age": 20,
+      "value": 40000000
+    },
+    {
+      "name": "Thiago Fitzgerald",
+      "position": "FW",
+      "rating": 68,
+      "age": 16,
+      "value": 40000000
+    },
+    {
+      "name": "Antonio Ciss\u00e9",
+      "position": "FW",
+      "rating": 70,
+      "age": 18,
+      "value": 39789473
     }
   ],
   "stadium": {

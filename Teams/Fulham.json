@@ -2,144 +2,144 @@
   "name": "Fulham",
   "squad": [
     {
-      "name": "Chike Benson",
+      "name": "Francisco Rivera",
       "position": "GK",
-      "rating": 85,
+      "rating": 75,
+      "age": 21,
+      "value": 20842105
+    },
+    {
+      "name": "Edmund Shaw",
+      "position": "GK",
+      "rating": 80,
+      "age": 17,
+      "value": 24926315
+    },
+    {
+      "name": "Julian Ellison",
+      "position": "GK",
+      "rating": 69,
       "age": 18,
-      "value": 25768421
+      "value": 20917894
     },
     {
-      "name": "Charles Scott",
-      "position": "GK",
-      "rating": 86,
-      "age": 18,
-      "value": 26071578
-    },
-    {
-      "name": "Marlon Gray",
-      "position": "GK",
-      "rating": 73,
-      "age": 33,
-      "value": 12909473
-    },
-    {
-      "name": "Kris Palmer",
+      "name": "Russell Holland",
       "position": "DF",
-      "rating": 63,
-      "age": 26,
-      "value": 18568421
+      "rating": 87,
+      "age": 25,
+      "value": 26557894
     },
     {
-      "name": "Roland Sharma",
+      "name": "Rajesh Brooks",
       "position": "DF",
-      "rating": 66,
-      "age": 23,
-      "value": 21536842
+      "rating": 68,
+      "age": 19,
+      "value": 25052631
     },
     {
-      "name": "Johannes Medina",
-      "position": "DF",
-      "rating": 85,
-      "age": 34,
-      "value": 17894736
-    },
-    {
-      "name": "Stefan Fletcher",
-      "position": "DF",
-      "rating": 74,
-      "age": 16,
-      "value": 29600000
-    },
-    {
-      "name": "Chad Henry",
+      "name": "Ibrahim Solberg",
       "position": "DF",
       "rating": 89,
-      "age": 23,
-      "value": 29042105
-    },
-    {
-      "name": "Troy Shaw",
-      "position": "DF",
-      "rating": 69,
-      "age": 27,
-      "value": 19610526
-    },
-    {
-      "name": "Damon Njoroge",
-      "position": "MF",
-      "rating": 64,
-      "age": 26,
-      "value": 22635789
-    },
-    {
-      "name": "Mathias Griffin",
-      "position": "MF",
-      "rating": 75,
-      "age": 27,
-      "value": 25578947
-    },
-    {
-      "name": "Russell Benson",
-      "position": "MF",
-      "rating": 75,
-      "age": 28,
-      "value": 24631578
-    },
-    {
-      "name": "Rogelio Han",
-      "position": "MF",
-      "rating": 81,
-      "age": 35,
-      "value": 19440000
-    },
-    {
-      "name": "Damien Abiola",
-      "position": "MF",
-      "rating": 76,
-      "age": 26,
-      "value": 26880000
-    },
-    {
-      "name": "Mason Chen",
-      "position": "MF",
-      "rating": 70,
-      "age": 32,
-      "value": 19452631
-    },
-    {
-      "name": "Hassan Hart",
-      "position": "FW",
-      "rating": 87,
       "age": 31,
-      "value": 31594736
+      "value": 21547368
     },
     {
-      "name": "Daichi Gonzales",
-      "position": "FW",
+      "name": "Carter Morgan",
+      "position": "DF",
+      "rating": 90,
+      "age": 26,
+      "value": 26526315
+    },
+    {
+      "name": "Kenneth Cabrera",
+      "position": "DF",
+      "rating": 77,
+      "age": 25,
+      "value": 23505263
+    },
+    {
+      "name": "Alfonso Bergstrom",
+      "position": "DF",
+      "rating": 76,
+      "age": 23,
+      "value": 24800000
+    },
+    {
+      "name": "Adri\u00e1n Eze",
+      "position": "MF",
+      "rating": 75,
+      "age": 32,
+      "value": 20842105
+    },
+    {
+      "name": "Jayden Manning",
+      "position": "MF",
+      "rating": 73,
+      "age": 28,
+      "value": 23974736
+    },
+    {
+      "name": "Ross Ulfsson",
+      "position": "MF",
+      "rating": 68,
+      "age": 19,
+      "value": 30063157
+    },
+    {
+      "name": "Marshall Ferguson",
+      "position": "MF",
       "rating": 66,
-      "age": 24,
-      "value": 31263157
+      "age": 33,
+      "value": 17507368
     },
     {
-      "name": "Waylon Campbell",
+      "name": "Konner Goodman",
+      "position": "MF",
+      "rating": 90,
+      "age": 33,
+      "value": 23873684
+    },
+    {
+      "name": "Angelo Hart",
+      "position": "MF",
+      "rating": 62,
+      "age": 17,
+      "value": 28976842
+    },
+    {
+      "name": "Liam Benjumea",
       "position": "FW",
-      "rating": 86,
-      "age": 20,
-      "value": 40000000
+      "rating": 65,
+      "age": 32,
+      "value": 22578947
     },
     {
-      "name": "Uriah Campbell",
+      "name": "Cameron Rom\u00e1n",
+      "position": "FW",
+      "rating": 68,
+      "age": 18,
+      "value": 38652631
+    },
+    {
+      "name": "Erik Nguyen",
+      "position": "FW",
+      "rating": 62,
+      "age": 34,
+      "value": 19578947
+    },
+    {
+      "name": "Pablo Shaw",
       "position": "FW",
       "rating": 88,
       "age": 22,
       "value": 40000000
     },
     {
-      "name": "Trenton Su\u00e1rez",
+      "name": "Keita Hart",
       "position": "FW",
-      "rating": 70,
-      "age": 16,
-      "value": 40000000
+      "rating": 72,
+      "age": 27,
+      "value": 30694736
     }
   ],
   "stadium": {

@@ -2,144 +2,144 @@
   "name": "Crystal Palace",
   "squad": [
     {
-      "name": "Drew Baker",
+      "name": "Leonel Little",
       "position": "GK",
-      "rating": 81,
-      "age": 26,
-      "value": 19098947
+      "rating": 65,
+      "age": 19,
+      "value": 19157894
     },
     {
-      "name": "Tony Peters",
+      "name": "Johannes Kim",
       "position": "GK",
-      "rating": 76,
-      "age": 29,
-      "value": 16000000
+      "rating": 86,
+      "age": 32,
+      "value": 15932631
     },
     {
-      "name": "Pablo Bennett",
+      "name": "Timothy Bhatia",
       "position": "GK",
-      "rating": 78,
-      "age": 22,
-      "value": 21018947
+      "rating": 75,
+      "age": 19,
+      "value": 22105263
     },
     {
-      "name": "Ibrahim Reyes",
+      "name": "Frank Garcia",
+      "position": "DF",
+      "rating": 73,
+      "age": 34,
+      "value": 15368421
+    },
+    {
+      "name": "Leonel Ramsey",
       "position": "DF",
       "rating": 69,
-      "age": 19,
-      "value": 25421052
-    },
-    {
-      "name": "Sebastian Morrison",
-      "position": "DF",
-      "rating": 63,
-      "age": 19,
-      "value": 23210526
-    },
-    {
-      "name": "Kenneth Henry",
-      "position": "DF",
-      "rating": 78,
-      "age": 32,
-      "value": 18063157
-    },
-    {
-      "name": "George S\u00f6derberg",
-      "position": "DF",
-      "rating": 77,
-      "age": 35,
-      "value": 15400000
-    },
-    {
-      "name": "Cael Little",
-      "position": "DF",
-      "rating": 62,
-      "age": 28,
-      "value": 16968421
-    },
-    {
-      "name": "Kenny Peters",
-      "position": "DF",
-      "rating": 79,
-      "age": 35,
-      "value": 15800000
-    },
-    {
-      "name": "Allen Reyes",
-      "position": "MF",
-      "rating": 83,
-      "age": 26,
-      "value": 29355789
-    },
-    {
-      "name": "Jiro Rodr\u00edguez",
-      "position": "MF",
-      "rating": 82,
-      "age": 28,
-      "value": 26930526
-    },
-    {
-      "name": "Noah Hansen",
-      "position": "MF",
-      "rating": 66,
-      "age": 32,
-      "value": 18341052
-    },
-    {
-      "name": "Jonathan Morgan",
-      "position": "MF",
-      "rating": 65,
-      "age": 24,
-      "value": 24631578
-    },
-    {
-      "name": "Mat\u00edas Lindholm",
-      "position": "MF",
-      "rating": 82,
       "age": 17,
-      "value": 38324210
+      "value": 26873684
     },
     {
-      "name": "Stanley Hassan",
-      "position": "MF",
+      "name": "Adan White",
+      "position": "DF",
+      "rating": 80,
+      "age": 34,
+      "value": 16842105
+    },
+    {
+      "name": "Rogelio Sharma",
+      "position": "DF",
       "rating": 66,
-      "age": 16,
-      "value": 31680000
-    },
-    {
-      "name": "River Gustavsson",
-      "position": "FW",
-      "rating": 85,
       "age": 19,
-      "value": 40000000
+      "value": 24315789
     },
     {
-      "name": "Kwame Ramsey",
+      "name": "Nils Parker",
+      "position": "DF",
+      "rating": 80,
+      "age": 31,
+      "value": 19368421
+    },
+    {
+      "name": "Francisco Hassan",
+      "position": "DF",
+      "rating": 90,
+      "age": 34,
+      "value": 18947368
+    },
+    {
+      "name": "Barack Kang",
+      "position": "MF",
+      "rating": 69,
+      "age": 19,
+      "value": 30505263
+    },
+    {
+      "name": "Emiliano Owens",
+      "position": "MF",
+      "rating": 90,
+      "age": 23,
+      "value": 35242105
+    },
+    {
+      "name": "Vincent Ellis",
+      "position": "MF",
+      "rating": 60,
+      "age": 30,
+      "value": 18189473
+    },
+    {
+      "name": "Miles Reid",
+      "position": "MF",
+      "rating": 61,
+      "age": 34,
+      "value": 15410526
+    },
+    {
+      "name": "Bo Peterson",
+      "position": "MF",
+      "rating": 76,
+      "age": 25,
+      "value": 27840000
+    },
+    {
+      "name": "Manuel Bennett",
+      "position": "MF",
+      "rating": 87,
+      "age": 34,
+      "value": 21978947
+    },
+    {
+      "name": "Jamie Dixon",
       "position": "FW",
       "rating": 61,
-      "age": 25,
-      "value": 27931578
-    },
-    {
-      "name": "Dylan Henderson",
-      "position": "FW",
-      "rating": 88,
-      "age": 31,
-      "value": 31957894
-    },
-    {
-      "name": "Curtis Zhu",
-      "position": "FW",
-      "rating": 63,
       "age": 29,
-      "value": 24868421
+      "value": 24078947
     },
     {
-      "name": "Joaquin Hart",
+      "name": "Kwesi Han",
       "position": "FW",
-      "rating": 77,
-      "age": 25,
-      "value": 35257894
+      "rating": 84,
+      "age": 24,
+      "value": 39789473
+    },
+    {
+      "name": "Fredrik Mabena",
+      "position": "FW",
+      "rating": 73,
+      "age": 31,
+      "value": 26510526
+    },
+    {
+      "name": "Rajesh Wheeler",
+      "position": "FW",
+      "rating": 60,
+      "age": 32,
+      "value": 20842105
+    },
+    {
+      "name": "Aziz S\u00f6derberg",
+      "position": "FW",
+      "rating": 60,
+      "age": 26,
+      "value": 26526315
     }
   ],
   "stadium": {

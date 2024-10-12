@@ -2,144 +2,144 @@
   "name": "Liverpool",
   "squad": [
     {
-      "name": "Joshua Griffin",
+      "name": "Quincy Bennett",
       "position": "GK",
-      "rating": 71,
-      "age": 29,
-      "value": 14947368
-    },
-    {
-      "name": "Ryan Perry",
-      "position": "GK",
-      "rating": 78,
-      "age": 35,
-      "value": 12480000
-    },
-    {
-      "name": "Yahir Baker",
-      "position": "GK",
-      "rating": 81,
-      "age": 35,
-      "value": 12960000
-    },
-    {
-      "name": "Reed Kwamena",
-      "position": "DF",
-      "rating": 76,
-      "age": 24,
-      "value": 24000000
-    },
-    {
-      "name": "Ulises Sanchez",
-      "position": "DF",
       "rating": 77,
-      "age": 20,
-      "value": 27557894
+      "age": 28,
+      "value": 16858947
     },
     {
-      "name": "Fernando Pedersen",
-      "position": "DF",
-      "rating": 77,
-      "age": 26,
-      "value": 22694736
+      "name": "Wei-Lun Garcia",
+      "position": "GK",
+      "rating": 86,
+      "age": 35,
+      "value": 13760000
     },
     {
-      "name": "Musa Powell",
-      "position": "DF",
-      "rating": 87,
-      "age": 25,
-      "value": 26557894
-    },
-    {
-      "name": "Stefan Franklin",
-      "position": "DF",
-      "rating": 84,
-      "age": 24,
-      "value": 26526315
-    },
-    {
-      "name": "Lars Reed",
-      "position": "DF",
-      "rating": 89,
-      "age": 32,
-      "value": 20610526
-    },
-    {
-      "name": "Jake Hayes",
-      "position": "MF",
-      "rating": 80,
-      "age": 22,
-      "value": 32336842
-    },
-    {
-      "name": "Isak Lin",
-      "position": "MF",
-      "rating": 65,
+      "name": "Zuberi Olson",
+      "position": "GK",
+      "rating": 70,
       "age": 18,
-      "value": 29557894
+      "value": 21221052
     },
     {
-      "name": "Conor Barnett",
+      "name": "Maximiliano Abiola",
+      "position": "DF",
+      "rating": 61,
+      "age": 30,
+      "value": 15410526
+    },
+    {
+      "name": "Damien Patel",
+      "position": "DF",
+      "rating": 68,
+      "age": 34,
+      "value": 14315789
+    },
+    {
+      "name": "Ekon Long",
+      "position": "DF",
+      "rating": 79,
+      "age": 33,
+      "value": 17463157
+    },
+    {
+      "name": "Kellen Fisher",
+      "position": "DF",
+      "rating": 69,
+      "age": 34,
+      "value": 14526315
+    },
+    {
+      "name": "Andreas Toure",
+      "position": "DF",
+      "rating": 85,
+      "age": 17,
+      "value": 33105263
+    },
+    {
+      "name": "Colin Wood",
+      "position": "DF",
+      "rating": 74,
+      "age": 19,
+      "value": 27263157
+    },
+    {
+      "name": "Roderick Reid",
       "position": "MF",
-      "rating": 81,
-      "age": 26,
-      "value": 28648421
+      "rating": 66,
+      "age": 22,
+      "value": 26677894
     },
     {
-      "name": "Alonzo Phelps",
+      "name": "Alejandro Day",
       "position": "MF",
-      "rating": 83,
-      "age": 24,
-      "value": 31452631
+      "rating": 77,
+      "age": 25,
+      "value": 28206315
     },
     {
-      "name": "Juan Burke",
+      "name": "Nicolas Black",
       "position": "MF",
-      "rating": 60,
-      "age": 24,
-      "value": 22736842
+      "rating": 68,
+      "age": 17,
+      "value": 31781052
     },
     {
-      "name": "Oliver Bryan",
+      "name": "Ryan Ward",
       "position": "MF",
-      "rating": 67,
-      "age": 26,
-      "value": 23696842
+      "rating": 89,
+      "age": 16,
+      "value": 40000000
     },
     {
-      "name": "Sebasti\u00e1n Bennett",
-      "position": "FW",
+      "name": "Derrick Stewart",
+      "position": "MF",
       "rating": 80,
+      "age": 18,
+      "value": 36378947
+    },
+    {
+      "name": "Raul West",
+      "position": "MF",
+      "rating": 78,
+      "age": 26,
+      "value": 27587368
+    },
+    {
+      "name": "Finn Lee",
+      "position": "FW",
+      "rating": 88,
+      "age": 31,
+      "value": 31957894
+    },
+    {
+      "name": "Kato Richardson",
+      "position": "FW",
+      "rating": 83,
+      "age": 28,
+      "value": 34073684
+    },
+    {
+      "name": "Maxwell Young",
+      "position": "FW",
+      "rating": 74,
       "age": 18,
       "value": 40000000
     },
     {
-      "name": "Casper Patel",
+      "name": "Jonathan Kwon",
+      "position": "FW",
+      "rating": 86,
+      "age": 32,
+      "value": 29873684
+    },
+    {
+      "name": "William Nakamura",
       "position": "FW",
       "rating": 79,
-      "age": 30,
-      "value": 29936842
-    },
-    {
-      "name": "Emmanuel Peters",
-      "position": "FW",
-      "rating": 60,
-      "age": 22,
-      "value": 30315789
-    },
-    {
-      "name": "Oliver Abebe",
-      "position": "FW",
-      "rating": 89,
-      "age": 23,
-      "value": 40000000
-    },
-    {
-      "name": "Ezequiel Sharma",
-      "position": "FW",
-      "rating": 65,
-      "age": 29,
-      "value": 25657894
+      "age": 31,
+      "value": 28689473
     }
   ],
   "stadium": {

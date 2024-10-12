@@ -2,144 +2,144 @@
   "name": "Tottenham",
   "squad": [
     {
-      "name": "Carlos Freeman",
+      "name": "Jae Henry",
       "position": "GK",
-      "rating": 73,
-      "age": 19,
-      "value": 21515789
+      "rating": 82,
+      "age": 35,
+      "value": 13120000
     },
     {
-      "name": "Zion Russell",
+      "name": "Daichi Marin",
       "position": "GK",
-      "rating": 81,
-      "age": 26,
-      "value": 19098947
-    },
-    {
-      "name": "Aditya Rao",
-      "position": "GK",
-      "rating": 73,
-      "age": 32,
-      "value": 13524210
-    },
-    {
-      "name": "Owen Reid",
-      "position": "DF",
-      "rating": 90,
+      "rating": 88,
       "age": 28,
-      "value": 24631578
+      "value": 19267368
     },
     {
-      "name": "Maurice Rivera",
-      "position": "DF",
-      "rating": 62,
-      "age": 23,
-      "value": 20231578
-    },
-    {
-      "name": "Kwesi \u00c5str\u00f6m",
-      "position": "DF",
-      "rating": 61,
-      "age": 22,
-      "value": 20547368
-    },
-    {
-      "name": "Isaac Ortega",
-      "position": "DF",
+      "name": "Allan Bryant",
+      "position": "GK",
       "rating": 75,
-      "age": 25,
-      "value": 22894736
+      "age": 20,
+      "value": 21473684
     },
     {
-      "name": "Toby Evans",
+      "name": "Nkosinathi Gao",
+      "position": "DF",
+      "rating": 73,
+      "age": 30,
+      "value": 18442105
+    },
+    {
+      "name": "Leon Sanchez",
       "position": "DF",
       "rating": 78,
-      "age": 25,
-      "value": 23810526
-    },
-    {
-      "name": "Javier Reid",
-      "position": "DF",
-      "rating": 75,
-      "age": 19,
-      "value": 27631578
-    },
-    {
-      "name": "Paul Su\u00e1rez",
-      "position": "MF",
-      "rating": 66,
       "age": 17,
-      "value": 30846315
+      "value": 30378947
     },
     {
-      "name": "Adam J\u00f8rgensen",
-      "position": "MF",
-      "rating": 66,
-      "age": 26,
-      "value": 23343157
-    },
-    {
-      "name": "Ricardo Ellis",
-      "position": "MF",
-      "rating": 82,
-      "age": 18,
-      "value": 37288421
-    },
-    {
-      "name": "Morten Sangare",
-      "position": "MF",
-      "rating": 66,
-      "age": 33,
-      "value": 17507368
-    },
-    {
-      "name": "Nils Parsons",
-      "position": "MF",
-      "rating": 61,
-      "age": 26,
-      "value": 21574736
-    },
-    {
-      "name": "Malachi Huang",
-      "position": "MF",
-      "rating": 85,
+      "name": "Marlon Cabrera",
+      "position": "DF",
+      "rating": 90,
       "age": 21,
-      "value": 35431578
+      "value": 31263157
     },
     {
-      "name": "Leonel Kobayashi",
-      "position": "FW",
-      "rating": 69,
+      "name": "Danny Butler",
+      "position": "DF",
+      "rating": 82,
+      "age": 16,
+      "value": 32800000
+    },
+    {
+      "name": "Casper Xu",
+      "position": "DF",
+      "rating": 76,
+      "age": 20,
+      "value": 27200000
+    },
+    {
+      "name": "Jean Anderson",
+      "position": "DF",
+      "rating": 84,
+      "age": 16,
+      "value": 33600000
+    },
+    {
+      "name": "Hiro Rodr\u00edguez",
+      "position": "MF",
+      "rating": 79,
       "age": 31,
-      "value": 25057894
+      "value": 22951578
     },
     {
-      "name": "Tristan Iyanda",
-      "position": "FW",
+      "name": "Maurice Turner",
+      "position": "MF",
+      "rating": 74,
+      "age": 20,
+      "value": 31781052
+    },
+    {
+      "name": "Johannes Jenkins",
+      "position": "MF",
+      "rating": 88,
+      "age": 18,
+      "value": 40000000
+    },
+    {
+      "name": "Kody Gomez",
+      "position": "MF",
+      "rating": 64,
+      "age": 17,
+      "value": 29911578
+    },
+    {
+      "name": "Soren Bailey",
+      "position": "MF",
       "rating": 61,
-      "age": 32,
-      "value": 21189473
+      "age": 31,
+      "value": 17722105
     },
     {
-      "name": "Mario Fletcher",
-      "position": "FW",
-      "rating": 89,
-      "age": 26,
-      "value": 39347368
+      "name": "Alan Hansen",
+      "position": "MF",
+      "rating": 76,
+      "age": 31,
+      "value": 22080000
     },
     {
-      "name": "Kyan Black",
-      "position": "FW",
-      "rating": 85,
-      "age": 29,
-      "value": 33552631
-    },
-    {
-      "name": "Karl Spencer",
+      "name": "Clark Richardson",
       "position": "FW",
       "rating": 87,
-      "age": 35,
-      "value": 26100000
+      "age": 31,
+      "value": 31594736
+    },
+    {
+      "name": "Russell Castillo",
+      "position": "FW",
+      "rating": 61,
+      "age": 34,
+      "value": 19263157
+    },
+    {
+      "name": "Diego Palmer",
+      "position": "FW",
+      "rating": 88,
+      "age": 18,
+      "value": 40000000
+    },
+    {
+      "name": "Liang Sandberg",
+      "position": "FW",
+      "rating": 66,
+      "age": 30,
+      "value": 25010526
+    },
+    {
+      "name": "Damon Pedersen",
+      "position": "FW",
+      "rating": 78,
+      "age": 32,
+      "value": 27094736
     }
   ],
   "stadium": {

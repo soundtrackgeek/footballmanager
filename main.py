@@ -4,6 +4,7 @@ from table import create_table
 from game_simulation import play_week, simulate_season
 from stats import stats
 from transfer_market import TransferMarket, transfer_market_menu, update_transfer_market
+from tactics import Tactics, tactics_menu, select_ai_formation
 
 import random
 import codecs
@@ -191,6 +192,12 @@ def main():
     player_team = choose_team(teams)
     transfer_market = TransferMarket()
     
+    # Add tactics to each team
+    for team in teams:
+        team.tactics = Tactics()
+        if team != player_team:
+            team.tactics.formation = select_ai_formation(team)
+    
     # Always generate a new fixture list when starting a new game
     fixtures = generate_fixture_list(teams)
     save_fixture_list(fixtures)
@@ -215,7 +222,10 @@ def main():
         if choice == "1":
             team_menu(player_team)
         elif choice == "2":
-            print("\nTactics feature not implemented yet.")
+            formation_changed = tactics_menu(player_team)
+            if formation_changed:
+                print("You need to select a new team that fits the new formation.")
+                select_team(player_team)
         elif choice == "3":
             print(f"\nFixtures for Week {current_week}:")
             week_fixtures = get_current_week_fixtures(fixtures, current_week)

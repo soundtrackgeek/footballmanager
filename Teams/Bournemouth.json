@@ -2,144 +2,144 @@
   "name": "Bournemouth",
   "squad": [
     {
-      "name": "Dashiell Fowler",
+      "name": "Haruto Reid",
       "position": "GK",
-      "rating": 78,
-      "age": 30,
-      "value": 15764210
+      "rating": 63,
+      "age": 35,
+      "value": 10080000
     },
     {
-      "name": "Masashi Gomez",
+      "name": "Leon Bradley",
       "position": "GK",
-      "rating": 61,
-      "age": 30,
-      "value": 12328421
+      "rating": 90,
+      "age": 21,
+      "value": 25010526
     },
     {
-      "name": "Hector Parker",
+      "name": "Axel Sato",
       "position": "GK",
-      "rating": 60,
-      "age": 17,
-      "value": 18694736
+      "rating": 90,
+      "age": 20,
+      "value": 25768421
     },
     {
-      "name": "Emil Howard",
+      "name": "Isaac Hamilton",
       "position": "DF",
-      "rating": 82,
-      "age": 33,
-      "value": 18126315
+      "rating": 64,
+      "age": 21,
+      "value": 22231578
     },
     {
-      "name": "Jack Diaz",
+      "name": "Wayne Hughes",
+      "position": "DF",
+      "rating": 75,
+      "age": 25,
+      "value": 22894736
+    },
+    {
+      "name": "Emiliano Liu",
       "position": "DF",
       "rating": 83,
       "age": 21,
       "value": 28831578
     },
     {
-      "name": "Marlon Garza",
+      "name": "Obi Williamson",
       "position": "DF",
-      "rating": 83,
-      "age": 16,
-      "value": 33200000
+      "rating": 67,
+      "age": 20,
+      "value": 23978947
     },
     {
-      "name": "Leonardo Henderson",
+      "name": "Derek Diaz",
       "position": "DF",
-      "rating": 75,
-      "age": 26,
-      "value": 22105263
+      "rating": 70,
+      "age": 20,
+      "value": 25052631
     },
     {
-      "name": "Sam Reed",
+      "name": "Owen Ramos",
       "position": "DF",
-      "rating": 61,
-      "age": 34,
-      "value": 12842105
+      "rating": 62,
+      "age": 31,
+      "value": 15010526
     },
     {
-      "name": "Victor Coleman",
-      "position": "DF",
-      "rating": 75,
-      "age": 28,
-      "value": 20526315
-    },
-    {
-      "name": "Mat\u00edas Peters",
+      "name": "Jeremy Toure",
       "position": "MF",
-      "rating": 71,
-      "age": 29,
-      "value": 22421052
+      "rating": 85,
+      "age": 16,
+      "value": 40000000
     },
     {
-      "name": "Antonio Holt",
+      "name": "Evan Bryan",
+      "position": "MF",
+      "rating": 85,
+      "age": 23,
+      "value": 33284210
+    },
+    {
+      "name": "David Howard",
+      "position": "MF",
+      "rating": 89,
+      "age": 31,
+      "value": 25856842
+    },
+    {
+      "name": "Thabo Eklund",
+      "position": "MF",
+      "rating": 69,
+      "age": 32,
+      "value": 19174736
+    },
+    {
+      "name": "Jean Rivera",
+      "position": "MF",
+      "rating": 76,
+      "age": 26,
+      "value": 26880000
+    },
+    {
+      "name": "Guy Bennett",
       "position": "MF",
       "rating": 64,
-      "age": 17,
-      "value": 29911578
+      "age": 30,
+      "value": 19402105
     },
     {
-      "name": "Leo J\u00f8rgensen",
-      "position": "MF",
-      "rating": 72,
-      "age": 23,
-      "value": 28193684
+      "name": "Cameron Reid",
+      "position": "FW",
+      "rating": 76,
+      "age": 22,
+      "value": 38400000
     },
     {
-      "name": "Robert Castillo",
-      "position": "MF",
-      "rating": 82,
-      "age": 33,
-      "value": 21751578
-    },
-    {
-      "name": "Guy Baker",
-      "position": "MF",
-      "rating": 73,
-      "age": 32,
-      "value": 20286315
-    },
-    {
-      "name": "Roy Griffin",
-      "position": "MF",
+      "name": "Bjorn Harmon",
+      "position": "FW",
       "rating": 75,
-      "age": 34,
-      "value": 18947368
-    },
-    {
-      "name": "Jaden Palacios",
-      "position": "FW",
-      "rating": 82,
-      "age": 23,
+      "age": 18,
       "value": 40000000
     },
     {
-      "name": "Carlos Marshall",
+      "name": "Noah Mcdonald",
       "position": "FW",
-      "rating": 73,
+      "rating": 81,
       "age": 35,
-      "value": 21900000
+      "value": 24300000
     },
     {
-      "name": "David Edwards",
+      "name": "Terry Robinson",
       "position": "FW",
-      "rating": 72,
-      "age": 34,
-      "value": 22736842
+      "rating": 64,
+      "age": 31,
+      "value": 23242105
     },
     {
-      "name": "Logan Olson",
+      "name": "Dennis Nguyen",
       "position": "FW",
-      "rating": 84,
-      "age": 21,
-      "value": 40000000
-    },
-    {
-      "name": "Isak Olofsson",
-      "position": "FW",
-      "rating": 71,
-      "age": 29,
-      "value": 28026315
+      "rating": 90,
+      "age": 30,
+      "value": 34105263
     }
   ],
   "stadium": {

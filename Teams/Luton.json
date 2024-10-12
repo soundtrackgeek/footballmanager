@@ -2,144 +2,144 @@
   "name": "Luton",
   "squad": [
     {
-      "name": "Giovanni Jackson",
+      "name": "Casey Brooks",
       "position": "GK",
-      "rating": 81,
-      "age": 21,
-      "value": 22509473
-    },
-    {
-      "name": "George Brooks",
-      "position": "GK",
-      "rating": 61,
-      "age": 19,
-      "value": 17978947
-    },
-    {
-      "name": "Alonzo Jordan",
-      "position": "GK",
-      "rating": 78,
+      "rating": 77,
       "age": 24,
-      "value": 19705263
+      "value": 19452631
     },
     {
-      "name": "Easton Scott",
+      "name": "Andr\u00e9s Romero",
+      "position": "GK",
+      "rating": 73,
+      "age": 17,
+      "value": 22745263
+    },
+    {
+      "name": "Pedro Baxter",
+      "position": "GK",
+      "rating": 65,
+      "age": 29,
+      "value": 13684210
+    },
+    {
+      "name": "Marco Mikkelsen",
       "position": "DF",
-      "rating": 78,
-      "age": 23,
-      "value": 25452631
+      "rating": 76,
+      "age": 31,
+      "value": 18400000
     },
     {
-      "name": "Sebastian Oliver",
-      "position": "DF",
-      "rating": 83,
-      "age": 25,
-      "value": 25336842
-    },
-    {
-      "name": "Julian Han",
+      "name": "Riley Dur\u00e1n",
       "position": "DF",
       "rating": 62,
-      "age": 21,
-      "value": 21536842
+      "age": 27,
+      "value": 17621052
     },
     {
-      "name": "Sam Peterson",
-      "position": "DF",
-      "rating": 84,
-      "age": 23,
-      "value": 27410526
-    },
-    {
-      "name": "Warren Griffin",
+      "name": "Tanner Bryant",
       "position": "DF",
       "rating": 63,
       "age": 24,
       "value": 19894736
     },
     {
-      "name": "Franklin Rivera",
+      "name": "Sefu Goodman",
       "position": "DF",
-      "rating": 64,
-      "age": 33,
-      "value": 14147368
+      "rating": 84,
+      "age": 20,
+      "value": 30063157
     },
     {
-      "name": "Steve Murray",
+      "name": "Clayton Payne",
+      "position": "DF",
+      "rating": 83,
+      "age": 29,
+      "value": 21842105
+    },
+    {
+      "name": "Leo Mills",
+      "position": "DF",
+      "rating": 65,
+      "age": 23,
+      "value": 21210526
+    },
+    {
+      "name": "Kody Morgan",
       "position": "MF",
-      "rating": 79,
-      "age": 26,
-      "value": 27941052
-    },
-    {
-      "name": "Logan Hicks",
-      "position": "MF",
-      "rating": 71,
-      "age": 22,
-      "value": 28698947
-    },
-    {
-      "name": "Emiliano Franco",
-      "position": "MF",
-      "rating": 63,
-      "age": 34,
-      "value": 15915789
-    },
-    {
-      "name": "Jackson Perry",
-      "position": "MF",
-      "rating": 66,
-      "age": 25,
-      "value": 24176842
-    },
-    {
-      "name": "Gabriel Sangare",
-      "position": "MF",
-      "rating": 61,
-      "age": 34,
-      "value": 15410526
-    },
-    {
-      "name": "Kwesi Wallace",
-      "position": "MF",
-      "rating": 62,
-      "age": 27,
-      "value": 21145263
-    },
-    {
-      "name": "Alfonso Diaz",
-      "position": "FW",
-      "rating": 61,
-      "age": 25,
-      "value": 27931578
-    },
-    {
-      "name": "Torsten Yeboah",
-      "position": "FW",
-      "rating": 85,
+      "rating": 69,
       "age": 24,
-      "value": 40000000
+      "value": 26147368
     },
     {
-      "name": "Donovan Shin",
+      "name": "Jake Murray",
+      "position": "MF",
+      "rating": 65,
+      "age": 34,
+      "value": 16421052
+    },
+    {
+      "name": "Morgan Blake",
+      "position": "MF",
+      "rating": 65,
+      "age": 31,
+      "value": 18884210
+    },
+    {
+      "name": "Preston Kobayashi",
+      "position": "MF",
+      "rating": 75,
+      "age": 18,
+      "value": 34105263
+    },
+    {
+      "name": "Dexter Lindberg",
+      "position": "MF",
+      "rating": 68,
+      "age": 22,
+      "value": 27486315
+    },
+    {
+      "name": "Anil Stewart",
+      "position": "MF",
+      "rating": 78,
+      "age": 23,
+      "value": 30543157
+    },
+    {
+      "name": "Wei-Lun Franklin",
       "position": "FW",
       "rating": 83,
-      "age": 17,
-      "value": 40000000
+      "age": 30,
+      "value": 31452631
     },
     {
-      "name": "Soren S\u00f6derberg",
+      "name": "Kofi Fletcher",
+      "position": "FW",
+      "rating": 62,
+      "age": 32,
+      "value": 21536842
+    },
+    {
+      "name": "Tyson Shin",
+      "position": "FW",
+      "rating": 77,
+      "age": 23,
+      "value": 37689473
+    },
+    {
+      "name": "Liam Henderson",
+      "position": "FW",
+      "rating": 62,
+      "age": 22,
+      "value": 31326315
+    },
+    {
+      "name": "Wesley Espinoza",
       "position": "FW",
       "rating": 82,
-      "age": 19,
-      "value": 40000000
-    },
-    {
-      "name": "Carl Barnett",
-      "position": "FW",
-      "rating": 86,
-      "age": 34,
-      "value": 27157894
+      "age": 28,
+      "value": 33663157
     }
   ],
   "stadium": {

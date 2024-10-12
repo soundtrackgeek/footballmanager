@@ -2,6 +2,7 @@ import random
 import json
 import os
 from player import Player, Position
+from tactics import Tactics, Formation
 
 # Add this dictionary at the top of the file, after the imports
 STADIUMS = {
@@ -49,17 +50,20 @@ class Team:
         return sum(player.rating for player in self.selected_players) / len(self.selected_players)
 
     def auto_select_team(self):
-        required_positions = {Position.GK: 1, Position.DF: 4, Position.MF: 4, Position.FW: 2}
-        self.selected_players = []
+        required_positions = self.tactics.get_formation_requirements()
+        selected_players = []
 
+        # Select goalkeeper first
+        available_goalkeepers = [p for p in self.squad if p.position.name == "GK" and not p.injured]
+        if available_goalkeepers:
+            selected_players.append(max(available_goalkeepers, key=lambda x: x.rating))
+
+        # Select outfield players
         for position, count in required_positions.items():
-            available_players = sorted(
-                [p for p in self.squad if p.position == position and not p.injured],
-                key=lambda x: x.rating,
-                reverse=True
-            )
-            self.selected_players.extend(available_players[:count])
+            available_players = [p for p in self.squad if p.position.name == position and not p.injured and p not in selected_players]
+            selected_players.extend(sorted(available_players, key=lambda x: x.rating, reverse=True)[:count])
 
+        self.selected_players = selected_players
         return self.calculate_team_rating()
 
     def handle_injuries(self):
@@ -104,6 +108,7 @@ def create_teams():
     teams = [Team(name) for name in team_names]
     for team in teams:
         generate_squad(team)
+        team.tactics = Tactics()  # Add this line
         save_team_to_file(team)
     return teams
 
@@ -162,10 +167,10 @@ def display_squad(team):
         print(f"{i}. {player.name} - {player.position.name} - Rating: {player.rating} - Age: {player.age} - Value: £{player.value:,}")
 
 def select_team(team):
-    required_positions = {Position.GK: 1, Position.DF: 4, Position.MF: 4, Position.FW: 2}
+    required_positions = team.tactics.get_formation_requirements()
     selected_players = []
 
-    print(f"\nSelect 11 players for {team.name}:")
+    print(f"\nSelect 11 players for {team.name} (Formation: {team.tactics.formation.value}):")
     
     # Handle injured players first
     if team.injured_players:
@@ -173,28 +178,43 @@ def select_team(team):
         for injured_player in team.injured_players:
             print(f"{injured_player.name} - {injured_player.position.name} - Out for {injured_player.injury_weeks_left} weeks")
     
-    # Select remaining players
+    # Select goalkeeper first
+    print("\nSelect 1 Goalkeeper:")
+    available_goalkeepers = [p for p in team.squad if p.position.name == "GK" and not p.injured]
+    for i, player in enumerate(available_goalkeepers, 1):
+        print(f"{i}. {player.name} - Rating: {player.rating} - Age: {player.age} - Value: £{player.value:,}")
+    
+    while True:
+        try:
+            choice = int(input("Select goalkeeper: ")) - 1
+            if 0 <= choice < len(available_goalkeepers):
+                selected_players.append(available_goalkeepers[choice])
+                break
+            else:
+                print("Invalid choice. Please try again.")
+        except ValueError:
+            print("Please enter a valid number.")
+
+    # Select remaining outfield players
     for position, count in required_positions.items():
-        remaining_count = count - sum(1 for p in selected_players if p.position == position)
-        if remaining_count > 0:
-            print(f"\nSelect {remaining_count} {position.name}(s):")
-            available_players = [p for p in team.squad if p.position == position and not p.injured and p not in selected_players]
+        print(f"\nSelect {count} {position}(s):")
+        available_players = [p for p in team.squad if p.position.name == position and not p.injured and p not in selected_players]
+        
+        for _ in range(count):
+            display_squad = [p for p in available_players if p not in selected_players]
+            for i, player in enumerate(display_squad, 1):
+                print(f"{i}. {player.name} - Rating: {player.rating} - Age: {player.age} - Value: £{player.value:,}")
             
-            for _ in range(remaining_count):
-                display_squad = [p for p in available_players if p not in selected_players]
-                for i, player in enumerate(display_squad, 1):
-                    print(f"{i}. {player.name} - Rating: {player.rating} - Age: {player.age} - Value: £{player.value:,}")
-                
-                while True:
-                    try:
-                        choice = int(input(f"Select player {len(selected_players) + 1}: ")) - 1
-                        if 0 <= choice < len(display_squad):
-                            selected_players.append(display_squad[choice])
-                            break
-                        else:
-                            print("Invalid choice. Please try again.")
-                    except ValueError:
-                        print("Please enter a valid number.")
+            while True:
+                try:
+                    choice = int(input(f"Select player {len(selected_players) + 1}: ")) - 1
+                    if 0 <= choice < len(display_squad):
+                        selected_players.append(display_squad[choice])
+                        break
+                    else:
+                        print("Invalid choice. Please try again.")
+                except ValueError:
+                    print("Please enter a valid number.")
 
     team.selected_players = selected_players
     print("\nSelected Team:")
@@ -207,7 +227,21 @@ def select_team(team):
     return team_rating
 
 def auto_select_team(team):
-    team.auto_select_team()
+    required_positions = team.tactics.get_formation_requirements()
+    selected_players = []
+
+    # Select goalkeeper first
+    available_goalkeepers = [p for p in team.squad if p.position.name == "GK" and not p.injured]
+    if available_goalkeepers:
+        selected_players.append(max(available_goalkeepers, key=lambda x: x.rating))
+
+    # Select outfield players
+    for position, count in required_positions.items():
+        available_players = [p for p in team.squad if p.position.name == position and not p.injured and p not in selected_players]
+        selected_players.extend(sorted(available_players, key=lambda x: x.rating, reverse=True)[:count])
+
+    team.selected_players = selected_players
+    return team.calculate_team_rating()
 
 def generate_sponsorship_offers():
     # Read sponsor names from the file

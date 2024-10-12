@@ -2,144 +2,144 @@
   "name": "Everton",
   "squad": [
     {
-      "name": "Soren Hansen",
+      "name": "Carlos Mehta",
       "position": "GK",
-      "rating": 77,
-      "age": 34,
-      "value": 12968421
+      "rating": 63,
+      "age": 30,
+      "value": 12732631
     },
     {
-      "name": "Babatunde Brown",
+      "name": "Luke Park",
       "position": "GK",
       "rating": 83,
-      "age": 23,
-      "value": 21667368
+      "age": 26,
+      "value": 19570526
     },
     {
-      "name": "Travis Mikkelsen",
+      "name": "Carl Gonzales",
       "position": "GK",
-      "rating": 74,
-      "age": 17,
-      "value": 23056842
+      "rating": 77,
+      "age": 24,
+      "value": 19452631
     },
     {
-      "name": "Toshiro Parker",
+      "name": "Julian Hunt",
       "position": "DF",
-      "rating": 67,
-      "age": 16,
-      "value": 26800000
+      "rating": 73,
+      "age": 19,
+      "value": 26894736
     },
     {
-      "name": "Jin Mason",
+      "name": "Ade Gustavsson",
       "position": "DF",
-      "rating": 62,
-      "age": 17,
-      "value": 24147368
-    },
-    {
-      "name": "Keita Hart",
-      "position": "DF",
-      "rating": 71,
-      "age": 34,
-      "value": 14947368
-    },
-    {
-      "name": "Nathaniel Medina",
-      "position": "DF",
-      "rating": 66,
+      "rating": 64,
       "age": 35,
-      "value": 13200000
+      "value": 12800000
     },
     {
-      "name": "Magnus Verma",
+      "name": "Quinn Stone",
       "position": "DF",
-      "rating": 85,
-      "age": 33,
-      "value": 18789473
+      "rating": 74,
+      "age": 35,
+      "value": 14800000
     },
     {
-      "name": "Sebastian Mori",
+      "name": "Drew Hamilton",
       "position": "DF",
-      "rating": 80,
-      "age": 34,
-      "value": 16842105
+      "rating": 81,
+      "age": 25,
+      "value": 24726315
     },
     {
-      "name": "Emiliano Pineda",
+      "name": "Andrew Eze",
+      "position": "DF",
+      "rating": 90,
+      "age": 17,
+      "value": 35052631
+    },
+    {
+      "name": "Desmond Watkins",
+      "position": "DF",
+      "rating": 83,
+      "age": 27,
+      "value": 23589473
+    },
+    {
+      "name": "Malachi Watanabe",
       "position": "MF",
-      "rating": 66,
-      "age": 20,
-      "value": 28345263
+      "rating": 87,
+      "age": 26,
+      "value": 30770526
     },
     {
-      "name": "Sebastian Tanaka",
+      "name": "Emiliano Gomes",
       "position": "MF",
       "rating": 82,
-      "age": 33,
-      "value": 21751578
+      "age": 28,
+      "value": 26930526
     },
     {
-      "name": "Ethan Cox",
+      "name": "Jean Holmberg",
       "position": "MF",
-      "rating": 73,
-      "age": 20,
-      "value": 31351578
-    },
-    {
-      "name": "Taylor Flores",
-      "position": "MF",
-      "rating": 65,
-      "age": 16,
-      "value": 31200000
-    },
-    {
-      "name": "Paige \u00c5kesson",
-      "position": "MF",
-      "rating": 77,
-      "age": 31,
-      "value": 22370526
-    },
-    {
-      "name": "Travis Shaw",
-      "position": "MF",
-      "rating": 61,
-      "age": 20,
-      "value": 26197894
-    },
-    {
-      "name": "Uriah Larsson",
-      "position": "FW",
-      "rating": 61,
-      "age": 33,
-      "value": 20226315
-    },
-    {
-      "name": "Desmond Griffin",
-      "position": "FW",
-      "rating": 79,
+      "rating": 74,
       "age": 34,
-      "value": 24947368
+      "value": 18694736
     },
     {
-      "name": "Ricardo Murray",
-      "position": "FW",
-      "rating": 69,
-      "age": 21,
-      "value": 35952631
-    },
-    {
-      "name": "Andres Sharp",
-      "position": "FW",
-      "rating": 68,
+      "name": "Alejandro Nkosi",
+      "position": "MF",
+      "rating": 67,
       "age": 24,
-      "value": 32210526
+      "value": 25389473
     },
     {
-      "name": "Terry Silva",
+      "name": "Quentin Larsen",
+      "position": "MF",
+      "rating": 72,
+      "age": 35,
+      "value": 17280000
+    },
+    {
+      "name": "Tyler Ross",
+      "position": "MF",
+      "rating": 90,
+      "age": 22,
+      "value": 36378947
+    },
+    {
+      "name": "Pablo Castillo",
+      "position": "FW",
+      "rating": 74,
+      "age": 26,
+      "value": 32715789
+    },
+    {
+      "name": "Cyrus Cunningham",
+      "position": "FW",
+      "rating": 73,
+      "age": 35,
+      "value": 21900000
+    },
+    {
+      "name": "Ryan Turner",
+      "position": "FW",
+      "rating": 80,
+      "age": 17,
+      "value": 40000000
+    },
+    {
+      "name": "Tyson Chukwu",
       "position": "FW",
       "rating": 81,
-      "age": 26,
-      "value": 35810526
+      "age": 18,
+      "value": 40000000
+    },
+    {
+      "name": "Lincoln Mills",
+      "position": "FW",
+      "rating": 69,
+      "age": 30,
+      "value": 26147368
     }
   ],
   "stadium": {

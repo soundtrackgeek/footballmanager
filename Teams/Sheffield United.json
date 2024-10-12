@@ -2,144 +2,144 @@
   "name": "Sheffield United",
   "squad": [
     {
-      "name": "Rene Franklin",
+      "name": "Weston Cook",
       "position": "GK",
-      "rating": 77,
-      "age": 33,
-      "value": 13616842
-    },
-    {
-      "name": "Hayden Shaw",
-      "position": "GK",
-      "rating": 63,
-      "age": 16,
-      "value": 20160000
-    },
-    {
-      "name": "Hank Morgan",
-      "position": "GK",
-      "rating": 73,
-      "age": 32,
-      "value": 13524210
-    },
-    {
-      "name": "Wei-Lun Long",
-      "position": "DF",
-      "rating": 81,
-      "age": 26,
-      "value": 23873684
-    },
-    {
-      "name": "Raj Morales",
-      "position": "DF",
-      "rating": 86,
-      "age": 28,
-      "value": 23536842
-    },
-    {
-      "name": "Wesley Henriksen",
-      "position": "DF",
-      "rating": 70,
-      "age": 28,
-      "value": 19157894
-    },
-    {
-      "name": "Liang Flores",
-      "position": "DF",
-      "rating": 80,
-      "age": 16,
-      "value": 32000000
-    },
-    {
-      "name": "Lewis Wang",
-      "position": "DF",
-      "rating": 74,
-      "age": 25,
-      "value": 22589473
-    },
-    {
-      "name": "Rory Holland",
-      "position": "DF",
-      "rating": 63,
-      "age": 22,
-      "value": 21221052
-    },
-    {
-      "name": "Levi Mwangi",
-      "position": "MF",
-      "rating": 67,
-      "age": 16,
-      "value": 32160000
-    },
-    {
-      "name": "Babatunde Barnes",
-      "position": "MF",
       "rating": 68,
-      "age": 26,
-      "value": 24050526
+      "age": 32,
+      "value": 12597894
     },
     {
-      "name": "Carter Liu",
-      "position": "MF",
+      "name": "Stephen Toure",
+      "position": "GK",
+      "rating": 86,
+      "age": 32,
+      "value": 15932631
+    },
+    {
+      "name": "Adeola Cruz",
+      "position": "GK",
       "rating": 60,
       "age": 25,
-      "value": 21978947
+      "value": 14652631
     },
     {
-      "name": "Ross Stokes",
-      "position": "MF",
-      "rating": 69,
-      "age": 33,
-      "value": 18303157
+      "name": "Harry Cox",
+      "position": "DF",
+      "rating": 83,
+      "age": 21,
+      "value": 28831578
     },
     {
-      "name": "Noel Rogers",
+      "name": "Simon Ramirez",
+      "position": "DF",
+      "rating": 82,
+      "age": 35,
+      "value": 16400000
+    },
+    {
+      "name": "Trevor Morgan",
+      "position": "DF",
+      "rating": 67,
+      "age": 32,
+      "value": 15515789
+    },
+    {
+      "name": "Kobe Silva",
+      "position": "DF",
+      "rating": 73,
+      "age": 17,
+      "value": 28431578
+    },
+    {
+      "name": "Shawn Rojas",
+      "position": "DF",
+      "rating": 85,
+      "age": 27,
+      "value": 24157894
+    },
+    {
+      "name": "Raymond Morris",
+      "position": "DF",
+      "rating": 76,
+      "age": 22,
+      "value": 25600000
+    },
+    {
+      "name": "Jermaine \u00c5kesson",
       "position": "MF",
-      "rating": 61,
+      "rating": 87,
       "age": 18,
-      "value": 27738947
+      "value": 39562105
     },
     {
-      "name": "Harold Gonzales",
+      "name": "Adri\u00e1n Valencia",
       "position": "MF",
-      "rating": 89,
-      "age": 34,
-      "value": 22484210
+      "rating": 60,
+      "age": 29,
+      "value": 18947368
     },
     {
-      "name": "Nkosinathi Fletcher",
-      "position": "FW",
-      "rating": 63,
-      "age": 28,
-      "value": 25863157
+      "name": "Obi Larsen",
+      "position": "MF",
+      "rating": 87,
+      "age": 21,
+      "value": 36265263
     },
     {
-      "name": "Sage Barnett",
-      "position": "FW",
+      "name": "Bruno Guerrero",
+      "position": "MF",
+      "rating": 76,
+      "age": 30,
+      "value": 23040000
+    },
+    {
+      "name": "Austin Franklin",
+      "position": "MF",
+      "rating": 62,
+      "age": 33,
+      "value": 16446315
+    },
+    {
+      "name": "Daryl Bradley",
+      "position": "MF",
       "rating": 69,
-      "age": 20,
-      "value": 37042105
+      "age": 17,
+      "value": 32248421
     },
     {
-      "name": "Josiah Murphy",
+      "name": "Viktor West",
       "position": "FW",
-      "rating": 89,
-      "age": 35,
-      "value": 26700000
+      "rating": 77,
+      "age": 16,
+      "value": 40000000
     },
     {
-      "name": "Bart Ciss\u00e9",
+      "name": "Torsten Sharp",
       "position": "FW",
-      "rating": 63,
+      "rating": 83,
       "age": 34,
-      "value": 19894736
+      "value": 26210526
     },
     {
-      "name": "Douglas Olson",
+      "name": "Mat\u00edas Fuentes",
       "position": "FW",
-      "rating": 75,
-      "age": 35,
-      "value": 22500000
+      "rating": 68,
+      "age": 28,
+      "value": 27915789
+    },
+    {
+      "name": "Veer Kimura",
+      "position": "FW",
+      "rating": 83,
+      "age": 25,
+      "value": 38005263
+    },
+    {
+      "name": "Jack Reed",
+      "position": "FW",
+      "rating": 87,
+      "age": 27,
+      "value": 37089473
     }
   ],
   "stadium": {
