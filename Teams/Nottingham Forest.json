@@ -2,144 +2,144 @@
   "name": "Nottingham Forest",
   "squad": [
     {
-      "name": "Daniel Taylor",
+      "name": "Jesse Palmer",
       "position": "GK",
-      "rating": 81,
-      "age": 33,
-      "value": 14324210
+      "rating": 82,
+      "age": 34,
+      "value": 13810526
     },
     {
-      "name": "Steven Brown",
+      "name": "Leonardo Barrios",
       "position": "GK",
-      "rating": 61,
+      "rating": 83,
+      "age": 28,
+      "value": 18172631
+    },
+    {
+      "name": "Marcus Gordon",
+      "position": "GK",
+      "rating": 85,
+      "age": 18,
+      "value": 25768421
+    },
+    {
+      "name": "Fredrik Thomsen",
+      "position": "DF",
+      "rating": 83,
+      "age": 23,
+      "value": 27084210
+    },
+    {
+      "name": "Brantley Bailey",
+      "position": "DF",
+      "rating": 67,
       "age": 25,
-      "value": 14896842
+      "value": 20452631
     },
     {
-      "name": "Brian Lopez",
-      "position": "GK",
+      "name": "Lars Andersen",
+      "position": "DF",
+      "rating": 87,
+      "age": 34,
+      "value": 18315789
+    },
+    {
+      "name": "Benjamin Torbj\u00f6rnsson",
+      "position": "DF",
+      "rating": 61,
+      "age": 22,
+      "value": 20547368
+    },
+    {
+      "name": "Lamine Osei",
+      "position": "DF",
+      "rating": 62,
+      "age": 29,
+      "value": 16315789
+    },
+    {
+      "name": "Chad Simmons",
+      "position": "DF",
+      "rating": 73,
+      "age": 17,
+      "value": 28431578
+    },
+    {
+      "name": "Dalton West",
+      "position": "MF",
+      "rating": 64,
+      "age": 23,
+      "value": 25061052
+    },
+    {
+      "name": "Uriah Oliver",
+      "position": "MF",
+      "rating": 69,
+      "age": 25,
+      "value": 25275789
+    },
+    {
+      "name": "Haruto Xu",
+      "position": "MF",
+      "rating": 70,
+      "age": 29,
+      "value": 22105263
+    },
+    {
+      "name": "Roland Patterson",
+      "position": "MF",
+      "rating": 62,
+      "age": 24,
+      "value": 23494736
+    },
+    {
+      "name": "Drew Palmer",
+      "position": "MF",
+      "rating": 87,
+      "age": 26,
+      "value": 30770526
+    },
+    {
+      "name": "Cael Bennett",
+      "position": "MF",
+      "rating": 60,
+      "age": 17,
+      "value": 28042105
+    },
+    {
+      "name": "Adel Rodriguez",
+      "position": "FW",
+      "rating": 79,
+      "age": 34,
+      "value": 24947368
+    },
+    {
+      "name": "Bryce Gray",
+      "position": "FW",
+      "rating": 78,
+      "age": 33,
+      "value": 25863157
+    },
+    {
+      "name": "Gavin Pena",
+      "position": "FW",
       "rating": 72,
       "age": 19,
-      "value": 21221052
+      "value": 39789473
     },
     {
-      "name": "Daniel Gonzalez",
-      "position": "DF",
-      "rating": 70,
-      "age": 17,
-      "value": 27263157
-    },
-    {
-      "name": "Edward Williams",
-      "position": "DF",
-      "rating": 89,
-      "age": 21,
-      "value": 30915789
-    },
-    {
-      "name": "Anthony Jackson",
-      "position": "DF",
-      "rating": 86,
-      "age": 32,
-      "value": 19915789
-    },
-    {
-      "name": "George Gonzalez",
-      "position": "DF",
-      "rating": 61,
-      "age": 21,
-      "value": 21189473
-    },
-    {
-      "name": "Richard Smith",
-      "position": "DF",
-      "rating": 70,
-      "age": 25,
-      "value": 21368421
-    },
-    {
-      "name": "Paul Garcia",
-      "position": "DF",
-      "rating": 60,
-      "age": 35,
-      "value": 12000000
-    },
-    {
-      "name": "James Brown",
-      "position": "MF",
-      "rating": 68,
-      "age": 35,
-      "value": 16320000
-    },
-    {
-      "name": "Kenneth Anderson",
-      "position": "MF",
-      "rating": 84,
-      "age": 18,
-      "value": 38197894
-    },
-    {
-      "name": "Charles Taylor",
-      "position": "MF",
-      "rating": 75,
-      "age": 27,
-      "value": 25578947
-    },
-    {
-      "name": "Paul Moore",
-      "position": "MF",
-      "rating": 61,
-      "age": 27,
-      "value": 20804210
-    },
-    {
-      "name": "George Davis",
-      "position": "MF",
-      "rating": 60,
-      "age": 24,
-      "value": 22736842
-    },
-    {
-      "name": "John Martin",
-      "position": "MF",
-      "rating": 66,
-      "age": 16,
-      "value": 31680000
-    },
-    {
-      "name": "William Smith",
+      "name": "Desmond Griffin",
       "position": "FW",
-      "rating": 73,
-      "age": 32,
-      "value": 25357894
-    },
-    {
-      "name": "David Hernandez",
-      "position": "FW",
-      "rating": 71,
-      "age": 30,
-      "value": 26905263
-    },
-    {
-      "name": "Michael Hernandez",
-      "position": "FW",
-      "rating": 76,
-      "age": 18,
+      "rating": 81,
+      "age": 19,
       "value": 40000000
     },
     {
-      "name": "Kenneth Williams",
+      "name": "Tanner Garcia",
       "position": "FW",
       "rating": 73,
-      "age": 26,
-      "value": 32273684
-    },
-    {
-      "name": "Kenneth Smith",
-      "position": "FW",
-      "rating": 60,
       "age": 31,
-      "value": 21789473
+      "value": 26510526
     }
   ],
   "stadium": {

@@ -2,144 +2,144 @@
   "name": "Everton",
   "squad": [
     {
-      "name": "Paul Moore",
+      "name": "Jean Richards",
       "position": "GK",
-      "rating": 63,
-      "age": 32,
-      "value": 11671578
+      "rating": 87,
+      "age": 34,
+      "value": 14652631
     },
     {
-      "name": "George Rodriguez",
+      "name": "James Cook",
       "position": "GK",
-      "rating": 75,
-      "age": 24,
-      "value": 18947368
-    },
-    {
-      "name": "Donald Rodriguez",
-      "position": "GK",
-      "rating": 83,
-      "age": 27,
-      "value": 18871578
-    },
-    {
-      "name": "Charles Smith",
-      "position": "DF",
-      "rating": 73,
-      "age": 21,
-      "value": 25357894
-    },
-    {
-      "name": "Michael Martinez",
-      "position": "DF",
-      "rating": 61,
-      "age": 26,
-      "value": 17978947
-    },
-    {
-      "name": "Charles Williams",
-      "position": "DF",
-      "rating": 81,
-      "age": 21,
-      "value": 28136842
-    },
-    {
-      "name": "Steven Hernandez",
-      "position": "DF",
-      "rating": 81,
-      "age": 27,
-      "value": 23021052
-    },
-    {
-      "name": "Kenneth Williams",
-      "position": "DF",
-      "rating": 79,
-      "age": 33,
-      "value": 17463157
-    },
-    {
-      "name": "David Wilson",
-      "position": "DF",
-      "rating": 82,
+      "rating": 78,
       "age": 30,
-      "value": 20715789
+      "value": 15764210
     },
     {
-      "name": "Ronald Miller",
-      "position": "MF",
-      "rating": 71,
+      "name": "Uriel Murray",
+      "position": "GK",
+      "rating": 90,
+      "age": 26,
+      "value": 21221052
+    },
+    {
+      "name": "Diego Diaz",
+      "position": "DF",
+      "rating": 62,
+      "age": 25,
+      "value": 18926315
+    },
+    {
+      "name": "Ezra Bryant",
+      "position": "DF",
+      "rating": 67,
+      "age": 33,
+      "value": 14810526
+    },
+    {
+      "name": "Dorian Peterson",
+      "position": "DF",
+      "rating": 60,
+      "age": 20,
+      "value": 21473684
+    },
+    {
+      "name": "Izaiah Banks",
+      "position": "DF",
+      "rating": 75,
       "age": 32,
-      "value": 19730526
+      "value": 17368421
     },
     {
-      "name": "Daniel Davis",
+      "name": "Antonio Cruz",
+      "position": "DF",
+      "rating": 88,
+      "age": 26,
+      "value": 25936842
+    },
+    {
+      "name": "Tao-Jun Bhatia",
+      "position": "DF",
+      "rating": 66,
+      "age": 24,
+      "value": 20842105
+    },
+    {
+      "name": "Yahir Ramirez",
+      "position": "MF",
+      "rating": 81,
+      "age": 22,
+      "value": 32741052
+    },
+    {
+      "name": "Ravi Patel",
+      "position": "MF",
+      "rating": 61,
+      "age": 20,
+      "value": 26197894
+    },
+    {
+      "name": "Elliot Burke",
+      "position": "MF",
+      "rating": 70,
+      "age": 21,
+      "value": 29178947
+    },
+    {
+      "name": "Wei Li",
       "position": "MF",
       "rating": 74,
-      "age": 31,
-      "value": 21498947
+      "age": 26,
+      "value": 26172631
     },
     {
-      "name": "Steven Hernandez",
+      "name": "Jos\u00e9 Palacios",
       "position": "MF",
-      "rating": 64,
+      "rating": 88,
+      "age": 27,
+      "value": 30012631
+    },
+    {
+      "name": "Bart Phillips",
+      "position": "MF",
+      "rating": 69,
+      "age": 18,
+      "value": 31376842
+    },
+    {
+      "name": "Noel Franklin",
+      "position": "FW",
+      "rating": 78,
       "age": 32,
-      "value": 17785263
+      "value": 27094736
     },
     {
-      "name": "Anthony Thomas",
-      "position": "MF",
-      "rating": 83,
-      "age": 35,
-      "value": 19920000
+      "name": "Adeyemi Nkosi",
+      "position": "FW",
+      "rating": 62,
+      "age": 34,
+      "value": 19578947
     },
     {
-      "name": "Paul Brown",
-      "position": "MF",
-      "rating": 80,
-      "age": 30,
-      "value": 24252631
-    },
-    {
-      "name": "George Brown",
-      "position": "MF",
-      "rating": 86,
-      "age": 17,
+      "name": "Tumelo Ekwueme",
+      "position": "FW",
+      "rating": 88,
+      "age": 25,
       "value": 40000000
     },
     {
-      "name": "George Johnson",
+      "name": "Dean Barnett",
+      "position": "FW",
+      "rating": 60,
+      "age": 24,
+      "value": 28421052
+    },
+    {
+      "name": "Larry Hicks",
       "position": "FW",
       "rating": 65,
-      "age": 24,
-      "value": 30789473
-    },
-    {
-      "name": "Thomas Thomas",
-      "position": "FW",
-      "rating": 73,
-      "age": 29,
-      "value": 28815789
-    },
-    {
-      "name": "Robert Anderson",
-      "position": "FW",
-      "rating": 86,
-      "age": 33,
-      "value": 28515789
-    },
-    {
-      "name": "John Taylor",
-      "position": "FW",
-      "rating": 77,
-      "age": 25,
-      "value": 35257894
-    },
-    {
-      "name": "Steven Jackson",
-      "position": "FW",
-      "rating": 68,
-      "age": 34,
-      "value": 21473684
+      "age": 18,
+      "value": 36947368
     }
   ],
   "stadium": {

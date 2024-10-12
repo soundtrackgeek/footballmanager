@@ -2,144 +2,144 @@
   "name": "Burnley",
   "squad": [
     {
-      "name": "Kenneth Johnson",
+      "name": "Dennis Bell",
       "position": "GK",
-      "rating": 79,
-      "age": 18,
-      "value": 23949473
-    },
-    {
-      "name": "John Martinez",
-      "position": "GK",
-      "rating": 78,
-      "age": 29,
-      "value": 16421052
-    },
-    {
-      "name": "Charles Miller",
-      "position": "GK",
-      "rating": 80,
-      "age": 32,
-      "value": 14821052
-    },
-    {
-      "name": "Edward Jones",
-      "position": "DF",
-      "rating": 69,
-      "age": 22,
-      "value": 23242105
-    },
-    {
-      "name": "David Rodriguez",
-      "position": "DF",
-      "rating": 70,
-      "age": 30,
-      "value": 17684210
-    },
-    {
-      "name": "Robert Miller",
-      "position": "DF",
-      "rating": 73,
-      "age": 22,
-      "value": 24589473
-    },
-    {
-      "name": "George Jones",
-      "position": "DF",
-      "rating": 86,
-      "age": 29,
-      "value": 22631578
-    },
-    {
-      "name": "David Taylor",
-      "position": "DF",
-      "rating": 65,
-      "age": 19,
-      "value": 23947368
-    },
-    {
-      "name": "Thomas Wilson",
-      "position": "DF",
-      "rating": 66,
-      "age": 18,
-      "value": 25010526
-    },
-    {
-      "name": "Richard Jones",
-      "position": "MF",
-      "rating": 65,
-      "age": 32,
-      "value": 18063157
-    },
-    {
-      "name": "James Martin",
-      "position": "MF",
-      "rating": 69,
-      "age": 34,
-      "value": 17431578
-    },
-    {
-      "name": "Michael Williams",
-      "position": "MF",
       "rating": 85,
-      "age": 24,
-      "value": 32210526
+      "age": 19,
+      "value": 25052631
     },
     {
-      "name": "David Jones",
-      "position": "MF",
-      "rating": 82,
+      "name": "Rajesh Desai",
+      "position": "GK",
+      "rating": 68,
       "age": 22,
-      "value": 33145263
+      "value": 18324210
     },
     {
-      "name": "Paul Brown",
-      "position": "MF",
+      "name": "Kelly Morgan",
+      "position": "GK",
+      "rating": 87,
+      "age": 16,
+      "value": 27840000
+    },
+    {
+      "name": "Isaac Newman",
+      "position": "DF",
+      "rating": 76,
+      "age": 19,
+      "value": 28000000
+    },
+    {
+      "name": "Gunnar West",
+      "position": "DF",
+      "rating": 60,
+      "age": 30,
+      "value": 15157894
+    },
+    {
+      "name": "Garrett Castillo",
+      "position": "DF",
+      "rating": 67,
+      "age": 19,
+      "value": 24684210
+    },
+    {
+      "name": "Kameron Ray",
+      "position": "DF",
       "rating": 72,
-      "age": 34,
-      "value": 18189473
+      "age": 22,
+      "value": 24252631
     },
     {
-      "name": "Anthony Hernandez",
+      "name": "Leo Baxter",
+      "position": "DF",
+      "rating": 85,
+      "age": 30,
+      "value": 21473684
+    },
+    {
+      "name": "Rogelio Bates",
+      "position": "DF",
+      "rating": 81,
+      "age": 31,
+      "value": 19610526
+    },
+    {
+      "name": "Gunnar West",
+      "position": "MF",
+      "rating": 66,
+      "age": 16,
+      "value": 31680000
+    },
+    {
+      "name": "Nicholas Phelps",
       "position": "MF",
       "rating": 63,
-      "age": 24,
-      "value": 23873684
+      "age": 19,
+      "value": 27852631
     },
     {
-      "name": "Steven Jackson",
-      "position": "FW",
+      "name": "Tunde Dlamini",
+      "position": "MF",
+      "rating": 70,
+      "age": 17,
+      "value": 32715789
+    },
+    {
+      "name": "Kevin Whitaker",
+      "position": "MF",
+      "rating": 89,
+      "age": 31,
+      "value": 25856842
+    },
+    {
+      "name": "Bhekizizwe Abiola",
+      "position": "MF",
+      "rating": 83,
+      "age": 34,
+      "value": 20968421
+    },
+    {
+      "name": "Jos\u00e9 Palacios",
+      "position": "MF",
       "rating": 64,
-      "age": 35,
-      "value": 19200000
+      "age": 28,
+      "value": 21018947
     },
     {
-      "name": "Michael Thomas",
+      "name": "Ayaan Nelson",
       "position": "FW",
-      "rating": 74,
-      "age": 30,
-      "value": 28042105
+      "rating": 81,
+      "age": 26,
+      "value": 35810526
     },
     {
-      "name": "Mark Wilson",
+      "name": "Jesse Palmer",
+      "position": "FW",
+      "rating": 66,
+      "age": 20,
+      "value": 35431578
+    },
+    {
+      "name": "Garrett Castillo",
       "position": "FW",
       "rating": 68,
-      "age": 25,
-      "value": 31136842
+      "age": 21,
+      "value": 35431578
     },
     {
-      "name": "George Thomas",
+      "name": "Bruno Reyes",
       "position": "FW",
-      "rating": 80,
-      "age": 20,
+      "rating": 90,
+      "age": 24,
       "value": 40000000
     },
     {
-      "name": "Edward Hernandez",
+      "name": "Mateo Gonz\u00e1lez",
       "position": "FW",
-      "rating": 73,
-      "age": 29,
-      "value": 28815789
+      "rating": 76,
+      "age": 22,
+      "value": 38400000
     }
   ],
   "stadium": {

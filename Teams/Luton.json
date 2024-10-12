@@ -2,144 +2,144 @@
   "name": "Luton",
   "squad": [
     {
-      "name": "Steven Jones",
-      "position": "GK",
-      "rating": 76,
-      "age": 33,
-      "value": 13440000
-    },
-    {
-      "name": "Donald Thomas",
+      "name": "Leo Baxter",
       "position": "GK",
       "rating": 65,
-      "age": 27,
-      "value": 14778947
+      "age": 19,
+      "value": 19157894
     },
     {
-      "name": "Paul Taylor",
+      "name": "Benjamin Torres",
       "position": "GK",
-      "rating": 88,
-      "age": 25,
-      "value": 21490526
+      "rating": 78,
+      "age": 19,
+      "value": 22989473
     },
     {
-      "name": "Robert Gonzalez",
-      "position": "DF",
-      "rating": 77,
-      "age": 20,
-      "value": 27557894
-    },
-    {
-      "name": "Paul Jackson",
-      "position": "DF",
-      "rating": 62,
-      "age": 31,
-      "value": 15010526
-    },
-    {
-      "name": "Kenneth Davis",
-      "position": "DF",
+      "name": "Ming Park",
+      "position": "GK",
       "rating": 66,
-      "age": 23,
-      "value": 21536842
+      "age": 19,
+      "value": 19452631
     },
     {
-      "name": "Edward Martinez",
+      "name": "Grant West",
       "position": "DF",
-      "rating": 61,
-      "age": 23,
-      "value": 19905263
+      "rating": 81,
+      "age": 33,
+      "value": 17905263
     },
     {
-      "name": "Mark Smith",
+      "name": "Benjamin Torbj\u00f6rnsson",
       "position": "DF",
-      "rating": 66,
+      "rating": 90,
+      "age": 23,
+      "value": 29368421
+    },
+    {
+      "name": "Izaiah Banks",
+      "position": "DF",
+      "rating": 63,
       "age": 24,
-      "value": 20842105
+      "value": 19894736
     },
     {
-      "name": "Edward Rodriguez",
+      "name": "Tyrone Griffin",
       "position": "DF",
       "rating": 89,
+      "age": 27,
+      "value": 25294736
+    },
+    {
+      "name": "Mitchell Bennett",
+      "position": "DF",
+      "rating": 76,
+      "age": 32,
+      "value": 17600000
+    },
+    {
+      "name": "Kwesi Venter",
+      "position": "DF",
+      "rating": 77,
       "age": 18,
-      "value": 33726315
-    },
-    {
-      "name": "Steven Gonzalez",
-      "position": "MF",
-      "rating": 74,
-      "age": 17,
-      "value": 34585263
-    },
-    {
-      "name": "Donald Johnson",
-      "position": "MF",
-      "rating": 79,
-      "age": 24,
-      "value": 29936842
-    },
-    {
-      "name": "David Miller",
-      "position": "MF",
-      "rating": 68,
-      "age": 31,
-      "value": 19755789
-    },
-    {
-      "name": "Brian Garcia",
-      "position": "MF",
-      "rating": 67,
-      "age": 19,
-      "value": 29621052
-    },
-    {
-      "name": "Brian Martin",
-      "position": "MF",
-      "rating": 70,
-      "age": 21,
       "value": 29178947
     },
     {
-      "name": "John Martinez",
+      "name": "Ivan Fuller",
       "position": "MF",
-      "rating": 88,
-      "age": 34,
-      "value": 22231578
+      "rating": 71,
+      "age": 19,
+      "value": 31389473
     },
     {
-      "name": "Thomas Lopez",
-      "position": "FW",
-      "rating": 88,
-      "age": 35,
-      "value": 26400000
+      "name": "Thabo Badu",
+      "position": "MF",
+      "rating": 87,
+      "age": 26,
+      "value": 30770526
     },
     {
-      "name": "James Garcia",
-      "position": "FW",
-      "rating": 75,
-      "age": 35,
-      "value": 22500000
-    },
-    {
-      "name": "Michael Davis",
-      "position": "FW",
+      "name": "Anurak Nguyen",
+      "position": "MF",
       "rating": 86,
-      "age": 28,
-      "value": 35305263
+      "age": 24,
+      "value": 32589473
     },
     {
-      "name": "Mark Brown",
-      "position": "FW",
-      "rating": 75,
-      "age": 23,
-      "value": 36710526
+      "name": "Olaf Johansen",
+      "position": "MF",
+      "rating": 87,
+      "age": 25,
+      "value": 31869473
     },
     {
-      "name": "Paul Gonzalez",
-      "position": "FW",
+      "name": "Mikkel Larsen",
+      "position": "MF",
       "rating": 84,
-      "age": 22,
+      "age": 31,
+      "value": 24404210
+    },
+    {
+      "name": "Ronald Hicks",
+      "position": "MF",
+      "rating": 68,
+      "age": 19,
+      "value": 30063157
+    },
+    {
+      "name": "Francisco Rom\u00e1n",
+      "position": "FW",
+      "rating": 77,
+      "age": 28,
+      "value": 31610526
+    },
+    {
+      "name": "Santiago Silva",
+      "position": "FW",
+      "rating": 61,
+      "age": 27,
+      "value": 26005263
+    },
+    {
+      "name": "Devin Rogers",
+      "position": "FW",
+      "rating": 89,
+      "age": 31,
+      "value": 32321052
+    },
+    {
+      "name": "Simon Bates",
+      "position": "FW",
+      "rating": 81,
+      "age": 17,
       "value": 40000000
+    },
+    {
+      "name": "Wyatt Jordan",
+      "position": "FW",
+      "rating": 63,
+      "age": 35,
+      "value": 18900000
     }
   ],
   "stadium": {

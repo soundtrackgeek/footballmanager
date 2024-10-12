@@ -2,144 +2,144 @@
   "name": "Manchester City",
   "squad": [
     {
-      "name": "John Martinez",
+      "name": "Daisuke Huang",
       "position": "GK",
-      "rating": 90,
-      "age": 19,
-      "value": 26526315
+      "rating": 81,
+      "age": 16,
+      "value": 25920000
     },
     {
-      "name": "Thomas Moore",
+      "name": "Dustin Fowler",
       "position": "GK",
-      "rating": 67,
-      "age": 30,
-      "value": 13541052
+      "rating": 64,
+      "age": 32,
+      "value": 11856842
     },
     {
-      "name": "Thomas Anderson",
+      "name": "Noel Ramsey",
       "position": "GK",
-      "rating": 66,
-      "age": 17,
-      "value": 20564210
+      "rating": 74,
+      "age": 33,
+      "value": 13086315
     },
     {
-      "name": "James Johnson",
-      "position": "DF",
-      "rating": 61,
-      "age": 19,
-      "value": 22473684
-    },
-    {
-      "name": "Edward Gonzalez",
-      "position": "DF",
-      "rating": 86,
-      "age": 25,
-      "value": 26252631
-    },
-    {
-      "name": "David Gonzalez",
-      "position": "DF",
-      "rating": 75,
-      "age": 25,
-      "value": 22894736
-    },
-    {
-      "name": "Brian Williams",
+      "name": "Magnus Henriksen",
       "position": "DF",
       "rating": 73,
+      "age": 16,
+      "value": 29200000
+    },
+    {
+      "name": "Chike Umar",
+      "position": "DF",
+      "rating": 66,
+      "age": 18,
+      "value": 25010526
+    },
+    {
+      "name": "Warren Bailey",
+      "position": "DF",
+      "rating": 63,
+      "age": 23,
+      "value": 20557894
+    },
+    {
+      "name": "James Cook",
+      "position": "DF",
+      "rating": 62,
+      "age": 25,
+      "value": 18926315
+    },
+    {
+      "name": "Bart Phillips",
+      "position": "DF",
+      "rating": 79,
       "age": 22,
-      "value": 24589473
+      "value": 26610526
     },
     {
-      "name": "George Martinez",
+      "name": "Steven Franklin",
       "position": "DF",
-      "rating": 76,
-      "age": 27,
-      "value": 21600000
+      "rating": 81,
+      "age": 24,
+      "value": 25578947
     },
     {
-      "name": "George Gonzalez",
-      "position": "DF",
+      "name": "Jelani Akinyele",
+      "position": "MF",
+      "rating": 87,
+      "age": 32,
+      "value": 24176842
+    },
+    {
+      "name": "Lyle Spencer",
+      "position": "MF",
       "rating": 72,
       "age": 29,
-      "value": 18947368
+      "value": 22736842
     },
     {
-      "name": "Paul Jackson",
+      "name": "Juan Garza",
       "position": "MF",
-      "rating": 85,
-      "age": 16,
-      "value": 40000000
+      "rating": 67,
+      "age": 28,
+      "value": 22004210
     },
     {
-      "name": "Ronald Lopez",
+      "name": "Leif Larsson",
       "position": "MF",
-      "rating": 63,
-      "age": 20,
-      "value": 27056842
+      "rating": 77,
+      "age": 26,
+      "value": 27233684
     },
     {
-      "name": "George Gonzalez",
+      "name": "Marshall Fitzgerald",
       "position": "MF",
-      "rating": 61,
-      "age": 31,
-      "value": 17722105
-    },
-    {
-      "name": "Anthony Thomas",
-      "position": "MF",
-      "rating": 90,
-      "age": 31,
-      "value": 26147368
-    },
-    {
-      "name": "Michael Johnson",
-      "position": "MF",
-      "rating": 79,
-      "age": 32,
-      "value": 21953684
-    },
-    {
-      "name": "Michael Brown",
-      "position": "MF",
-      "rating": 84,
-      "age": 24,
-      "value": 31831578
-    },
-    {
-      "name": "Mark Hernandez",
-      "position": "FW",
-      "rating": 61,
-      "age": 22,
-      "value": 30821052
-    },
-    {
-      "name": "Steven Miller",
-      "position": "FW",
       "rating": 73,
-      "age": 30,
-      "value": 27663157
+      "age": 29,
+      "value": 23052631
     },
     {
-      "name": "Mark Lopez",
-      "position": "FW",
-      "rating": 60,
-      "age": 24,
-      "value": 28421052
+      "name": "Bryan Peterson",
+      "position": "MF",
+      "rating": 81,
+      "age": 16,
+      "value": 38880000
     },
     {
-      "name": "William Miller",
+      "name": "Jaden Brooks",
       "position": "FW",
-      "rating": 66,
-      "age": 27,
-      "value": 28136842
+      "rating": 69,
+      "age": 35,
+      "value": 20700000
     },
     {
-      "name": "George Gonzalez",
+      "name": "Liang Kang",
       "position": "FW",
-      "rating": 88,
-      "age": 32,
-      "value": 30568421
+      "rating": 67,
+      "age": 35,
+      "value": 20100000
+    },
+    {
+      "name": "Tyler Spencer",
+      "position": "FW",
+      "rating": 67,
+      "age": 19,
+      "value": 37026315
+    },
+    {
+      "name": "Mateo Gonz\u00e1lez",
+      "position": "FW",
+      "rating": 64,
+      "age": 34,
+      "value": 20210526
+    },
+    {
+      "name": "Femi Toure",
+      "position": "FW",
+      "rating": 76,
+      "age": 31,
+      "value": 27600000
     }
   ],
   "stadium": {

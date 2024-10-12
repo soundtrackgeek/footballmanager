@@ -2,144 +2,144 @@
   "name": "Newcastle",
   "squad": [
     {
-      "name": "Mark Martin",
+      "name": "Miguel Craig",
       "position": "GK",
-      "rating": 80,
-      "age": 28,
-      "value": 17515789
-    },
-    {
-      "name": "Thomas Gonzalez",
-      "position": "GK",
-      "rating": 87,
+      "rating": 62,
       "age": 25,
-      "value": 21246315
+      "value": 15141052
     },
     {
-      "name": "Mark Taylor",
+      "name": "Jermaine Dixon",
       "position": "GK",
-      "rating": 67,
-      "age": 17,
-      "value": 20875789
+      "rating": 78,
+      "age": 35,
+      "value": 12480000
     },
     {
-      "name": "Mark Williams",
-      "position": "DF",
-      "rating": 82,
-      "age": 32,
-      "value": 18989473
+      "name": "Guillermo Gray",
+      "position": "GK",
+      "rating": 84,
+      "age": 18,
+      "value": 25465263
     },
     {
-      "name": "John Lopez",
+      "name": "Danny Scott",
       "position": "DF",
-      "rating": 68,
+      "rating": 74,
+      "age": 23,
+      "value": 24147368
+    },
+    {
+      "name": "Jaden Brooks",
+      "position": "DF",
+      "rating": 89,
       "age": 28,
-      "value": 18610526
+      "value": 24357894
     },
     {
-      "name": "Mark Rodriguez",
+      "name": "Lincoln Burke",
       "position": "DF",
-      "rating": 87,
+      "rating": 63,
       "age": 23,
-      "value": 28389473
+      "value": 20557894
     },
     {
-      "name": "Robert Thomas",
-      "position": "DF",
-      "rating": 64,
-      "age": 22,
-      "value": 21557894
-    },
-    {
-      "name": "George Rodriguez",
-      "position": "DF",
-      "rating": 77,
-      "age": 23,
-      "value": 25126315
-    },
-    {
-      "name": "Anthony Jackson",
+      "name": "Randy Flores",
       "position": "DF",
       "rating": 76,
-      "age": 20,
-      "value": 27200000
+      "age": 16,
+      "value": 30400000
     },
     {
-      "name": "Thomas Wilson",
+      "name": "George Rivera",
+      "position": "DF",
+      "rating": 82,
+      "age": 29,
+      "value": 21578947
+    },
+    {
+      "name": "Oluwafemi Balogun",
+      "position": "DF",
+      "rating": 71,
+      "age": 26,
+      "value": 20926315
+    },
+    {
+      "name": "Dakota Barnes",
       "position": "MF",
-      "rating": 67,
+      "rating": 71,
+      "age": 24,
+      "value": 26905263
+    },
+    {
+      "name": "Amani Ramadhan",
+      "position": "MF",
+      "rating": 90,
       "age": 34,
-      "value": 16926315
+      "value": 22736842
     },
     {
-      "name": "Robert Williams",
+      "name": "Steven Franklin",
       "position": "MF",
-      "rating": 66,
-      "age": 20,
-      "value": 28345263
-    },
-    {
-      "name": "Anthony Smith",
-      "position": "MF",
-      "rating": 72,
-      "age": 34,
-      "value": 18189473
-    },
-    {
-      "name": "Michael Brown",
-      "position": "MF",
-      "rating": 64,
-      "age": 27,
-      "value": 21827368
-    },
-    {
-      "name": "William Wilson",
-      "position": "MF",
-      "rating": 65,
+      "rating": 70,
       "age": 32,
-      "value": 18063157
+      "value": 19452631
     },
     {
-      "name": "Michael Davis",
+      "name": "Zayden Ellis",
       "position": "MF",
       "rating": 65,
-      "age": 23,
-      "value": 25452631
+      "age": 35,
+      "value": 15600000
     },
     {
-      "name": "Thomas Hernandez",
+      "name": "Chike Umar",
+      "position": "MF",
+      "rating": 62,
+      "age": 29,
+      "value": 19578947
+    },
+    {
+      "name": "Shiro Lim",
+      "position": "MF",
+      "rating": 70,
+      "age": 29,
+      "value": 22105263
+    },
+    {
+      "name": "Luke Peters",
       "position": "FW",
-      "rating": 67,
-      "age": 30,
-      "value": 25389473
+      "rating": 75,
+      "age": 25,
+      "value": 34342105
     },
     {
-      "name": "John Brown",
+      "name": "Jason Marshall",
       "position": "FW",
       "rating": 88,
-      "age": 28,
-      "value": 36126315
-    },
-    {
-      "name": "Ronald Gonzalez",
-      "position": "FW",
-      "rating": 85,
-      "age": 18,
+      "age": 17,
       "value": 40000000
     },
     {
-      "name": "James Jones",
+      "name": "Nathan Barton",
       "position": "FW",
-      "rating": 74,
-      "age": 35,
-      "value": 22200000
+      "rating": 84,
+      "age": 21,
+      "value": 40000000
     },
     {
-      "name": "Richard Taylor",
+      "name": "Jackson Bryant",
       "position": "FW",
-      "rating": 87,
-      "age": 28,
-      "value": 35715789
+      "rating": 78,
+      "age": 35,
+      "value": 23400000
+    },
+    {
+      "name": "Lucas Westerlund",
+      "position": "FW",
+      "rating": 75,
+      "age": 19,
+      "value": 40000000
     }
   ],
   "stadium": {

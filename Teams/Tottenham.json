@@ -2,144 +2,144 @@
   "name": "Tottenham",
   "squad": [
     {
-      "name": "Anthony Smith",
-      "position": "GK",
-      "rating": 69,
-      "age": 20,
-      "value": 19755789
-    },
-    {
-      "name": "Daniel Gonzalez",
+      "name": "William \u00c5kesson",
       "position": "GK",
       "rating": 88,
-      "age": 31,
-      "value": 17044210
+      "age": 33,
+      "value": 15562105
     },
     {
-      "name": "Daniel Rodriguez",
+      "name": "Taylor Black",
       "position": "GK",
-      "rating": 62,
+      "rating": 86,
+      "age": 28,
+      "value": 18829473
+    },
+    {
+      "name": "Sebasti\u00e1n Ortega",
+      "position": "GK",
+      "rating": 75,
       "age": 20,
-      "value": 17751578
+      "value": 21473684
     },
     {
-      "name": "Edward Hernandez",
+      "name": "Sven J\u00f8rgensen",
       "position": "DF",
-      "rating": 82,
-      "age": 21,
-      "value": 28484210
+      "rating": 68,
+      "age": 20,
+      "value": 24336842
     },
     {
-      "name": "Thomas Johnson",
+      "name": "Brock Cox",
       "position": "DF",
-      "rating": 62,
-      "age": 34,
-      "value": 13052631
-    },
-    {
-      "name": "Robert Miller",
-      "position": "DF",
-      "rating": 76,
-      "age": 19,
-      "value": 28000000
-    },
-    {
-      "name": "Robert Hernandez",
-      "position": "DF",
-      "rating": 78,
-      "age": 24,
-      "value": 24631578
-    },
-    {
-      "name": "Donald Martinez",
-      "position": "DF",
-      "rating": 70,
-      "age": 18,
-      "value": 26526315
-    },
-    {
-      "name": "James Anderson",
-      "position": "DF",
-      "rating": 88,
+      "rating": 66,
       "age": 35,
-      "value": 17600000
+      "value": 13200000
     },
     {
-      "name": "Anthony Wilson",
+      "name": "Vance Schneider",
+      "position": "DF",
+      "rating": 89,
+      "age": 17,
+      "value": 34663157
+    },
+    {
+      "name": "Jengo Sangare",
+      "position": "DF",
+      "rating": 60,
+      "age": 28,
+      "value": 16421052
+    },
+    {
+      "name": "Ivan Fuller",
+      "position": "DF",
+      "rating": 61,
+      "age": 29,
+      "value": 16052631
+    },
+    {
+      "name": "River Bowman",
+      "position": "DF",
+      "rating": 71,
+      "age": 19,
+      "value": 26157894
+    },
+    {
+      "name": "Kellen Mills",
+      "position": "MF",
+      "rating": 70,
+      "age": 35,
+      "value": 16800000
+    },
+    {
+      "name": "Jett Hicks",
+      "position": "MF",
+      "rating": 62,
+      "age": 29,
+      "value": 19578947
+    },
+    {
+      "name": "Lucas Curtis",
+      "position": "MF",
+      "rating": 63,
+      "age": 22,
+      "value": 25465263
+    },
+    {
+      "name": "Kendall Grimes",
+      "position": "MF",
+      "rating": 61,
+      "age": 19,
+      "value": 26968421
+    },
+    {
+      "name": "Mathias Nielsen",
+      "position": "MF",
+      "rating": 86,
+      "age": 23,
+      "value": 33675789
+    },
+    {
+      "name": "Dean Barnett",
       "position": "MF",
       "rating": 80,
-      "age": 34,
-      "value": 20210526
+      "age": 25,
+      "value": 29305263
     },
     {
-      "name": "Thomas Williams",
-      "position": "MF",
+      "name": "Raj Sharma",
+      "position": "FW",
       "rating": 83,
-      "age": 26,
-      "value": 29355789
-    },
-    {
-      "name": "Ronald Taylor",
-      "position": "MF",
-      "rating": 69,
       "age": 22,
-      "value": 27890526
-    },
-    {
-      "name": "Donald Johnson",
-      "position": "MF",
-      "rating": 76,
-      "age": 30,
-      "value": 23040000
-    },
-    {
-      "name": "Mark Jackson",
-      "position": "MF",
-      "rating": 70,
-      "age": 24,
-      "value": 26526315
-    },
-    {
-      "name": "Paul Jones",
-      "position": "MF",
-      "rating": 62,
-      "age": 27,
-      "value": 21145263
-    },
-    {
-      "name": "Donald Martinez",
-      "position": "FW",
-      "rating": 87,
-      "age": 28,
-      "value": 35715789
-    },
-    {
-      "name": "Paul Thomas",
-      "position": "FW",
-      "rating": 64,
-      "age": 27,
-      "value": 27284210
-    },
-    {
-      "name": "Edward Anderson",
-      "position": "FW",
-      "rating": 82,
-      "age": 16,
       "value": 40000000
     },
     {
-      "name": "Donald Gonzalez",
+      "name": "Josiah Franklin",
       "position": "FW",
-      "rating": 90,
-      "age": 32,
-      "value": 31263157
+      "rating": 73,
+      "age": 30,
+      "value": 27663157
     },
     {
-      "name": "George Rodriguez",
+      "name": "Ezra Bryant",
       "position": "FW",
-      "rating": 65,
-      "age": 28,
-      "value": 26684210
+      "rating": 64,
+      "age": 33,
+      "value": 21221052
+    },
+    {
+      "name": "Pranav Liu",
+      "position": "FW",
+      "rating": 70,
+      "age": 27,
+      "value": 29842105
+    },
+    {
+      "name": "Zane Hughes",
+      "position": "FW",
+      "rating": 90,
+      "age": 21,
+      "value": 40000000
     }
   ],
   "stadium": {

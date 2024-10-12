@@ -2,144 +2,144 @@
   "name": "West Ham",
   "squad": [
     {
-      "name": "Paul Wilson",
+      "name": "Cristian Guerrero",
       "position": "GK",
-      "rating": 86,
+      "rating": 84,
       "age": 19,
-      "value": 25347368
+      "value": 24757894
     },
     {
-      "name": "Ronald Davis",
+      "name": "Ekon Zamani",
       "position": "GK",
-      "rating": 63,
-      "age": 29,
-      "value": 13263157
-    },
-    {
-      "name": "John Thomas",
-      "position": "GK",
-      "rating": 76,
+      "rating": 89,
       "age": 30,
-      "value": 15360000
+      "value": 17987368
     },
     {
-      "name": "Daniel Martinez",
+      "name": "Alex  Taylor",
+      "position": "GK",
+      "rating": 85,
+      "age": 17,
+      "value": 26484210
+    },
+    {
+      "name": "Pranav Liu",
       "position": "DF",
-      "rating": 79,
-      "age": 23,
-      "value": 25778947
+      "rating": 88,
+      "age": 25,
+      "value": 26863157
     },
     {
-      "name": "Kenneth Wilson",
+      "name": "Marcus Gordon",
       "position": "DF",
       "rating": 66,
-      "age": 19,
-      "value": 24315789
+      "age": 32,
+      "value": 15284210
     },
     {
-      "name": "James Martinez",
+      "name": "Malachi Harrison",
       "position": "DF",
-      "rating": 81,
-      "age": 34,
-      "value": 17052631
+      "rating": 85,
+      "age": 18,
+      "value": 32210526
     },
     {
-      "name": "Edward Jackson",
+      "name": "Leonel Brooks",
       "position": "DF",
-      "rating": 67,
+      "rating": 69,
       "age": 33,
-      "value": 14810526
+      "value": 15252631
     },
     {
-      "name": "Donald Thomas",
+      "name": "Roberto Espinoza",
       "position": "DF",
-      "rating": 76,
-      "age": 16,
-      "value": 30400000
+      "rating": 77,
+      "age": 22,
+      "value": 25936842
     },
     {
-      "name": "Ronald Jackson",
+      "name": "Kyler Carroll",
       "position": "DF",
-      "rating": 60,
-      "age": 27,
-      "value": 17052631
+      "rating": 64,
+      "age": 23,
+      "value": 20884210
     },
     {
-      "name": "Anthony Davis",
+      "name": "Shiro Lim",
+      "position": "MF",
+      "rating": 69,
+      "age": 31,
+      "value": 20046315
+    },
+    {
+      "name": "Paige Franklin",
+      "position": "MF",
+      "rating": 87,
+      "age": 22,
+      "value": 35166315
+    },
+    {
+      "name": "Tom\u00e1s Valdez",
       "position": "MF",
       "rating": 79,
-      "age": 23,
-      "value": 30934736
+      "age": 30,
+      "value": 23949473
     },
     {
-      "name": "Charles Anderson",
+      "name": "Dominic Nguyen",
+      "position": "MF",
+      "rating": 77,
+      "age": 26,
+      "value": 27233684
+    },
+    {
+      "name": "Ling Rao",
+      "position": "MF",
+      "rating": 67,
+      "age": 21,
+      "value": 27928421
+    },
+    {
+      "name": "Noel Parker",
       "position": "MF",
       "rating": 75,
-      "age": 26,
-      "value": 26526315
+      "age": 20,
+      "value": 32210526
     },
     {
-      "name": "George Davis",
-      "position": "MF",
-      "rating": 90,
-      "age": 28,
-      "value": 29557894
-    },
-    {
-      "name": "Paul Jackson",
-      "position": "MF",
-      "rating": 90,
-      "age": 35,
-      "value": 21600000
-    },
-    {
-      "name": "Edward Taylor",
-      "position": "MF",
-      "rating": 73,
-      "age": 16,
-      "value": 35040000
-    },
-    {
-      "name": "George Johnson",
-      "position": "MF",
-      "rating": 83,
-      "age": 28,
-      "value": 27258947
-    },
-    {
-      "name": "Brian Davis",
+      "name": "Rene Page",
       "position": "FW",
-      "rating": 67,
-      "age": 24,
-      "value": 31736842
+      "rating": 71,
+      "age": 34,
+      "value": 22421052
     },
     {
-      "name": "Ronald Gonzalez",
+      "name": "Riley Palmer",
       "position": "FW",
-      "rating": 82,
-      "age": 30,
-      "value": 31073684
-    },
-    {
-      "name": "Paul Hernandez",
-      "position": "FW",
-      "rating": 82,
-      "age": 29,
-      "value": 32368421
-    },
-    {
-      "name": "Ronald Taylor",
-      "position": "FW",
-      "rating": 74,
-      "age": 25,
-      "value": 33884210
-    },
-    {
-      "name": "Richard Thomas",
-      "position": "FW",
-      "rating": 68,
+      "rating": 88,
       "age": 22,
-      "value": 34357894
+      "value": 40000000
+    },
+    {
+      "name": "Eugene Burke",
+      "position": "FW",
+      "rating": 83,
+      "age": 25,
+      "value": 38005263
+    },
+    {
+      "name": "Stefan Fletcher",
+      "position": "FW",
+      "rating": 62,
+      "age": 33,
+      "value": 20557894
+    },
+    {
+      "name": "Dorian Peterson",
+      "position": "FW",
+      "rating": 70,
+      "age": 19,
+      "value": 38684210
     }
   ],
   "stadium": {

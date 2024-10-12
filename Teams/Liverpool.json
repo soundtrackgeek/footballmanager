@@ -2,144 +2,144 @@
   "name": "Liverpool",
   "squad": [
     {
-      "name": "Michael Davis",
+      "name": "Hugo Navarro",
       "position": "GK",
-      "rating": 78,
-      "age": 20,
-      "value": 22332631
+      "rating": 72,
+      "age": 33,
+      "value": 12732631
     },
     {
-      "name": "Daniel Miller",
+      "name": "Quinn Shaw",
       "position": "GK",
-      "rating": 69,
-      "age": 18,
-      "value": 20917894
-    },
-    {
-      "name": "Anthony Thomas",
-      "position": "GK",
-      "rating": 64,
-      "age": 16,
-      "value": 20480000
-    },
-    {
-      "name": "Michael Taylor",
-      "position": "DF",
-      "rating": 61,
-      "age": 19,
-      "value": 22473684
-    },
-    {
-      "name": "John Lopez",
-      "position": "DF",
-      "rating": 80,
-      "age": 17,
-      "value": 31157894
-    },
-    {
-      "name": "Charles Jones",
-      "position": "DF",
-      "rating": 77,
-      "age": 19,
-      "value": 28368421
-    },
-    {
-      "name": "William Wilson",
-      "position": "DF",
-      "rating": 88,
-      "age": 23,
-      "value": 28715789
-    },
-    {
-      "name": "David Garcia",
-      "position": "DF",
       "rating": 73,
-      "age": 32,
-      "value": 16905263
-    },
-    {
-      "name": "Daniel Lopez",
-      "position": "DF",
-      "rating": 69,
-      "age": 23,
-      "value": 22515789
-    },
-    {
-      "name": "William Wilson",
-      "position": "MF",
-      "rating": 63,
-      "age": 35,
-      "value": 15120000
-    },
-    {
-      "name": "Charles Thomas",
-      "position": "MF",
-      "rating": 75,
-      "age": 19,
-      "value": 33157894
-    },
-    {
-      "name": "James Rodriguez",
-      "position": "MF",
-      "rating": 83,
-      "age": 19,
-      "value": 36694736
-    },
-    {
-      "name": "Richard Williams",
-      "position": "MF",
-      "rating": 75,
-      "age": 30,
-      "value": 22736842
-    },
-    {
-      "name": "Daniel Martin",
-      "position": "MF",
-      "rating": 87,
       "age": 27,
-      "value": 29671578
+      "value": 16597894
     },
     {
-      "name": "Richard Smith",
-      "position": "MF",
+      "name": "Juan Pablo Castillo",
+      "position": "GK",
+      "rating": 89,
+      "age": 19,
+      "value": 26231578
+    },
+    {
+      "name": "Brian Richardson",
+      "position": "DF",
+      "rating": 62,
+      "age": 30,
+      "value": 15663157
+    },
+    {
+      "name": "Terry Hughes",
+      "position": "DF",
+      "rating": 78,
+      "age": 18,
+      "value": 29557894
+    },
+    {
+      "name": "Trevor Edwards",
+      "position": "DF",
+      "rating": 72,
+      "age": 25,
+      "value": 21978947
+    },
+    {
+      "name": "Joel Rasmussen",
+      "position": "DF",
       "rating": 82,
+      "age": 33,
+      "value": 18126315
+    },
+    {
+      "name": "Jesse Palmer",
+      "position": "DF",
+      "rating": 85,
       "age": 29,
-      "value": 25894736
+      "value": 22368421
     },
     {
-      "name": "George Lopez",
+      "name": "Craig Washington",
+      "position": "DF",
+      "rating": 66,
+      "age": 26,
+      "value": 19452631
+    },
+    {
+      "name": "Zola Jansen",
+      "position": "MF",
+      "rating": 79,
+      "age": 18,
+      "value": 35924210
+    },
+    {
+      "name": "Nikhil Reddy",
+      "position": "MF",
+      "rating": 90,
+      "age": 33,
+      "value": 23873684
+    },
+    {
+      "name": "Haruki Sato",
+      "position": "MF",
+      "rating": 75,
+      "age": 33,
+      "value": 19894736
+    },
+    {
+      "name": "Jelani Akinyele",
+      "position": "MF",
+      "rating": 65,
+      "age": 22,
+      "value": 26273684
+    },
+    {
+      "name": "Anthony King",
+      "position": "MF",
+      "rating": 76,
+      "age": 30,
+      "value": 23040000
+    },
+    {
+      "name": "Sanjay Joshi",
+      "position": "MF",
+      "rating": 69,
+      "age": 19,
+      "value": 30505263
+    },
+    {
+      "name": "Donovan Murphy",
       "position": "FW",
-      "rating": 80,
-      "age": 32,
-      "value": 27789473
+      "rating": 69,
+      "age": 34,
+      "value": 21789473
     },
     {
-      "name": "Robert Hernandez",
+      "name": "Elias Nilsen",
+      "position": "FW",
+      "rating": 67,
+      "age": 18,
+      "value": 38084210
+    },
+    {
+      "name": "Pablo Dur\u00e1n",
+      "position": "FW",
+      "rating": 68,
+      "age": 26,
+      "value": 30063157
+    },
+    {
+      "name": "Joshua Kim",
+      "position": "FW",
+      "rating": 78,
+      "age": 25,
+      "value": 35715789
+    },
+    {
+      "name": "Ravi Patel",
       "position": "FW",
       "rating": 72,
-      "age": 19,
-      "value": 39789473
-    },
-    {
-      "name": "Richard Jackson",
-      "position": "FW",
-      "rating": 61,
-      "age": 24,
-      "value": 28894736
-    },
-    {
-      "name": "Charles Rodriguez",
-      "position": "FW",
-      "rating": 77,
-      "age": 28,
-      "value": 31610526
-    },
-    {
-      "name": "Richard Rodriguez",
-      "position": "FW",
-      "rating": 88,
-      "age": 33,
-      "value": 29178947
+      "age": 26,
+      "value": 31831578
     }
   ],
   "stadium": {

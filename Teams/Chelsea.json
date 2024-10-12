@@ -2,144 +2,144 @@
   "name": "Chelsea",
   "squad": [
     {
-      "name": "David Smith",
+      "name": "Alexander Moore",
       "position": "GK",
       "rating": 78,
-      "age": 29,
-      "value": 16421052
+      "age": 25,
+      "value": 19048421
     },
     {
-      "name": "Paul Jackson",
+      "name": "Simon Bates",
       "position": "GK",
-      "rating": 64,
-      "age": 30,
-      "value": 12934736
+      "rating": 77,
+      "age": 19,
+      "value": 22694736
     },
     {
-      "name": "Anthony Wilson",
+      "name": "Benjamin Torbj\u00f6rnsson",
       "position": "GK",
-      "rating": 78,
-      "age": 21,
-      "value": 21675789
-    },
-    {
-      "name": "Donald Jackson",
-      "position": "DF",
-      "rating": 71,
-      "age": 20,
-      "value": 25410526
-    },
-    {
-      "name": "Brian Smith",
-      "position": "DF",
-      "rating": 79,
-      "age": 22,
-      "value": 26610526
-    },
-    {
-      "name": "Robert Gonzalez",
-      "position": "DF",
       "rating": 75,
-      "age": 20,
-      "value": 26842105
+      "age": 25,
+      "value": 18315789
     },
     {
-      "name": "James Wilson",
+      "name": "Yahir Ramirez",
       "position": "DF",
-      "rating": 65,
+      "rating": 62,
+      "age": 22,
+      "value": 20884210
+    },
+    {
+      "name": "Hector Salazar",
+      "position": "DF",
+      "rating": 67,
       "age": 18,
-      "value": 24631578
+      "value": 25389473
     },
     {
-      "name": "George Jones",
+      "name": "Omar Pena",
       "position": "DF",
-      "rating": 74,
-      "age": 17,
-      "value": 28821052
-    },
-    {
-      "name": "George Wilson",
-      "position": "DF",
-      "rating": 66,
-      "age": 16,
-      "value": 26400000
-    },
-    {
-      "name": "Donald Thomas",
-      "position": "MF",
-      "rating": 85,
-      "age": 18,
-      "value": 38652631
-    },
-    {
-      "name": "Thomas Johnson",
-      "position": "MF",
-      "rating": 76,
+      "rating": 82,
       "age": 35,
-      "value": 18240000
+      "value": 16400000
     },
     {
-      "name": "Robert Smith",
-      "position": "MF",
-      "rating": 70,
-      "age": 32,
-      "value": 19452631
+      "name": "Tony Higgins",
+      "position": "DF",
+      "rating": 86,
+      "age": 29,
+      "value": 22631578
     },
     {
-      "name": "John Gonzalez",
-      "position": "MF",
+      "name": "Duncan Hughes",
+      "position": "DF",
       "rating": 76,
-      "age": 26,
-      "value": 26880000
+      "age": 27,
+      "value": 21600000
     },
     {
-      "name": "George Thomas",
-      "position": "MF",
+      "name": "Mohammad Brooks",
+      "position": "DF",
       "rating": 87,
-      "age": 34,
+      "age": 30,
       "value": 21978947
     },
     {
-      "name": "Ronald Gonzalez",
+      "name": "Hiro Iyer",
       "position": "MF",
-      "rating": 75,
-      "age": 16,
-      "value": 36000000
+      "rating": 66,
+      "age": 27,
+      "value": 22509473
     },
     {
-      "name": "Edward Martin",
-      "position": "FW",
-      "rating": 68,
-      "age": 23,
-      "value": 33284210
+      "name": "Joel Rasmussen",
+      "position": "MF",
+      "rating": 85,
+      "age": 31,
+      "value": 24694736
     },
     {
-      "name": "Charles Smith",
-      "position": "FW",
-      "rating": 86,
+      "name": "Kobe Boone",
+      "position": "MF",
+      "rating": 70,
+      "age": 21,
+      "value": 29178947
+    },
+    {
+      "name": "Kody Meadows",
+      "position": "MF",
+      "rating": 88,
+      "age": 22,
+      "value": 35570526
+    },
+    {
+      "name": "Elliot Burke",
+      "position": "MF",
+      "rating": 82,
+      "age": 22,
+      "value": 33145263
+    },
+    {
+      "name": "Ravi Patel",
+      "position": "MF",
+      "rating": 60,
       "age": 16,
+      "value": 28800000
+    },
+    {
+      "name": "Luke Peters",
+      "position": "FW",
+      "rating": 66,
+      "age": 17,
+      "value": 38557894
+    },
+    {
+      "name": "Andres Lewis",
+      "position": "FW",
+      "rating": 83,
+      "age": 30,
+      "value": 31452631
+    },
+    {
+      "name": "Axel Adams",
+      "position": "FW",
+      "rating": 70,
+      "age": 33,
+      "value": 23210526
+    },
+    {
+      "name": "Martin Black",
+      "position": "FW",
+      "rating": 88,
+      "age": 19,
       "value": 40000000
     },
     {
-      "name": "Donald Martin",
+      "name": "Rune Lindholm",
       "position": "FW",
-      "rating": 83,
-      "age": 25,
-      "value": 38005263
-    },
-    {
-      "name": "William Taylor",
-      "position": "FW",
-      "rating": 73,
-      "age": 23,
-      "value": 35731578
-    },
-    {
-      "name": "Daniel Rodriguez",
-      "position": "FW",
-      "rating": 75,
-      "age": 23,
-      "value": 36710526
+      "rating": 84,
+      "age": 33,
+      "value": 27852631
     }
   ],
   "stadium": {

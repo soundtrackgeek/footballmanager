@@ -2,144 +2,144 @@
   "name": "Arsenal",
   "squad": [
     {
-      "name": "Charles Thomas",
+      "name": "Andr\u00e9s Gomez",
       "position": "GK",
-      "rating": 82,
+      "rating": 87,
+      "age": 35,
+      "value": 13920000
+    },
+    {
+      "name": "Bo Barnes",
+      "position": "GK",
+      "rating": 64,
       "age": 33,
-      "value": 14501052
+      "value": 11317894
     },
     {
-      "name": "Mark Davis",
-      "position": "GK",
-      "rating": 72,
-      "age": 29,
-      "value": 15157894
-    },
-    {
-      "name": "Richard Wilson",
+      "name": "Damien Freeman",
       "position": "GK",
       "rating": 84,
-      "age": 20,
-      "value": 24050526
+      "age": 31,
+      "value": 16269473
     },
     {
-      "name": "James Johnson",
+      "name": "Felipe Sanchez",
       "position": "DF",
-      "rating": 77,
-      "age": 27,
-      "value": 21884210
+      "rating": 65,
+      "age": 30,
+      "value": 16421052
     },
     {
-      "name": "Robert Martinez",
+      "name": "Xavier Hart",
+      "position": "DF",
+      "rating": 67,
+      "age": 32,
+      "value": 15515789
+    },
+    {
+      "name": "Oluwafemi Balogun",
       "position": "DF",
       "rating": 63,
-      "age": 16,
-      "value": 25200000
+      "age": 29,
+      "value": 16578947
     },
     {
-      "name": "Mark Smith",
+      "name": "Riley Palmer",
       "position": "DF",
       "rating": 69,
-      "age": 26,
-      "value": 20336842
+      "age": 23,
+      "value": 22515789
     },
     {
-      "name": "George Johnson",
+      "name": "Pablo Dur\u00e1n",
       "position": "DF",
-      "rating": 79,
+      "rating": 66,
       "age": 31,
-      "value": 19126315
+      "value": 15978947
     },
     {
-      "name": "Robert Hernandez",
+      "name": "Blake Edwards",
       "position": "DF",
-      "rating": 62,
-      "age": 33,
-      "value": 13705263
+      "rating": 83,
+      "age": 29,
+      "value": 21842105
     },
     {
-      "name": "Daniel Miller",
-      "position": "DF",
-      "rating": 85,
-      "age": 17,
-      "value": 33105263
-    },
-    {
-      "name": "Kenneth Smith",
-      "position": "MF",
-      "rating": 67,
-      "age": 27,
-      "value": 22850526
-    },
-    {
-      "name": "James Davis",
-      "position": "MF",
-      "rating": 70,
-      "age": 32,
-      "value": 19452631
-    },
-    {
-      "name": "William Wilson",
+      "name": "Robert Grant",
       "position": "MF",
       "rating": 81,
+      "age": 26,
+      "value": 28648421
+    },
+    {
+      "name": "Thabo Saye",
+      "position": "MF",
+      "rating": 72,
+      "age": 30,
+      "value": 21827368
+    },
+    {
+      "name": "Clayton Fisher",
+      "position": "MF",
+      "rating": 87,
       "age": 21,
-      "value": 33764210
+      "value": 36265263
     },
     {
-      "name": "John Gonzalez",
+      "name": "Lyle Spencer",
       "position": "MF",
-      "rating": 65,
-      "age": 20,
-      "value": 27915789
+      "rating": 86,
+      "age": 23,
+      "value": 33675789
     },
     {
-      "name": "Thomas Garcia",
+      "name": "Anders Iversen",
       "position": "MF",
-      "rating": 61,
-      "age": 25,
-      "value": 22345263
+      "rating": 85,
+      "age": 27,
+      "value": 28989473
     },
     {
-      "name": "John Hernandez",
+      "name": "Rasmus Lindberg",
       "position": "MF",
-      "rating": 79,
-      "age": 16,
-      "value": 37920000
+      "rating": 90,
+      "age": 32,
+      "value": 25010526
     },
     {
-      "name": "Brian Gonzalez",
+      "name": "Finn Watkins",
       "position": "FW",
-      "rating": 73,
-      "age": 19,
+      "rating": 84,
+      "age": 17,
       "value": 40000000
     },
     {
-      "name": "George Garcia",
+      "name": "Charlie Morgan",
       "position": "FW",
-      "rating": 77,
-      "age": 25,
-      "value": 35257894
-    },
-    {
-      "name": "Michael Moore",
-      "position": "FW",
-      "rating": 87,
-      "age": 31,
-      "value": 31594736
-    },
-    {
-      "name": "Mark Moore",
-      "position": "FW",
-      "rating": 71,
+      "rating": 81,
       "age": 32,
-      "value": 24663157
+      "value": 28136842
     },
     {
-      "name": "James Taylor",
+      "name": "Nuru Mabena",
       "position": "FW",
-      "rating": 76,
-      "age": 26,
-      "value": 33600000
+      "rating": 80,
+      "age": 16,
+      "value": 40000000
+    },
+    {
+      "name": "Julian Hicks",
+      "position": "FW",
+      "rating": 75,
+      "age": 25,
+      "value": 34342105
+    },
+    {
+      "name": "Emmanuel Barnes",
+      "position": "FW",
+      "rating": 72,
+      "age": 32,
+      "value": 25010526
     }
   ],
   "stadium": {

@@ -1,5 +1,6 @@
 from enum import Enum
 import random
+import csv
 
 class Position(Enum):
     GK = 1
@@ -8,6 +9,11 @@ class Position(Enum):
     FW = 4
 
 class Player:
+    # Load names from CSV file
+    with open('playernames.csv', 'r', encoding='utf-8') as file:
+        reader = csv.reader(file)
+        names = list(reader)
+
     def __init__(self, name, position, rating):
         self.name = name
         self.position = position
@@ -43,11 +49,9 @@ class Player:
 
     @classmethod
     def generate_player(cls, position):
-        first_names = ["John", "David", "Michael", "James", "William", "Robert", "Richard", "Thomas", "Charles", "Daniel",
-                       "Paul", "Mark", "Donald", "George", "Kenneth", "Steven", "Edward", "Brian", "Ronald", "Anthony"]
-        last_names = ["Smith", "Johnson", "Williams", "Brown", "Jones", "Garcia", "Miller", "Davis", "Rodriguez", "Martinez",
-                      "Hernandez", "Lopez", "Gonzalez", "Wilson", "Anderson", "Thomas", "Taylor", "Moore", "Jackson", "Martin"]
-        name = f"{random.choice(first_names)} {random.choice(last_names)}"
+        # Choose a random first name and last name from the loaded names
+        first_name, last_name = random.choice(cls.names)
+        name = f"{first_name} {last_name}"
         rating = random.randint(60, 90)
         return cls(name, position, rating)
 

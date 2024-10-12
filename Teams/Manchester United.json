@@ -2,144 +2,144 @@
   "name": "Manchester United",
   "squad": [
     {
-      "name": "Edward Hernandez",
+      "name": "Bruce Diaz",
       "position": "GK",
-      "rating": 73,
-      "age": 24,
-      "value": 18442105
+      "rating": 72,
+      "age": 29,
+      "value": 15157894
     },
     {
-      "name": "Charles Lopez",
+      "name": "Nehemiah Day",
       "position": "GK",
+      "rating": 72,
+      "age": 26,
+      "value": 16976842
+    },
+    {
+      "name": "Jordan Long",
+      "position": "GK",
+      "rating": 72,
+      "age": 26,
+      "value": 16976842
+    },
+    {
+      "name": "Marlon Dixon",
+      "position": "DF",
+      "rating": 76,
+      "age": 26,
+      "value": 22400000
+    },
+    {
+      "name": "Chad Simmons",
+      "position": "DF",
+      "rating": 73,
+      "age": 17,
+      "value": 28431578
+    },
+    {
+      "name": "Barack Mitchell",
+      "position": "DF",
+      "rating": 81,
+      "age": 34,
+      "value": 17052631
+    },
+    {
+      "name": "Marlon Dixon",
+      "position": "DF",
+      "rating": 68,
+      "age": 26,
+      "value": 20042105
+    },
+    {
+      "name": "Tobias Burke",
+      "position": "DF",
+      "rating": 74,
+      "age": 32,
+      "value": 17136842
+    },
+    {
+      "name": "Casey Barnett",
+      "position": "DF",
+      "rating": 71,
+      "age": 29,
+      "value": 18684210
+    },
+    {
+      "name": "Daniel Lopez",
+      "position": "MF",
+      "rating": 61,
+      "age": 28,
+      "value": 20033684
+    },
+    {
+      "name": "Diego Morris",
+      "position": "MF",
+      "rating": 70,
+      "age": 35,
+      "value": 16800000
+    },
+    {
+      "name": "Kyler Carroll",
+      "position": "MF",
       "rating": 60,
-      "age": 21,
+      "age": 32,
       "value": 16673684
     },
     {
-      "name": "William Thomas",
-      "position": "GK",
-      "rating": 88,
-      "age": 32,
-      "value": 16303157
-    },
-    {
-      "name": "Richard Smith",
-      "position": "DF",
-      "rating": 72,
-      "age": 35,
-      "value": 14400000
-    },
-    {
-      "name": "Edward Gonzalez",
-      "position": "DF",
-      "rating": 81,
-      "age": 32,
-      "value": 18757894
-    },
-    {
-      "name": "Robert Williams",
-      "position": "DF",
-      "rating": 79,
-      "age": 29,
-      "value": 20789473
-    },
-    {
-      "name": "Kenneth Anderson",
-      "position": "DF",
-      "rating": 71,
-      "age": 24,
-      "value": 22421052
-    },
-    {
-      "name": "Richard Anderson",
-      "position": "DF",
-      "rating": 75,
-      "age": 30,
-      "value": 18947368
-    },
-    {
-      "name": "Kenneth Gonzalez",
-      "position": "DF",
-      "rating": 73,
-      "age": 32,
-      "value": 16905263
-    },
-    {
-      "name": "William Gonzalez",
+      "name": "Jackson Bryant",
       "position": "MF",
-      "rating": 67,
-      "age": 22,
-      "value": 27082105
+      "rating": 78,
+      "age": 34,
+      "value": 19705263
     },
     {
-      "name": "John Martinez",
+      "name": "Derrick Murray",
       "position": "MF",
-      "rating": 63,
-      "age": 32,
-      "value": 17507368
+      "rating": 85,
+      "age": 20,
+      "value": 36505263
     },
     {
-      "name": "Daniel Martinez",
+      "name": "Allen Parker",
       "position": "MF",
-      "rating": 68,
-      "age": 35,
-      "value": 16320000
-    },
-    {
-      "name": "Charles Johnson",
-      "position": "MF",
-      "rating": 70,
-      "age": 31,
-      "value": 20336842
-    },
-    {
-      "name": "Mark Smith",
-      "position": "MF",
-      "rating": 79,
-      "age": 32,
-      "value": 21953684
-    },
-    {
-      "name": "Robert Jackson",
-      "position": "MF",
-      "rating": 75,
-      "age": 25,
-      "value": 27473684
-    },
-    {
-      "name": "George Johnson",
-      "position": "FW",
-      "rating": 61,
-      "age": 26,
-      "value": 26968421
-    },
-    {
-      "name": "Charles Taylor",
-      "position": "FW",
-      "rating": 75,
-      "age": 26,
-      "value": 33157894
-    },
-    {
-      "name": "Kenneth Johnson",
-      "position": "FW",
-      "rating": 73,
-      "age": 27,
-      "value": 31121052
-    },
-    {
-      "name": "Steven Rodriguez",
-      "position": "FW",
       "rating": 80,
-      "age": 27,
-      "value": 34105263
+      "age": 33,
+      "value": 21221052
     },
     {
-      "name": "Richard Jones",
+      "name": "Oscar Hart",
       "position": "FW",
-      "rating": 67,
-      "age": 19,
-      "value": 37026315
+      "rating": 60,
+      "age": 22,
+      "value": 30315789
+    },
+    {
+      "name": "Jarrett Ferguson",
+      "position": "FW",
+      "rating": 89,
+      "age": 18,
+      "value": 40000000
+    },
+    {
+      "name": "Lamine Osei",
+      "position": "FW",
+      "rating": 88,
+      "age": 34,
+      "value": 27789473
+    },
+    {
+      "name": "Kirk Holt",
+      "position": "FW",
+      "rating": 84,
+      "age": 23,
+      "value": 40000000
+    },
+    {
+      "name": "Sunil Choi",
+      "position": "FW",
+      "rating": 69,
+      "age": 25,
+      "value": 31594736
     }
   ],
   "stadium": {

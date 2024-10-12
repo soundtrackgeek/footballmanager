@@ -2,144 +2,144 @@
   "name": "Wolves",
   "squad": [
     {
-      "name": "Kenneth Smith",
-      "position": "GK",
-      "rating": 81,
-      "age": 26,
-      "value": 19098947
-    },
-    {
-      "name": "David Gonzalez",
+      "name": "Felix Palmer",
       "position": "GK",
       "rating": 75,
-      "age": 35,
-      "value": 12000000
+      "age": 20,
+      "value": 21473684
     },
     {
-      "name": "James Miller",
+      "name": "Brian Richardson",
       "position": "GK",
-      "rating": 64,
-      "age": 32,
-      "value": 11856842
-    },
-    {
-      "name": "Brian Jones",
-      "position": "DF",
-      "rating": 80,
-      "age": 26,
-      "value": 23578947
-    },
-    {
-      "name": "Edward Rodriguez",
-      "position": "DF",
-      "rating": 63,
-      "age": 34,
-      "value": 13263157
-    },
-    {
-      "name": "Anthony Lopez",
-      "position": "DF",
-      "rating": 72,
-      "age": 34,
-      "value": 15157894
-    },
-    {
-      "name": "Paul Lopez",
-      "position": "DF",
-      "rating": 80,
-      "age": 22,
-      "value": 26947368
-    },
-    {
-      "name": "Thomas Brown",
-      "position": "DF",
-      "rating": 81,
+      "rating": 90,
       "age": 21,
-      "value": 28136842
+      "value": 25010526
     },
     {
-      "name": "Brian Hernandez",
+      "name": "Frank Franklin",
+      "position": "GK",
+      "rating": 90,
+      "age": 20,
+      "value": 25768421
+    },
+    {
+      "name": "Izaiah Banks",
       "position": "DF",
-      "rating": 61,
-      "age": 31,
-      "value": 14768421
+      "rating": 73,
+      "age": 19,
+      "value": 26894736
     },
     {
-      "name": "Charles Lopez",
+      "name": "Rowan Fletcher",
+      "position": "DF",
+      "rating": 65,
+      "age": 19,
+      "value": 23947368
+    },
+    {
+      "name": "Liam Flores",
+      "position": "DF",
+      "rating": 85,
+      "age": 16,
+      "value": 34000000
+    },
+    {
+      "name": "Francisco Palmer",
+      "position": "DF",
+      "rating": 69,
+      "age": 29,
+      "value": 18157894
+    },
+    {
+      "name": "Pedro Le\u00f3n",
+      "position": "DF",
+      "rating": 82,
+      "age": 30,
+      "value": 20715789
+    },
+    {
+      "name": "Ralph Webb",
+      "position": "DF",
+      "rating": 90,
+      "age": 25,
+      "value": 27473684
+    },
+    {
+      "name": "Conor Flores",
       "position": "MF",
-      "rating": 89,
+      "rating": 65,
       "age": 21,
-      "value": 37098947
+      "value": 27094736
     },
     {
-      "name": "Michael Williams",
+      "name": "Bernard Collins",
+      "position": "MF",
+      "rating": 68,
+      "age": 19,
+      "value": 30063157
+    },
+    {
+      "name": "Ezra Bryant",
+      "position": "MF",
+      "rating": 88,
+      "age": 24,
+      "value": 33347368
+    },
+    {
+      "name": "Shane Griffin",
+      "position": "MF",
+      "rating": 67,
+      "age": 25,
+      "value": 24543157
+    },
+    {
+      "name": "Mat\u00edas Alvarez",
+      "position": "MF",
+      "rating": 60,
+      "age": 32,
+      "value": 16673684
+    },
+    {
+      "name": "Gregory Hamilton",
       "position": "MF",
       "rating": 71,
-      "age": 22,
-      "value": 28698947
+      "age": 28,
+      "value": 23317894
     },
     {
-      "name": "David Rodriguez",
-      "position": "MF",
-      "rating": 69,
-      "age": 31,
-      "value": 20046315
-    },
-    {
-      "name": "Charles Johnson",
-      "position": "MF",
-      "rating": 75,
-      "age": 33,
-      "value": 19894736
-    },
-    {
-      "name": "Donald Moore",
-      "position": "MF",
-      "rating": 77,
-      "age": 26,
-      "value": 27233684
-    },
-    {
-      "name": "Brian Johnson",
-      "position": "MF",
-      "rating": 80,
-      "age": 17,
-      "value": 37389473
-    },
-    {
-      "name": "Kenneth Garcia",
+      "name": "Ronald Hicks",
       "position": "FW",
-      "rating": 73,
+      "rating": 87,
       "age": 25,
-      "value": 33426315
+      "value": 39836842
     },
     {
-      "name": "Anthony Smith",
+      "name": "Pablo Dur\u00e1n",
       "position": "FW",
-      "rating": 84,
-      "age": 20,
-      "value": 40000000
+      "rating": 69,
+      "age": 28,
+      "value": 28326315
     },
     {
-      "name": "Brian Rodriguez",
+      "name": "Kofi Quartey",
       "position": "FW",
-      "rating": 74,
-      "age": 29,
-      "value": 29210526
+      "rating": 63,
+      "age": 21,
+      "value": 32826315
     },
     {
-      "name": "William Lopez",
-      "position": "FW",
-      "rating": 80,
-      "age": 22,
-      "value": 40000000
-    },
-    {
-      "name": "Charles Brown",
+      "name": "Dean Barnett",
       "position": "FW",
       "rating": 73,
-      "age": 32,
-      "value": 25357894
+      "age": 20,
+      "value": 39189473
+    },
+    {
+      "name": "Mohammad Brooks",
+      "position": "FW",
+      "rating": 61,
+      "age": 25,
+      "value": 27931578
     }
   ],
   "stadium": {

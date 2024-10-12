@@ -2,144 +2,144 @@
   "name": "Crystal Palace",
   "squad": [
     {
-      "name": "Steven Anderson",
+      "name": "Joshua Kim",
       "position": "GK",
-      "rating": 70,
-      "age": 19,
-      "value": 20631578
-    },
-    {
-      "name": "Daniel Lopez",
-      "position": "GK",
-      "rating": 61,
+      "rating": 66,
       "age": 25,
-      "value": 14896842
+      "value": 16117894
     },
     {
-      "name": "Kenneth Thomas",
+      "name": "Rory Bradshaw",
       "position": "GK",
-      "rating": 60,
-      "age": 29,
-      "value": 12631578
+      "rating": 84,
+      "age": 16,
+      "value": 26880000
     },
     {
-      "name": "Paul Smith",
-      "position": "DF",
-      "rating": 79,
-      "age": 34,
-      "value": 16631578
+      "name": "Stefan Fletcher",
+      "position": "GK",
+      "rating": 71,
+      "age": 31,
+      "value": 13751578
     },
     {
-      "name": "Ronald Martinez",
-      "position": "DF",
-      "rating": 67,
-      "age": 22,
-      "value": 22568421
-    },
-    {
-      "name": "Richard Davis",
-      "position": "DF",
-      "rating": 79,
-      "age": 18,
-      "value": 29936842
-    },
-    {
-      "name": "Steven Davis",
-      "position": "DF",
-      "rating": 63,
-      "age": 28,
-      "value": 17242105
-    },
-    {
-      "name": "Mark Moore",
-      "position": "DF",
-      "rating": 79,
-      "age": 18,
-      "value": 29936842
-    },
-    {
-      "name": "John Miller",
+      "name": "Evan Reed",
       "position": "DF",
       "rating": 66,
-      "age": 33,
-      "value": 14589473
+      "age": 34,
+      "value": 13894736
     },
     {
-      "name": "Richard Rodriguez",
+      "name": "Edmund Marshall",
+      "position": "DF",
+      "rating": 64,
+      "age": 23,
+      "value": 20884210
+    },
+    {
+      "name": "Damon Wheeler",
+      "position": "DF",
+      "rating": 90,
+      "age": 19,
+      "value": 33157894
+    },
+    {
+      "name": "Wilson Peters",
+      "position": "DF",
+      "rating": 63,
+      "age": 23,
+      "value": 20557894
+    },
+    {
+      "name": "Will Dean",
+      "position": "DF",
+      "rating": 66,
+      "age": 31,
+      "value": 15978947
+    },
+    {
+      "name": "Juan Silva",
+      "position": "DF",
+      "rating": 83,
+      "age": 29,
+      "value": 21842105
+    },
+    {
+      "name": "Remington Mills",
       "position": "MF",
-      "rating": 79,
-      "age": 30,
-      "value": 23949473
+      "rating": 76,
+      "age": 22,
+      "value": 30720000
     },
     {
-      "name": "Richard Thomas",
+      "name": "Remington Mills",
+      "position": "MF",
+      "rating": 80,
+      "age": 20,
+      "value": 34357894
+    },
+    {
+      "name": "Thomas Little",
+      "position": "MF",
+      "rating": 86,
+      "age": 22,
+      "value": 34762105
+    },
+    {
+      "name": "Gabriel Olson",
+      "position": "MF",
+      "rating": 80,
+      "age": 19,
+      "value": 35368421
+    },
+    {
+      "name": "Roberto Espinoza",
       "position": "MF",
       "rating": 63,
       "age": 21,
       "value": 26261052
     },
     {
-      "name": "Brian Williams",
-      "position": "MF",
-      "rating": 75,
-      "age": 26,
-      "value": 26526315
-    },
-    {
-      "name": "Thomas Thomas",
+      "name": "Adeyemi Nkosi",
       "position": "MF",
       "rating": 69,
-      "age": 22,
-      "value": 27890526
+      "age": 24,
+      "value": 26147368
     },
     {
-      "name": "Mark Garcia",
-      "position": "MF",
-      "rating": 83,
-      "age": 25,
-      "value": 30404210
-    },
-    {
-      "name": "Mark Brown",
-      "position": "MF",
-      "rating": 66,
-      "age": 25,
-      "value": 24176842
-    },
-    {
-      "name": "Edward Jones",
+      "name": "Jengo Sangare",
       "position": "FW",
-      "rating": 74,
-      "age": 20,
-      "value": 39726315
+      "rating": 64,
+      "age": 23,
+      "value": 31326315
     },
     {
-      "name": "Ronald Martin",
+      "name": "Bart Phillips",
       "position": "FW",
       "rating": 80,
-      "age": 29,
-      "value": 31578947
+      "age": 23,
+      "value": 39157894
     },
     {
-      "name": "Thomas Gonzalez",
+      "name": "Charles Patterson",
       "position": "FW",
-      "rating": 71,
-      "age": 19,
-      "value": 39236842
-    },
-    {
-      "name": "William Moore",
-      "position": "FW",
-      "rating": 88,
+      "rating": 83,
       "age": 22,
       "value": 40000000
     },
     {
-      "name": "David Jackson",
+      "name": "Chidi Fernandes",
       "position": "FW",
-      "rating": 81,
-      "age": 16,
-      "value": 40000000
+      "rating": 85,
+      "age": 34,
+      "value": 26842105
+    },
+    {
+      "name": "Fernando Richards",
+      "position": "FW",
+      "rating": 84,
+      "age": 35,
+      "value": 25200000
     }
   ],
   "stadium": {

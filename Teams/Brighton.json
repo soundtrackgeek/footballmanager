@@ -2,144 +2,144 @@
   "name": "Brighton",
   "squad": [
     {
-      "name": "Brian Thomas",
+      "name": "Gregory Hamilton",
       "position": "GK",
-      "rating": 68,
-      "age": 31,
-      "value": 13170526
+      "rating": 76,
+      "age": 25,
+      "value": 18559999
     },
     {
-      "name": "David Thomas",
+      "name": "Bradley Morris",
       "position": "GK",
-      "rating": 73,
-      "age": 33,
-      "value": 12909473
+      "rating": 76,
+      "age": 23,
+      "value": 19840000
     },
     {
-      "name": "John Gonzalez",
+      "name": "Kofi Benjumea",
       "position": "GK",
+      "rating": 74,
+      "age": 23,
+      "value": 19317894
+    },
+    {
+      "name": "Kingston Reid",
+      "position": "DF",
+      "rating": 90,
+      "age": 18,
+      "value": 34105263
+    },
+    {
+      "name": "Chidi Fernandes",
+      "position": "DF",
+      "rating": 63,
+      "age": 23,
+      "value": 20557894
+    },
+    {
+      "name": "Dominic Nguyen",
+      "position": "DF",
       "rating": 60,
-      "age": 29,
-      "value": 12631578
+      "age": 30,
+      "value": 15157894
     },
     {
-      "name": "Thomas Johnson",
-      "position": "DF",
-      "rating": 86,
-      "age": 35,
-      "value": 17200000
-    },
-    {
-      "name": "David Williams",
-      "position": "DF",
-      "rating": 85,
-      "age": 23,
-      "value": 27736842
-    },
-    {
-      "name": "John Lopez",
-      "position": "DF",
-      "rating": 72,
-      "age": 23,
-      "value": 23494736
-    },
-    {
-      "name": "Steven Anderson",
-      "position": "DF",
-      "rating": 86,
-      "age": 22,
-      "value": 28968421
-    },
-    {
-      "name": "Robert Anderson",
+      "name": "Wayne Morrison",
       "position": "DF",
       "rating": 84,
-      "age": 30,
-      "value": 21221052
+      "age": 33,
+      "value": 18568421
     },
     {
-      "name": "William Garcia",
+      "name": "Brayden Rivera",
       "position": "DF",
-      "rating": 60,
-      "age": 32,
-      "value": 13894736
-    },
-    {
-      "name": "George Lopez",
-      "position": "MF",
-      "rating": 81,
-      "age": 28,
-      "value": 26602105
-    },
-    {
-      "name": "Kenneth Anderson",
-      "position": "MF",
-      "rating": 65,
+      "rating": 80,
       "age": 29,
-      "value": 20526315
+      "value": 21052631
     },
     {
-      "name": "Mark Jones",
+      "name": "Easton Hamilton",
+      "position": "DF",
+      "rating": 87,
+      "age": 29,
+      "value": 22894736
+    },
+    {
+      "name": "Ping Matsumoto",
       "position": "MF",
-      "rating": 74,
-      "age": 25,
-      "value": 27107368
+      "rating": 60,
+      "age": 22,
+      "value": 24252631
     },
     {
-      "name": "Donald Martin",
+      "name": "Ruben Richardson",
+      "position": "MF",
+      "rating": 60,
+      "age": 19,
+      "value": 26526315
+    },
+    {
+      "name": "Drew Palmer",
+      "position": "MF",
+      "rating": 70,
+      "age": 18,
+      "value": 31831578
+    },
+    {
+      "name": "Kenny Kim",
+      "position": "MF",
+      "rating": 75,
+      "age": 19,
+      "value": 33157894
+    },
+    {
+      "name": "Cecil Foster",
+      "position": "MF",
+      "rating": 70,
+      "age": 28,
+      "value": 22989473
+    },
+    {
+      "name": "Finn Olsen",
       "position": "MF",
       "rating": 89,
       "age": 23,
       "value": 34850526
     },
     {
-      "name": "Kenneth Gonzalez",
-      "position": "MF",
-      "rating": 81,
-      "age": 27,
-      "value": 27625263
-    },
-    {
-      "name": "Richard Williams",
-      "position": "MF",
-      "rating": 78,
-      "age": 33,
-      "value": 20690526
-    },
-    {
-      "name": "William Taylor",
-      "position": "FW",
-      "rating": 89,
-      "age": 32,
-      "value": 30915789
-    },
-    {
-      "name": "Mark Taylor",
-      "position": "FW",
-      "rating": 62,
-      "age": 18,
-      "value": 35242105
-    },
-    {
-      "name": "Paul Smith",
-      "position": "FW",
-      "rating": 64,
-      "age": 35,
-      "value": 19200000
-    },
-    {
-      "name": "Steven Jackson",
+      "name": "Quentin Rowe",
       "position": "FW",
       "rating": 90,
-      "age": 28,
-      "value": 36947368
+      "age": 35,
+      "value": 27000000
     },
     {
-      "name": "Charles Anderson",
+      "name": "David Brooks",
       "position": "FW",
-      "rating": 81,
-      "age": 22,
-      "value": 40000000
+      "rating": 75,
+      "age": 29,
+      "value": 29605263
+    },
+    {
+      "name": "Marlon Dixon",
+      "position": "FW",
+      "rating": 75,
+      "age": 35,
+      "value": 22500000
+    },
+    {
+      "name": "Bernard Collins",
+      "position": "FW",
+      "rating": 72,
+      "age": 34,
+      "value": 22736842
+    },
+    {
+      "name": "Kelly Morgan",
+      "position": "FW",
+      "rating": 80,
+      "age": 35,
+      "value": 24000000
     }
   ],
   "stadium": {

@@ -2,144 +2,144 @@
   "name": "Aston Villa",
   "squad": [
     {
-      "name": "Mark Martin",
+      "name": "Christian Solberg",
       "position": "GK",
-      "rating": 61,
-      "age": 29,
-      "value": 12842105
+      "rating": 87,
+      "age": 30,
+      "value": 17583157
     },
     {
-      "name": "Daniel Johnson",
+      "name": "Erik Berg",
       "position": "GK",
-      "rating": 65,
-      "age": 35,
-      "value": 10400000
-    },
-    {
-      "name": "Donald Jackson",
-      "position": "GK",
-      "rating": 83,
-      "age": 16,
-      "value": 26560000
-    },
-    {
-      "name": "Kenneth Miller",
-      "position": "DF",
-      "rating": 78,
-      "age": 35,
-      "value": 15600000
-    },
-    {
-      "name": "Ronald Moore",
-      "position": "DF",
-      "rating": 82,
-      "age": 24,
-      "value": 25894736
-    },
-    {
-      "name": "Ronald Anderson",
-      "position": "DF",
-      "rating": 67,
+      "rating": 66,
       "age": 20,
-      "value": 23978947
+      "value": 18896842
     },
     {
-      "name": "Edward Martin",
+      "name": "Alex  Taylor",
+      "position": "GK",
+      "rating": 79,
+      "age": 28,
+      "value": 17296842
+    },
+    {
+      "name": "Fernando Richards",
       "position": "DF",
-      "rating": 84,
+      "rating": 70,
       "age": 16,
-      "value": 33600000
+      "value": 28000000
     },
     {
-      "name": "William Garcia",
+      "name": "Donovan Murphy",
       "position": "DF",
-      "rating": 80,
-      "age": 21,
-      "value": 27789473
-    },
-    {
-      "name": "Richard Martin",
-      "position": "DF",
-      "rating": 74,
+      "rating": 75,
       "age": 23,
-      "value": 24147368
+      "value": 24473684
     },
     {
-      "name": "George Martinez",
-      "position": "MF",
-      "rating": 78,
-      "age": 29,
-      "value": 24631578
+      "name": "Danny Scott",
+      "position": "DF",
+      "rating": 64,
+      "age": 27,
+      "value": 18189473
     },
     {
-      "name": "David Smith",
-      "position": "MF",
-      "rating": 60,
+      "name": "Allan Lee",
+      "position": "DF",
+      "rating": 79,
+      "age": 20,
+      "value": 28273684
+    },
+    {
+      "name": "Ayden Hill",
+      "position": "DF",
+      "rating": 73,
+      "age": 16,
+      "value": 29200000
+    },
+    {
+      "name": "Anthony King",
+      "position": "DF",
+      "rating": 61,
       "age": 22,
-      "value": 24252631
+      "value": 20547368
     },
     {
-      "name": "William Martin",
+      "name": "Ji-hoon Kim",
+      "position": "MF",
+      "rating": 74,
+      "age": 22,
+      "value": 29911578
+    },
+    {
+      "name": "Steve Ellis",
       "position": "MF",
       "rating": 79,
-      "age": 19,
-      "value": 34926315
+      "age": 16,
+      "value": 37920000
     },
     {
-      "name": "Steven Davis",
+      "name": "Leo Baxter",
       "position": "MF",
-      "rating": 65,
-      "age": 27,
-      "value": 22168421
+      "rating": 84,
+      "age": 24,
+      "value": 31831578
     },
     {
-      "name": "Charles Moore",
+      "name": "Finn Olsen",
       "position": "MF",
-      "rating": 78,
-      "age": 28,
-      "value": 25616842
+      "rating": 72,
+      "age": 26,
+      "value": 25465263
     },
     {
-      "name": "Robert Jackson",
+      "name": "Dalton West",
       "position": "MF",
-      "rating": 62,
+      "rating": 79,
+      "age": 35,
+      "value": 18960000
+    },
+    {
+      "name": "Wilson Peters",
+      "position": "MF",
+      "rating": 76,
       "age": 31,
-      "value": 18012631
+      "value": 22080000
     },
     {
-      "name": "Daniel Jackson",
+      "name": "Ade Eze",
       "position": "FW",
-      "rating": 68,
-      "age": 32,
-      "value": 23621052
+      "rating": 62,
+      "age": 25,
+      "value": 28389473
     },
     {
-      "name": "Charles Moore",
+      "name": "Chester Alexander",
       "position": "FW",
-      "rating": 81,
-      "age": 19,
+      "rating": 60,
+      "age": 24,
+      "value": 28421052
+    },
+    {
+      "name": "Tobias Lund",
+      "position": "FW",
+      "rating": 82,
+      "age": 20,
       "value": 40000000
     },
     {
-      "name": "David Wilson",
+      "name": "Dorian Peterson",
       "position": "FW",
-      "rating": 81,
+      "rating": 63,
       "age": 25,
-      "value": 37089473
+      "value": 28847368
     },
     {
-      "name": "Daniel Taylor",
+      "name": "Alonzo Harris",
       "position": "FW",
-      "rating": 90,
-      "age": 28,
-      "value": 36947368
-    },
-    {
-      "name": "William Anderson",
-      "position": "FW",
-      "rating": 70,
+      "rating": 74,
       "age": 26,
-      "value": 30947368
+      "value": 32715789
     }
   ],
   "stadium": {

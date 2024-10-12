@@ -2,144 +2,144 @@
   "name": "Sheffield United",
   "squad": [
     {
-      "name": "George Wilson",
+      "name": "Nathan Barton",
       "position": "GK",
-      "rating": 74,
+      "rating": 79,
       "age": 23,
-      "value": 19317894
+      "value": 20623157
     },
     {
-      "name": "Thomas Lopez",
+      "name": "Declan James",
       "position": "GK",
-      "rating": 60,
-      "age": 32,
-      "value": 11115789
-    },
-    {
-      "name": "David Wilson",
-      "position": "GK",
-      "rating": 62,
-      "age": 18,
-      "value": 18795789
-    },
-    {
-      "name": "Ronald Garcia",
-      "position": "DF",
-      "rating": 67,
-      "age": 23,
-      "value": 21863157
-    },
-    {
-      "name": "George Smith",
-      "position": "DF",
-      "rating": 74,
-      "age": 17,
-      "value": 28821052
-    },
-    {
-      "name": "Richard Martinez",
-      "position": "DF",
-      "rating": 65,
-      "age": 25,
-      "value": 19842105
-    },
-    {
-      "name": "Charles Gonzalez",
-      "position": "DF",
-      "rating": 90,
-      "age": 24,
-      "value": 28421052
-    },
-    {
-      "name": "Paul Martinez",
-      "position": "DF",
-      "rating": 66,
-      "age": 27,
-      "value": 18757894
-    },
-    {
-      "name": "Steven Miller",
-      "position": "DF",
-      "rating": 72,
-      "age": 17,
-      "value": 28042105
-    },
-    {
-      "name": "Richard Miller",
-      "position": "MF",
       "rating": 68,
-      "age": 33,
-      "value": 18037894
+      "age": 21,
+      "value": 18896842
     },
     {
-      "name": "James Jackson",
+      "name": "Trevor Edwards",
+      "position": "GK",
+      "rating": 61,
+      "age": 30,
+      "value": 12328421
+    },
+    {
+      "name": "Zayden Ellis",
+      "position": "DF",
+      "rating": 70,
+      "age": 30,
+      "value": 17684210
+    },
+    {
+      "name": "Santiago Reyes",
+      "position": "DF",
+      "rating": 80,
+      "age": 18,
+      "value": 30315789
+    },
+    {
+      "name": "Clinton Powell",
+      "position": "DF",
+      "rating": 61,
+      "age": 20,
+      "value": 21831578
+    },
+    {
+      "name": "Oscar Hart",
+      "position": "DF",
+      "rating": 73,
+      "age": 20,
+      "value": 26126315
+    },
+    {
+      "name": "Uriel Murray",
+      "position": "DF",
+      "rating": 77,
+      "age": 28,
+      "value": 21073684
+    },
+    {
+      "name": "Hector Salazar",
+      "position": "DF",
+      "rating": 75,
+      "age": 25,
+      "value": 22894736
+    },
+    {
+      "name": "Louis West",
       "position": "MF",
-      "rating": 86,
-      "age": 19,
-      "value": 38021052
+      "rating": 62,
+      "age": 32,
+      "value": 17229473
     },
     {
-      "name": "Robert Davis",
+      "name": "Victor Pedersen",
+      "position": "MF",
+      "rating": 82,
+      "age": 30,
+      "value": 24858947
+    },
+    {
+      "name": "Matt Palmer",
+      "position": "MF",
+      "rating": 73,
+      "age": 26,
+      "value": 25818947
+    },
+    {
+      "name": "Duncan Hughes",
+      "position": "MF",
+      "rating": 76,
+      "age": 21,
+      "value": 31680000
+    },
+    {
+      "name": "Uriel Murray",
+      "position": "MF",
+      "rating": 80,
+      "age": 18,
+      "value": 36378947
+    },
+    {
+      "name": "Liam Flores",
       "position": "MF",
       "rating": 89,
-      "age": 24,
-      "value": 33726315
-    },
-    {
-      "name": "David Lopez",
-      "position": "MF",
-      "rating": 86,
-      "age": 25,
-      "value": 31503157
-    },
-    {
-      "name": "Robert Smith",
-      "position": "MF",
-      "rating": 71,
-      "age": 24,
-      "value": 26905263
-    },
-    {
-      "name": "Charles Miller",
-      "position": "MF",
-      "rating": 81,
-      "age": 26,
-      "value": 28648421
-    },
-    {
-      "name": "Daniel Hernandez",
-      "position": "FW",
-      "rating": 64,
       "age": 33,
-      "value": 21221052
+      "value": 23608421
     },
     {
-      "name": "Donald Rodriguez",
+      "name": "Mandla Yeboah",
       "position": "FW",
-      "rating": 74,
-      "age": 17,
+      "rating": 73,
+      "age": 21,
+      "value": 38036842
+    },
+    {
+      "name": "Pablo Dur\u00e1n",
+      "position": "FW",
+      "rating": 71,
+      "age": 23,
+      "value": 34752631
+    },
+    {
+      "name": "Adam Martinez",
+      "position": "FW",
+      "rating": 76,
+      "age": 18,
       "value": 40000000
     },
     {
-      "name": "Thomas Lopez",
+      "name": "Glen James",
       "position": "FW",
-      "rating": 71,
-      "age": 20,
-      "value": 38115789
+      "rating": 88,
+      "age": 32,
+      "value": 30568421
     },
     {
-      "name": "Robert Jones",
+      "name": "Tumelo Ekwueme",
       "position": "FW",
-      "rating": 63,
-      "age": 22,
-      "value": 31831578
-    },
-    {
-      "name": "Kenneth Taylor",
-      "position": "FW",
-      "rating": 60,
-      "age": 23,
-      "value": 29368421
+      "rating": 90,
+      "age": 25,
+      "value": 40000000
     }
   ],
   "stadium": {
