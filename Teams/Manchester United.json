@@ -2,144 +2,144 @@
   "name": "Manchester United",
   "squad": [
     {
-      "name": "Pablo Blake",
+      "name": "Jasper Bryant",
       "position": "GK",
-      "rating": 64,
-      "age": 25,
-      "value": 15629473
+      "rating": 83,
+      "age": 21,
+      "value": 23065263
     },
     {
-      "name": "Magnus Fuller",
+      "name": "Thomas Fisher",
       "position": "GK",
-      "rating": 81,
-      "age": 27,
-      "value": 18416842
+      "rating": 74,
+      "age": 22,
+      "value": 19941052
     },
     {
-      "name": "Charlie Sharma",
+      "name": "Gabriel Fields",
       "position": "GK",
-      "rating": 78,
-      "age": 27,
-      "value": 17734736
-    },
-    {
-      "name": "Kyan Valdez",
-      "position": "DF",
-      "rating": 89,
-      "age": 20,
-      "value": 31852631
-    },
-    {
-      "name": "Vidar Bowman",
-      "position": "DF",
       "rating": 84,
-      "age": 19,
-      "value": 30947368
+      "age": 23,
+      "value": 21928421
     },
     {
-      "name": "Weston Dixon",
+      "name": "Isaiah Dom\u00ednguez",
       "position": "DF",
-      "rating": 61,
-      "age": 27,
-      "value": 17336842
+      "rating": 67,
+      "age": 33,
+      "value": 14810526
     },
     {
-      "name": "Danny Fields",
+      "name": "Jett Palmer",
       "position": "DF",
       "rating": 65,
-      "age": 27,
-      "value": 18473684
+      "age": 30,
+      "value": 16421052
     },
     {
-      "name": "Oluwafemi Little",
+      "name": "Alvin Watanabe",
       "position": "DF",
-      "rating": 82,
-      "age": 19,
-      "value": 30210526
+      "rating": 69,
+      "age": 30,
+      "value": 17431578
     },
     {
-      "name": "Kato Venter",
+      "name": "Adeyemi Brooks",
       "position": "DF",
-      "rating": 78,
-      "age": 25,
-      "value": 23810526
-    },
-    {
-      "name": "Kody Choi",
-      "position": "MF",
-      "rating": 76,
-      "age": 28,
-      "value": 24960000
-    },
-    {
-      "name": "Viktor Ross",
-      "position": "MF",
-      "rating": 90,
-      "age": 23,
-      "value": 35242105
-    },
-    {
-      "name": "Kwabena Flores",
-      "position": "MF",
-      "rating": 63,
-      "age": 21,
-      "value": 26261052
-    },
-    {
-      "name": "Levi Bryant",
-      "position": "MF",
-      "rating": 89,
-      "age": 26,
-      "value": 31477894
-    },
-    {
-      "name": "Elliot Bowman",
-      "position": "MF",
-      "rating": 84,
-      "age": 18,
-      "value": 38197894
-    },
-    {
-      "name": "Dylan Morris",
-      "position": "MF",
       "rating": 87,
-      "age": 35,
-      "value": 20880000
+      "age": 17,
+      "value": 33884210
     },
     {
-      "name": "Warren Venter",
+      "name": "Jermaine Gomez",
+      "position": "DF",
+      "rating": 84,
+      "age": 34,
+      "value": 17684210
+    },
+    {
+      "name": "Malachi Reyes",
+      "position": "DF",
+      "rating": 67,
+      "age": 25,
+      "value": 20452631
+    },
+    {
+      "name": "Kaleb Boone",
+      "position": "MF",
+      "rating": 86,
+      "age": 28,
+      "value": 28244210
+    },
+    {
+      "name": "Amani Griffin",
+      "position": "MF",
+      "rating": 86,
+      "age": 22,
+      "value": 34762105
+    },
+    {
+      "name": "Steven Toure",
+      "position": "MF",
+      "rating": 74,
+      "age": 21,
+      "value": 30846315
+    },
+    {
+      "name": "Raj Griffin",
+      "position": "MF",
+      "rating": 61,
+      "age": 35,
+      "value": 14640000
+    },
+    {
+      "name": "Kabelo Howard",
+      "position": "MF",
+      "rating": 68,
+      "age": 23,
+      "value": 26627368
+    },
+    {
+      "name": "Lyle Sharp",
+      "position": "MF",
+      "rating": 83,
+      "age": 17,
+      "value": 38791578
+    },
+    {
+      "name": "Anthony Carter",
+      "position": "FW",
+      "rating": 81,
+      "age": 22,
+      "value": 40000000
+    },
+    {
+      "name": "Miles Stephens",
+      "position": "FW",
+      "rating": 71,
+      "age": 20,
+      "value": 38115789
+    },
+    {
+      "name": "Jackson Perez",
+      "position": "FW",
+      "rating": 80,
+      "age": 19,
+      "value": 40000000
+    },
+    {
+      "name": "Aiden Flores",
       "position": "FW",
       "rating": 84,
-      "age": 17,
-      "value": 40000000
+      "age": 33,
+      "value": 27852631
     },
     {
-      "name": "Kendall Lewis",
-      "position": "FW",
-      "rating": 85,
-      "age": 23,
-      "value": 40000000
-    },
-    {
-      "name": "Satoshi Sanchez",
+      "name": "Josiah Fisher",
       "position": "FW",
       "rating": 78,
-      "age": 17,
-      "value": 40000000
-    },
-    {
-      "name": "Marlon Stone",
-      "position": "FW",
-      "rating": 74,
-      "age": 31,
-      "value": 26873684
-    },
-    {
-      "name": "Ping Bennett",
-      "position": "FW",
-      "rating": 86,
       "age": 32,
-      "value": 29873684
+      "value": 27094736
     }
   ],
   "stadium": {

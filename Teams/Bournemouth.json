@@ -2,144 +2,144 @@
   "name": "Bournemouth",
   "squad": [
     {
-      "name": "Magnus Fernandes",
+      "name": "Roberto Marshall",
       "position": "GK",
-      "rating": 73,
-      "age": 32,
-      "value": 13524210
-    },
-    {
-      "name": "August Brooks",
-      "position": "GK",
-      "rating": 66,
-      "age": 22,
-      "value": 17785263
-    },
-    {
-      "name": "Nuru Nakamura",
-      "position": "GK",
-      "rating": 84,
-      "age": 26,
-      "value": 19806315
-    },
-    {
-      "name": "Jelani Olson",
-      "position": "DF",
-      "rating": 71,
-      "age": 18,
-      "value": 26905263
-    },
-    {
-      "name": "Kyler Bates",
-      "position": "DF",
-      "rating": 74,
-      "age": 17,
-      "value": 28821052
-    },
-    {
-      "name": "Emil Xolani",
-      "position": "DF",
       "rating": 83,
-      "age": 19,
-      "value": 30578947
+      "age": 23,
+      "value": 21667368
     },
     {
-      "name": "Andr\u00e9s Bennett",
+      "name": "Marco Fox",
+      "position": "GK",
+      "rating": 60,
+      "age": 17,
+      "value": 18694736
+    },
+    {
+      "name": "Jesse Osei",
+      "position": "GK",
+      "rating": 70,
+      "age": 20,
+      "value": 20042105
+    },
+    {
+      "name": "Jordan Ross",
       "position": "DF",
-      "rating": 89,
-      "age": 21,
-      "value": 30915789
+      "rating": 79,
+      "age": 20,
+      "value": 28273684
     },
     {
-      "name": "Guillermo Harris",
+      "name": "Pablo Roberts",
       "position": "DF",
       "rating": 62,
-      "age": 18,
-      "value": 23494736
+      "age": 19,
+      "value": 22842105
     },
     {
-      "name": "Caden Desai",
+      "name": "Simon Morrison",
       "position": "DF",
-      "rating": 72,
+      "rating": 68,
       "age": 30,
-      "value": 18189473
+      "value": 17178947
     },
     {
-      "name": "Simba Fredriksson",
-      "position": "MF",
-      "rating": 71,
-      "age": 33,
-      "value": 18833684
+      "name": "Mohammad Ellison",
+      "position": "DF",
+      "rating": 82,
+      "age": 21,
+      "value": 28484210
     },
     {
-      "name": "Elias Jacobsen",
-      "position": "MF",
+      "name": "Alan Dahl",
+      "position": "DF",
       "rating": 84,
-      "age": 32,
-      "value": 23343157
+      "age": 16,
+      "value": 33600000
     },
     {
-      "name": "Nuru Shin",
+      "name": "Uriah Bishop",
+      "position": "DF",
+      "rating": 88,
+      "age": 18,
+      "value": 33347368
+    },
+    {
+      "name": "Pedro Hart",
       "position": "MF",
-      "rating": 90,
-      "age": 33,
-      "value": 23873684
+      "rating": 74,
+      "age": 26,
+      "value": 26172631
     },
     {
-      "name": "Joshua Eriksson",
+      "name": "Bobby Coleman",
       "position": "MF",
       "rating": 77,
-      "age": 25,
-      "value": 28206315
+      "age": 22,
+      "value": 31124210
     },
     {
-      "name": "Carlos Newman",
+      "name": "Juan Ben\u00edtez",
       "position": "MF",
-      "rating": 73,
-      "age": 27,
-      "value": 24896842
+      "rating": 60,
+      "age": 20,
+      "value": 25768421
     },
     {
-      "name": "Marcos Sanchez",
+      "name": "Uriel West",
       "position": "MF",
-      "rating": 81,
-      "age": 27,
-      "value": 27625263
+      "rating": 60,
+      "age": 21,
+      "value": 25010526
     },
     {
-      "name": "Bjorn Long",
-      "position": "FW",
+      "name": "Martin Mendoza",
+      "position": "MF",
+      "rating": 69,
+      "age": 34,
+      "value": 17431578
+    },
+    {
+      "name": "Wei-Lun Fields",
+      "position": "MF",
       "rating": 89,
-      "age": 35,
-      "value": 26700000
-    },
-    {
-      "name": "Simon Lin",
-      "position": "FW",
-      "rating": 78,
-      "age": 25,
-      "value": 35715789
-    },
-    {
-      "name": "Ra\u00fal Oliver",
-      "position": "FW",
-      "rating": 64,
-      "age": 32,
-      "value": 22231578
-    },
-    {
-      "name": "Dashiell Ferguson",
-      "position": "FW",
-      "rating": 84,
       "age": 16,
       "value": 40000000
     },
     {
-      "name": "Cian Reid",
+      "name": "Matthew Black",
+      "position": "FW",
+      "rating": 86,
+      "age": 27,
+      "value": 36663157
+    },
+    {
+      "name": "Diego Holt",
+      "position": "FW",
+      "rating": 73,
+      "age": 34,
+      "value": 23052631
+    },
+    {
+      "name": "James Phillips",
       "position": "FW",
       "rating": 72,
+      "age": 31,
+      "value": 26147368
+    },
+    {
+      "name": "Bo Pena",
+      "position": "FW",
+      "rating": 60,
+      "age": 35,
+      "value": 18000000
+    },
+    {
+      "name": "Vince Long",
+      "position": "FW",
+      "rating": 61,
       "age": 18,
-      "value": 40000000
+      "value": 34673684
     }
   ],
   "stadium": {

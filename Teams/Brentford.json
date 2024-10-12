@@ -2,144 +2,144 @@
   "name": "Brentford",
   "squad": [
     {
-      "name": "Milton Zhu",
+      "name": "Dwayne Hanson",
       "position": "GK",
-      "rating": 88,
-      "age": 27,
-      "value": 20008421
-    },
-    {
-      "name": "Babatunde Rice",
-      "position": "GK",
-      "rating": 87,
-      "age": 16,
-      "value": 27840000
-    },
-    {
-      "name": "Riley Patterson",
-      "position": "GK",
-      "rating": 62,
-      "age": 33,
-      "value": 10964210
-    },
-    {
-      "name": "Mat\u00edas Duncan",
-      "position": "DF",
-      "rating": 85,
-      "age": 16,
-      "value": 34000000
-    },
-    {
-      "name": "Luis Cruz",
-      "position": "DF",
-      "rating": 72,
-      "age": 34,
-      "value": 15157894
-    },
-    {
-      "name": "Victor Watkins",
-      "position": "DF",
       "rating": 82,
-      "age": 29,
-      "value": 21578947
+      "age": 18,
+      "value": 24858947
     },
     {
-      "name": "Fernando Burke",
+      "name": "Hunter Guo",
+      "position": "GK",
+      "rating": 74,
+      "age": 23,
+      "value": 19317894
+    },
+    {
+      "name": "Rohan Hayes",
+      "position": "GK",
+      "rating": 71,
+      "age": 33,
+      "value": 12555789
+    },
+    {
+      "name": "Emil Hayes",
       "position": "DF",
-      "rating": 81,
-      "age": 26,
-      "value": 23873684
+      "rating": 78,
+      "age": 22,
+      "value": 26273684
     },
     {
-      "name": "Albert French",
+      "name": "Noel Rasmussen",
       "position": "DF",
       "rating": 63,
-      "age": 29,
-      "value": 16578947
-    },
-    {
-      "name": "Lawrence Hughes",
-      "position": "DF",
-      "rating": 68,
-      "age": 19,
-      "value": 25052631
-    },
-    {
-      "name": "Femi Ferguson",
-      "position": "MF",
-      "rating": 70,
-      "age": 20,
-      "value": 30063157
-    },
-    {
-      "name": "Ram\u00f3n Palmer",
-      "position": "MF",
-      "rating": 76,
-      "age": 29,
-      "value": 24000000
-    },
-    {
-      "name": "Jordan Dur\u00e1n",
-      "position": "MF",
-      "rating": 89,
-      "age": 29,
-      "value": 28105263
-    },
-    {
-      "name": "Leonardo Jacobsen",
-      "position": "MF",
-      "rating": 72,
-      "age": 31,
-      "value": 20917894
-    },
-    {
-      "name": "Sven Gomez",
-      "position": "MF",
-      "rating": 89,
-      "age": 26,
-      "value": 31477894
-    },
-    {
-      "name": "Ayaan Owens",
-      "position": "MF",
-      "rating": 70,
-      "age": 24,
-      "value": 26526315
-    },
-    {
-      "name": "Donovan Olson",
-      "position": "FW",
-      "rating": 73,
       "age": 32,
-      "value": 25357894
+      "value": 14589473
     },
     {
-      "name": "Drew Rowe",
-      "position": "FW",
-      "rating": 71,
-      "age": 18,
-      "value": 40000000
+      "name": "Gabriel Nilsson",
+      "position": "DF",
+      "rating": 86,
+      "age": 26,
+      "value": 25347368
     },
     {
-      "name": "Rowan Blake",
-      "position": "FW",
+      "name": "Wilson Rao",
+      "position": "DF",
+      "rating": 76,
+      "age": 17,
+      "value": 29600000
+    },
+    {
+      "name": "Satoshi Shaw",
+      "position": "DF",
+      "rating": 80,
+      "age": 32,
+      "value": 18526315
+    },
+    {
+      "name": "Rohan Bailey",
+      "position": "DF",
+      "rating": 89,
+      "age": 29,
+      "value": 23421052
+    },
+    {
+      "name": "Dennis Alvarez",
+      "position": "MF",
       "rating": 90,
-      "age": 27,
-      "value": 38368421
+      "age": 19,
+      "value": 39789473
     },
     {
-      "name": "Jake Burke",
-      "position": "FW",
-      "rating": 84,
+      "name": "Rowan Ellison",
+      "position": "MF",
+      "rating": 71,
+      "age": 27,
+      "value": 24214736
+    },
+    {
+      "name": "Josiah Mills",
+      "position": "MF",
+      "rating": 80,
       "age": 18,
+      "value": 36378947
+    },
+    {
+      "name": "Toby Salazar",
+      "position": "MF",
+      "rating": 85,
+      "age": 17,
+      "value": 39726315
+    },
+    {
+      "name": "Lyle Baldwin",
+      "position": "MF",
+      "rating": 79,
+      "age": 35,
+      "value": 18960000
+    },
+    {
+      "name": "Wilson Abebe",
+      "position": "MF",
+      "rating": 73,
+      "age": 29,
+      "value": 23052631
+    },
+    {
+      "name": "Fernando Lewis",
+      "position": "FW",
+      "rating": 82,
+      "age": 19,
       "value": 40000000
     },
     {
-      "name": "Chidi Schneider",
+      "name": "Daichi Holmberg",
       "position": "FW",
-      "rating": 66,
-      "age": 35,
-      "value": 19800000
+      "rating": 77,
+      "age": 25,
+      "value": 35257894
+    },
+    {
+      "name": "Ian Hart",
+      "position": "FW",
+      "rating": 83,
+      "age": 21,
+      "value": 40000000
+    },
+    {
+      "name": "Alonso Badu",
+      "position": "FW",
+      "rating": 65,
+      "age": 26,
+      "value": 28736842
+    },
+    {
+      "name": "August Watson",
+      "position": "FW",
+      "rating": 89,
+      "age": 19,
+      "value": 40000000
     }
   ],
   "stadium": {

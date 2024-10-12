@@ -2,144 +2,144 @@
   "name": "Nottingham Forest",
   "squad": [
     {
-      "name": "Chike Verma",
+      "name": "Darren Fuller",
       "position": "GK",
-      "rating": 65,
-      "age": 20,
-      "value": 18610526
+      "rating": 87,
+      "age": 31,
+      "value": 16850526
     },
     {
-      "name": "Jeremiah Hayes",
+      "name": "Spencer Delgado",
       "position": "GK",
-      "rating": 65,
-      "age": 17,
-      "value": 20252631
-    },
-    {
-      "name": "Pedro Andersen",
-      "position": "GK",
-      "rating": 72,
+      "rating": 82,
       "age": 32,
-      "value": 13338947
+      "value": 15191578
     },
     {
-      "name": "Hector Rodr\u00edguez",
+      "name": "Jerome Black",
+      "position": "GK",
+      "rating": 63,
+      "age": 28,
+      "value": 13793684
+    },
+    {
+      "name": "Tuan Watkins",
       "position": "DF",
-      "rating": 65,
-      "age": 20,
-      "value": 23263157
+      "rating": 87,
+      "age": 16,
+      "value": 34800000
     },
     {
-      "name": "Adam Long",
+      "name": "Isak Palmer",
+      "position": "DF",
+      "rating": 83,
+      "age": 30,
+      "value": 20968421
+    },
+    {
+      "name": "Malachi Evans",
+      "position": "DF",
+      "rating": 84,
+      "age": 30,
+      "value": 21221052
+    },
+    {
+      "name": "Johan Olson",
       "position": "DF",
       "rating": 68,
-      "age": 29,
-      "value": 17894736
+      "age": 25,
+      "value": 20757894
     },
     {
-      "name": "Noel Holt",
+      "name": "Carter Baker",
       "position": "DF",
-      "rating": 78,
-      "age": 29,
-      "value": 20526315
+      "rating": 61,
+      "age": 33,
+      "value": 13484210
     },
     {
-      "name": "Pedro Foster",
+      "name": "Ade Murphy",
       "position": "DF",
-      "rating": 75,
-      "age": 20,
-      "value": 26842105
+      "rating": 62,
+      "age": 23,
+      "value": 20231578
     },
     {
-      "name": "Axel Shaw",
-      "position": "DF",
-      "rating": 88,
-      "age": 35,
-      "value": 17600000
-    },
-    {
-      "name": "Carter Morgan",
-      "position": "DF",
-      "rating": 69,
-      "age": 27,
-      "value": 19610526
-    },
-    {
-      "name": "Chike Ramirez",
-      "position": "MF",
-      "rating": 89,
-      "age": 21,
-      "value": 37098947
-    },
-    {
-      "name": "Caden Farmer",
-      "position": "MF",
-      "rating": 67,
-      "age": 19,
-      "value": 29621052
-    },
-    {
-      "name": "Nathaniel Long",
-      "position": "MF",
-      "rating": 86,
-      "age": 30,
-      "value": 26071578
-    },
-    {
-      "name": "Ross Medina",
+      "name": "Milton Henry",
       "position": "MF",
       "rating": 79,
       "age": 34,
       "value": 19957894
     },
     {
-      "name": "Xavier Reyes",
+      "name": "Marc Hughes",
       "position": "MF",
-      "rating": 60,
-      "age": 35,
-      "value": 14400000
+      "rating": 67,
+      "age": 34,
+      "value": 16926315
     },
     {
-      "name": "Griffin Butler",
+      "name": "Quentin Morgan",
       "position": "MF",
-      "rating": 85,
+      "rating": 80,
+      "age": 30,
+      "value": 24252631
+    },
+    {
+      "name": "Francisco Fowler",
+      "position": "MF",
+      "rating": 63,
+      "age": 17,
+      "value": 29444210
+    },
+    {
+      "name": "Yuki Bishop",
+      "position": "MF",
+      "rating": 77,
+      "age": 18,
+      "value": 35014736
+    },
+    {
+      "name": "Tunde Benson",
+      "position": "MF",
+      "rating": 83,
       "age": 25,
-      "value": 31136842
+      "value": 30404210
     },
     {
-      "name": "Christopher S\u00f6derberg",
+      "name": "Craig Richardson",
+      "position": "FW",
+      "rating": 73,
+      "age": 34,
+      "value": 23052631
+    },
+    {
+      "name": "Cristian Reyes",
+      "position": "FW",
+      "rating": 73,
+      "age": 35,
+      "value": 21900000
+    },
+    {
+      "name": "Sven Bates",
       "position": "FW",
       "rating": 62,
-      "age": 26,
-      "value": 27410526
+      "age": 22,
+      "value": 31326315
     },
     {
-      "name": "Oscar Verma",
+      "name": "Ryan Patterson",
       "position": "FW",
-      "rating": 60,
-      "age": 26,
-      "value": 26526315
+      "rating": 63,
+      "age": 35,
+      "value": 18900000
     },
     {
-      "name": "Carter Oliver",
+      "name": "Barney Salazar",
       "position": "FW",
-      "rating": 84,
+      "rating": 61,
       "age": 29,
-      "value": 33157894
-    },
-    {
-      "name": "Kwesi Lee",
-      "position": "FW",
-      "rating": 75,
-      "age": 17,
-      "value": 40000000
-    },
-    {
-      "name": "Heath Cooper",
-      "position": "FW",
-      "rating": 88,
-      "age": 18,
-      "value": 40000000
+      "value": 24078947
     }
   ],
   "stadium": {

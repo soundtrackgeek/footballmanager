@@ -2,144 +2,144 @@
   "name": "Manchester City",
   "squad": [
     {
-      "name": "Andreas Liu",
+      "name": "Bruno Larsson",
       "position": "GK",
-      "rating": 73,
-      "age": 31,
-      "value": 14138947
+      "rating": 84,
+      "age": 34,
+      "value": 14147368
     },
     {
-      "name": "Daichi Richardson",
+      "name": "Haruki Nelson",
       "position": "GK",
-      "rating": 77,
-      "age": 22,
-      "value": 20749473
+      "rating": 62,
+      "age": 28,
+      "value": 13574736
     },
     {
-      "name": "Stefan Westerlund",
+      "name": "Pranav Rice",
       "position": "GK",
-      "rating": 90,
-      "age": 27,
-      "value": 20463157
+      "rating": 61,
+      "age": 19,
+      "value": 17978947
     },
     {
-      "name": "Henrik Bailey",
-      "position": "DF",
-      "rating": 73,
-      "age": 20,
-      "value": 26126315
-    },
-    {
-      "name": "Clinton Moore",
-      "position": "DF",
-      "rating": 63,
-      "age": 22,
-      "value": 21221052
-    },
-    {
-      "name": "Amani Hanson",
-      "position": "DF",
-      "rating": 69,
-      "age": 35,
-      "value": 13800000
-    },
-    {
-      "name": "Louis Badu",
-      "position": "DF",
-      "rating": 89,
-      "age": 35,
-      "value": 17800000
-    },
-    {
-      "name": "Ian Tanaka",
+      "name": "Arthur Palacios",
       "position": "DF",
       "rating": 75,
-      "age": 34,
-      "value": 15789473
+      "age": 20,
+      "value": 26842105
     },
     {
-      "name": "Joshua Sato",
+      "name": "Marshall Richardson",
       "position": "DF",
-      "rating": 84,
-      "age": 35,
-      "value": 16800000
+      "rating": 77,
+      "age": 19,
+      "value": 28368421
     },
     {
-      "name": "Vince Guo",
+      "name": "Daniel Brooks",
+      "position": "DF",
+      "rating": 65,
+      "age": 24,
+      "value": 20526315
+    },
+    {
+      "name": "Christian Hayes",
+      "position": "DF",
+      "rating": 86,
+      "age": 17,
+      "value": 33494736
+    },
+    {
+      "name": "Musa Hayes",
+      "position": "DF",
+      "rating": 75,
+      "age": 20,
+      "value": 26842105
+    },
+    {
+      "name": "Kody Hayes",
+      "position": "DF",
+      "rating": 87,
+      "age": 16,
+      "value": 34800000
+    },
+    {
+      "name": "Frank Bates",
+      "position": "MF",
+      "rating": 62,
+      "age": 31,
+      "value": 18012631
+    },
+    {
+      "name": "Yahir Mabena",
+      "position": "MF",
+      "rating": 85,
+      "age": 35,
+      "value": 20400000
+    },
+    {
+      "name": "Ben Richards",
+      "position": "MF",
+      "rating": 65,
+      "age": 29,
+      "value": 20526315
+    },
+    {
+      "name": "Adeola Brooks",
+      "position": "MF",
+      "rating": 67,
+      "age": 19,
+      "value": 29621052
+    },
+    {
+      "name": "Uriah Burke",
       "position": "MF",
       "rating": 72,
-      "age": 24,
-      "value": 27284210
+      "age": 34,
+      "value": 18189473
     },
     {
-      "name": "Andy Lindgren",
+      "name": "Edward Bowman",
       "position": "MF",
-      "rating": 69,
+      "rating": 80,
+      "age": 16,
+      "value": 38400000
+    },
+    {
+      "name": "Vishal Biko",
+      "position": "FW",
+      "rating": 90,
       "age": 25,
-      "value": 25275789
+      "value": 40000000
     },
     {
-      "name": "Reese Kim",
-      "position": "MF",
-      "rating": 68,
-      "age": 16,
-      "value": 32640000
-    },
-    {
-      "name": "Ryker Webb",
-      "position": "MF",
-      "rating": 89,
-      "age": 19,
-      "value": 39347368
-    },
-    {
-      "name": "Levi Dur\u00e1n",
-      "position": "MF",
-      "rating": 78,
-      "age": 33,
-      "value": 20690526
-    },
-    {
-      "name": "Jeremy Hill",
-      "position": "MF",
-      "rating": 60,
-      "age": 16,
-      "value": 28800000
-    },
-    {
-      "name": "Abraham Fisher",
+      "name": "Bernard Williamson",
       "position": "FW",
-      "rating": 79,
-      "age": 29,
-      "value": 31184210
+      "rating": 76,
+      "age": 23,
+      "value": 37200000
     },
     {
-      "name": "Kyan Sandberg",
-      "position": "FW",
-      "rating": 60,
-      "age": 22,
-      "value": 30315789
-    },
-    {
-      "name": "Tristan Hayes",
+      "name": "Cory Parker",
       "position": "FW",
       "rating": 64,
-      "age": 22,
-      "value": 32336842
+      "age": 20,
+      "value": 34357894
     },
     {
-      "name": "Richard Manning",
+      "name": "Max Burke",
       "position": "FW",
       "rating": 74,
-      "age": 28,
-      "value": 30378947
+      "age": 20,
+      "value": 39726315
     },
     {
-      "name": "Sergio Gonz\u00e1lez",
+      "name": "Miles Ramirez",
       "position": "FW",
-      "rating": 89,
-      "age": 28,
-      "value": 36536842
+      "rating": 80,
+      "age": 33,
+      "value": 26526315
     }
   ],
   "stadium": {

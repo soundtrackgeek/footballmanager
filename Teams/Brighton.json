@@ -2,144 +2,144 @@
   "name": "Brighton",
   "squad": [
     {
-      "name": "Franklin Torres",
+      "name": "Tyson Hamilton",
       "position": "GK",
-      "rating": 60,
-      "age": 32,
-      "value": 11115789
+      "rating": 89,
+      "age": 19,
+      "value": 26231578
     },
     {
-      "name": "Casey Cruz",
+      "name": "Stewart Coleman",
+      "position": "GK",
+      "rating": 87,
+      "age": 31,
+      "value": 16850526
+    },
+    {
+      "name": "Baojun Meadows",
       "position": "GK",
       "rating": 62,
-      "age": 17,
-      "value": 19317894
-    },
-    {
-      "name": "Garrett Arnold",
-      "position": "GK",
-      "rating": 64,
       "age": 35,
-      "value": 10240000
+      "value": 9920000
     },
     {
-      "name": "Adeyemi Ito",
+      "name": "Uriel Akinyele",
       "position": "DF",
-      "rating": 81,
-      "age": 16,
-      "value": 32400000
+      "rating": 77,
+      "age": 34,
+      "value": 16210526
     },
     {
-      "name": "Brandon Parker",
-      "position": "DF",
-      "rating": 85,
-      "age": 18,
-      "value": 32210526
-    },
-    {
-      "name": "Ethan Cruz",
-      "position": "DF",
-      "rating": 74,
-      "age": 19,
-      "value": 27263157
-    },
-    {
-      "name": "Trenton Sato",
-      "position": "DF",
-      "rating": 69,
-      "age": 24,
-      "value": 21789473
-    },
-    {
-      "name": "Emil Martin",
-      "position": "DF",
-      "rating": 90,
-      "age": 27,
-      "value": 25578947
-    },
-    {
-      "name": "Josiah Ekwueme",
+      "name": "Raymond Howard",
       "position": "DF",
       "rating": 80,
-      "age": 30,
-      "value": 20210526
+      "age": 34,
+      "value": 16842105
     },
     {
-      "name": "Haruki Morris",
-      "position": "MF",
-      "rating": 76,
-      "age": 29,
-      "value": 24000000
-    },
-    {
-      "name": "Baojun Watkins",
-      "position": "MF",
-      "rating": 68,
-      "age": 23,
-      "value": 26627368
-    },
-    {
-      "name": "Amani Hart",
-      "position": "MF",
-      "rating": 78,
-      "age": 35,
-      "value": 18720000
-    },
-    {
-      "name": "Bruno Gonzales",
-      "position": "MF",
-      "rating": 84,
-      "age": 32,
-      "value": 23343157
-    },
-    {
-      "name": "Adeyemi Russell",
-      "position": "MF",
-      "rating": 71,
-      "age": 33,
-      "value": 18833684
-    },
-    {
-      "name": "Noah Franco",
-      "position": "MF",
-      "rating": 73,
-      "age": 30,
-      "value": 22130526
-    },
-    {
-      "name": "Mauricio Howard",
-      "position": "FW",
-      "rating": 71,
-      "age": 22,
-      "value": 35873684
-    },
-    {
-      "name": "Mathias Molina",
-      "position": "FW",
+      "name": "Adan Mendoza",
+      "position": "DF",
       "rating": 75,
-      "age": 20,
-      "value": 40000000
+      "age": 23,
+      "value": 24473684
     },
     {
-      "name": "Garrett Cruz",
-      "position": "FW",
-      "rating": 78,
-      "age": 33,
-      "value": 25863157
+      "name": "Dakota Cruz",
+      "position": "DF",
+      "rating": 61,
+      "age": 16,
+      "value": 24400000
     },
     {
-      "name": "Kingston Griffin",
-      "position": "FW",
-      "rating": 64,
-      "age": 21,
-      "value": 33347368
+      "name": "Connor Wheeler",
+      "position": "DF",
+      "rating": 63,
+      "age": 24,
+      "value": 19894736
     },
     {
-      "name": "Aziz Henderson",
+      "name": "Keita Biko",
+      "position": "DF",
+      "rating": 69,
+      "age": 17,
+      "value": 26873684
+    },
+    {
+      "name": "Einar Morrison",
+      "position": "MF",
+      "rating": 80,
+      "age": 18,
+      "value": 36378947
+    },
+    {
+      "name": "Ben James",
+      "position": "MF",
+      "rating": 83,
+      "age": 16,
+      "value": 39840000
+    },
+    {
+      "name": "Vance Adams",
+      "position": "MF",
+      "rating": 81,
+      "age": 35,
+      "value": 19440000
+    },
+    {
+      "name": "Martin Hanson",
+      "position": "MF",
+      "rating": 85,
+      "age": 28,
+      "value": 27915789
+    },
+    {
+      "name": "Elias Dlamini",
+      "position": "MF",
+      "rating": 79,
+      "age": 22,
+      "value": 31932631
+    },
+    {
+      "name": "Oliver Eklund",
+      "position": "MF",
+      "rating": 80,
+      "age": 22,
+      "value": 32336842
+    },
+    {
+      "name": "Kofi Chukwu",
       "position": "FW",
-      "rating": 87,
+      "rating": 89,
+      "age": 29,
+      "value": 35131578
+    },
+    {
+      "name": "Nils Flores",
+      "position": "FW",
+      "rating": 70,
+      "age": 27,
+      "value": 29842105
+    },
+    {
+      "name": "Simon Onyango",
+      "position": "FW",
+      "rating": 72,
       "age": 30,
-      "value": 32968421
+      "value": 27284210
+    },
+    {
+      "name": "Chidi Rogers",
+      "position": "FW",
+      "rating": 60,
+      "age": 35,
+      "value": 18000000
+    },
+    {
+      "name": "Hugo Rom\u00e1n",
+      "position": "FW",
+      "rating": 86,
+      "age": 21,
+      "value": 40000000
     }
   ],
   "stadium": {

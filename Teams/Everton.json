@@ -2,144 +2,144 @@
   "name": "Everton",
   "squad": [
     {
-      "name": "Liang Castillo",
+      "name": "Douglas Anderson",
       "position": "GK",
-      "rating": 74,
-      "age": 31,
-      "value": 14332631
+      "rating": 67,
+      "age": 33,
+      "value": 11848421
     },
     {
-      "name": "Duncan Lee",
+      "name": "Ryan Jackson",
       "position": "GK",
-      "rating": 90,
-      "age": 21,
-      "value": 25010526
+      "rating": 64,
+      "age": 32,
+      "value": 11856842
     },
     {
-      "name": "Karl Dias",
+      "name": "Matthew Takahashi",
       "position": "GK",
-      "rating": 79,
-      "age": 31,
-      "value": 15301052
+      "rating": 73,
+      "age": 26,
+      "value": 17212631
     },
     {
-      "name": "Kellen Rice",
+      "name": "Chike Sj\u00f6berg",
+      "position": "DF",
+      "rating": 66,
+      "age": 20,
+      "value": 23621052
+    },
+    {
+      "name": "Yuto Morgan",
       "position": "DF",
       "rating": 84,
-      "age": 24,
-      "value": 26526315
-    },
-    {
-      "name": "Mat\u00edas Morales",
-      "position": "DF",
-      "rating": 63,
-      "age": 25,
-      "value": 19231578
-    },
-    {
-      "name": "Kaleb Mills",
-      "position": "DF",
-      "rating": 60,
       "age": 27,
-      "value": 17052631
+      "value": 23873684
     },
     {
-      "name": "Brantley Pena",
-      "position": "DF",
-      "rating": 84,
-      "age": 17,
-      "value": 32715789
-    },
-    {
-      "name": "Adri\u00e1n Benjumea",
+      "name": "Kameron Joseph",
       "position": "DF",
       "rating": 68,
-      "age": 27,
-      "value": 19326315
+      "age": 33,
+      "value": 15031578
     },
     {
-      "name": "Chidi Dean",
+      "name": "Musa Hayes",
+      "position": "DF",
+      "rating": 60,
+      "age": 35,
+      "value": 12000000
+    },
+    {
+      "name": "Preston Morrison",
       "position": "DF",
       "rating": 70,
+      "age": 31,
+      "value": 16947368
+    },
+    {
+      "name": "Juan Fletcher",
+      "position": "DF",
+      "rating": 71,
       "age": 27,
-      "value": 19894736
+      "value": 20178947
     },
     {
-      "name": "Dominic Barnett",
-      "position": "MF",
-      "rating": 82,
-      "age": 24,
-      "value": 31073684
-    },
-    {
-      "name": "Albert Bhatia",
-      "position": "MF",
-      "rating": 83,
-      "age": 25,
-      "value": 30404210
-    },
-    {
-      "name": "Marvin Rice",
-      "position": "MF",
-      "rating": 80,
-      "age": 17,
-      "value": 37389473
-    },
-    {
-      "name": "Hugo Flores",
+      "name": "Rory Han",
       "position": "MF",
       "rating": 72,
-      "age": 22,
-      "value": 29103157
-    },
-    {
-      "name": "Noel Beck",
-      "position": "MF",
-      "rating": 90,
-      "age": 29,
-      "value": 28421052
-    },
-    {
-      "name": "Blake Sandstr\u00f6m",
-      "position": "MF",
-      "rating": 85,
-      "age": 34,
-      "value": 21473684
-    },
-    {
-      "name": "Noel Fredriksson",
-      "position": "FW",
-      "rating": 76,
       "age": 35,
-      "value": 22800000
+      "value": 17280000
     },
     {
-      "name": "Kwasi Murphy",
-      "position": "FW",
-      "rating": 75,
-      "age": 34,
-      "value": 23684210
+      "name": "Sebastian Howard",
+      "position": "MF",
+      "rating": 70,
+      "age": 29,
+      "value": 22105263
     },
     {
-      "name": "James Henry",
+      "name": "Kabelo Stone",
+      "position": "MF",
+      "rating": 69,
+      "age": 35,
+      "value": 16560000
+    },
+    {
+      "name": "Alexander Olson",
+      "position": "MF",
+      "rating": 79,
+      "age": 26,
+      "value": 27941052
+    },
+    {
+      "name": "Rene Fowler",
+      "position": "MF",
+      "rating": 86,
+      "age": 33,
+      "value": 22812631
+    },
+    {
+      "name": "Kenta Zamani",
+      "position": "MF",
+      "rating": 70,
+      "age": 21,
+      "value": 29178947
+    },
+    {
+      "name": "Bryson Pedersen",
       "position": "FW",
-      "rating": 88,
-      "age": 18,
+      "rating": 90,
+      "age": 33,
+      "value": 29842105
+    },
+    {
+      "name": "Abel Franklin",
+      "position": "FW",
+      "rating": 67,
+      "age": 32,
+      "value": 23273684
+    },
+    {
+      "name": "Jaden Marsh",
+      "position": "FW",
+      "rating": 83,
+      "age": 21,
       "value": 40000000
     },
     {
-      "name": "Torsten Flores",
+      "name": "Clement Cohen",
       "position": "FW",
       "rating": 72,
-      "age": 35,
-      "value": 21600000
+      "age": 17,
+      "value": 40000000
     },
     {
-      "name": "Pablo Kareem",
+      "name": "Jeffrey Fern\u00e1ndez",
       "position": "FW",
-      "rating": 64,
-      "age": 17,
-      "value": 37389473
+      "rating": 63,
+      "age": 30,
+      "value": 23873684
     }
   ],
   "stadium": {

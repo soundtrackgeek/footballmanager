@@ -2,144 +2,144 @@
   "name": "Fulham",
   "squad": [
     {
-      "name": "Adan Marshall",
+      "name": "Justin Griffin",
       "position": "GK",
-      "rating": 67,
+      "rating": 70,
       "age": 35,
-      "value": 10720000
+      "value": 11200000
     },
     {
-      "name": "Uriah Silva",
+      "name": "Raj Feng",
       "position": "GK",
-      "rating": 82,
-      "age": 26,
-      "value": 19334736
+      "rating": 73,
+      "age": 31,
+      "value": 14138947
     },
     {
-      "name": "Will Wood",
+      "name": "Kayden Carter",
       "position": "GK",
-      "rating": 60,
-      "age": 17,
-      "value": 18694736
-    },
-    {
-      "name": "Shane Baxter",
-      "position": "DF",
-      "rating": 63,
-      "age": 32,
-      "value": 14589473
-    },
-    {
-      "name": "Griffin Bennett",
-      "position": "DF",
-      "rating": 64,
-      "age": 23,
-      "value": 20884210
-    },
-    {
-      "name": "Sim\u00f3n Morgan",
-      "position": "DF",
-      "rating": 84,
+      "rating": 89,
       "age": 21,
-      "value": 29178947
+      "value": 24732631
     },
     {
-      "name": "George Adams",
+      "name": "Bart Suzuki",
       "position": "DF",
-      "rating": 61,
-      "age": 16,
-      "value": 24400000
+      "rating": 75,
+      "age": 18,
+      "value": 28421052
     },
     {
-      "name": "Rakesh Hicks",
+      "name": "Abel Castro",
       "position": "DF",
-      "rating": 60,
-      "age": 33,
-      "value": 13263157
+      "rating": 74,
+      "age": 17,
+      "value": 28821052
     },
     {
-      "name": "Santiago Nelson",
+      "name": "Clark Jordan",
+      "position": "DF",
+      "rating": 69,
+      "age": 29,
+      "value": 18157894
+    },
+    {
+      "name": "Noah Norberg",
+      "position": "DF",
+      "rating": 66,
+      "age": 31,
+      "value": 15978947
+    },
+    {
+      "name": "Marcos Barnes",
       "position": "DF",
       "rating": 76,
       "age": 23,
       "value": 24800000
     },
     {
-      "name": "Walter Butler",
-      "position": "MF",
-      "rating": 87,
-      "age": 29,
-      "value": 27473684
+      "name": "Mario Coleman",
+      "position": "DF",
+      "rating": 84,
+      "age": 32,
+      "value": 19452631
     },
     {
-      "name": "Ping Larsen",
-      "position": "MF",
-      "rating": 70,
-      "age": 24,
-      "value": 26526315
-    },
-    {
-      "name": "Kolby Hoover",
-      "position": "MF",
-      "rating": 87,
-      "age": 18,
-      "value": 39562105
-    },
-    {
-      "name": "Adam Lopez",
+      "name": "Zachary Palmer",
       "position": "MF",
       "rating": 66,
-      "age": 24,
-      "value": 25010526
+      "age": 35,
+      "value": 15840000
     },
     {
-      "name": "Rohan Richards",
+      "name": "Santiago Sanders",
       "position": "MF",
-      "rating": 69,
-      "age": 29,
-      "value": 21789473
-    },
-    {
-      "name": "Riley James",
-      "position": "MF",
-      "rating": 83,
-      "age": 32,
-      "value": 23065263
-    },
-    {
-      "name": "Musa Huang",
-      "position": "FW",
-      "rating": 75,
+      "rating": 63,
       "age": 18,
+      "value": 28648421
+    },
+    {
+      "name": "Andrew Gustavsson",
+      "position": "MF",
+      "rating": 86,
+      "age": 31,
+      "value": 24985263
+    },
+    {
+      "name": "Axel Bates",
+      "position": "MF",
+      "rating": 76,
+      "age": 24,
+      "value": 28800000
+    },
+    {
+      "name": "Victor Lin",
+      "position": "MF",
+      "rating": 86,
+      "age": 20,
+      "value": 36934736
+    },
+    {
+      "name": "Mason Howard",
+      "position": "MF",
+      "rating": 60,
+      "age": 18,
+      "value": 27284210
+    },
+    {
+      "name": "Benjamin Gustavsson",
+      "position": "FW",
+      "rating": 66,
+      "age": 28,
+      "value": 27094736
+    },
+    {
+      "name": "Ignacio Bates",
+      "position": "FW",
+      "rating": 77,
+      "age": 21,
       "value": 40000000
     },
     {
-      "name": "Stewart Howard",
+      "name": "Simba Xolani",
       "position": "FW",
-      "rating": 65,
-      "age": 25,
-      "value": 29763157
-    },
-    {
-      "name": "Vidar Wallace",
-      "position": "FW",
-      "rating": 82,
-      "age": 28,
-      "value": 33663157
-    },
-    {
-      "name": "Dashiell Murphy",
-      "position": "FW",
-      "rating": 80,
+      "rating": 81,
       "age": 30,
-      "value": 30315789
+      "value": 30694736
     },
     {
-      "name": "Damian Watkins",
+      "name": "Keita Mills",
       "position": "FW",
-      "rating": 77,
-      "age": 31,
-      "value": 27963157
+      "rating": 69,
+      "age": 34,
+      "value": 21789473
+    },
+    {
+      "name": "Barack Xolani",
+      "position": "FW",
+      "rating": 72,
+      "age": 28,
+      "value": 29557894
     }
   ],
   "stadium": {

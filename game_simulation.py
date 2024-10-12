@@ -3,6 +3,10 @@ import time
 from team_management import select_team, auto_select_team
 from stats import stats
 from player import Position
+from colorama import init, Fore, Back, Style
+
+# Initialize colorama
+init(autoreset=True)
 
 def determine_goal_scorer(team):
     weights = {Position.FW: 0.6, Position.MF: 0.3, Position.DF: 0.08, Position.GK: 0.02}
@@ -88,11 +92,11 @@ def simulate_user_match(home_team, away_team):
         "Cool as you like! He slots it home with ease!"
     ]
 
-    print(f"\nExciting match: {home_team.name} vs {away_team.name}")
-    print("Kick-off!")
+    print(f"\nExciting match: {Fore.CYAN}{home_team.name}{Style.RESET_ALL} vs {Fore.CYAN}{away_team.name}{Style.RESET_ALL}")
+    print(f"\n{Fore.GREEN}Kick-off!{Style.RESET_ALL}\n")
 
     for minute in range(1, 91):
-        time.sleep(0.2)  # Simulate 0.5 seconds per minute (doubled speed)
+        time.sleep(0.2)  # Simulate 0.2 seconds per minute
         print(f"\rMinute {minute:2d}: {home_team.name} {home_goals} - {away_goals} {away_team.name}", end="", flush=True)
 
         # Simulate goal chances
@@ -101,16 +105,34 @@ def simulate_user_match(home_team, away_team):
                 scorer = determine_goal_scorer(home_team)
                 home_goals += 1
                 home_scorers.append((scorer, minute))
-                print(f"\nGOAL! {scorer.name} scores for {home_team.name}!")
-                print(random.choice(commentator_lines))
+                print(f"\n\n{Fore.YELLOW}Minute {minute}: {home_team.name} {home_goals} - {away_goals} {away_team.name}{Style.RESET_ALL}")
+                goal_message = f"GOAL! {scorer.name} scores for {home_team.name}!"
+                for i in range(6):  # Increase the number of flashes
+                    if i % 2 == 0:
+                        print(f"{Fore.RED}{Back.WHITE}{goal_message}{Style.RESET_ALL}")
+                    else:
+                        print(f"{Fore.RED}{goal_message}{Style.RESET_ALL}")
+                    time.sleep(0.3)  # Slightly faster flashing
+                    print("\033[A\033[K", end="")  # Clear the previous line
+                print(f"{Fore.RED}{goal_message}{Style.RESET_ALL}")  # Print the message one last time
+                print(f"{Fore.MAGENTA}{random.choice(commentator_lines)}{Style.RESET_ALL}\n")
             else:
                 scorer = determine_goal_scorer(away_team)
                 away_goals += 1
                 away_scorers.append((scorer, minute))
-                print(f"\nGOAL! {scorer.name} scores for {away_team.name}!")
-                print(random.choice(commentator_lines))
+                print(f"\n\n{Fore.YELLOW}Minute {minute}: {home_team.name} {home_goals} - {away_goals} {away_team.name}{Style.RESET_ALL}")
+                goal_message = f"GOAL! {scorer.name} scores for {away_team.name}!"
+                for i in range(6):  # Increase the number of flashes
+                    if i % 2 == 0:
+                        print(f"{Fore.RED}{Back.WHITE}{goal_message}{Style.RESET_ALL}")
+                    else:
+                        print(f"{Fore.RED}{goal_message}{Style.RESET_ALL}")
+                    time.sleep(0.3)  # Slightly faster flashing
+                    print("\033[A\033[K", end="")  # Clear the previous line
+                print(f"{Fore.RED}{goal_message}{Style.RESET_ALL}")  # Print the message one last time
+                print(f"{Fore.MAGENTA}{random.choice(commentator_lines)}{Style.RESET_ALL}\n")
 
-    print(f"\nFull-time: {home_team.name} {home_goals} - {away_goals} {away_team.name}")
+    print(f"\n{Fore.GREEN}Full-time: {home_team.name} {home_goals} - {away_goals} {away_team.name}{Style.RESET_ALL}")
     return home_goals, away_goals, home_scorers, away_scorers
 
 def play_week(fixtures, table, current_week, player_team):

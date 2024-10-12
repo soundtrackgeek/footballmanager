@@ -2,144 +2,144 @@
   "name": "Crystal Palace",
   "squad": [
     {
-      "name": "Stanley Olofsson",
+      "name": "John Olson",
       "position": "GK",
-      "rating": 73,
-      "age": 31,
-      "value": 14138947
+      "rating": 82,
+      "age": 34,
+      "value": 13810526
     },
     {
-      "name": "Marvin Fowler",
+      "name": "Rory Silva",
       "position": "GK",
-      "rating": 66,
-      "age": 18,
-      "value": 20008421
-    },
-    {
-      "name": "Mario Cunningham",
-      "position": "GK",
-      "rating": 80,
+      "rating": 68,
       "age": 23,
-      "value": 20884210
+      "value": 17751578
     },
     {
-      "name": "Bradley Baker",
-      "position": "DF",
-      "rating": 69,
-      "age": 29,
-      "value": 18157894
+      "name": "Alejandro Hansen",
+      "position": "GK",
+      "rating": 67,
+      "age": 23,
+      "value": 17490526
     },
     {
-      "name": "Satoshi Washington",
-      "position": "DF",
-      "rating": 73,
-      "age": 31,
-      "value": 17673684
-    },
-    {
-      "name": "Jelani West",
-      "position": "DF",
-      "rating": 77,
-      "age": 35,
-      "value": 15400000
-    },
-    {
-      "name": "Christian Thomas",
-      "position": "DF",
-      "rating": 79,
-      "age": 21,
-      "value": 27442105
-    },
-    {
-      "name": "Adam Lee",
-      "position": "DF",
-      "rating": 72,
-      "age": 24,
-      "value": 22736842
-    },
-    {
-      "name": "Adekunle Roberts",
+      "name": "Kobe Dixon",
       "position": "DF",
       "rating": 85,
-      "age": 30,
-      "value": 21473684
+      "age": 34,
+      "value": 17894736
     },
     {
-      "name": "Aedan Garc\u00eda",
-      "position": "MF",
+      "name": "Viktor Pepper",
+      "position": "DF",
+      "rating": 63,
+      "age": 21,
+      "value": 21884210
+    },
+    {
+      "name": "Uriah Nguyen",
+      "position": "DF",
       "rating": 79,
-      "age": 18,
-      "value": 35924210
-    },
-    {
-      "name": "Desmond Liu",
-      "position": "MF",
-      "rating": 90,
-      "age": 33,
-      "value": 23873684
-    },
-    {
-      "name": "Paige Foster",
-      "position": "MF",
-      "rating": 90,
       "age": 23,
-      "value": 35242105
+      "value": 25778947
     },
     {
-      "name": "Simon Tanaka",
-      "position": "MF",
-      "rating": 75,
-      "age": 22,
-      "value": 30315789
+      "name": "Jayden Hart",
+      "position": "DF",
+      "rating": 73,
+      "age": 35,
+      "value": 14600000
     },
     {
-      "name": "Ulises Franco",
-      "position": "MF",
-      "rating": 87,
-      "age": 33,
-      "value": 23077894
+      "name": "Ryker Holland",
+      "position": "DF",
+      "rating": 65,
+      "age": 21,
+      "value": 22578947
     },
     {
-      "name": "Martin Henry",
-      "position": "MF",
-      "rating": 71,
-      "age": 20,
-      "value": 30492631
-    },
-    {
-      "name": "Grant Feng",
-      "position": "FW",
-      "rating": 87,
-      "age": 22,
-      "value": 40000000
-    },
-    {
-      "name": "Harold Gustavsson",
-      "position": "FW",
-      "rating": 75,
-      "age": 25,
-      "value": 34342105
-    },
-    {
-      "name": "Tunde Whitaker",
-      "position": "FW",
-      "rating": 86,
-      "age": 17,
-      "value": 40000000
-    },
-    {
-      "name": "Kyan Bradley",
-      "position": "FW",
-      "rating": 77,
+      "name": "Dylan Gariba",
+      "position": "DF",
+      "rating": 85,
       "age": 24,
-      "value": 36473684
+      "value": 26842105
     },
     {
-      "name": "Russell Butler",
+      "name": "Cyrus Berglund",
+      "position": "MF",
+      "rating": 61,
+      "age": 22,
+      "value": 24656842
+    },
+    {
+      "name": "Kwasi Valdez",
+      "position": "MF",
+      "rating": 85,
+      "age": 22,
+      "value": 34357894
+    },
+    {
+      "name": "Gabriel Washington",
+      "position": "MF",
+      "rating": 87,
+      "age": 31,
+      "value": 25275789
+    },
+    {
+      "name": "Huy Hamilton",
+      "position": "MF",
+      "rating": 65,
+      "age": 34,
+      "value": 16421052
+    },
+    {
+      "name": "Adri\u00e1n Bates",
+      "position": "MF",
+      "rating": 90,
+      "age": 29,
+      "value": 28421052
+    },
+    {
+      "name": "Sergio Ramirez",
+      "position": "MF",
+      "rating": 64,
+      "age": 33,
+      "value": 16976842
+    },
+    {
+      "name": "Lawrence Gustavsson",
+      "position": "FW",
+      "rating": 90,
+      "age": 18,
+      "value": 40000000
+    },
+    {
+      "name": "Cameron Holm",
+      "position": "FW",
+      "rating": 67,
+      "age": 22,
+      "value": 33852631
+    },
+    {
+      "name": "Larry Thomsen",
+      "position": "FW",
+      "rating": 79,
+      "age": 19,
+      "value": 40000000
+    },
+    {
+      "name": "Zayden Patterson",
       "position": "FW",
       "rating": 66,
       "age": 24,
       "value": 31263157
+    },
+    {
+      "name": "Tyrone Lopez",
+      "position": "FW",
+      "rating": 84,
+      "age": 30,
+      "value": 31831578
     }
   ],
   "stadium": {

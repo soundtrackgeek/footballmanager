@@ -2,144 +2,144 @@
   "name": "Chelsea",
   "squad": [
     {
-      "name": "Shin Hoover",
+      "name": "Noel Hansen",
       "position": "GK",
-      "rating": 84,
+      "rating": 82,
+      "age": 24,
+      "value": 20715789
+    },
+    {
+      "name": "Tuan Bryant",
+      "position": "GK",
+      "rating": 69,
+      "age": 35,
+      "value": 11040000
+    },
+    {
+      "name": "Marshall Bates",
+      "position": "GK",
+      "rating": 87,
       "age": 18,
-      "value": 25465263
+      "value": 26374736
     },
     {
-      "name": "Uriah Palmer",
-      "position": "GK",
-      "rating": 88,
-      "age": 17,
-      "value": 27418947
-    },
-    {
-      "name": "Shawn West",
-      "position": "GK",
-      "rating": 86,
-      "age": 17,
-      "value": 26795789
-    },
-    {
-      "name": "Uriel Farmer",
+      "name": "Ricardo Ramirez",
       "position": "DF",
-      "rating": 62,
-      "age": 17,
-      "value": 24147368
+      "rating": 82,
+      "age": 24,
+      "value": 25894736
     },
     {
-      "name": "Reuben Barnett",
+      "name": "Amir Long",
       "position": "DF",
-      "rating": 83,
-      "age": 30,
-      "value": 20968421
-    },
-    {
-      "name": "Benny Parker",
-      "position": "DF",
-      "rating": 88,
-      "age": 20,
-      "value": 31494736
-    },
-    {
-      "name": "Wei-Lun Hayes",
-      "position": "DF",
-      "rating": 88,
-      "age": 21,
-      "value": 30568421
-    },
-    {
-      "name": "Noah Jabari",
-      "position": "DF",
-      "rating": 85,
+      "rating": 76,
       "age": 16,
-      "value": 34000000
+      "value": 30400000
     },
     {
-      "name": "Tristan Russell",
+      "name": "Einar Peters",
       "position": "DF",
-      "rating": 75,
-      "age": 16,
-      "value": 30000000
+      "rating": 71,
+      "age": 18,
+      "value": 26905263
     },
     {
-      "name": "Emiliano Fuller",
-      "position": "MF",
-      "rating": 64,
-      "age": 16,
-      "value": 30720000
+      "name": "Maximiliano Nakamura",
+      "position": "DF",
+      "rating": 79,
+      "age": 17,
+      "value": 30768421
     },
     {
-      "name": "Finn Carter",
-      "position": "MF",
-      "rating": 68,
-      "age": 25,
-      "value": 24909473
+      "name": "Tunde Espinoza",
+      "position": "DF",
+      "rating": 90,
+      "age": 27,
+      "value": 25578947
     },
     {
-      "name": "Cian Benson",
-      "position": "MF",
-      "rating": 72,
-      "age": 28,
-      "value": 23646315
+      "name": "Vidar Nguyen",
+      "position": "DF",
+      "rating": 63,
+      "age": 22,
+      "value": 21221052
     },
     {
-      "name": "Mike Murray",
+      "name": "Thabo Collins",
       "position": "MF",
       "rating": 79,
-      "age": 22,
-      "value": 31932631
+      "age": 17,
+      "value": 36922105
     },
     {
-      "name": "Kameron Garcia",
+      "name": "Mauricio Kim",
+      "position": "MF",
+      "rating": 66,
+      "age": 27,
+      "value": 22509473
+    },
+    {
+      "name": "Casey Wallace",
+      "position": "MF",
+      "rating": 81,
+      "age": 18,
+      "value": 36833684
+    },
+    {
+      "name": "Aziz Larsson",
+      "position": "MF",
+      "rating": 63,
+      "age": 33,
+      "value": 16711578
+    },
+    {
+      "name": "Hassan Sanchez",
+      "position": "MF",
+      "rating": 78,
+      "age": 32,
+      "value": 21675789
+    },
+    {
+      "name": "Jake West",
       "position": "MF",
       "rating": 65,
+      "age": 22,
+      "value": 26273684
+    },
+    {
+      "name": "Alejandro Nkosi",
+      "position": "FW",
+      "rating": 84,
+      "age": 16,
+      "value": 40000000
+    },
+    {
+      "name": "Stewart Bennett",
+      "position": "FW",
+      "rating": 74,
+      "age": 34,
+      "value": 23368421
+    },
+    {
+      "name": "Lyle Hughes",
+      "position": "FW",
+      "rating": 81,
       "age": 27,
-      "value": 22168421
+      "value": 34531578
     },
     {
-      "name": "Gavin Henderson",
-      "position": "MF",
-      "rating": 87,
-      "age": 32,
-      "value": 24176842
-    },
-    {
-      "name": "Damian Black",
+      "name": "Damon Morris",
       "position": "FW",
-      "rating": 64,
-      "age": 21,
-      "value": 33347368
-    },
-    {
-      "name": "Chester Hamilton",
-      "position": "FW",
-      "rating": 78,
-      "age": 33,
-      "value": 25863157
-    },
-    {
-      "name": "Clinton Barnett",
-      "position": "FW",
-      "rating": 71,
-      "age": 33,
-      "value": 23542105
-    },
-    {
-      "name": "Fernando Ramos",
-      "position": "FW",
-      "rating": 71,
+      "rating": 65,
       "age": 23,
-      "value": 34752631
+      "value": 31815789
     },
     {
-      "name": "Tao Larsen",
+      "name": "Lars Griffin",
       "position": "FW",
       "rating": 66,
-      "age": 20,
-      "value": 35431578
+      "age": 35,
+      "value": 19800000
     }
   ],
   "stadium": {

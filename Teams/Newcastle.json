@@ -2,144 +2,144 @@
   "name": "Newcastle",
   "squad": [
     {
-      "name": "Oluwafemi Berry",
+      "name": "Jiro Holland",
       "position": "GK",
-      "rating": 64,
+      "rating": 60,
+      "age": 29,
+      "value": 12631578
+    },
+    {
+      "name": "Grant Jackson",
+      "position": "GK",
+      "rating": 65,
       "age": 27,
-      "value": 14551578
+      "value": 14778947
     },
     {
-      "name": "Tobias Long",
+      "name": "Amari Franco",
       "position": "GK",
-      "rating": 71,
-      "age": 22,
-      "value": 19132631
-    },
-    {
-      "name": "Diego Lindgren",
-      "position": "GK",
-      "rating": 80,
-      "age": 32,
-      "value": 14821052
-    },
-    {
-      "name": "Lucas Hunt",
-      "position": "DF",
-      "rating": 83,
-      "age": 21,
-      "value": 28831578
-    },
-    {
-      "name": "Cyrus Patterson",
-      "position": "DF",
       "rating": 62,
-      "age": 28,
-      "value": 16968421
+      "age": 17,
+      "value": 19317894
     },
     {
-      "name": "Leif Myers",
+      "name": "Brantley West",
       "position": "DF",
-      "rating": 73,
-      "age": 24,
-      "value": 23052631
+      "rating": 68,
+      "age": 20,
+      "value": 24336842
     },
     {
-      "name": "Rune Franklin",
+      "name": "Elias Ramirez",
       "position": "DF",
+      "rating": 78,
+      "age": 19,
+      "value": 28736842
+    },
+    {
+      "name": "Marco Mason",
+      "position": "DF",
+      "rating": 88,
+      "age": 20,
+      "value": 31494736
+    },
+    {
+      "name": "Ruben Franklin",
+      "position": "DF",
+      "rating": 66,
+      "age": 27,
+      "value": 18757894
+    },
+    {
+      "name": "Daniel Carroll",
+      "position": "DF",
+      "rating": 84,
+      "age": 22,
+      "value": 28294736
+    },
+    {
+      "name": "Ulises Mabena",
+      "position": "DF",
+      "rating": 89,
+      "age": 20,
+      "value": 31852631
+    },
+    {
+      "name": "Anton Green",
+      "position": "MF",
       "rating": 75,
       "age": 22,
-      "value": 25263157
+      "value": 30315789
     },
     {
-      "name": "Ravi Hart",
-      "position": "DF",
-      "rating": 83,
-      "age": 18,
-      "value": 31452631
+      "name": "Barry Mart\u00ednez",
+      "position": "MF",
+      "rating": 82,
+      "age": 26,
+      "value": 29002105
     },
     {
-      "name": "Riley Ortega",
-      "position": "DF",
+      "name": "Rune Badu",
+      "position": "MF",
+      "rating": 64,
+      "age": 23,
+      "value": 25061052
+    },
+    {
+      "name": "Ram\u00f3n Zamani",
+      "position": "MF",
       "rating": 61,
-      "age": 21,
-      "value": 21189473
+      "age": 30,
+      "value": 18492631
     },
     {
-      "name": "Nicolas Palmer",
+      "name": "Kenneth Goodman",
       "position": "MF",
-      "rating": 83,
-      "age": 29,
-      "value": 26210526
+      "rating": 65,
+      "age": 31,
+      "value": 18884210
     },
     {
-      "name": "Joel Sharma",
+      "name": "Johannes Haynes",
       "position": "MF",
-      "rating": 89,
-      "age": 32,
-      "value": 24732631
-    },
-    {
-      "name": "Benjam\u00edn Reyes",
-      "position": "MF",
-      "rating": 83,
-      "age": 32,
-      "value": 23065263
-    },
-    {
-      "name": "Ben Coleman",
-      "position": "MF",
-      "rating": 64,
-      "age": 20,
-      "value": 27486315
-    },
-    {
-      "name": "Kenneth Reid",
-      "position": "MF",
-      "rating": 72,
-      "age": 26,
-      "value": 25465263
-    },
-    {
-      "name": "Pedro Benson",
-      "position": "MF",
-      "rating": 84,
-      "age": 32,
-      "value": 23343157
-    },
-    {
-      "name": "Andy Holm",
-      "position": "FW",
-      "rating": 69,
-      "age": 22,
-      "value": 34863157
-    },
-    {
-      "name": "Harry Jabari",
-      "position": "FW",
-      "rating": 71,
-      "age": 35,
-      "value": 21300000
-    },
-    {
-      "name": "Chad Marin",
-      "position": "FW",
-      "rating": 69,
-      "age": 27,
-      "value": 29415789
-    },
-    {
-      "name": "Ivan Olsen",
-      "position": "FW",
-      "rating": 64,
+      "rating": 86,
       "age": 18,
-      "value": 36378947
+      "value": 39107368
     },
     {
-      "name": "Rogelio Oliver",
+      "name": "Amir Diaz",
       "position": "FW",
-      "rating": 81,
+      "rating": 65,
       "age": 26,
-      "value": 35810526
+      "value": 28736842
+    },
+    {
+      "name": "Remington Barnes",
+      "position": "FW",
+      "rating": 80,
+      "age": 33,
+      "value": 26526315
+    },
+    {
+      "name": "Barney Young",
+      "position": "FW",
+      "rating": 69,
+      "age": 21,
+      "value": 35952631
+    },
+    {
+      "name": "Damien Andersen",
+      "position": "FW",
+      "rating": 87,
+      "age": 30,
+      "value": 32968421
+    },
+    {
+      "name": "Victor Kim",
+      "position": "FW",
+      "rating": 70,
+      "age": 23,
+      "value": 34263157
     }
   ],
   "stadium": {

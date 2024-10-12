@@ -2,144 +2,144 @@
   "name": "Liverpool",
   "squad": [
     {
-      "name": "Adeola Grant",
+      "name": "Aedan Schneider",
       "position": "GK",
-      "rating": 88,
-      "age": 28,
-      "value": 19267368
+      "rating": 89,
+      "age": 34,
+      "value": 14989473
     },
     {
-      "name": "Keegan Hicks",
+      "name": "Keith Romero",
       "position": "GK",
-      "rating": 85,
-      "age": 20,
-      "value": 24336842
+      "rating": 78,
+      "age": 16,
+      "value": 24960000
     },
     {
-      "name": "Marshall Fowler",
+      "name": "Wei-Lun Long",
       "position": "GK",
-      "rating": 80,
-      "age": 26,
-      "value": 18863157
+      "rating": 82,
+      "age": 30,
+      "value": 16572631
     },
     {
-      "name": "Dorian Dias",
-      "position": "DF",
-      "rating": 61,
-      "age": 17,
-      "value": 23757894
-    },
-    {
-      "name": "Jeremy Morgan",
-      "position": "DF",
-      "rating": 85,
-      "age": 33,
-      "value": 18789473
-    },
-    {
-      "name": "Torsten Gonzales",
-      "position": "DF",
-      "rating": 73,
-      "age": 32,
-      "value": 16905263
-    },
-    {
-      "name": "Myles Russell",
-      "position": "DF",
-      "rating": 73,
-      "age": 22,
-      "value": 24589473
-    },
-    {
-      "name": "Edmund Ferguson",
-      "position": "DF",
-      "rating": 75,
-      "age": 21,
-      "value": 26052631
-    },
-    {
-      "name": "Fredrik Sanders",
+      "name": "Jake Ulfsson",
       "position": "DF",
       "rating": 79,
-      "age": 22,
-      "value": 26610526
+      "age": 31,
+      "value": 19126315
     },
     {
-      "name": "Eric Cruz",
-      "position": "MF",
-      "rating": 76,
-      "age": 26,
-      "value": 26880000
-    },
-    {
-      "name": "Sanjay Burke",
-      "position": "MF",
-      "rating": 90,
-      "age": 26,
-      "value": 31831578
-    },
-    {
-      "name": "Jos\u00e9 Chen",
-      "position": "MF",
-      "rating": 69,
+      "name": "Levi Sandberg",
+      "position": "DF",
+      "rating": 68,
       "age": 34,
-      "value": 17431578
+      "value": 14315789
     },
     {
-      "name": "Leonardo Rose",
-      "position": "MF",
-      "rating": 80,
+      "name": "Joel Bates",
+      "position": "DF",
+      "rating": 82,
+      "age": 25,
+      "value": 25031578
+    },
+    {
+      "name": "Ade Bryant",
+      "position": "DF",
+      "rating": 84,
       "age": 17,
-      "value": 37389473
+      "value": 32715789
     },
     {
-      "name": "Barney Franklin",
+      "name": "Weston Hayes",
+      "position": "DF",
+      "rating": 87,
+      "age": 34,
+      "value": 18315789
+    },
+    {
+      "name": "Noel Carter",
+      "position": "DF",
+      "rating": 68,
+      "age": 35,
+      "value": 13600000
+    },
+    {
+      "name": "Dashiell Gonz\u00e1lez",
       "position": "MF",
-      "rating": 83,
+      "rating": 77,
+      "age": 29,
+      "value": 24315789
+    },
+    {
+      "name": "Joel Bishop",
+      "position": "MF",
+      "rating": 73,
       "age": 33,
-      "value": 22016842
+      "value": 19364210
     },
     {
-      "name": "Yusuf Hamilton",
+      "name": "Wei Rogers",
       "position": "MF",
-      "rating": 83,
+      "rating": 79,
+      "age": 16,
+      "value": 37920000
+    },
+    {
+      "name": "Cael Carter",
+      "position": "MF",
+      "rating": 74,
       "age": 20,
-      "value": 35646315
+      "value": 31781052
     },
     {
-      "name": "Brock Hayes",
-      "position": "FW",
-      "rating": 72,
-      "age": 21,
-      "value": 37515789
+      "name": "Bobby Gariba",
+      "position": "MF",
+      "rating": 61,
+      "age": 23,
+      "value": 23886315
     },
     {
-      "name": "Ekon Lubega",
+      "name": "Bernard Mills",
+      "position": "MF",
+      "rating": 61,
+      "age": 31,
+      "value": 17722105
+    },
+    {
+      "name": "Carlos Woods",
       "position": "FW",
       "rating": 68,
-      "age": 27,
-      "value": 28989473
+      "age": 19,
+      "value": 37578947
     },
     {
-      "name": "Oscar Bates",
+      "name": "Abraham Nakamura",
       "position": "FW",
-      "rating": 79,
-      "age": 23,
-      "value": 38668421
+      "rating": 80,
+      "age": 31,
+      "value": 29052631
     },
     {
-      "name": "Dakota Kim",
+      "name": "Damian Coleman",
       "position": "FW",
-      "rating": 63,
-      "age": 29,
-      "value": 24868421
+      "rating": 70,
+      "age": 31,
+      "value": 25421052
     },
     {
-      "name": "Trevor Suzuki",
+      "name": "Carter Gonzalez",
       "position": "FW",
-      "rating": 81,
-      "age": 23,
-      "value": 39647368
+      "rating": 84,
+      "age": 21,
+      "value": 40000000
+    },
+    {
+      "name": "Tony Hayes",
+      "position": "FW",
+      "rating": 88,
+      "age": 30,
+      "value": 33347368
     }
   ],
   "stadium": {

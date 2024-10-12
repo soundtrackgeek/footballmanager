@@ -2,144 +2,144 @@
   "name": "West Ham",
   "squad": [
     {
-      "name": "Shawn Barnett",
+      "name": "Desmond Fields",
       "position": "GK",
-      "rating": 85,
+      "rating": 88,
+      "age": 23,
+      "value": 22972631
+    },
+    {
+      "name": "Danny Silva",
+      "position": "GK",
+      "rating": 83,
       "age": 32,
-      "value": 15747368
+      "value": 15376842
     },
     {
-      "name": "Dylan Nilsson",
+      "name": "Tariq Flores",
       "position": "GK",
-      "rating": 73,
-      "age": 22,
-      "value": 19671578
-    },
-    {
-      "name": "Trevor Russell",
-      "position": "GK",
-      "rating": 81,
-      "age": 30,
-      "value": 16370526
-    },
-    {
-      "name": "Jin Cruz",
-      "position": "DF",
-      "rating": 74,
-      "age": 21,
-      "value": 25705263
-    },
-    {
-      "name": "Lukas Hansen",
-      "position": "DF",
-      "rating": 72,
-      "age": 18,
-      "value": 27284210
-    },
-    {
-      "name": "Andreas Johansen",
-      "position": "DF",
-      "rating": 71,
+      "rating": 70,
       "age": 35,
-      "value": 14200000
+      "value": 11200000
     },
     {
-      "name": "Kaleb Ortega",
+      "name": "Rajesh Olofsson",
+      "position": "DF",
+      "rating": 61,
+      "age": 18,
+      "value": 23115789
+    },
+    {
+      "name": "Barney Martinez",
+      "position": "DF",
+      "rating": 62,
+      "age": 28,
+      "value": 16968421
+    },
+    {
+      "name": "Raul Hadj",
       "position": "DF",
       "rating": 81,
-      "age": 19,
-      "value": 29842105
+      "age": 25,
+      "value": 24726315
     },
     {
-      "name": "Jacob Fox",
+      "name": "Gabriel Fredriksson",
       "position": "DF",
-      "rating": 81,
-      "age": 30,
-      "value": 20463157
-    },
-    {
-      "name": "Timothy Howard",
-      "position": "DF",
-      "rating": 86,
+      "rating": 83,
       "age": 31,
-      "value": 20821052
+      "value": 20094736
     },
     {
-      "name": "Yuki Jansson",
-      "position": "MF",
+      "name": "Bradley Romero",
+      "position": "DF",
       "rating": 78,
-      "age": 20,
-      "value": 33498947
+      "age": 35,
+      "value": 15600000
     },
     {
-      "name": "Colin Page",
+      "name": "Zayden Watkins",
+      "position": "DF",
+      "rating": 70,
+      "age": 35,
+      "value": 14000000
+    },
+    {
+      "name": "Chad Akinyele",
       "position": "MF",
-      "rating": 66,
+      "rating": 83,
+      "age": 17,
+      "value": 38791578
+    },
+    {
+      "name": "Frank Russell",
+      "position": "MF",
+      "rating": 83,
       "age": 30,
-      "value": 20008421
+      "value": 25162105
     },
     {
-      "name": "Ruben Ramirez",
+      "name": "Dustin Long",
       "position": "MF",
-      "rating": 86,
-      "age": 34,
-      "value": 21726315
-    },
-    {
-      "name": "Nils Hansen",
-      "position": "MF",
-      "rating": 67,
-      "age": 31,
-      "value": 19465263
-    },
-    {
-      "name": "Martin Williamson",
-      "position": "MF",
-      "rating": 84,
+      "rating": 64,
       "age": 33,
-      "value": 22282105
+      "value": 16976842
     },
     {
-      "name": "Brantley French",
+      "name": "Hank Lee",
       "position": "MF",
-      "rating": 87,
-      "age": 16,
+      "rating": 90,
+      "age": 27,
+      "value": 30694736
+    },
+    {
+      "name": "Taylor Franklin",
+      "position": "MF",
+      "rating": 73,
+      "age": 17,
+      "value": 34117894
+    },
+    {
+      "name": "Jerome Ciss\u00e9",
+      "position": "MF",
+      "rating": 81,
+      "age": 20,
+      "value": 34787368
+    },
+    {
+      "name": "Aditya Stephens",
+      "position": "FW",
+      "rating": 74,
+      "age": 27,
+      "value": 31547368
+    },
+    {
+      "name": "Roman Holt",
+      "position": "FW",
+      "rating": 70,
+      "age": 29,
+      "value": 27631578
+    },
+    {
+      "name": "Ade Stone",
+      "position": "FW",
+      "rating": 89,
+      "age": 30,
+      "value": 33726315
+    },
+    {
+      "name": "Chidi Palmer",
+      "position": "FW",
+      "rating": 83,
+      "age": 17,
       "value": 40000000
     },
     {
-      "name": "Riley Boone",
+      "name": "Kofi Hart",
       "position": "FW",
-      "rating": 80,
-      "age": 24,
-      "value": 37894736
-    },
-    {
-      "name": "Bernard Benson",
-      "position": "FW",
-      "rating": 76,
-      "age": 21,
-      "value": 39600000
-    },
-    {
-      "name": "Sefu Andersen",
-      "position": "FW",
-      "rating": 84,
+      "rating": 79,
       "age": 29,
-      "value": 33157894
-    },
-    {
-      "name": "Adeyemi Goodman",
-      "position": "FW",
-      "rating": 85,
-      "age": 26,
-      "value": 37578947
-    },
-    {
-      "name": "Kamau Holland",
-      "position": "FW",
-      "rating": 86,
-      "age": 33,
-      "value": 28515789
+      "value": 31184210
     }
   ],
   "stadium": {

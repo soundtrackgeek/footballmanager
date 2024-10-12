@@ -2,144 +2,144 @@
   "name": "Wolves",
   "squad": [
     {
-      "name": "Malachi Norberg",
+      "name": "Alexander Gomez",
       "position": "GK",
-      "rating": 61,
-      "age": 34,
-      "value": 10273684
-    },
-    {
-      "name": "Alan Iyanda",
-      "position": "GK",
-      "rating": 87,
-      "age": 25,
-      "value": 21246315
-    },
-    {
-      "name": "Abraham Watkins",
-      "position": "GK",
-      "rating": 77,
-      "age": 25,
-      "value": 18804210
-    },
-    {
-      "name": "Esteban Rao",
-      "position": "DF",
-      "rating": 71,
-      "age": 24,
-      "value": 22421052
-    },
-    {
-      "name": "Eric Rice",
-      "position": "DF",
       "rating": 65,
-      "age": 16,
-      "value": 26000000
+      "age": 30,
+      "value": 13136842
     },
     {
-      "name": "Tao Farmer",
+      "name": "Alejandro Haynes",
+      "position": "GK",
+      "rating": 63,
+      "age": 19,
+      "value": 18568421
+    },
+    {
+      "name": "Aditya Lin",
+      "position": "GK",
+      "rating": 73,
+      "age": 30,
+      "value": 14753684
+    },
+    {
+      "name": "Edmund Park",
       "position": "DF",
-      "rating": 75,
+      "rating": 84,
+      "age": 33,
+      "value": 18568421
+    },
+    {
+      "name": "Bruno Westerlund",
+      "position": "DF",
+      "rating": 90,
       "age": 32,
-      "value": 17368421
+      "value": 20842105
     },
     {
-      "name": "Jamie Bowman",
+      "name": "Joel Balogun",
       "position": "DF",
-      "rating": 62,
-      "age": 31,
-      "value": 15010526
+      "rating": 69,
+      "age": 16,
+      "value": 27600000
     },
     {
-      "name": "Orlando Morgan",
+      "name": "Franklin Alvarez",
       "position": "DF",
       "rating": 89,
-      "age": 34,
-      "value": 18736842
+      "age": 24,
+      "value": 28105263
     },
     {
-      "name": "Lucas Carter",
+      "name": "William Black",
+      "position": "DF",
+      "rating": 77,
+      "age": 32,
+      "value": 17831578
+    },
+    {
+      "name": "Victor Olsen",
       "position": "DF",
       "rating": 63,
-      "age": 21,
-      "value": 21884210
+      "age": 33,
+      "value": 13926315
     },
     {
-      "name": "Jordan Duncan",
+      "name": "Desmond Webb",
       "position": "MF",
-      "rating": 80,
+      "rating": 83,
+      "age": 24,
+      "value": 31452631
+    },
+    {
+      "name": "Simba Baker",
+      "position": "MF",
+      "rating": 69,
       "age": 20,
-      "value": 34357894
+      "value": 29633684
     },
     {
-      "name": "Kenneth Mehta",
+      "name": "Anton Washington",
       "position": "MF",
-      "rating": 80,
-      "age": 19,
-      "value": 35368421
-    },
-    {
-      "name": "Bruce Lindgren",
-      "position": "MF",
-      "rating": 77,
-      "age": 29,
-      "value": 24315789
-    },
-    {
-      "name": "Joseph Long",
-      "position": "MF",
-      "rating": 74,
-      "age": 22,
-      "value": 29911578
-    },
-    {
-      "name": "Edgar Whitaker",
-      "position": "MF",
-      "rating": 84,
-      "age": 25,
-      "value": 30770526
-    },
-    {
-      "name": "Dalton Bates",
-      "position": "MF",
-      "rating": 62,
+      "rating": 67,
       "age": 32,
-      "value": 17229473
+      "value": 18618947
     },
     {
-      "name": "Jake Qureshi",
-      "position": "FW",
-      "rating": 89,
-      "age": 18,
-      "value": 40000000
+      "name": "Grant Morgan",
+      "position": "MF",
+      "rating": 85,
+      "age": 23,
+      "value": 33284210
     },
     {
-      "name": "Benny Henriksen",
-      "position": "FW",
-      "rating": 64,
-      "age": 19,
-      "value": 35368421
-    },
-    {
-      "name": "Alonzo Meadows",
-      "position": "FW",
-      "rating": 80,
+      "name": "Sulaiman Feng",
+      "position": "MF",
+      "rating": 60,
       "age": 26,
-      "value": 35368421
+      "value": 21221052
     },
     {
-      "name": "Maximiliano Joseph",
-      "position": "FW",
-      "rating": 77,
-      "age": 32,
-      "value": 26747368
+      "name": "Malcolm Barnett",
+      "position": "MF",
+      "rating": 87,
+      "age": 22,
+      "value": 35166315
     },
     {
-      "name": "George Grimes",
+      "name": "Rene Berglund",
       "position": "FW",
-      "rating": 89,
-      "age": 20,
-      "value": 40000000
+      "rating": 81,
+      "age": 30,
+      "value": 30694736
+    },
+    {
+      "name": "Rogelio Graham",
+      "position": "FW",
+      "rating": 75,
+      "age": 27,
+      "value": 31973684
+    },
+    {
+      "name": "Brantley Murphy",
+      "position": "FW",
+      "rating": 65,
+      "age": 16,
+      "value": 39000000
+    },
+    {
+      "name": "Luis Hicks",
+      "position": "FW",
+      "rating": 68,
+      "age": 28,
+      "value": 27915789
+    },
+    {
+      "name": "Fredrik Owens",
+      "position": "FW",
+      "rating": 78,
+      "age": 22,
+      "value": 39410526
     }
   ],
   "stadium": {
