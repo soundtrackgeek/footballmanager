@@ -33,8 +33,11 @@ class Player:
         # Calculate final value
         value = base_value * position_multiplier * (0.5 + 0.5 * age_factor)
 
-        # Ensure value is between 0 and 100 million
-        return min(max(int(value), 0), 100_000_000)
+        # Reduce the value by 60%
+        value *= 0.4
+
+        # Ensure value is between 0 and 40 million (adjusted from 100 million)
+        return min(max(int(value), 0), 40_000_000)
 
     @classmethod
     def generate_player(cls, position):

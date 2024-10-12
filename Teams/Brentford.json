@@ -2,144 +2,144 @@
   "name": "Brentford",
   "squad": [
     {
-      "name": "Steven Jones",
+      "name": "Richard Hernandez",
       "position": "GK",
-      "rating": 85,
-      "age": 34,
-      "value": 35789473
-    },
-    {
-      "name": "Ronald Miller",
-      "position": "GK",
-      "rating": 79,
-      "age": 24,
-      "value": 49894736
-    },
-    {
-      "name": "Mark Moore",
-      "position": "GK",
-      "rating": 80,
-      "age": 21,
-      "value": 55578947
-    },
-    {
-      "name": "Richard Jones",
-      "position": "DF",
-      "rating": 79,
-      "age": 19,
-      "value": 72763157
-    },
-    {
-      "name": "Daniel Brown",
-      "position": "DF",
-      "rating": 80,
-      "age": 17,
-      "value": 77894736
+      "rating": 70,
+      "age": 28,
+      "value": 15326315
     },
     {
       "name": "George Taylor",
-      "position": "DF",
-      "rating": 69,
-      "age": 18,
-      "value": 65368421
+      "position": "GK",
+      "rating": 77,
+      "age": 17,
+      "value": 23991578
     },
     {
-      "name": "Michael Miller",
+      "name": "John Garcia",
+      "position": "GK",
+      "rating": 84,
+      "age": 27,
+      "value": 19098947
+    },
+    {
+      "name": "Donald Davis",
       "position": "DF",
-      "rating": 86,
+      "rating": 89,
+      "age": 19,
+      "value": 32789473
+    },
+    {
+      "name": "John Williams",
+      "position": "DF",
+      "rating": 89,
       "age": 29,
-      "value": 56578947
+      "value": 23421052
     },
     {
-      "name": "Brian Garcia",
+      "name": "Daniel Johnson",
       "position": "DF",
-      "rating": 78,
-      "age": 33,
-      "value": 43105263
+      "rating": 63,
+      "age": 24,
+      "value": 19894736
     },
     {
-      "name": "Kenneth Garcia",
+      "name": "Paul Davis",
       "position": "DF",
       "rating": 61,
       "age": 23,
-      "value": 49763157
+      "value": 19905263
     },
     {
-      "name": "Kenneth Davis",
-      "position": "MF",
-      "rating": 81,
-      "age": 30,
-      "value": 61389473
+      "name": "James Hernandez",
+      "position": "DF",
+      "rating": 74,
+      "age": 28,
+      "value": 20252631
     },
     {
-      "name": "John Anderson",
+      "name": "Edward Taylor",
+      "position": "DF",
+      "rating": 62,
+      "age": 32,
+      "value": 14357894
+    },
+    {
+      "name": "Kenneth Rodriguez",
       "position": "MF",
       "rating": 75,
-      "age": 30,
-      "value": 56842105
+      "age": 26,
+      "value": 26526315
     },
     {
-      "name": "Mark Williams",
+      "name": "Edward Williams",
+      "position": "MF",
+      "rating": 85,
+      "age": 18,
+      "value": 38652631
+    },
+    {
+      "name": "Steven Moore",
+      "position": "MF",
+      "rating": 60,
+      "age": 27,
+      "value": 20463157
+    },
+    {
+      "name": "James Martin",
+      "position": "MF",
+      "rating": 83,
+      "age": 32,
+      "value": 23065263
+    },
+    {
+      "name": "John Lopez",
+      "position": "MF",
+      "rating": 79,
+      "age": 16,
+      "value": 37920000
+    },
+    {
+      "name": "William Lopez",
       "position": "MF",
       "rating": 90,
       "age": 18,
-      "value": 100000000
+      "value": 40000000
     },
     {
-      "name": "Thomas Hernandez",
-      "position": "MF",
-      "rating": 69,
-      "age": 35,
-      "value": 41400000
-    },
-    {
-      "name": "Daniel Moore",
-      "position": "MF",
-      "rating": 89,
-      "age": 24,
-      "value": 84315789
-    },
-    {
-      "name": "Anthony Taylor",
-      "position": "MF",
-      "rating": 86,
-      "age": 23,
-      "value": 84189473
-    },
-    {
-      "name": "Donald Martinez",
+      "name": "Mark Miller",
       "position": "FW",
-      "rating": 65,
-      "age": 31,
-      "value": 59013157
+      "rating": 61,
+      "age": 34,
+      "value": 19263157
     },
     {
-      "name": "Mark Martin",
+      "name": "David Smith",
       "position": "FW",
-      "rating": 73,
-      "age": 23,
-      "value": 89328947
+      "rating": 60,
+      "age": 16,
+      "value": 36000000
     },
     {
-      "name": "Robert Gonzalez",
+      "name": "William Rodriguez",
       "position": "FW",
-      "rating": 78,
-      "age": 23,
-      "value": 95447368
+      "rating": 88,
+      "age": 16,
+      "value": 40000000
     },
     {
-      "name": "Charles Moore",
+      "name": "Paul Williams",
       "position": "FW",
       "rating": 66,
-      "age": 35,
-      "value": 49500000
+      "age": 20,
+      "value": 35431578
     },
     {
-      "name": "Daniel Taylor",
+      "name": "Richard Lopez",
       "position": "FW",
-      "rating": 68,
-      "age": 17,
-      "value": 99315789
+      "rating": 71,
+      "age": 24,
+      "value": 33631578
     }
   ],
   "stadium": {
