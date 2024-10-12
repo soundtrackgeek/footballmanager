@@ -2,144 +2,144 @@
   "name": "Luton",
   "squad": [
     {
-      "name": "Karl Wallace",
+      "name": "Frank Meadows",
       "position": "GK",
-      "rating": 81,
-      "age": 19,
-      "value": 23873684
+      "rating": 66,
+      "age": 22,
+      "value": 17785263
     },
     {
-      "name": "Darren Valencia",
+      "name": "Tao Badu",
       "position": "GK",
-      "rating": 85,
-      "age": 35,
-      "value": 13600000
-    },
-    {
-      "name": "Vincent Ramirez",
-      "position": "GK",
-      "rating": 61,
-      "age": 30,
-      "value": 12328421
-    },
-    {
-      "name": "Mark Bennett",
-      "position": "DF",
-      "rating": 84,
-      "age": 23,
-      "value": 27410526
-    },
-    {
-      "name": "Jelani Franklin",
-      "position": "DF",
-      "rating": 61,
-      "age": 35,
-      "value": 12200000
-    },
-    {
-      "name": "Shin Rogers",
-      "position": "DF",
-      "rating": 79,
-      "age": 19,
-      "value": 29105263
-    },
-    {
-      "name": "Ryker Hamilton",
-      "position": "DF",
-      "rating": 85,
-      "age": 19,
-      "value": 31315789
-    },
-    {
-      "name": "Bryson Sangare",
-      "position": "DF",
-      "rating": 63,
-      "age": 28,
-      "value": 17242105
-    },
-    {
-      "name": "Adrian Murphy",
-      "position": "DF",
-      "rating": 63,
-      "age": 23,
-      "value": 20557894
-    },
-    {
-      "name": "Agust\u00edn Morgan",
-      "position": "MF",
-      "rating": 69,
-      "age": 16,
-      "value": 33120000
-    },
-    {
-      "name": "Preston Mikkelsen",
-      "position": "MF",
-      "rating": 64,
-      "age": 31,
-      "value": 18593684
-    },
-    {
-      "name": "Garrett Price",
-      "position": "MF",
       "rating": 67,
+      "age": 30,
+      "value": 13541052
+    },
+    {
+      "name": "Cael Burke",
+      "position": "GK",
+      "rating": 74,
       "age": 32,
-      "value": 18618947
+      "value": 13709473
     },
     {
-      "name": "Levi Morgan",
+      "name": "Riley Hart",
+      "position": "DF",
+      "rating": 60,
+      "age": 19,
+      "value": 22105263
+    },
+    {
+      "name": "Zola Shin",
+      "position": "DF",
+      "rating": 80,
+      "age": 27,
+      "value": 22736842
+    },
+    {
+      "name": "Salvador Bennett",
+      "position": "DF",
+      "rating": 63,
+      "age": 33,
+      "value": 13926315
+    },
+    {
+      "name": "Maurice Cruz",
+      "position": "DF",
+      "rating": 69,
+      "age": 27,
+      "value": 19610526
+    },
+    {
+      "name": "Tariq Alvarez",
+      "position": "DF",
+      "rating": 89,
+      "age": 30,
+      "value": 22484210
+    },
+    {
+      "name": "Daichi Ellis",
+      "position": "DF",
+      "rating": 63,
+      "age": 34,
+      "value": 13263157
+    },
+    {
+      "name": "Roland Kim",
       "position": "MF",
-      "rating": 70,
-      "age": 24,
-      "value": 26526315
+      "rating": 72,
+      "age": 20,
+      "value": 30922105
     },
     {
-      "name": "Kendall Joseph",
+      "name": "Landon Bowman",
+      "position": "MF",
+      "rating": 75,
+      "age": 33,
+      "value": 19894736
+    },
+    {
+      "name": "Rodney Barnes",
       "position": "MF",
       "rating": 87,
-      "age": 25,
-      "value": 31869473
-    },
-    {
-      "name": "Roderick Marsh",
-      "position": "MF",
-      "rating": 70,
-      "age": 16,
-      "value": 33600000
-    },
-    {
-      "name": "Alejandro \u00c5kesson",
-      "position": "FW",
-      "rating": 72,
       "age": 21,
-      "value": 37515789
+      "value": 36265263
     },
     {
-      "name": "Randy Das",
-      "position": "FW",
-      "rating": 90,
-      "age": 30,
-      "value": 34105263
+      "name": "Adri\u00e1n Quartey",
+      "position": "MF",
+      "rating": 88,
+      "age": 23,
+      "value": 34458947
     },
     {
-      "name": "Levi Harris",
+      "name": "Connor J\u00f8rgensen",
+      "position": "MF",
+      "rating": 74,
+      "age": 26,
+      "value": 26172631
+    },
+    {
+      "name": "Nils Nilsson",
+      "position": "MF",
+      "rating": 69,
+      "age": 29,
+      "value": 21789473
+    },
+    {
+      "name": "Adam \u00c5kesson",
       "position": "FW",
-      "rating": 66,
+      "rating": 65,
+      "age": 18,
+      "value": 36947368
+    },
+    {
+      "name": "Daryl West",
+      "position": "FW",
+      "rating": 79,
+      "age": 35,
+      "value": 23700000
+    },
+    {
+      "name": "Anders Coleman",
+      "position": "FW",
+      "rating": 76,
+      "age": 18,
+      "value": 40000000
+    },
+    {
+      "name": "Gustavo Abiola",
+      "position": "FW",
+      "rating": 71,
+      "age": 16,
+      "value": 40000000
+    },
+    {
+      "name": "Roderick Bell",
+      "position": "FW",
+      "rating": 75,
       "age": 31,
-      "value": 23968421
-    },
-    {
-      "name": "Ignacio Palmer",
-      "position": "FW",
-      "rating": 82,
-      "age": 33,
-      "value": 27189473
-    },
-    {
-      "name": "Blake Karlsson",
-      "position": "FW",
-      "rating": 73,
-      "age": 20,
-      "value": 39189473
+      "value": 27236842
     }
   ],
   "stadium": {

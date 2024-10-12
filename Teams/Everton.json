@@ -2,144 +2,144 @@
   "name": "Everton",
   "squad": [
     {
-      "name": "Felipe Hart",
+      "name": "Liang Castillo",
       "position": "GK",
-      "rating": 79,
-      "age": 26,
-      "value": 18627368
+      "rating": 74,
+      "age": 31,
+      "value": 14332631
     },
     {
-      "name": "Kwesi Molina",
+      "name": "Duncan Lee",
       "position": "GK",
-      "rating": 89,
-      "age": 24,
-      "value": 22484210
-    },
-    {
-      "name": "Edwin Henderson",
-      "position": "GK",
-      "rating": 83,
+      "rating": 90,
       "age": 21,
-      "value": 23065263
-    },
-    {
-      "name": "Keith Bell",
-      "position": "DF",
-      "rating": 66,
-      "age": 18,
       "value": 25010526
     },
     {
-      "name": "Johan Murray",
-      "position": "DF",
+      "name": "Karl Dias",
+      "position": "GK",
       "rating": 79,
-      "age": 34,
-      "value": 16631578
+      "age": 31,
+      "value": 15301052
     },
     {
-      "name": "Daniel Griffin",
+      "name": "Kellen Rice",
       "position": "DF",
-      "rating": 89,
-      "age": 30,
-      "value": 22484210
-    },
-    {
-      "name": "Toshiro Ross",
-      "position": "DF",
-      "rating": 83,
-      "age": 23,
-      "value": 27084210
-    },
-    {
-      "name": "Chase Magnusson",
-      "position": "DF",
-      "rating": 69,
-      "age": 18,
-      "value": 26147368
-    },
-    {
-      "name": "Harley Washington",
-      "position": "DF",
-      "rating": 62,
-      "age": 22,
-      "value": 20884210
-    },
-    {
-      "name": "Jamie Bates",
-      "position": "MF",
-      "rating": 63,
-      "age": 26,
-      "value": 22282105
-    },
-    {
-      "name": "Desmond Brooks",
-      "position": "MF",
-      "rating": 61,
-      "age": 25,
-      "value": 22345263
-    },
-    {
-      "name": "Olaf Gonzales",
-      "position": "MF",
-      "rating": 74,
-      "age": 19,
-      "value": 32715789
-    },
-    {
-      "name": "Marc Lee",
-      "position": "MF",
-      "rating": 73,
-      "age": 26,
-      "value": 25818947
-    },
-    {
-      "name": "Sefu Hart",
-      "position": "MF",
-      "rating": 60,
-      "age": 32,
-      "value": 16673684
-    },
-    {
-      "name": "Wesley Young",
-      "position": "MF",
-      "rating": 80,
-      "age": 25,
-      "value": 29305263
-    },
-    {
-      "name": "Carlos Wang",
-      "position": "FW",
-      "rating": 72,
+      "rating": 84,
       "age": 24,
-      "value": 34105263
-    },
-    {
-      "name": "Nicholas Guo",
-      "position": "FW",
-      "rating": 64,
-      "age": 34,
-      "value": 20210526
-    },
-    {
-      "name": "Jayden Silva",
-      "position": "FW",
-      "rating": 80,
-      "age": 33,
       "value": 26526315
     },
     {
-      "name": "Kayden Fisher",
-      "position": "FW",
-      "rating": 78,
+      "name": "Mat\u00edas Morales",
+      "position": "DF",
+      "rating": 63,
+      "age": 25,
+      "value": 19231578
+    },
+    {
+      "name": "Kaleb Mills",
+      "position": "DF",
+      "rating": 60,
+      "age": 27,
+      "value": 17052631
+    },
+    {
+      "name": "Brantley Pena",
+      "position": "DF",
+      "rating": 84,
       "age": 17,
+      "value": 32715789
+    },
+    {
+      "name": "Adri\u00e1n Benjumea",
+      "position": "DF",
+      "rating": 68,
+      "age": 27,
+      "value": 19326315
+    },
+    {
+      "name": "Chidi Dean",
+      "position": "DF",
+      "rating": 70,
+      "age": 27,
+      "value": 19894736
+    },
+    {
+      "name": "Dominic Barnett",
+      "position": "MF",
+      "rating": 82,
+      "age": 24,
+      "value": 31073684
+    },
+    {
+      "name": "Albert Bhatia",
+      "position": "MF",
+      "rating": 83,
+      "age": 25,
+      "value": 30404210
+    },
+    {
+      "name": "Marvin Rice",
+      "position": "MF",
+      "rating": 80,
+      "age": 17,
+      "value": 37389473
+    },
+    {
+      "name": "Hugo Flores",
+      "position": "MF",
+      "rating": 72,
+      "age": 22,
+      "value": 29103157
+    },
+    {
+      "name": "Noel Beck",
+      "position": "MF",
+      "rating": 90,
+      "age": 29,
+      "value": 28421052
+    },
+    {
+      "name": "Blake Sandstr\u00f6m",
+      "position": "MF",
+      "rating": 85,
+      "age": 34,
+      "value": 21473684
+    },
+    {
+      "name": "Noel Fredriksson",
+      "position": "FW",
+      "rating": 76,
+      "age": 35,
+      "value": 22800000
+    },
+    {
+      "name": "Kwasi Murphy",
+      "position": "FW",
+      "rating": 75,
+      "age": 34,
+      "value": 23684210
+    },
+    {
+      "name": "James Henry",
+      "position": "FW",
+      "rating": 88,
+      "age": 18,
       "value": 40000000
     },
     {
-      "name": "Matt Jenkins",
+      "name": "Torsten Flores",
       "position": "FW",
-      "rating": 89,
-      "age": 26,
-      "value": 39347368
+      "rating": 72,
+      "age": 35,
+      "value": 21600000
+    },
+    {
+      "name": "Pablo Kareem",
+      "position": "FW",
+      "rating": 64,
+      "age": 17,
+      "value": 37389473
     }
   ],
   "stadium": {

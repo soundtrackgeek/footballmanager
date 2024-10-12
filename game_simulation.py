@@ -92,7 +92,7 @@ def simulate_user_match(home_team, away_team):
     print("Kick-off!")
 
     for minute in range(1, 91):
-        time.sleep(1)  # Simulate 1 second per minute
+        time.sleep(0.2)  # Simulate 0.5 seconds per minute (doubled speed)
         print(f"\rMinute {minute:2d}: {home_team.name} {home_goals} - {away_goals} {away_team.name}", end="", flush=True)
 
         # Simulate goal chances

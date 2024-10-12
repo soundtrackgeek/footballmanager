@@ -2,144 +2,144 @@
   "name": "Aston Villa",
   "squad": [
     {
-      "name": "Soren Lubega",
+      "name": "Timothy Brooks",
       "position": "GK",
-      "rating": 65,
-      "age": 26,
-      "value": 15326315
+      "rating": 78,
+      "age": 29,
+      "value": 16421052
     },
     {
-      "name": "Anders Hart",
+      "name": "Ricardo Price",
       "position": "GK",
-      "rating": 70,
+      "rating": 67,
       "age": 20,
-      "value": 20042105
+      "value": 19183157
     },
     {
-      "name": "Tom\u00e1s Torres",
+      "name": "Francisco Reid",
       "position": "GK",
       "rating": 84,
-      "age": 29,
-      "value": 17684210
+      "age": 20,
+      "value": 24050526
     },
     {
-      "name": "Bryce Wright",
+      "name": "Amir Adams",
       "position": "DF",
-      "rating": 90,
+      "rating": 69,
+      "age": 17,
+      "value": 26873684
+    },
+    {
+      "name": "Benjamin Haynes",
+      "position": "DF",
+      "rating": 87,
+      "age": 25,
+      "value": 26557894
+    },
+    {
+      "name": "Wilson Sanchez",
+      "position": "DF",
+      "rating": 60,
+      "age": 21,
+      "value": 20842105
+    },
+    {
+      "name": "Noel Ramirez",
+      "position": "DF",
+      "rating": 66,
       "age": 20,
+      "value": 23621052
+    },
+    {
+      "name": "Jeremiah Stone",
+      "position": "DF",
+      "rating": 79,
+      "age": 30,
+      "value": 19957894
+    },
+    {
+      "name": "Satoshi Brown",
+      "position": "DF",
+      "rating": 81,
+      "age": 19,
+      "value": 29842105
+    },
+    {
+      "name": "Yuto Bradshaw",
+      "position": "MF",
+      "rating": 85,
+      "age": 24,
       "value": 32210526
     },
     {
-      "name": "Wei-Lun Abebe",
-      "position": "DF",
-      "rating": 61,
-      "age": 29,
-      "value": 16052631
-    },
-    {
-      "name": "Kwame Suzuki",
-      "position": "DF",
-      "rating": 71,
-      "age": 21,
-      "value": 24663157
-    },
-    {
-      "name": "Tyrone Goodman",
-      "position": "DF",
-      "rating": 80,
-      "age": 17,
-      "value": 31157894
-    },
-    {
-      "name": "Zion Barnett",
-      "position": "DF",
-      "rating": 86,
-      "age": 20,
-      "value": 30778947
-    },
-    {
-      "name": "Marlon Henry",
-      "position": "DF",
-      "rating": 75,
-      "age": 28,
-      "value": 20526315
-    },
-    {
-      "name": "Kaito Nilsson",
+      "name": "Garrett Kim",
       "position": "MF",
-      "rating": 77,
-      "age": 26,
-      "value": 27233684
-    },
-    {
-      "name": "Arjun Jordan",
-      "position": "MF",
-      "rating": 65,
-      "age": 29,
-      "value": 20526315
-    },
-    {
-      "name": "Thabo Bergstrom",
-      "position": "MF",
-      "rating": 89,
-      "age": 25,
-      "value": 32602105
-    },
-    {
-      "name": "Santiago Berg",
-      "position": "MF",
-      "rating": 81,
-      "age": 30,
-      "value": 24555789
-    },
-    {
-      "name": "Beau Fox",
-      "position": "MF",
-      "rating": 87,
-      "age": 30,
-      "value": 26374736
-    },
-    {
-      "name": "Alexander Morris",
-      "position": "MF",
-      "rating": 68,
-      "age": 32,
-      "value": 18896842
-    },
-    {
-      "name": "Ruben Takahashi",
-      "position": "FW",
-      "rating": 89,
-      "age": 31,
-      "value": 32321052
-    },
-    {
-      "name": "Antonio Garc\u00eda",
-      "position": "FW",
-      "rating": 89,
-      "age": 34,
-      "value": 28105263
-    },
-    {
-      "name": "Ignacio Pena",
-      "position": "FW",
-      "rating": 62,
-      "age": 34,
-      "value": 19578947
-    },
-    {
-      "name": "Axel Singh",
-      "position": "FW",
-      "rating": 88,
-      "age": 17,
+      "rating": 90,
+      "age": 16,
       "value": 40000000
     },
     {
-      "name": "Anurak Reyes",
+      "name": "Masashi Eze",
+      "position": "MF",
+      "rating": 90,
+      "age": 20,
+      "value": 38652631
+    },
+    {
+      "name": "Simon Stewart",
+      "position": "MF",
+      "rating": 86,
+      "age": 34,
+      "value": 21726315
+    },
+    {
+      "name": "Aditya Howard",
+      "position": "MF",
+      "rating": 67,
+      "age": 25,
+      "value": 24543157
+    },
+    {
+      "name": "Alan Stewart",
+      "position": "MF",
+      "rating": 76,
+      "age": 18,
+      "value": 34560000
+    },
+    {
+      "name": "Maxwell Bryant",
       "position": "FW",
-      "rating": 64,
+      "rating": 89,
       "age": 24,
-      "value": 30315789
+      "value": 40000000
+    },
+    {
+      "name": "Roderick Butler",
+      "position": "FW",
+      "rating": 84,
+      "age": 22,
+      "value": 40000000
+    },
+    {
+      "name": "Carlos Simmons",
+      "position": "FW",
+      "rating": 88,
+      "age": 20,
+      "value": 40000000
+    },
+    {
+      "name": "Min-jun Parsons",
+      "position": "FW",
+      "rating": 75,
+      "age": 20,
+      "value": 40000000
+    },
+    {
+      "name": "Noel Russell",
+      "position": "FW",
+      "rating": 63,
+      "age": 24,
+      "value": 29842105
     }
   ],
   "stadium": {

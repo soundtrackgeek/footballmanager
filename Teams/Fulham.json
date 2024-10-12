@@ -2,144 +2,144 @@
   "name": "Fulham",
   "squad": [
     {
-      "name": "Daniel Gomez",
+      "name": "Adan Marshall",
       "position": "GK",
-      "rating": 75,
-      "age": 26,
-      "value": 17684210
-    },
-    {
-      "name": "Kenji Lindholm",
-      "position": "GK",
-      "rating": 64,
-      "age": 31,
-      "value": 12395789
-    },
-    {
-      "name": "Yuki Reid",
-      "position": "GK",
-      "rating": 66,
-      "age": 35,
-      "value": 10560000
-    },
-    {
-      "name": "Ismael Holt",
-      "position": "DF",
-      "rating": 66,
-      "age": 27,
-      "value": 18757894
-    },
-    {
-      "name": "Mitchell Olson",
-      "position": "DF",
-      "rating": 70,
-      "age": 30,
-      "value": 17684210
-    },
-    {
-      "name": "Jesse Gomez",
-      "position": "DF",
       "rating": 67,
       "age": 35,
-      "value": 13400000
+      "value": 10720000
     },
     {
-      "name": "Bruno Rodriguez",
+      "name": "Uriah Silva",
+      "position": "GK",
+      "rating": 82,
+      "age": 26,
+      "value": 19334736
+    },
+    {
+      "name": "Will Wood",
+      "position": "GK",
+      "rating": 60,
+      "age": 17,
+      "value": 18694736
+    },
+    {
+      "name": "Shane Baxter",
       "position": "DF",
-      "rating": 88,
+      "rating": 63,
       "age": 32,
-      "value": 20378947
+      "value": 14589473
     },
     {
-      "name": "Mohamed Sj\u00f6berg",
+      "name": "Griffin Bennett",
       "position": "DF",
-      "rating": 62,
-      "age": 26,
-      "value": 18273684
-    },
-    {
-      "name": "Garrett Gomes",
-      "position": "DF",
-      "rating": 65,
-      "age": 31,
-      "value": 15736842
-    },
-    {
-      "name": "Weston Reid",
-      "position": "MF",
-      "rating": 78,
-      "age": 28,
-      "value": 25616842
-    },
-    {
-      "name": "Felix Fox",
-      "position": "MF",
-      "rating": 84,
+      "rating": 64,
       "age": 23,
-      "value": 32892631
+      "value": 20884210
     },
     {
-      "name": "Angel Rodr\u00edguez",
-      "position": "MF",
-      "rating": 66,
-      "age": 26,
-      "value": 23343157
+      "name": "Sim\u00f3n Morgan",
+      "position": "DF",
+      "rating": 84,
+      "age": 21,
+      "value": 29178947
     },
     {
-      "name": "Steve Hill",
-      "position": "MF",
-      "rating": 85,
-      "age": 22,
-      "value": 34357894
+      "name": "George Adams",
+      "position": "DF",
+      "rating": 61,
+      "age": 16,
+      "value": 24400000
     },
     {
-      "name": "Ping Kwon",
-      "position": "MF",
-      "rating": 81,
-      "age": 29,
-      "value": 25578947
+      "name": "Rakesh Hicks",
+      "position": "DF",
+      "rating": 60,
+      "age": 33,
+      "value": 13263157
     },
     {
-      "name": "Patrick Mitchell",
+      "name": "Santiago Nelson",
+      "position": "DF",
+      "rating": 76,
+      "age": 23,
+      "value": 24800000
+    },
+    {
+      "name": "Walter Butler",
       "position": "MF",
       "rating": 87,
-      "age": 27,
-      "value": 29671578
+      "age": 29,
+      "value": 27473684
     },
     {
-      "name": "Harold Kareem",
-      "position": "FW",
-      "rating": 85,
-      "age": 30,
-      "value": 32210526
-    },
-    {
-      "name": "Abraham Ulfsson",
-      "position": "FW",
-      "rating": 66,
-      "age": 17,
-      "value": 38557894
-    },
-    {
-      "name": "Kingston Stewart",
-      "position": "FW",
-      "rating": 80,
+      "name": "Ping Larsen",
+      "position": "MF",
+      "rating": 70,
       "age": 24,
-      "value": 37894736
+      "value": 26526315
     },
     {
-      "name": "Isak Biko",
+      "name": "Kolby Hoover",
+      "position": "MF",
+      "rating": 87,
+      "age": 18,
+      "value": 39562105
+    },
+    {
+      "name": "Adam Lopez",
+      "position": "MF",
+      "rating": 66,
+      "age": 24,
+      "value": 25010526
+    },
+    {
+      "name": "Rohan Richards",
+      "position": "MF",
+      "rating": 69,
+      "age": 29,
+      "value": 21789473
+    },
+    {
+      "name": "Riley James",
+      "position": "MF",
+      "rating": 83,
+      "age": 32,
+      "value": 23065263
+    },
+    {
+      "name": "Musa Huang",
       "position": "FW",
-      "rating": 67,
-      "age": 27,
-      "value": 28563157
+      "rating": 75,
+      "age": 18,
+      "value": 40000000
     },
     {
-      "name": "Ralph Ross",
+      "name": "Stewart Howard",
+      "position": "FW",
+      "rating": 65,
+      "age": 25,
+      "value": 29763157
+    },
+    {
+      "name": "Vidar Wallace",
       "position": "FW",
       "rating": 82,
-      "age": 16,
-      "value": 40000000
+      "age": 28,
+      "value": 33663157
+    },
+    {
+      "name": "Dashiell Murphy",
+      "position": "FW",
+      "rating": 80,
+      "age": 30,
+      "value": 30315789
+    },
+    {
+      "name": "Damian Watkins",
+      "position": "FW",
+      "rating": 77,
+      "age": 31,
+      "value": 27963157
     }
   ],
   "stadium": {

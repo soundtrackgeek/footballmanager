@@ -2,144 +2,144 @@
   "name": "Sheffield United",
   "squad": [
     {
-      "name": "Carlos Owens",
+      "name": "Ravi Yamamoto",
       "position": "GK",
-      "rating": 71,
-      "age": 35,
-      "value": 11360000
+      "rating": 67,
+      "age": 19,
+      "value": 19747368
     },
     {
-      "name": "Randy Morris",
+      "name": "Emmanuel Larsson",
       "position": "GK",
-      "rating": 87,
-      "age": 33,
-      "value": 15385263
+      "rating": 77,
+      "age": 17,
+      "value": 23991578
     },
     {
-      "name": "Kwame Das",
+      "name": "Leslie Singh",
       "position": "GK",
-      "rating": 84,
-      "age": 24,
-      "value": 21221052
-    },
-    {
-      "name": "Kyle Palacios",
-      "position": "DF",
-      "rating": 71,
-      "age": 21,
-      "value": 24663157
-    },
-    {
-      "name": "Ken Nielsen",
-      "position": "DF",
-      "rating": 82,
-      "age": 27,
-      "value": 23305263
-    },
-    {
-      "name": "Jelani Bryant",
-      "position": "DF",
-      "rating": 85,
-      "age": 33,
-      "value": 18789473
-    },
-    {
-      "name": "Kofi Morales",
-      "position": "DF",
-      "rating": 78,
-      "age": 18,
-      "value": 29557894
-    },
-    {
-      "name": "Xavier Wright",
-      "position": "DF",
-      "rating": 80,
-      "age": 27,
-      "value": 22736842
-    },
-    {
-      "name": "Alan Gonz\u00e1lez",
-      "position": "DF",
-      "rating": 68,
-      "age": 32,
-      "value": 15747368
-    },
-    {
-      "name": "John Rose",
-      "position": "MF",
       "rating": 64,
-      "age": 27,
-      "value": 21827368
+      "age": 20,
+      "value": 18324210
     },
     {
-      "name": "Leandro Barnes",
-      "position": "MF",
+      "name": "Carter Oliver",
+      "position": "DF",
+      "rating": 87,
+      "age": 17,
+      "value": 33884210
+    },
+    {
+      "name": "Xavier Henry",
+      "position": "DF",
       "rating": 81,
-      "age": 34,
-      "value": 20463157
+      "age": 35,
+      "value": 16200000
     },
     {
-      "name": "Andre Richardson",
+      "name": "Axel Freeman",
+      "position": "DF",
+      "rating": 74,
+      "age": 21,
+      "value": 25705263
+    },
+    {
+      "name": "Ibrahim Hart",
+      "position": "DF",
+      "rating": 61,
+      "age": 17,
+      "value": 23757894
+    },
+    {
+      "name": "Marlon Ellis",
+      "position": "DF",
+      "rating": 74,
+      "age": 29,
+      "value": 19473684
+    },
+    {
+      "name": "Sefu Vega",
+      "position": "DF",
+      "rating": 63,
+      "age": 21,
+      "value": 21884210
+    },
+    {
+      "name": "Adam Gordon",
+      "position": "MF",
+      "rating": 69,
+      "age": 24,
+      "value": 26147368
+    },
+    {
+      "name": "Ayaan Green",
+      "position": "MF",
+      "rating": 61,
+      "age": 24,
+      "value": 23115789
+    },
+    {
+      "name": "Beau Fletcher",
       "position": "MF",
       "rating": 80,
+      "age": 17,
+      "value": 37389473
+    },
+    {
+      "name": "Stephen Patel",
+      "position": "MF",
+      "rating": 67,
+      "age": 32,
+      "value": 18618947
+    },
+    {
+      "name": "Javier Hicks",
+      "position": "MF",
+      "rating": 77,
       "age": 28,
-      "value": 26273684
+      "value": 25288421
     },
     {
-      "name": "Liam Wheeler",
+      "name": "Bryson Long",
       "position": "MF",
-      "rating": 70,
-      "age": 21,
-      "value": 29178947
+      "rating": 65,
+      "age": 35,
+      "value": 15600000
     },
     {
-      "name": "Evan Ellison",
-      "position": "MF",
-      "rating": 66,
-      "age": 24,
-      "value": 25010526
+      "name": "Ezequiel Burke",
+      "position": "FW",
+      "rating": 74,
+      "age": 34,
+      "value": 23368421
     },
     {
-      "name": "Zayden Lindholm",
-      "position": "MF",
-      "rating": 89,
+      "name": "Adekunle Marin",
+      "position": "FW",
+      "rating": 74,
+      "age": 32,
+      "value": 25705263
+    },
+    {
+      "name": "Ricardo Evans",
+      "position": "FW",
+      "rating": 63,
+      "age": 23,
+      "value": 30836842
+    },
+    {
+      "name": "Sven Ray",
+      "position": "FW",
+      "rating": 87,
+      "age": 26,
+      "value": 38463157
+    },
+    {
+      "name": "Raj Oliver",
+      "position": "FW",
+      "rating": 72,
       "age": 18,
       "value": 40000000
-    },
-    {
-      "name": "Sefu Warah",
-      "position": "FW",
-      "rating": 73,
-      "age": 21,
-      "value": 38036842
-    },
-    {
-      "name": "Nicol\u00e1s Gustavsson",
-      "position": "FW",
-      "rating": 83,
-      "age": 28,
-      "value": 34073684
-    },
-    {
-      "name": "Mathias Marshall",
-      "position": "FW",
-      "rating": 85,
-      "age": 23,
-      "value": 40000000
-    },
-    {
-      "name": "Isak Jordan",
-      "position": "FW",
-      "rating": 71,
-      "age": 29,
-      "value": 28026315
-    },
-    {
-      "name": "Henry Mabena",
-      "position": "FW",
-      "rating": 62,
-      "age": 30,
-      "value": 23494736
     }
   ],
   "stadium": {

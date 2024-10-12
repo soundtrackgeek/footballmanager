@@ -2,144 +2,144 @@
   "name": "Bournemouth",
   "squad": [
     {
-      "name": "Jason Diaz",
+      "name": "Magnus Fernandes",
       "position": "GK",
-      "rating": 81,
-      "age": 24,
-      "value": 20463157
+      "rating": 73,
+      "age": 32,
+      "value": 13524210
     },
     {
-      "name": "Fernando Rivera",
+      "name": "August Brooks",
       "position": "GK",
-      "rating": 62,
-      "age": 27,
-      "value": 14096842
+      "rating": 66,
+      "age": 22,
+      "value": 17785263
     },
     {
-      "name": "Benjamin Cooper",
+      "name": "Nuru Nakamura",
       "position": "GK",
-      "rating": 74,
-      "age": 27,
-      "value": 16825263
-    },
-    {
-      "name": "Eric Berg",
-      "position": "DF",
-      "rating": 71,
-      "age": 27,
-      "value": 20178947
-    },
-    {
-      "name": "Kabelo Karlsson",
-      "position": "DF",
-      "rating": 71,
-      "age": 29,
-      "value": 18684210
-    },
-    {
-      "name": "Abraham Howard",
-      "position": "DF",
-      "rating": 61,
-      "age": 20,
-      "value": 21831578
-    },
-    {
-      "name": "Ibrahim Ortega",
-      "position": "DF",
-      "rating": 68,
-      "age": 16,
-      "value": 27200000
-    },
-    {
-      "name": "Antonio Butler",
-      "position": "DF",
-      "rating": 82,
-      "age": 23,
-      "value": 26757894
-    },
-    {
-      "name": "Blake Rao",
-      "position": "DF",
-      "rating": 84,
-      "age": 24,
-      "value": 26526315
-    },
-    {
-      "name": "Kwame Cruz",
-      "position": "MF",
       "rating": 84,
       "age": 26,
-      "value": 29709473
+      "value": 19806315
     },
     {
-      "name": "Rafael Howard",
-      "position": "MF",
-      "rating": 64,
-      "age": 24,
-      "value": 24252631
+      "name": "Jelani Olson",
+      "position": "DF",
+      "rating": 71,
+      "age": 18,
+      "value": 26905263
     },
     {
-      "name": "Tyrone Biko",
+      "name": "Kyler Bates",
+      "position": "DF",
+      "rating": 74,
+      "age": 17,
+      "value": 28821052
+    },
+    {
+      "name": "Emil Xolani",
+      "position": "DF",
+      "rating": 83,
+      "age": 19,
+      "value": 30578947
+    },
+    {
+      "name": "Andr\u00e9s Bennett",
+      "position": "DF",
+      "rating": 89,
+      "age": 21,
+      "value": 30915789
+    },
+    {
+      "name": "Guillermo Harris",
+      "position": "DF",
+      "rating": 62,
+      "age": 18,
+      "value": 23494736
+    },
+    {
+      "name": "Caden Desai",
+      "position": "DF",
+      "rating": 72,
+      "age": 30,
+      "value": 18189473
+    },
+    {
+      "name": "Simba Fredriksson",
       "position": "MF",
-      "rating": 85,
+      "rating": 71,
+      "age": 33,
+      "value": 18833684
+    },
+    {
+      "name": "Elias Jacobsen",
+      "position": "MF",
+      "rating": 84,
       "age": 32,
-      "value": 23621052
+      "value": 23343157
     },
     {
-      "name": "Hugo Sandstr\u00f6m",
+      "name": "Nuru Shin",
       "position": "MF",
       "rating": 90,
-      "age": 26,
-      "value": 31831578
+      "age": 33,
+      "value": 23873684
     },
     {
-      "name": "Aaron Jordan",
+      "name": "Joshua Eriksson",
       "position": "MF",
-      "rating": 72,
+      "rating": 77,
       "age": 25,
-      "value": 26374736
+      "value": 28206315
     },
     {
-      "name": "Ade Burke",
+      "name": "Carlos Newman",
       "position": "MF",
-      "rating": 80,
+      "rating": 73,
       "age": 27,
-      "value": 27284210
+      "value": 24896842
     },
     {
-      "name": "Derrick Gordon",
-      "position": "FW",
-      "rating": 67,
-      "age": 22,
-      "value": 33852631
-    },
-    {
-      "name": "Oscar Kang",
-      "position": "FW",
-      "rating": 69,
-      "age": 21,
-      "value": 35952631
-    },
-    {
-      "name": "Kabelo Choi",
-      "position": "FW",
+      "name": "Marcos Sanchez",
+      "position": "MF",
       "rating": 81,
-      "age": 17,
+      "age": 27,
+      "value": 27625263
+    },
+    {
+      "name": "Bjorn Long",
+      "position": "FW",
+      "rating": 89,
+      "age": 35,
+      "value": 26700000
+    },
+    {
+      "name": "Simon Lin",
+      "position": "FW",
+      "rating": 78,
+      "age": 25,
+      "value": 35715789
+    },
+    {
+      "name": "Ra\u00fal Oliver",
+      "position": "FW",
+      "rating": 64,
+      "age": 32,
+      "value": 22231578
+    },
+    {
+      "name": "Dashiell Ferguson",
+      "position": "FW",
+      "rating": 84,
+      "age": 16,
       "value": 40000000
     },
     {
-      "name": "Filip Valencia",
+      "name": "Cian Reid",
       "position": "FW",
-      "rating": 79,
-      "age": 25,
-      "value": 36173684
-    },
-    {
-      "name": "Zane Alvarez",
-      "position": "FW",
-      "rating": 66,
-      "age": 29,
-      "value": 26052631
+      "rating": 72,
+      "age": 18,
+      "value": 40000000
     }
   ],
   "stadium": {

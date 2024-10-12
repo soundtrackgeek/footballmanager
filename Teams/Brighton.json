@@ -2,144 +2,144 @@
   "name": "Brighton",
   "squad": [
     {
-      "name": "Karl Freeman",
+      "name": "Franklin Torres",
       "position": "GK",
+      "rating": 60,
+      "age": 32,
+      "value": 11115789
+    },
+    {
+      "name": "Casey Cruz",
+      "position": "GK",
+      "rating": 62,
+      "age": 17,
+      "value": 19317894
+    },
+    {
+      "name": "Garrett Arnold",
+      "position": "GK",
+      "rating": 64,
+      "age": 35,
+      "value": 10240000
+    },
+    {
+      "name": "Adeyemi Ito",
+      "position": "DF",
       "rating": 81,
-      "age": 28,
-      "value": 17734736
-    },
-    {
-      "name": "Kwame Marsh",
-      "position": "GK",
-      "rating": 61,
-      "age": 17,
-      "value": 19006315
-    },
-    {
-      "name": "Angelo Benson",
-      "position": "GK",
-      "rating": 61,
-      "age": 18,
-      "value": 18492631
-    },
-    {
-      "name": "Aditya Brooks",
-      "position": "DF",
-      "rating": 70,
       "age": 16,
-      "value": 28000000
+      "value": 32400000
     },
     {
-      "name": "Ekon Benson",
+      "name": "Brandon Parker",
       "position": "DF",
-      "rating": 72,
-      "age": 17,
-      "value": 28042105
+      "rating": 85,
+      "age": 18,
+      "value": 32210526
     },
     {
-      "name": "Pablo Dean",
+      "name": "Ethan Cruz",
       "position": "DF",
-      "rating": 72,
-      "age": 30,
-      "value": 18189473
+      "rating": 74,
+      "age": 19,
+      "value": 27263157
     },
     {
-      "name": "Jeremy Gray",
+      "name": "Trenton Sato",
       "position": "DF",
-      "rating": 72,
-      "age": 33,
-      "value": 15915789
+      "rating": 69,
+      "age": 24,
+      "value": 21789473
     },
     {
-      "name": "Haruki Kim",
+      "name": "Emil Martin",
       "position": "DF",
       "rating": 90,
-      "age": 17,
-      "value": 35052631
+      "age": 27,
+      "value": 25578947
     },
     {
-      "name": "Jonathan Franklin",
+      "name": "Josiah Ekwueme",
       "position": "DF",
-      "rating": 77,
-      "age": 26,
-      "value": 22694736
-    },
-    {
-      "name": "Mario Morris",
-      "position": "MF",
-      "rating": 86,
-      "age": 24,
-      "value": 32589473
-    },
-    {
-      "name": "Kenny Hamilton",
-      "position": "MF",
-      "rating": 86,
-      "age": 28,
-      "value": 28244210
-    },
-    {
-      "name": "Einar Cox",
-      "position": "MF",
       "rating": 80,
-      "age": 22,
-      "value": 32336842
+      "age": 30,
+      "value": 20210526
     },
     {
-      "name": "Bruce Oliver",
+      "name": "Haruki Morris",
       "position": "MF",
-      "rating": 83,
-      "age": 21,
-      "value": 34597894
+      "rating": 76,
+      "age": 29,
+      "value": 24000000
     },
     {
-      "name": "Carl Kabiru",
+      "name": "Baojun Watkins",
       "position": "MF",
-      "rating": 79,
-      "age": 33,
-      "value": 20955789
-    },
-    {
-      "name": "Kwesi Hansen",
-      "position": "MF",
-      "rating": 88,
+      "rating": 68,
       "age": 23,
-      "value": 34458947
+      "value": 26627368
     },
     {
-      "name": "Devin Page",
-      "position": "FW",
-      "rating": 86,
-      "age": 28,
-      "value": 35305263
+      "name": "Amani Hart",
+      "position": "MF",
+      "rating": 78,
+      "age": 35,
+      "value": 18720000
     },
     {
-      "name": "Victor Barrios",
+      "name": "Bruno Gonzales",
+      "position": "MF",
+      "rating": 84,
+      "age": 32,
+      "value": 23343157
+    },
+    {
+      "name": "Adeyemi Russell",
+      "position": "MF",
+      "rating": 71,
+      "age": 33,
+      "value": 18833684
+    },
+    {
+      "name": "Noah Franco",
+      "position": "MF",
+      "rating": 73,
+      "age": 30,
+      "value": 22130526
+    },
+    {
+      "name": "Mauricio Howard",
       "position": "FW",
-      "rating": 88,
-      "age": 16,
+      "rating": 71,
+      "age": 22,
+      "value": 35873684
+    },
+    {
+      "name": "Mathias Molina",
+      "position": "FW",
+      "rating": 75,
+      "age": 20,
       "value": 40000000
     },
     {
-      "name": "Kellen Patel",
+      "name": "Garrett Cruz",
       "position": "FW",
-      "rating": 72,
-      "age": 27,
-      "value": 30694736
-    },
-    {
-      "name": "Spencer Watkins",
-      "position": "FW",
-      "rating": 75,
+      "rating": 78,
       "age": 33,
-      "value": 24868421
+      "value": 25863157
     },
     {
-      "name": "Dumi Barnes",
+      "name": "Kingston Griffin",
       "position": "FW",
-      "rating": 67,
+      "rating": 64,
       "age": 21,
-      "value": 34910526
+      "value": 33347368
+    },
+    {
+      "name": "Aziz Henderson",
+      "position": "FW",
+      "rating": 87,
+      "age": 30,
+      "value": 32968421
     }
   ],
   "stadium": {

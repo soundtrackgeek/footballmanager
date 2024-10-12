@@ -2,144 +2,144 @@
   "name": "Crystal Palace",
   "squad": [
     {
-      "name": "Abdul Haynes",
+      "name": "Stanley Olofsson",
       "position": "GK",
-      "rating": 90,
-      "age": 16,
-      "value": 28800000
-    },
-    {
-      "name": "Stewart Stewart",
-      "position": "GK",
-      "rating": 61,
-      "age": 19,
-      "value": 17978947
-    },
-    {
-      "name": "Wesley Cruz",
-      "position": "GK",
-      "rating": 90,
-      "age": 27,
-      "value": 20463157
-    },
-    {
-      "name": "Lukas Vega",
-      "position": "DF",
-      "rating": 61,
-      "age": 26,
-      "value": 17978947
-    },
-    {
-      "name": "Joaquin Burke",
-      "position": "DF",
-      "rating": 77,
-      "age": 34,
-      "value": 16210526
-    },
-    {
-      "name": "Shiro Freeman",
-      "position": "DF",
-      "rating": 82,
-      "age": 33,
-      "value": 18126315
-    },
-    {
-      "name": "Adrian J\u00f8rgensen",
-      "position": "DF",
-      "rating": 84,
+      "rating": 73,
       "age": 31,
-      "value": 20336842
+      "value": 14138947
     },
     {
-      "name": "Jared Nelson",
-      "position": "DF",
+      "name": "Marvin Fowler",
+      "position": "GK",
+      "rating": 66,
+      "age": 18,
+      "value": 20008421
+    },
+    {
+      "name": "Mario Cunningham",
+      "position": "GK",
       "rating": 80,
-      "age": 32,
-      "value": 18526315
+      "age": 23,
+      "value": 20884210
     },
     {
-      "name": "Finn Roberts",
+      "name": "Bradley Baker",
       "position": "DF",
       "rating": 69,
-      "age": 26,
-      "value": 20336842
+      "age": 29,
+      "value": 18157894
     },
     {
-      "name": "Connor Lewis",
-      "position": "MF",
-      "rating": 72,
+      "name": "Satoshi Washington",
+      "position": "DF",
+      "rating": 73,
       "age": 31,
-      "value": 20917894
+      "value": 17673684
     },
     {
-      "name": "Griffin Fisher",
+      "name": "Jelani West",
+      "position": "DF",
+      "rating": 77,
+      "age": 35,
+      "value": 15400000
+    },
+    {
+      "name": "Christian Thomas",
+      "position": "DF",
+      "rating": 79,
+      "age": 21,
+      "value": 27442105
+    },
+    {
+      "name": "Adam Lee",
+      "position": "DF",
+      "rating": 72,
+      "age": 24,
+      "value": 22736842
+    },
+    {
+      "name": "Adekunle Roberts",
+      "position": "DF",
+      "rating": 85,
+      "age": 30,
+      "value": 21473684
+    },
+    {
+      "name": "Aedan Garc\u00eda",
       "position": "MF",
-      "rating": 71,
-      "age": 28,
-      "value": 23317894
+      "rating": 79,
+      "age": 18,
+      "value": 35924210
     },
     {
-      "name": "Jaden Rogers",
+      "name": "Desmond Liu",
       "position": "MF",
       "rating": 90,
-      "age": 20,
-      "value": 38652631
-    },
-    {
-      "name": "Rene Torbj\u00f6rnsson",
-      "position": "MF",
-      "rating": 83,
-      "age": 28,
-      "value": 27258947
-    },
-    {
-      "name": "Raymond Baxter",
-      "position": "MF",
-      "rating": 64,
-      "age": 29,
-      "value": 20210526
-    },
-    {
-      "name": "Francisco Benson",
-      "position": "MF",
-      "rating": 85,
-      "age": 23,
-      "value": 33284210
-    },
-    {
-      "name": "Charlie Edwards",
-      "position": "FW",
-      "rating": 81,
-      "age": 17,
-      "value": 40000000
-    },
-    {
-      "name": "Beau Butler",
-      "position": "FW",
-      "rating": 88,
-      "age": 29,
-      "value": 34736842
-    },
-    {
-      "name": "Kwame Hicks",
-      "position": "FW",
-      "rating": 83,
-      "age": 17,
-      "value": 40000000
-    },
-    {
-      "name": "Jacob Hassan",
-      "position": "FW",
-      "rating": 64,
-      "age": 32,
-      "value": 22231578
-    },
-    {
-      "name": "Jiro Berry",
-      "position": "FW",
-      "rating": 63,
-      "age": 30,
+      "age": 33,
       "value": 23873684
+    },
+    {
+      "name": "Paige Foster",
+      "position": "MF",
+      "rating": 90,
+      "age": 23,
+      "value": 35242105
+    },
+    {
+      "name": "Simon Tanaka",
+      "position": "MF",
+      "rating": 75,
+      "age": 22,
+      "value": 30315789
+    },
+    {
+      "name": "Ulises Franco",
+      "position": "MF",
+      "rating": 87,
+      "age": 33,
+      "value": 23077894
+    },
+    {
+      "name": "Martin Henry",
+      "position": "MF",
+      "rating": 71,
+      "age": 20,
+      "value": 30492631
+    },
+    {
+      "name": "Grant Feng",
+      "position": "FW",
+      "rating": 87,
+      "age": 22,
+      "value": 40000000
+    },
+    {
+      "name": "Harold Gustavsson",
+      "position": "FW",
+      "rating": 75,
+      "age": 25,
+      "value": 34342105
+    },
+    {
+      "name": "Tunde Whitaker",
+      "position": "FW",
+      "rating": 86,
+      "age": 17,
+      "value": 40000000
+    },
+    {
+      "name": "Kyan Bradley",
+      "position": "FW",
+      "rating": 77,
+      "age": 24,
+      "value": 36473684
+    },
+    {
+      "name": "Russell Butler",
+      "position": "FW",
+      "rating": 66,
+      "age": 24,
+      "value": 31263157
     }
   ],
   "stadium": {

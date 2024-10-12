@@ -77,4 +77,6 @@ Let's create a football manager game in python. I want to emulate the FA Premier
      • Implement an online mode where multiple players can compete in the same league.
 	 
 
-I want to add an exciting match screen whenever I click 5. Play Game. This screen is only for my game in the fixture list this week, the team I've chosen. I want each minute to tick, maybe 1 second per minute, then randomly someone scores. Come up with some great commentator lines when someone scores.
++ I want to add an exciting match screen whenever I click 5. Play Game. This screen is only for my game in the fixture list this week, the team I've chosen. I want each minute to tick, maybe 1 second per minute, then randomly someone scores. Come up with some great commentator lines when someone scores.
+
+When I select the team, update so that when I view the team, I see my chosen 11 in the right order and I also see my unchosen one at the end.

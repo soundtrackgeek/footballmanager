@@ -2,144 +2,144 @@
   "name": "West Ham",
   "squad": [
     {
-      "name": "Suraj Kim",
+      "name": "Shawn Barnett",
       "position": "GK",
-      "rating": 80,
-      "age": 21,
-      "value": 22231578
-    },
-    {
-      "name": "Kato Mitchell",
-      "position": "GK",
-      "rating": 70,
-      "age": 33,
-      "value": 12378947
-    },
-    {
-      "name": "Frederick Le\u00f3n",
-      "position": "GK",
-      "rating": 78,
-      "age": 19,
-      "value": 22989473
-    },
-    {
-      "name": "Babatunde Chen",
-      "position": "DF",
       "rating": 85,
-      "age": 19,
-      "value": 31315789
+      "age": 32,
+      "value": 15747368
     },
     {
-      "name": "Rafael Jimenez",
-      "position": "DF",
-      "rating": 71,
-      "age": 18,
-      "value": 26905263
+      "name": "Dylan Nilsson",
+      "position": "GK",
+      "rating": 73,
+      "age": 22,
+      "value": 19671578
     },
     {
-      "name": "Rory Hart",
-      "position": "DF",
-      "rating": 87,
-      "age": 25,
-      "value": 26557894
+      "name": "Trevor Russell",
+      "position": "GK",
+      "rating": 81,
+      "age": 30,
+      "value": 16370526
     },
     {
-      "name": "Javier Pena",
+      "name": "Jin Cruz",
       "position": "DF",
       "rating": 74,
-      "age": 18,
-      "value": 28042105
+      "age": 21,
+      "value": 25705263
     },
     {
-      "name": "Caden Kim",
+      "name": "Lukas Hansen",
       "position": "DF",
-      "rating": 68,
-      "age": 28,
-      "value": 18610526
-    },
-    {
-      "name": "Frank Diaz",
-      "position": "DF",
-      "rating": 73,
+      "rating": 72,
       "age": 18,
-      "value": 27663157
+      "value": 27284210
     },
     {
-      "name": "Nuru Murphy",
-      "position": "MF",
-      "rating": 87,
+      "name": "Andreas Johansen",
+      "position": "DF",
+      "rating": 71,
+      "age": 35,
+      "value": 14200000
+    },
+    {
+      "name": "Kaleb Ortega",
+      "position": "DF",
+      "rating": 81,
       "age": 19,
-      "value": 38463157
+      "value": 29842105
     },
     {
-      "name": "Benjamin Chukwu",
+      "name": "Jacob Fox",
+      "position": "DF",
+      "rating": 81,
+      "age": 30,
+      "value": 20463157
+    },
+    {
+      "name": "Timothy Howard",
+      "position": "DF",
+      "rating": 86,
+      "age": 31,
+      "value": 20821052
+    },
+    {
+      "name": "Yuki Jansson",
+      "position": "MF",
+      "rating": 78,
+      "age": 20,
+      "value": 33498947
+    },
+    {
+      "name": "Colin Page",
+      "position": "MF",
+      "rating": 66,
+      "age": 30,
+      "value": 20008421
+    },
+    {
+      "name": "Ruben Ramirez",
       "position": "MF",
       "rating": 86,
-      "age": 29,
-      "value": 27157894
+      "age": 34,
+      "value": 21726315
     },
     {
-      "name": "Adrian Sanchez",
+      "name": "Nils Hansen",
       "position": "MF",
-      "rating": 69,
-      "age": 18,
-      "value": 31376842
+      "rating": 67,
+      "age": 31,
+      "value": 19465263
     },
     {
-      "name": "Guy Cohen",
+      "name": "Martin Williamson",
       "position": "MF",
       "rating": 84,
-      "age": 24,
-      "value": 31831578
+      "age": 33,
+      "value": 22282105
     },
     {
-      "name": "Luis Stewart",
+      "name": "Brantley French",
       "position": "MF",
-      "rating": 62,
-      "age": 21,
-      "value": 25844210
-    },
-    {
-      "name": "Kenji Benjumea",
-      "position": "MF",
-      "rating": 71,
+      "rating": 87,
       "age": 16,
-      "value": 34080000
-    },
-    {
-      "name": "Jeremy Morris",
-      "position": "FW",
-      "rating": 88,
-      "age": 25,
       "value": 40000000
     },
     {
-      "name": "Brian Rasmussen",
+      "name": "Riley Boone",
       "position": "FW",
-      "rating": 70,
+      "rating": 80,
       "age": 24,
+      "value": 37894736
+    },
+    {
+      "name": "Bernard Benson",
+      "position": "FW",
+      "rating": 76,
+      "age": 21,
+      "value": 39600000
+    },
+    {
+      "name": "Sefu Andersen",
+      "position": "FW",
+      "rating": 84,
+      "age": 29,
       "value": 33157894
     },
     {
-      "name": "Stewart Barnett",
+      "name": "Adeyemi Goodman",
       "position": "FW",
-      "rating": 74,
-      "age": 31,
-      "value": 26873684
+      "rating": 85,
+      "age": 26,
+      "value": 37578947
     },
     {
-      "name": "Anton Rice",
+      "name": "Kamau Holland",
       "position": "FW",
-      "rating": 84,
-      "age": 23,
-      "value": 40000000
-    },
-    {
-      "name": "Lee Bell",
-      "position": "FW",
-      "rating": 81,
-      "age": 20,
-      "value": 40000000
+      "rating": 86,
+      "age": 33,
+      "value": 28515789
     }
   ],
   "stadium": {

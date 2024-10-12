@@ -2,144 +2,144 @@
   "name": "Chelsea",
   "squad": [
     {
-      "name": "Ji-hoon Cruz",
+      "name": "Shin Hoover",
       "position": "GK",
-      "rating": 77,
-      "age": 26,
-      "value": 18155789
-    },
-    {
-      "name": "Rodney Bell",
-      "position": "GK",
-      "rating": 61,
-      "age": 30,
-      "value": 12328421
-    },
-    {
-      "name": "Ulises Dahl",
-      "position": "GK",
-      "rating": 76,
-      "age": 17,
-      "value": 23680000
-    },
-    {
-      "name": "Anurak Butler",
-      "position": "DF",
-      "rating": 76,
-      "age": 23,
-      "value": 24800000
-    },
-    {
-      "name": "Caden Owens",
-      "position": "DF",
-      "rating": 72,
-      "age": 21,
-      "value": 25010526
-    },
-    {
-      "name": "Mathew Zhang",
-      "position": "DF",
-      "rating": 80,
-      "age": 19,
-      "value": 29473684
-    },
-    {
-      "name": "Cody Morrison",
-      "position": "DF",
-      "rating": 72,
-      "age": 26,
-      "value": 21221052
-    },
-    {
-      "name": "Daisuke Dur\u00e1n",
-      "position": "DF",
-      "rating": 79,
-      "age": 19,
-      "value": 29105263
-    },
-    {
-      "name": "Joel Gao",
-      "position": "DF",
-      "rating": 74,
-      "age": 35,
-      "value": 14800000
-    },
-    {
-      "name": "Brian Barnes",
-      "position": "MF",
-      "rating": 68,
-      "age": 33,
-      "value": 18037894
-    },
-    {
-      "name": "Haruto Torbj\u00f6rnsson",
-      "position": "MF",
-      "rating": 86,
-      "age": 33,
-      "value": 22812631
-    },
-    {
-      "name": "Darren Xolani",
-      "position": "MF",
-      "rating": 86,
+      "rating": 84,
       "age": 18,
-      "value": 39107368
+      "value": 25465263
     },
     {
-      "name": "Musa Perez",
-      "position": "MF",
-      "rating": 73,
-      "age": 29,
-      "value": 23052631
-    },
-    {
-      "name": "Ezequiel Marshall",
-      "position": "MF",
-      "rating": 78,
-      "age": 17,
-      "value": 36454736
-    },
-    {
-      "name": "Xavier Thomas",
-      "position": "MF",
-      "rating": 74,
-      "age": 19,
-      "value": 32715789
-    },
-    {
-      "name": "Tom\u00e1s Meadows",
-      "position": "FW",
-      "rating": 80,
-      "age": 33,
-      "value": 26526315
-    },
-    {
-      "name": "Brayden Owens",
-      "position": "FW",
-      "rating": 78,
-      "age": 18,
-      "value": 40000000
-    },
-    {
-      "name": "Quentin Kim",
-      "position": "FW",
-      "rating": 75,
-      "age": 31,
-      "value": 27236842
-    },
-    {
-      "name": "Shiro Yoo",
-      "position": "FW",
+      "name": "Uriah Palmer",
+      "position": "GK",
       "rating": 88,
       "age": 17,
-      "value": 40000000
+      "value": 27418947
     },
     {
-      "name": "Uriel Scott",
-      "position": "FW",
+      "name": "Shawn West",
+      "position": "GK",
+      "rating": 86,
+      "age": 17,
+      "value": 26795789
+    },
+    {
+      "name": "Uriel Farmer",
+      "position": "DF",
+      "rating": 62,
+      "age": 17,
+      "value": 24147368
+    },
+    {
+      "name": "Reuben Barnett",
+      "position": "DF",
+      "rating": 83,
+      "age": 30,
+      "value": 20968421
+    },
+    {
+      "name": "Benny Parker",
+      "position": "DF",
+      "rating": 88,
+      "age": 20,
+      "value": 31494736
+    },
+    {
+      "name": "Wei-Lun Hayes",
+      "position": "DF",
+      "rating": 88,
+      "age": 21,
+      "value": 30568421
+    },
+    {
+      "name": "Noah Jabari",
+      "position": "DF",
+      "rating": 85,
+      "age": 16,
+      "value": 34000000
+    },
+    {
+      "name": "Tristan Russell",
+      "position": "DF",
+      "rating": 75,
+      "age": 16,
+      "value": 30000000
+    },
+    {
+      "name": "Emiliano Fuller",
+      "position": "MF",
       "rating": 64,
       "age": 16,
-      "value": 38400000
+      "value": 30720000
+    },
+    {
+      "name": "Finn Carter",
+      "position": "MF",
+      "rating": 68,
+      "age": 25,
+      "value": 24909473
+    },
+    {
+      "name": "Cian Benson",
+      "position": "MF",
+      "rating": 72,
+      "age": 28,
+      "value": 23646315
+    },
+    {
+      "name": "Mike Murray",
+      "position": "MF",
+      "rating": 79,
+      "age": 22,
+      "value": 31932631
+    },
+    {
+      "name": "Kameron Garcia",
+      "position": "MF",
+      "rating": 65,
+      "age": 27,
+      "value": 22168421
+    },
+    {
+      "name": "Gavin Henderson",
+      "position": "MF",
+      "rating": 87,
+      "age": 32,
+      "value": 24176842
+    },
+    {
+      "name": "Damian Black",
+      "position": "FW",
+      "rating": 64,
+      "age": 21,
+      "value": 33347368
+    },
+    {
+      "name": "Chester Hamilton",
+      "position": "FW",
+      "rating": 78,
+      "age": 33,
+      "value": 25863157
+    },
+    {
+      "name": "Clinton Barnett",
+      "position": "FW",
+      "rating": 71,
+      "age": 33,
+      "value": 23542105
+    },
+    {
+      "name": "Fernando Ramos",
+      "position": "FW",
+      "rating": 71,
+      "age": 23,
+      "value": 34752631
+    },
+    {
+      "name": "Tao Larsen",
+      "position": "FW",
+      "rating": 66,
+      "age": 20,
+      "value": 35431578
     }
   ],
   "stadium": {

@@ -2,144 +2,144 @@
   "name": "Burnley",
   "squad": [
     {
-      "name": "Rodney Cohen",
+      "name": "Dorian Mitchell",
       "position": "GK",
-      "rating": 70,
-      "age": 23,
-      "value": 18273684
-    },
-    {
-      "name": "Edgar Owens",
-      "position": "GK",
-      "rating": 68,
-      "age": 22,
-      "value": 18324210
-    },
-    {
-      "name": "Austin Kim",
-      "position": "GK",
-      "rating": 79,
-      "age": 16,
-      "value": 25280000
-    },
-    {
-      "name": "Frederick Coleman",
-      "position": "DF",
-      "rating": 68,
-      "age": 16,
-      "value": 27200000
-    },
-    {
-      "name": "Ruben Howard",
-      "position": "DF",
-      "rating": 89,
-      "age": 24,
-      "value": 28105263
-    },
-    {
-      "name": "Brantley Powell",
-      "position": "DF",
-      "rating": 85,
-      "age": 17,
-      "value": 33105263
-    },
-    {
-      "name": "Adan Takahashi",
-      "position": "DF",
       "rating": 82,
       "age": 35,
-      "value": 16400000
+      "value": 13120000
     },
     {
-      "name": "Colin Foster",
+      "name": "Kobe Morrison",
+      "position": "GK",
+      "rating": 81,
+      "age": 26,
+      "value": 19098947
+    },
+    {
+      "name": "Chase Spencer",
+      "position": "GK",
+      "rating": 88,
+      "age": 23,
+      "value": 22972631
+    },
+    {
+      "name": "Frank Ramirez",
+      "position": "DF",
+      "rating": 88,
+      "age": 30,
+      "value": 22231578
+    },
+    {
+      "name": "Fernando Lindberg",
+      "position": "DF",
+      "rating": 86,
+      "age": 30,
+      "value": 21726315
+    },
+    {
+      "name": "Haruki Fletcher",
+      "position": "DF",
+      "rating": 84,
+      "age": 30,
+      "value": 21221052
+    },
+    {
+      "name": "Johnny Parker",
+      "position": "DF",
+      "rating": 85,
+      "age": 21,
+      "value": 29526315
+    },
+    {
+      "name": "Emiliano Fisher",
       "position": "DF",
       "rating": 75,
-      "age": 34,
-      "value": 15789473
+      "age": 32,
+      "value": 17368421
     },
     {
-      "name": "Brendan Olson",
+      "name": "Juan Ramsey",
       "position": "DF",
-      "rating": 72,
-      "age": 24,
-      "value": 22736842
+      "rating": 79,
+      "age": 34,
+      "value": 16631578
     },
     {
-      "name": "Robert Stokes",
+      "name": "Hank Zamani",
       "position": "MF",
-      "rating": 82,
-      "age": 17,
-      "value": 38324210
+      "rating": 74,
+      "age": 27,
+      "value": 25237894
     },
     {
-      "name": "Alonzo Barnes",
+      "name": "Keith Sandstr\u00f6m",
       "position": "MF",
-      "rating": 86,
+      "rating": 65,
       "age": 20,
-      "value": 36934736
+      "value": 27915789
     },
     {
-      "name": "Raymond Schmidt",
+      "name": "Harley Thomas",
       "position": "MF",
-      "rating": 85,
+      "rating": 72,
       "age": 16,
+      "value": 34560000
+    },
+    {
+      "name": "Tyrone Coleman",
+      "position": "MF",
+      "rating": 90,
+      "age": 17,
       "value": 40000000
     },
     {
-      "name": "Brayden Washington",
+      "name": "Devin Russell",
       "position": "MF",
-      "rating": 80,
-      "age": 27,
-      "value": 27284210
+      "rating": 72,
+      "age": 25,
+      "value": 26374736
     },
     {
-      "name": "Cristian Fisher",
+      "name": "Nikhil Ekwueme",
       "position": "MF",
-      "rating": 69,
-      "age": 23,
-      "value": 27018947
+      "rating": 71,
+      "age": 31,
+      "value": 20627368
     },
     {
-      "name": "Fernando Reed",
-      "position": "MF",
-      "rating": 62,
-      "age": 24,
-      "value": 23494736
-    },
-    {
-      "name": "Jack Day",
+      "name": "Hiro Bryant",
       "position": "FW",
-      "rating": 74,
-      "age": 26,
-      "value": 32715789
+      "rating": 79,
+      "age": 18,
+      "value": 40000000
     },
     {
-      "name": "Kenneth Henry",
+      "name": "Nils Schmidt",
       "position": "FW",
       "rating": 70,
-      "age": 23,
-      "value": 34263157
-    },
-    {
-      "name": "Benjamin Lopez",
-      "position": "FW",
-      "rating": 63,
-      "age": 25,
-      "value": 28847368
-    },
-    {
-      "name": "Max Cox",
-      "position": "FW",
-      "rating": 76,
-      "age": 21,
-      "value": 39600000
-    },
-    {
-      "name": "Brantley Stewart",
-      "position": "FW",
-      "rating": 68,
       "age": 30,
-      "value": 25768421
+      "value": 26526315
+    },
+    {
+      "name": "Finn Palmer",
+      "position": "FW",
+      "rating": 73,
+      "age": 33,
+      "value": 24205263
+    },
+    {
+      "name": "Lucas Jabari",
+      "position": "FW",
+      "rating": 81,
+      "age": 30,
+      "value": 30694736
+    },
+    {
+      "name": "Justin Reid",
+      "position": "FW",
+      "rating": 73,
+      "age": 33,
+      "value": 24205263
     }
   ],
   "stadium": {

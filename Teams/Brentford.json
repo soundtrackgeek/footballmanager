@@ -2,144 +2,144 @@
   "name": "Brentford",
   "squad": [
     {
-      "name": "Ricardo Hart",
+      "name": "Milton Zhu",
       "position": "GK",
-      "rating": 70,
-      "age": 34,
-      "value": 11789473
+      "rating": 88,
+      "age": 27,
+      "value": 20008421
     },
     {
-      "name": "Haruto Stone",
+      "name": "Babatunde Rice",
       "position": "GK",
-      "rating": 89,
-      "age": 18,
-      "value": 26981052
+      "rating": 87,
+      "age": 16,
+      "value": 27840000
     },
     {
-      "name": "Leonel Choi",
+      "name": "Riley Patterson",
       "position": "GK",
       "rating": 62,
-      "age": 24,
-      "value": 15663157
+      "age": 33,
+      "value": 10964210
     },
     {
-      "name": "Johan Powell",
+      "name": "Mat\u00edas Duncan",
       "position": "DF",
-      "rating": 60,
-      "age": 29,
-      "value": 15789473
+      "rating": 85,
+      "age": 16,
+      "value": 34000000
     },
     {
-      "name": "Lewis Mabena",
-      "position": "DF",
-      "rating": 73,
-      "age": 27,
-      "value": 20747368
-    },
-    {
-      "name": "Brandon Cabrera",
-      "position": "DF",
-      "rating": 74,
-      "age": 23,
-      "value": 24147368
-    },
-    {
-      "name": "Miguel White",
-      "position": "DF",
-      "rating": 89,
-      "age": 30,
-      "value": 22484210
-    },
-    {
-      "name": "Josiah Ramirez",
-      "position": "DF",
-      "rating": 75,
-      "age": 32,
-      "value": 17368421
-    },
-    {
-      "name": "Andrew Burke",
+      "name": "Luis Cruz",
       "position": "DF",
       "rating": 72,
-      "age": 32,
-      "value": 16673684
+      "age": 34,
+      "value": 15157894
     },
     {
-      "name": "Giovanni Ross",
-      "position": "MF",
-      "rating": 73,
-      "age": 27,
-      "value": 24896842
-    },
-    {
-      "name": "Pedro Benson",
-      "position": "MF",
-      "rating": 62,
+      "name": "Victor Watkins",
+      "position": "DF",
+      "rating": 82,
       "age": 29,
-      "value": 19578947
+      "value": 21578947
     },
     {
-      "name": "Keith Cohen",
+      "name": "Fernando Burke",
+      "position": "DF",
+      "rating": 81,
+      "age": 26,
+      "value": 23873684
+    },
+    {
+      "name": "Albert French",
+      "position": "DF",
+      "rating": 63,
+      "age": 29,
+      "value": 16578947
+    },
+    {
+      "name": "Lawrence Hughes",
+      "position": "DF",
+      "rating": 68,
+      "age": 19,
+      "value": 25052631
+    },
+    {
+      "name": "Femi Ferguson",
       "position": "MF",
-      "rating": 84,
+      "rating": 70,
       "age": 20,
-      "value": 36075789
+      "value": 30063157
     },
     {
-      "name": "Dustin Hamilton",
+      "name": "Ram\u00f3n Palmer",
       "position": "MF",
-      "rating": 62,
-      "age": 22,
-      "value": 25061052
-    },
-    {
-      "name": "Roland Pena",
-      "position": "MF",
-      "rating": 86,
-      "age": 25,
-      "value": 31503157
-    },
-    {
-      "name": "Lyle Richards",
-      "position": "MF",
-      "rating": 69,
-      "age": 28,
-      "value": 22661052
-    },
-    {
-      "name": "Alan Lopez",
-      "position": "FW",
-      "rating": 78,
-      "age": 23,
-      "value": 38178947
-    },
-    {
-      "name": "Guy Howard",
-      "position": "FW",
       "rating": 76,
-      "age": 21,
-      "value": 39600000
+      "age": 29,
+      "value": 24000000
     },
     {
-      "name": "Owen Patel",
+      "name": "Jordan Dur\u00e1n",
+      "position": "MF",
+      "rating": 89,
+      "age": 29,
+      "value": 28105263
+    },
+    {
+      "name": "Leonardo Jacobsen",
+      "position": "MF",
+      "rating": 72,
+      "age": 31,
+      "value": 20917894
+    },
+    {
+      "name": "Sven Gomez",
+      "position": "MF",
+      "rating": 89,
+      "age": 26,
+      "value": 31477894
+    },
+    {
+      "name": "Ayaan Owens",
+      "position": "MF",
+      "rating": 70,
+      "age": 24,
+      "value": 26526315
+    },
+    {
+      "name": "Donovan Olson",
       "position": "FW",
-      "rating": 78,
-      "age": 21,
+      "rating": 73,
+      "age": 32,
+      "value": 25357894
+    },
+    {
+      "name": "Drew Rowe",
+      "position": "FW",
+      "rating": 71,
+      "age": 18,
       "value": 40000000
     },
     {
-      "name": "Orlando Nguyen",
+      "name": "Rowan Blake",
       "position": "FW",
-      "rating": 76,
-      "age": 21,
-      "value": 39600000
+      "rating": 90,
+      "age": 27,
+      "value": 38368421
     },
     {
-      "name": "Bryce Mabena",
+      "name": "Jake Burke",
       "position": "FW",
-      "rating": 67,
-      "age": 24,
-      "value": 31736842
+      "rating": 84,
+      "age": 18,
+      "value": 40000000
+    },
+    {
+      "name": "Chidi Schneider",
+      "position": "FW",
+      "rating": 66,
+      "age": 35,
+      "value": 19800000
     }
   ],
   "stadium": {
