@@ -2,144 +2,144 @@
   "name": "Arsenal",
   "squad": [
     {
-      "name": "Andr\u00e9s Gomez",
-      "position": "GK",
-      "rating": 87,
-      "age": 35,
-      "value": 13920000
-    },
-    {
-      "name": "Bo Barnes",
-      "position": "GK",
-      "rating": 64,
-      "age": 33,
-      "value": 11317894
-    },
-    {
-      "name": "Damien Freeman",
+      "name": "Kwabena Qureshi",
       "position": "GK",
       "rating": 84,
-      "age": 31,
-      "value": 16269473
-    },
-    {
-      "name": "Felipe Sanchez",
-      "position": "DF",
-      "rating": 65,
-      "age": 30,
-      "value": 16421052
-    },
-    {
-      "name": "Xavier Hart",
-      "position": "DF",
-      "rating": 67,
-      "age": 32,
-      "value": 15515789
-    },
-    {
-      "name": "Oluwafemi Balogun",
-      "position": "DF",
-      "rating": 63,
-      "age": 29,
-      "value": 16578947
-    },
-    {
-      "name": "Riley Palmer",
-      "position": "DF",
-      "rating": 69,
-      "age": 23,
-      "value": 22515789
-    },
-    {
-      "name": "Pablo Dur\u00e1n",
-      "position": "DF",
-      "rating": 66,
-      "age": 31,
-      "value": 15978947
-    },
-    {
-      "name": "Blake Edwards",
-      "position": "DF",
-      "rating": 83,
-      "age": 29,
-      "value": 21842105
-    },
-    {
-      "name": "Robert Grant",
-      "position": "MF",
-      "rating": 81,
-      "age": 26,
-      "value": 28648421
-    },
-    {
-      "name": "Thabo Saye",
-      "position": "MF",
-      "rating": 72,
-      "age": 30,
-      "value": 21827368
-    },
-    {
-      "name": "Clayton Fisher",
-      "position": "MF",
-      "rating": 87,
-      "age": 21,
-      "value": 36265263
-    },
-    {
-      "name": "Lyle Spencer",
-      "position": "MF",
-      "rating": 86,
-      "age": 23,
-      "value": 33675789
+      "age": 20,
+      "value": 24050526
     },
     {
       "name": "Anders Iversen",
-      "position": "MF",
-      "rating": 85,
-      "age": 27,
-      "value": 28989473
+      "position": "GK",
+      "rating": 66,
+      "age": 34,
+      "value": 11115789
     },
     {
-      "name": "Rasmus Lindberg",
+      "name": "Kaden Henry",
+      "position": "GK",
+      "rating": 68,
+      "age": 20,
+      "value": 19469473
+    },
+    {
+      "name": "Toshiro Mehta",
+      "position": "DF",
+      "rating": 65,
+      "age": 23,
+      "value": 21210526
+    },
+    {
+      "name": "Lukas Ramirez",
+      "position": "DF",
+      "rating": 63,
+      "age": 16,
+      "value": 25200000
+    },
+    {
+      "name": "Mathew Howard",
+      "position": "DF",
+      "rating": 82,
+      "age": 35,
+      "value": 16400000
+    },
+    {
+      "name": "Sam Reid",
+      "position": "DF",
+      "rating": 63,
+      "age": 21,
+      "value": 21884210
+    },
+    {
+      "name": "Oscar \u00c5str\u00f6m",
+      "position": "DF",
+      "rating": 78,
+      "age": 22,
+      "value": 26273684
+    },
+    {
+      "name": "Adri\u00e1n Cabrera",
+      "position": "DF",
+      "rating": 82,
+      "age": 22,
+      "value": 27621052
+    },
+    {
+      "name": "Nicol\u00e1s Romero",
       "position": "MF",
-      "rating": 90,
+      "rating": 60,
+      "age": 23,
+      "value": 23494736
+    },
+    {
+      "name": "Alonzo Harris",
+      "position": "MF",
+      "rating": 80,
+      "age": 20,
+      "value": 34357894
+    },
+    {
+      "name": "Tao-Jun Bhatia",
+      "position": "MF",
+      "rating": 79,
+      "age": 16,
+      "value": 37920000
+    },
+    {
+      "name": "Terry Hughes",
+      "position": "MF",
+      "rating": 89,
       "age": 32,
-      "value": 25010526
+      "value": 24732631
     },
     {
-      "name": "Finn Watkins",
+      "name": "Spencer Holt",
+      "position": "MF",
+      "rating": 75,
+      "age": 33,
+      "value": 19894736
+    },
+    {
+      "name": "Pablo Dur\u00e1n",
+      "position": "MF",
+      "rating": 66,
+      "age": 23,
+      "value": 25844210
+    },
+    {
+      "name": "Ruben Richardson",
       "position": "FW",
-      "rating": 84,
-      "age": 17,
+      "rating": 88,
+      "age": 23,
       "value": 40000000
     },
     {
-      "name": "Charlie Morgan",
+      "name": "Vishal Nakamura",
       "position": "FW",
-      "rating": 81,
-      "age": 32,
-      "value": 28136842
-    },
-    {
-      "name": "Nuru Mabena",
-      "position": "FW",
-      "rating": 80,
+      "rating": 78,
       "age": 16,
       "value": 40000000
     },
     {
-      "name": "Julian Hicks",
+      "name": "Adan Perez",
       "position": "FW",
-      "rating": 75,
-      "age": 25,
-      "value": 34342105
+      "rating": 84,
+      "age": 23,
+      "value": 40000000
     },
     {
-      "name": "Emmanuel Barnes",
+      "name": "Nathaniel Burke",
       "position": "FW",
       "rating": 72,
-      "age": 32,
-      "value": 25010526
+      "age": 29,
+      "value": 28421052
+    },
+    {
+      "name": "Stanley Brooks",
+      "position": "FW",
+      "rating": 85,
+      "age": 21,
+      "value": 40000000
     }
   ],
   "stadium": {

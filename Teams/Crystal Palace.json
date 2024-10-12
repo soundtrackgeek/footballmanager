@@ -2,144 +2,144 @@
   "name": "Crystal Palace",
   "squad": [
     {
-      "name": "Joshua Kim",
-      "position": "GK",
-      "rating": 66,
-      "age": 25,
-      "value": 16117894
-    },
-    {
-      "name": "Rory Bradshaw",
-      "position": "GK",
-      "rating": 84,
-      "age": 16,
-      "value": 26880000
-    },
-    {
-      "name": "Stefan Fletcher",
+      "name": "Jake Russell",
       "position": "GK",
       "rating": 71,
-      "age": 31,
-      "value": 13751578
+      "age": 30,
+      "value": 14349473
     },
     {
-      "name": "Evan Reed",
+      "name": "Esteban Valencia",
+      "position": "GK",
+      "rating": 60,
+      "age": 17,
+      "value": 18694736
+    },
+    {
+      "name": "Hiro Iyer",
+      "position": "GK",
+      "rating": 71,
+      "age": 20,
+      "value": 20328421
+    },
+    {
+      "name": "Chris Russell",
       "position": "DF",
-      "rating": 66,
-      "age": 34,
-      "value": 13894736
+      "rating": 73,
+      "age": 24,
+      "value": 23052631
     },
     {
-      "name": "Edmund Marshall",
-      "position": "DF",
-      "rating": 64,
-      "age": 23,
-      "value": 20884210
-    },
-    {
-      "name": "Damon Wheeler",
+      "name": "Einar Berglund",
       "position": "DF",
       "rating": 90,
-      "age": 19,
-      "value": 33157894
+      "age": 21,
+      "value": 31263157
     },
     {
-      "name": "Wilson Peters",
+      "name": "Kwabena Qureshi",
       "position": "DF",
-      "rating": 63,
-      "age": 23,
-      "value": 20557894
+      "rating": 61,
+      "age": 25,
+      "value": 18621052
     },
     {
-      "name": "Will Dean",
+      "name": "Mario Shaw",
       "position": "DF",
-      "rating": 66,
-      "age": 31,
-      "value": 15978947
+      "rating": 62,
+      "age": 34,
+      "value": 13052631
     },
     {
-      "name": "Juan Silva",
+      "name": "Roy Henderson",
       "position": "DF",
-      "rating": 83,
-      "age": 29,
-      "value": 21842105
+      "rating": 61,
+      "age": 18,
+      "value": 23115789
     },
     {
-      "name": "Remington Mills",
+      "name": "Emmanuel Barnes",
+      "position": "DF",
+      "rating": 88,
+      "age": 24,
+      "value": 27789473
+    },
+    {
+      "name": "Jin Mori",
       "position": "MF",
       "rating": 76,
-      "age": 22,
-      "value": 30720000
+      "age": 23,
+      "value": 29760000
     },
     {
-      "name": "Remington Mills",
+      "name": "Curtis Butler",
       "position": "MF",
-      "rating": 80,
-      "age": 20,
-      "value": 34357894
-    },
-    {
-      "name": "Thomas Little",
-      "position": "MF",
-      "rating": 86,
-      "age": 22,
-      "value": 34762105
-    },
-    {
-      "name": "Gabriel Olson",
-      "position": "MF",
-      "rating": 80,
-      "age": 19,
-      "value": 35368421
-    },
-    {
-      "name": "Roberto Espinoza",
-      "position": "MF",
-      "rating": 63,
-      "age": 21,
-      "value": 26261052
-    },
-    {
-      "name": "Adeyemi Nkosi",
-      "position": "MF",
-      "rating": 69,
-      "age": 24,
-      "value": 26147368
-    },
-    {
-      "name": "Jengo Sangare",
-      "position": "FW",
       "rating": 64,
-      "age": 23,
-      "value": 31326315
+      "age": 18,
+      "value": 29103157
     },
     {
-      "name": "Bart Phillips",
-      "position": "FW",
-      "rating": 80,
-      "age": 23,
-      "value": 39157894
+      "name": "Anthony King",
+      "position": "MF",
+      "rating": 84,
+      "age": 20,
+      "value": 36075789
     },
     {
-      "name": "Charles Patterson",
-      "position": "FW",
-      "rating": 83,
-      "age": 22,
+      "name": "Cyrus Henderson",
+      "position": "MF",
+      "rating": 89,
+      "age": 18,
       "value": 40000000
     },
     {
-      "name": "Chidi Fernandes",
-      "position": "FW",
-      "rating": 85,
-      "age": 34,
-      "value": 26842105
+      "name": "Levi Hayes",
+      "position": "MF",
+      "rating": 62,
+      "age": 30,
+      "value": 18795789
     },
     {
-      "name": "Fernando Richards",
+      "name": "Jordan Long",
+      "position": "MF",
+      "rating": 72,
+      "age": 24,
+      "value": 27284210
+    },
+    {
+      "name": "Jeffrey Fisher",
       "position": "FW",
-      "rating": 84,
-      "age": 35,
-      "value": 25200000
+      "rating": 83,
+      "age": 23,
+      "value": 40000000
+    },
+    {
+      "name": "Eric Shaw",
+      "position": "FW",
+      "rating": 75,
+      "age": 24,
+      "value": 35526315
+    },
+    {
+      "name": "Quincy Oliver",
+      "position": "FW",
+      "rating": 70,
+      "age": 25,
+      "value": 32052631
+    },
+    {
+      "name": "Joseph Reid",
+      "position": "FW",
+      "rating": 75,
+      "age": 25,
+      "value": 34342105
+    },
+    {
+      "name": "Amir Verma",
+      "position": "FW",
+      "rating": 80,
+      "age": 20,
+      "value": 40000000
     }
   ],
   "stadium": {

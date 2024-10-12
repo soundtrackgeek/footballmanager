@@ -2,144 +2,144 @@
   "name": "Fulham",
   "squad": [
     {
-      "name": "Mike Silva",
+      "name": "Kaden Henry",
       "position": "GK",
+      "rating": 82,
+      "age": 30,
+      "value": 16572631
+    },
+    {
+      "name": "Ivan Fuller",
+      "position": "GK",
+      "rating": 85,
+      "age": 21,
+      "value": 23621052
+    },
+    {
+      "name": "Malachi Harrison",
+      "position": "GK",
+      "rating": 60,
+      "age": 17,
+      "value": 18694736
+    },
+    {
+      "name": "Sven J\u00f8rgensen",
+      "position": "DF",
+      "rating": 61,
+      "age": 21,
+      "value": 21189473
+    },
+    {
+      "name": "Drew Palmer",
+      "position": "DF",
+      "rating": 65,
+      "age": 30,
+      "value": 16421052
+    },
+    {
+      "name": "Brendan Cooper",
+      "position": "DF",
       "rating": 71,
-      "age": 20,
-      "value": 20328421
+      "age": 17,
+      "value": 27652631
     },
     {
-      "name": "Reid Adams",
-      "position": "GK",
-      "rating": 70,
-      "age": 32,
-      "value": 12968421
-    },
-    {
-      "name": "Juan Garza",
-      "position": "GK",
-      "rating": 86,
-      "age": 20,
-      "value": 24623157
-    },
-    {
-      "name": "Brooks Ward",
-      "position": "DF",
-      "rating": 62,
-      "age": 23,
-      "value": 20231578
-    },
-    {
-      "name": "Raymond Henry",
-      "position": "DF",
-      "rating": 75,
-      "age": 18,
-      "value": 28421052
-    },
-    {
-      "name": "Dwayne Washington",
-      "position": "DF",
-      "rating": 72,
-      "age": 33,
-      "value": 15915789
-    },
-    {
-      "name": "Lyle Spencer",
+      "name": "Rowan Fletcher",
       "position": "DF",
       "rating": 69,
-      "age": 27,
-      "value": 19610526
+      "age": 33,
+      "value": 15252631
     },
     {
-      "name": "Mauricio Delgado",
+      "name": "Tobias Lund",
       "position": "DF",
-      "rating": 64,
-      "age": 29,
-      "value": 16842105
+      "rating": 89,
+      "age": 18,
+      "value": 33726315
     },
     {
-      "name": "Vince Marshall",
+      "name": "Jarrett Ferguson",
       "position": "DF",
-      "rating": 63,
-      "age": 26,
-      "value": 18568421
+      "rating": 68,
+      "age": 20,
+      "value": 24336842
     },
     {
-      "name": "Cael Bennett",
+      "name": "Ali Martin",
+      "position": "MF",
+      "rating": 70,
+      "age": 20,
+      "value": 30063157
+    },
+    {
+      "name": "Colin Ross",
       "position": "MF",
       "rating": 68,
-      "age": 25,
-      "value": 24909473
+      "age": 34,
+      "value": 17178947
     },
     {
-      "name": "Barack Mitchell",
+      "name": "Edward Owens",
       "position": "MF",
-      "rating": 75,
-      "age": 28,
-      "value": 24631578
+      "rating": 68,
+      "age": 20,
+      "value": 29204210
     },
     {
-      "name": "Devin Rogers",
+      "name": "Mandla Yeboah",
+      "position": "MF",
+      "rating": 69,
+      "age": 30,
+      "value": 20917894
+    },
+    {
+      "name": "Francisco Palmer",
       "position": "MF",
       "rating": 81,
-      "age": 32,
-      "value": 22509473
+      "age": 35,
+      "value": 19440000
     },
     {
-      "name": "Alonzo Harris",
-      "position": "MF",
-      "rating": 89,
-      "age": 20,
-      "value": 38223157
-    },
-    {
-      "name": "Bruce Diaz",
+      "name": "Ryker Spencer",
       "position": "MF",
       "rating": 83,
-      "age": 30,
-      "value": 25162105
+      "age": 33,
+      "value": 22016842
     },
     {
-      "name": "Wilson Peters",
-      "position": "MF",
-      "rating": 60,
-      "age": 34,
-      "value": 15157894
-    },
-    {
-      "name": "Veer Nakajima",
-      "position": "FW",
-      "rating": 72,
-      "age": 25,
-      "value": 32968421
-    },
-    {
-      "name": "Viktor Perry",
-      "position": "FW",
-      "rating": 85,
-      "age": 29,
-      "value": 33552631
-    },
-    {
-      "name": "Santiago Silva",
+      "name": "Ross Coleman",
       "position": "FW",
       "rating": 86,
+      "age": 19,
+      "value": 40000000
+    },
+    {
+      "name": "Quincy Oliver",
+      "position": "FW",
+      "rating": 82,
       "age": 20,
       "value": 40000000
     },
     {
-      "name": "Aditya Watanabe",
+      "name": "Felipe Sanchez",
       "position": "FW",
-      "rating": 70,
-      "age": 26,
-      "value": 30947368
+      "rating": 81,
+      "age": 34,
+      "value": 25578947
     },
     {
-      "name": "Liang Kang",
+      "name": "Terry Hughes",
       "position": "FW",
-      "rating": 60,
-      "age": 23,
-      "value": 29368421
+      "rating": 63,
+      "age": 30,
+      "value": 23873684
+    },
+    {
+      "name": "George Rivera",
+      "position": "FW",
+      "rating": 70,
+      "age": 17,
+      "value": 40000000
     }
   ],
   "stadium": {

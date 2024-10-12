@@ -2,144 +2,144 @@
   "name": "Sheffield United",
   "squad": [
     {
-      "name": "Nathan Barton",
+      "name": "Leonel Brooks",
       "position": "GK",
-      "rating": 79,
-      "age": 23,
-      "value": 20623157
+      "rating": 90,
+      "age": 19,
+      "value": 26526315
     },
     {
-      "name": "Declan James",
+      "name": "Nicholas Phelps",
       "position": "GK",
-      "rating": 68,
-      "age": 21,
-      "value": 18896842
+      "rating": 78,
+      "age": 16,
+      "value": 24960000
     },
     {
-      "name": "Trevor Edwards",
+      "name": "Lee Marshall",
       "position": "GK",
-      "rating": 61,
-      "age": 30,
-      "value": 12328421
+      "rating": 84,
+      "age": 26,
+      "value": 19806315
     },
     {
-      "name": "Zayden Ellis",
+      "name": "Gunnar West",
       "position": "DF",
       "rating": 70,
-      "age": 30,
-      "value": 17684210
+      "age": 19,
+      "value": 25789473
     },
     {
-      "name": "Santiago Reyes",
+      "name": "Colin Ross",
       "position": "DF",
-      "rating": 80,
+      "rating": 70,
       "age": 18,
-      "value": 30315789
+      "value": 26526315
     },
     {
-      "name": "Clinton Powell",
+      "name": "Raymond Henry",
       "position": "DF",
       "rating": 61,
-      "age": 20,
-      "value": 21831578
+      "age": 26,
+      "value": 17978947
     },
     {
-      "name": "Oscar Hart",
+      "name": "Chidi Fernandes",
       "position": "DF",
+      "rating": 80,
+      "age": 24,
+      "value": 25263157
+    },
+    {
+      "name": "Nuru Mabena",
+      "position": "DF",
+      "rating": 85,
+      "age": 16,
+      "value": 34000000
+    },
+    {
+      "name": "Preston Hanson",
+      "position": "DF",
+      "rating": 84,
+      "age": 22,
+      "value": 28294736
+    },
+    {
+      "name": "Thomas Little",
+      "position": "MF",
+      "rating": 87,
+      "age": 16,
+      "value": 40000000
+    },
+    {
+      "name": "Eugene Burke",
+      "position": "MF",
       "rating": 73,
-      "age": 20,
-      "value": 26126315
+      "age": 30,
+      "value": 22130526
     },
     {
-      "name": "Uriel Murray",
-      "position": "DF",
+      "name": "Gabriel Olson",
+      "position": "MF",
+      "rating": 66,
+      "age": 27,
+      "value": 22509473
+    },
+    {
+      "name": "Dexter Stewart",
+      "position": "MF",
+      "rating": 68,
+      "age": 24,
+      "value": 25768421
+    },
+    {
+      "name": "Jayden Barnett",
+      "position": "MF",
+      "rating": 81,
+      "age": 22,
+      "value": 32741052
+    },
+    {
+      "name": "Vance Schneider",
+      "position": "MF",
+      "rating": 74,
+      "age": 23,
+      "value": 28976842
+    },
+    {
+      "name": "Amari Biko",
+      "position": "FW",
+      "rating": 69,
+      "age": 21,
+      "value": 35952631
+    },
+    {
+      "name": "Alvin Sanchez",
+      "position": "FW",
       "rating": 77,
       "age": 28,
-      "value": 21073684
+      "value": 31610526
     },
     {
-      "name": "Hector Salazar",
-      "position": "DF",
-      "rating": 75,
-      "age": 25,
-      "value": 22894736
-    },
-    {
-      "name": "Louis West",
-      "position": "MF",
-      "rating": 62,
-      "age": 32,
-      "value": 17229473
-    },
-    {
-      "name": "Victor Pedersen",
-      "position": "MF",
-      "rating": 82,
-      "age": 30,
-      "value": 24858947
-    },
-    {
-      "name": "Matt Palmer",
-      "position": "MF",
-      "rating": 73,
-      "age": 26,
-      "value": 25818947
-    },
-    {
-      "name": "Duncan Hughes",
-      "position": "MF",
-      "rating": 76,
-      "age": 21,
-      "value": 31680000
-    },
-    {
-      "name": "Uriel Murray",
-      "position": "MF",
-      "rating": 80,
-      "age": 18,
-      "value": 36378947
-    },
-    {
-      "name": "Liam Flores",
-      "position": "MF",
-      "rating": 89,
-      "age": 33,
-      "value": 23608421
-    },
-    {
-      "name": "Mandla Yeboah",
+      "name": "Ade Eze",
       "position": "FW",
-      "rating": 73,
-      "age": 21,
-      "value": 38036842
+      "rating": 60,
+      "age": 16,
+      "value": 36000000
     },
     {
-      "name": "Pablo Dur\u00e1n",
+      "name": "Morgan Alvarez",
       "position": "FW",
       "rating": 71,
-      "age": 23,
-      "value": 34752631
+      "age": 19,
+      "value": 39236842
     },
     {
-      "name": "Adam Martinez",
-      "position": "FW",
-      "rating": 76,
-      "age": 18,
-      "value": 40000000
-    },
-    {
-      "name": "Glen James",
+      "name": "Raj Sharma",
       "position": "FW",
       "rating": 88,
-      "age": 32,
-      "value": 30568421
-    },
-    {
-      "name": "Tumelo Ekwueme",
-      "position": "FW",
-      "rating": 90,
-      "age": 25,
-      "value": 40000000
+      "age": 31,
+      "value": 31957894
     }
   ],
   "stadium": {

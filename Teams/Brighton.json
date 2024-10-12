@@ -2,144 +2,144 @@
   "name": "Brighton",
   "squad": [
     {
-      "name": "Gregory Hamilton",
+      "name": "Karl Jacobsen",
       "position": "GK",
-      "rating": 76,
-      "age": 25,
-      "value": 18559999
-    },
-    {
-      "name": "Bradley Morris",
-      "position": "GK",
-      "rating": 76,
-      "age": 23,
-      "value": 19840000
-    },
-    {
-      "name": "Kofi Benjumea",
-      "position": "GK",
-      "rating": 74,
-      "age": 23,
-      "value": 19317894
-    },
-    {
-      "name": "Kingston Reid",
-      "position": "DF",
-      "rating": 90,
+      "rating": 84,
       "age": 18,
-      "value": 34105263
+      "value": 25465263
     },
     {
-      "name": "Chidi Fernandes",
-      "position": "DF",
-      "rating": 63,
-      "age": 23,
-      "value": 20557894
-    },
-    {
-      "name": "Dominic Nguyen",
-      "position": "DF",
-      "rating": 60,
-      "age": 30,
-      "value": 15157894
+      "name": "Adeyemi Nkosi",
+      "position": "GK",
+      "rating": 83,
+      "age": 34,
+      "value": 13978947
     },
     {
       "name": "Wayne Morrison",
+      "position": "GK",
+      "rating": 75,
+      "age": 35,
+      "value": 12000000
+    },
+    {
+      "name": "Joel Rasmussen",
       "position": "DF",
-      "rating": 84,
-      "age": 33,
-      "value": 18568421
-    },
-    {
-      "name": "Brayden Rivera",
-      "position": "DF",
-      "rating": 80,
-      "age": 29,
-      "value": 21052631
-    },
-    {
-      "name": "Easton Hamilton",
-      "position": "DF",
-      "rating": 87,
-      "age": 29,
-      "value": 22894736
-    },
-    {
-      "name": "Ping Matsumoto",
-      "position": "MF",
-      "rating": 60,
-      "age": 22,
-      "value": 24252631
-    },
-    {
-      "name": "Ruben Richardson",
-      "position": "MF",
-      "rating": 60,
-      "age": 19,
-      "value": 26526315
-    },
-    {
-      "name": "Drew Palmer",
-      "position": "MF",
-      "rating": 70,
-      "age": 18,
-      "value": 31831578
+      "rating": 81,
+      "age": 20,
+      "value": 28989473
     },
     {
       "name": "Kenny Kim",
-      "position": "MF",
-      "rating": 75,
-      "age": 19,
-      "value": 33157894
-    },
-    {
-      "name": "Cecil Foster",
-      "position": "MF",
-      "rating": 70,
-      "age": 28,
-      "value": 22989473
-    },
-    {
-      "name": "Finn Olsen",
-      "position": "MF",
-      "rating": 89,
-      "age": 23,
-      "value": 34850526
-    },
-    {
-      "name": "Quentin Rowe",
-      "position": "FW",
-      "rating": 90,
-      "age": 35,
-      "value": 27000000
-    },
-    {
-      "name": "David Brooks",
-      "position": "FW",
-      "rating": 75,
-      "age": 29,
-      "value": 29605263
-    },
-    {
-      "name": "Marlon Dixon",
-      "position": "FW",
-      "rating": 75,
-      "age": 35,
-      "value": 22500000
-    },
-    {
-      "name": "Bernard Collins",
-      "position": "FW",
-      "rating": 72,
+      "position": "DF",
+      "rating": 84,
       "age": 34,
-      "value": 22736842
+      "value": 17684210
+    },
+    {
+      "name": "Adam Martinez",
+      "position": "DF",
+      "rating": 65,
+      "age": 28,
+      "value": 17789473
+    },
+    {
+      "name": "Waylon Hayes",
+      "position": "DF",
+      "rating": 71,
+      "age": 21,
+      "value": 24663157
+    },
+    {
+      "name": "Brian Richardson",
+      "position": "DF",
+      "rating": 88,
+      "age": 25,
+      "value": 26863157
+    },
+    {
+      "name": "Stefan Fletcher",
+      "position": "DF",
+      "rating": 71,
+      "age": 33,
+      "value": 15694736
+    },
+    {
+      "name": "Abdul Khan",
+      "position": "MF",
+      "rating": 86,
+      "age": 16,
+      "value": 40000000
+    },
+    {
+      "name": "Chad Simmons",
+      "position": "MF",
+      "rating": 77,
+      "age": 35,
+      "value": 18480000
+    },
+    {
+      "name": "Omar Pena",
+      "position": "MF",
+      "rating": 78,
+      "age": 24,
+      "value": 29557894
+    },
+    {
+      "name": "Clayton Fisher",
+      "position": "MF",
+      "rating": 66,
+      "age": 34,
+      "value": 16673684
+    },
+    {
+      "name": "Mikkel Larsen",
+      "position": "MF",
+      "rating": 60,
+      "age": 32,
+      "value": 16673684
+    },
+    {
+      "name": "Marcos Ben\u00edtez",
+      "position": "MF",
+      "rating": 81,
+      "age": 35,
+      "value": 19440000
+    },
+    {
+      "name": "Erik Cunningham",
+      "position": "FW",
+      "rating": 62,
+      "age": 24,
+      "value": 29368421
+    },
+    {
+      "name": "Kofi Quartey",
+      "position": "FW",
+      "rating": 70,
+      "age": 27,
+      "value": 29842105
+    },
+    {
+      "name": "Francisco Palmer",
+      "position": "FW",
+      "rating": 73,
+      "age": 17,
+      "value": 40000000
+    },
+    {
+      "name": "Chester Alexander",
+      "position": "FW",
+      "rating": 71,
+      "age": 19,
+      "value": 39236842
     },
     {
       "name": "Kelly Morgan",
       "position": "FW",
-      "rating": 80,
-      "age": 35,
-      "value": 24000000
+      "rating": 74,
+      "age": 30,
+      "value": 28042105
     }
   ],
   "stadium": {

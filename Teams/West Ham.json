@@ -2,144 +2,144 @@
   "name": "West Ham",
   "squad": [
     {
-      "name": "Cristian Guerrero",
+      "name": "Jermaine Dixon",
       "position": "GK",
-      "rating": 84,
-      "age": 19,
-      "value": 24757894
-    },
-    {
-      "name": "Ekon Zamani",
-      "position": "GK",
-      "rating": 89,
-      "age": 30,
-      "value": 17987368
-    },
-    {
-      "name": "Alex  Taylor",
-      "position": "GK",
-      "rating": 85,
-      "age": 17,
-      "value": 26484210
-    },
-    {
-      "name": "Pranav Liu",
-      "position": "DF",
-      "rating": 88,
-      "age": 25,
-      "value": 26863157
-    },
-    {
-      "name": "Marcus Gordon",
-      "position": "DF",
-      "rating": 66,
-      "age": 32,
-      "value": 15284210
-    },
-    {
-      "name": "Malachi Harrison",
-      "position": "DF",
-      "rating": 85,
-      "age": 18,
-      "value": 32210526
-    },
-    {
-      "name": "Leonel Brooks",
-      "position": "DF",
-      "rating": 69,
-      "age": 33,
-      "value": 15252631
-    },
-    {
-      "name": "Roberto Espinoza",
-      "position": "DF",
-      "rating": 77,
-      "age": 22,
-      "value": 25936842
-    },
-    {
-      "name": "Kyler Carroll",
-      "position": "DF",
-      "rating": 64,
-      "age": 23,
-      "value": 20884210
-    },
-    {
-      "name": "Shiro Lim",
-      "position": "MF",
-      "rating": 69,
-      "age": 31,
-      "value": 20046315
-    },
-    {
-      "name": "Paige Franklin",
-      "position": "MF",
-      "rating": 87,
-      "age": 22,
-      "value": 35166315
-    },
-    {
-      "name": "Tom\u00e1s Valdez",
-      "position": "MF",
       "rating": 79,
-      "age": 30,
+      "age": 18,
       "value": 23949473
     },
     {
-      "name": "Dominic Nguyen",
-      "position": "MF",
+      "name": "Daniel Lopez",
+      "position": "GK",
+      "rating": 82,
+      "age": 25,
+      "value": 20025263
+    },
+    {
+      "name": "Lukas Ramirez",
+      "position": "GK",
       "rating": 77,
-      "age": 26,
-      "value": 27233684
+      "age": 27,
+      "value": 17507368
     },
     {
-      "name": "Ling Rao",
-      "position": "MF",
-      "rating": 67,
-      "age": 21,
-      "value": 27928421
+      "name": "Adrian Olofsson",
+      "position": "DF",
+      "rating": 68,
+      "age": 31,
+      "value": 16463157
     },
     {
-      "name": "Noel Parker",
-      "position": "MF",
-      "rating": 75,
-      "age": 20,
-      "value": 32210526
+      "name": "Vince Marshall",
+      "position": "DF",
+      "rating": 81,
+      "age": 23,
+      "value": 26431578
     },
     {
-      "name": "Rene Page",
-      "position": "FW",
+      "name": "Noel Jimenez",
+      "position": "DF",
+      "rating": 64,
+      "age": 19,
+      "value": 23578947
+    },
+    {
+      "name": "Sergio Morgan",
+      "position": "DF",
       "rating": 71,
-      "age": 34,
-      "value": 22421052
+      "age": 27,
+      "value": 20178947
     },
     {
-      "name": "Riley Palmer",
+      "name": "Leonardo Barrios",
+      "position": "DF",
+      "rating": 80,
+      "age": 32,
+      "value": 18526315
+    },
+    {
+      "name": "Joaquin Hayes",
+      "position": "DF",
+      "rating": 87,
+      "age": 33,
+      "value": 19231578
+    },
+    {
+      "name": "Konner Harmon",
+      "position": "MF",
+      "rating": 70,
+      "age": 21,
+      "value": 29178947
+    },
+    {
+      "name": "Quentin Rowe",
+      "position": "MF",
+      "rating": 70,
+      "age": 25,
+      "value": 25642105
+    },
+    {
+      "name": "Jonathan Owens",
+      "position": "MF",
+      "rating": 85,
+      "age": 33,
+      "value": 22547368
+    },
+    {
+      "name": "Oliver Svensson",
+      "position": "MF",
+      "rating": 78,
+      "age": 27,
+      "value": 26602105
+    },
+    {
+      "name": "Louis West",
+      "position": "MF",
+      "rating": 72,
+      "age": 29,
+      "value": 22736842
+    },
+    {
+      "name": "Benjamin Torres",
+      "position": "MF",
+      "rating": 79,
+      "age": 16,
+      "value": 37920000
+    },
+    {
+      "name": "Chester Alexander",
       "position": "FW",
-      "rating": 88,
-      "age": 22,
+      "rating": 85,
+      "age": 23,
       "value": 40000000
     },
     {
-      "name": "Eugene Burke",
+      "name": "Kellen Mills",
       "position": "FW",
-      "rating": 83,
-      "age": 25,
-      "value": 38005263
+      "rating": 79,
+      "age": 35,
+      "value": 23700000
     },
     {
-      "name": "Stefan Fletcher",
+      "name": "Noel Franklin",
       "position": "FW",
-      "rating": 62,
-      "age": 33,
-      "value": 20557894
+      "rating": 80,
+      "age": 20,
+      "value": 40000000
     },
     {
-      "name": "Dorian Peterson",
+      "name": "Andres Lewis",
       "position": "FW",
-      "rating": 70,
-      "age": 19,
-      "value": 38684210
+      "rating": 63,
+      "age": 17,
+      "value": 36805263
+    },
+    {
+      "name": "Jeremiah Dean",
+      "position": "FW",
+      "rating": 88,
+      "age": 24,
+      "value": 40000000
     }
   ],
   "stadium": {

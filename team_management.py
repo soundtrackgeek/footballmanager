@@ -224,16 +224,14 @@ def auto_select_team(team):
     team.auto_select_team()
 
 def generate_sponsorship_offers():
-    business_names = [
-        "AirWave Airlines", "TechTron Solutions", "GreenLeaf Energy",
-        "MegaMart Stores", "SwiftStream Internet", "GlobalGear Sports",
-        "HealthHub Hospitals", "CrystalClear Beverages", "FutureFinance Bank",
-        "EcoEats Restaurants", "SkyHigh Construction", "BrightStar Electronics",
-        "RapidRide Automobiles", "CozyHome Furniture", "PetPals Supplies",
-        "FitFocus Gyms", "LuxeLook Fashion", "SmartStudy Education",
-        "TravelTrends Agency", "MediaMax Entertainment"
-    ]
+    # Read sponsor names from the file
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    sponsors_file = os.path.join(script_dir, 'sponsors.txt')
     
+    with open(sponsors_file, 'r', encoding='utf-8') as f:
+        business_names = [line.strip() for line in f if line.strip()]
+    
+    # Randomly select 3 sponsors
     selected_businesses = random.sample(business_names, 3)
     offers = []
     

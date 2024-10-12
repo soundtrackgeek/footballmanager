@@ -2,144 +2,144 @@
   "name": "Burnley",
   "squad": [
     {
-      "name": "Dennis Bell",
+      "name": "Patrick Sanders",
       "position": "GK",
-      "rating": 85,
-      "age": 19,
-      "value": 25052631
+      "rating": 61,
+      "age": 29,
+      "value": 12842105
     },
     {
-      "name": "Rajesh Desai",
+      "name": "Lee Marshall",
       "position": "GK",
-      "rating": 68,
-      "age": 22,
-      "value": 18324210
+      "rating": 61,
+      "age": 20,
+      "value": 17465263
     },
     {
-      "name": "Kelly Morgan",
+      "name": "Rowan Fletcher",
       "position": "GK",
-      "rating": 87,
-      "age": 16,
-      "value": 27840000
+      "rating": 75,
+      "age": 26,
+      "value": 17684210
     },
     {
-      "name": "Isaac Newman",
-      "position": "DF",
-      "rating": 76,
-      "age": 19,
-      "value": 28000000
-    },
-    {
-      "name": "Gunnar West",
-      "position": "DF",
-      "rating": 60,
-      "age": 30,
-      "value": 15157894
-    },
-    {
-      "name": "Garrett Castillo",
-      "position": "DF",
-      "rating": 67,
-      "age": 19,
-      "value": 24684210
-    },
-    {
-      "name": "Kameron Ray",
+      "name": "Johan Eklund",
       "position": "DF",
       "rating": 72,
-      "age": 22,
-      "value": 24252631
-    },
-    {
-      "name": "Leo Baxter",
-      "position": "DF",
-      "rating": 85,
-      "age": 30,
-      "value": 21473684
-    },
-    {
-      "name": "Rogelio Bates",
-      "position": "DF",
-      "rating": 81,
       "age": 31,
-      "value": 19610526
+      "value": 17431578
     },
     {
-      "name": "Gunnar West",
-      "position": "MF",
-      "rating": 66,
-      "age": 16,
-      "value": 31680000
-    },
-    {
-      "name": "Nicholas Phelps",
-      "position": "MF",
-      "rating": 63,
-      "age": 19,
-      "value": 27852631
-    },
-    {
-      "name": "Tunde Dlamini",
-      "position": "MF",
+      "name": "Donovan Murphy",
+      "position": "DF",
       "rating": 70,
-      "age": 17,
-      "value": 32715789
+      "age": 33,
+      "value": 15473684
     },
     {
-      "name": "Kevin Whitaker",
-      "position": "MF",
-      "rating": 89,
-      "age": 31,
-      "value": 25856842
+      "name": "Nathaniel Burke",
+      "position": "DF",
+      "rating": 63,
+      "age": 30,
+      "value": 15915789
     },
     {
-      "name": "Bhekizizwe Abiola",
-      "position": "MF",
-      "rating": 83,
-      "age": 34,
-      "value": 20968421
+      "name": "Russell Fuller",
+      "position": "DF",
+      "rating": 67,
+      "age": 35,
+      "value": 13400000
     },
     {
-      "name": "Jos\u00e9 Palacios",
-      "position": "MF",
-      "rating": 64,
-      "age": 28,
-      "value": 21018947
+      "name": "Levi Hayes",
+      "position": "DF",
+      "rating": 87,
+      "age": 30,
+      "value": 21978947
     },
     {
-      "name": "Ayaan Nelson",
-      "position": "FW",
-      "rating": 81,
-      "age": 26,
-      "value": 35810526
-    },
-    {
-      "name": "Jesse Palmer",
-      "position": "FW",
-      "rating": 66,
-      "age": 20,
-      "value": 35431578
-    },
-    {
-      "name": "Garrett Castillo",
-      "position": "FW",
-      "rating": 68,
-      "age": 21,
-      "value": 35431578
-    },
-    {
-      "name": "Bruno Reyes",
-      "position": "FW",
-      "rating": 90,
+      "name": "Kellen Mills",
+      "position": "DF",
+      "rating": 79,
       "age": 24,
-      "value": 40000000
+      "value": 24947368
     },
     {
-      "name": "Mateo Gonz\u00e1lez",
+      "name": "Hugo Navarro",
+      "position": "MF",
+      "rating": 73,
+      "age": 32,
+      "value": 20286315
+    },
+    {
+      "name": "Jamie Murphy",
+      "position": "MF",
+      "rating": 74,
+      "age": 25,
+      "value": 27107368
+    },
+    {
+      "name": "Marcus Gordon",
+      "position": "MF",
+      "rating": 82,
+      "age": 33,
+      "value": 21751578
+    },
+    {
+      "name": "Jared Bell",
+      "position": "MF",
+      "rating": 66,
+      "age": 30,
+      "value": 20008421
+    },
+    {
+      "name": "Myles Joseph",
+      "position": "MF",
+      "rating": 81,
+      "age": 30,
+      "value": 24555789
+    },
+    {
+      "name": "Jacob Ramos",
+      "position": "MF",
+      "rating": 86,
+      "age": 25,
+      "value": 31503157
+    },
+    {
+      "name": "Ekon Zamani",
       "position": "FW",
-      "rating": 76,
-      "age": 22,
-      "value": 38400000
+      "rating": 61,
+      "age": 26,
+      "value": 26968421
+    },
+    {
+      "name": "Kyan Hassan",
+      "position": "FW",
+      "rating": 70,
+      "age": 28,
+      "value": 28736842
+    },
+    {
+      "name": "Benjamin Torres",
+      "position": "FW",
+      "rating": 62,
+      "age": 17,
+      "value": 36221052
+    },
+    {
+      "name": "Franklin Hansen",
+      "position": "FW",
+      "rating": 80,
+      "age": 29,
+      "value": 31578947
+    },
+    {
+      "name": "Dominic Nguyen",
+      "position": "FW",
+      "rating": 67,
+      "age": 24,
+      "value": 31736842
     }
   ],
   "stadium": {

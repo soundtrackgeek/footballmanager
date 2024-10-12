@@ -2,144 +2,144 @@
   "name": "Everton",
   "squad": [
     {
-      "name": "Jean Richards",
+      "name": "Erik Berg",
       "position": "GK",
-      "rating": 87,
-      "age": 34,
-      "value": 14652631
-    },
-    {
-      "name": "James Cook",
-      "position": "GK",
-      "rating": 78,
-      "age": 30,
-      "value": 15764210
-    },
-    {
-      "name": "Uriel Murray",
-      "position": "GK",
-      "rating": 90,
-      "age": 26,
-      "value": 21221052
-    },
-    {
-      "name": "Diego Diaz",
-      "position": "DF",
       "rating": 62,
-      "age": 25,
-      "value": 18926315
-    },
-    {
-      "name": "Ezra Bryant",
-      "position": "DF",
-      "rating": 67,
-      "age": 33,
-      "value": 14810526
-    },
-    {
-      "name": "Dorian Peterson",
-      "position": "DF",
-      "rating": 60,
       "age": 20,
-      "value": 21473684
+      "value": 17751578
     },
     {
-      "name": "Izaiah Banks",
-      "position": "DF",
-      "rating": 75,
-      "age": 32,
-      "value": 17368421
-    },
-    {
-      "name": "Antonio Cruz",
-      "position": "DF",
-      "rating": 88,
+      "name": "Joseph Reid",
+      "position": "GK",
+      "rating": 89,
       "age": 26,
-      "value": 25936842
+      "value": 20985263
     },
     {
-      "name": "Tao-Jun Bhatia",
+      "name": "Tom\u00e1s Valdez",
+      "position": "GK",
+      "rating": 86,
+      "age": 34,
+      "value": 14484210
+    },
+    {
+      "name": "Preston Hanson",
       "position": "DF",
       "rating": 66,
-      "age": 24,
-      "value": 20842105
+      "age": 33,
+      "value": 14589473
     },
     {
-      "name": "Yahir Ramirez",
-      "position": "MF",
-      "rating": 81,
-      "age": 22,
-      "value": 32741052
+      "name": "Tuan Ito",
+      "position": "DF",
+      "rating": 84,
+      "age": 33,
+      "value": 18568421
     },
     {
-      "name": "Ravi Patel",
-      "position": "MF",
-      "rating": 61,
+      "name": "Musa Iyanda",
+      "position": "DF",
+      "rating": 62,
       "age": 20,
-      "value": 26197894
+      "value": 22189473
     },
     {
-      "name": "Elliot Burke",
-      "position": "MF",
-      "rating": 70,
-      "age": 21,
-      "value": 29178947
-    },
-    {
-      "name": "Wei Li",
-      "position": "MF",
-      "rating": 74,
+      "name": "Andr\u00e9s Gomez",
+      "position": "DF",
+      "rating": 71,
       "age": 26,
-      "value": 26172631
+      "value": 20926315
     },
     {
-      "name": "Jos\u00e9 Palacios",
-      "position": "MF",
+      "name": "Hiro Iyer",
+      "position": "DF",
       "rating": 88,
-      "age": 27,
-      "value": 30012631
+      "age": 21,
+      "value": 30568421
     },
     {
-      "name": "Bart Phillips",
+      "name": "Emerson Reyes",
+      "position": "DF",
+      "rating": 86,
+      "age": 29,
+      "value": 22631578
+    },
+    {
+      "name": "Bryan Peterson",
       "position": "MF",
-      "rating": 69,
+      "rating": 84,
+      "age": 35,
+      "value": 20160000
+    },
+    {
+      "name": "Mitchell Bennett",
+      "position": "MF",
+      "rating": 86,
+      "age": 27,
+      "value": 29330526
+    },
+    {
+      "name": "Tristan Webster",
+      "position": "MF",
+      "rating": 82,
       "age": 18,
-      "value": 31376842
+      "value": 37288421
     },
     {
-      "name": "Noel Franklin",
+      "name": "Cecil Foster",
+      "position": "MF",
+      "rating": 71,
+      "age": 21,
+      "value": 29595789
+    },
+    {
+      "name": "Juan Silva",
+      "position": "MF",
+      "rating": 71,
+      "age": 20,
+      "value": 30492631
+    },
+    {
+      "name": "Benjam\u00edn Rodr\u00edguez",
+      "position": "MF",
+      "rating": 63,
+      "age": 22,
+      "value": 25465263
+    },
+    {
+      "name": "Ruben Richardson",
       "position": "FW",
-      "rating": 78,
-      "age": 32,
-      "value": 27094736
+      "rating": 88,
+      "age": 31,
+      "value": 31957894
     },
     {
-      "name": "Adeyemi Nkosi",
+      "name": "Adrian Olofsson",
+      "position": "FW",
+      "rating": 79,
+      "age": 34,
+      "value": 24947368
+    },
+    {
+      "name": "Huy Zhang",
+      "position": "FW",
+      "rating": 84,
+      "age": 34,
+      "value": 26526315
+    },
+    {
+      "name": "Kaden Henry",
+      "position": "FW",
+      "rating": 71,
+      "age": 30,
+      "value": 26905263
+    },
+    {
+      "name": "Kato Kwamena",
       "position": "FW",
       "rating": 62,
-      "age": 34,
-      "value": 19578947
-    },
-    {
-      "name": "Tumelo Ekwueme",
-      "position": "FW",
-      "rating": 88,
-      "age": 25,
-      "value": 40000000
-    },
-    {
-      "name": "Dean Barnett",
-      "position": "FW",
-      "rating": 60,
-      "age": 24,
-      "value": 28421052
-    },
-    {
-      "name": "Larry Hicks",
-      "position": "FW",
-      "rating": 65,
-      "age": 18,
-      "value": 36947368
+      "age": 29,
+      "value": 24473684
     }
   ],
   "stadium": {

@@ -2,144 +2,144 @@
   "name": "Manchester City",
   "squad": [
     {
-      "name": "Daisuke Huang",
+      "name": "Shiro Lim",
       "position": "GK",
-      "rating": 81,
-      "age": 16,
-      "value": 25920000
+      "rating": 71,
+      "age": 29,
+      "value": 14947368
     },
     {
-      "name": "Dustin Fowler",
+      "name": "Stephen Williamson",
       "position": "GK",
-      "rating": 64,
-      "age": 32,
-      "value": 11856842
-    },
-    {
-      "name": "Noel Ramsey",
-      "position": "GK",
-      "rating": 74,
-      "age": 33,
-      "value": 13086315
-    },
-    {
-      "name": "Magnus Henriksen",
-      "position": "DF",
-      "rating": 73,
-      "age": 16,
-      "value": 29200000
-    },
-    {
-      "name": "Chike Umar",
-      "position": "DF",
       "rating": 66,
-      "age": 18,
-      "value": 25010526
-    },
-    {
-      "name": "Warren Bailey",
-      "position": "DF",
-      "rating": 63,
       "age": 23,
-      "value": 20557894
+      "value": 17229473
     },
     {
-      "name": "James Cook",
+      "name": "Christian Solberg",
+      "position": "GK",
+      "rating": 86,
+      "age": 19,
+      "value": 25347368
+    },
+    {
+      "name": "Diego Diaz",
       "position": "DF",
-      "rating": 62,
+      "rating": 87,
+      "age": 28,
+      "value": 23810526
+    },
+    {
+      "name": "Jelani Rose",
+      "position": "DF",
+      "rating": 70,
+      "age": 20,
+      "value": 25052631
+    },
+    {
+      "name": "Benjamin Torres",
+      "position": "DF",
+      "rating": 84,
+      "age": 20,
+      "value": 30063157
+    },
+    {
+      "name": "Orlando Manning",
+      "position": "DF",
+      "rating": 88,
+      "age": 23,
+      "value": 28715789
+    },
+    {
+      "name": "Marlon Dixon",
+      "position": "DF",
+      "rating": 90,
       "age": 25,
-      "value": 18926315
+      "value": 27473684
     },
     {
-      "name": "Bart Phillips",
+      "name": "Elijah Cunningham",
       "position": "DF",
-      "rating": 79,
-      "age": 22,
-      "value": 26610526
+      "rating": 80,
+      "age": 21,
+      "value": 27789473
     },
     {
-      "name": "Steven Franklin",
-      "position": "DF",
+      "name": "Marlon Dixon",
+      "position": "MF",
       "rating": 81,
-      "age": 24,
-      "value": 25578947
+      "age": 33,
+      "value": 21486315
     },
     {
-      "name": "Jelani Akinyele",
+      "name": "Grant West",
+      "position": "MF",
+      "rating": 76,
+      "age": 22,
+      "value": 30720000
+    },
+    {
+      "name": "Dexter Stewart",
       "position": "MF",
       "rating": 87,
-      "age": 32,
-      "value": 24176842
+      "age": 34,
+      "value": 21978947
     },
     {
-      "name": "Lyle Spencer",
+      "name": "Yusuf Brown",
       "position": "MF",
-      "rating": 72,
-      "age": 29,
-      "value": 22736842
-    },
-    {
-      "name": "Juan Garza",
-      "position": "MF",
-      "rating": 67,
-      "age": 28,
-      "value": 22004210
-    },
-    {
-      "name": "Leif Larsson",
-      "position": "MF",
-      "rating": 77,
+      "rating": 89,
       "age": 26,
-      "value": 27233684
+      "value": 31477894
     },
     {
-      "name": "Marshall Fitzgerald",
+      "name": "Russell Fuller",
       "position": "MF",
-      "rating": 73,
-      "age": 29,
-      "value": 23052631
+      "rating": 88,
+      "age": 30,
+      "value": 26677894
     },
     {
-      "name": "Bryan Peterson",
+      "name": "Caleb Gray",
       "position": "MF",
-      "rating": 81,
-      "age": 16,
-      "value": 38880000
+      "rating": 63,
+      "age": 26,
+      "value": 22282105
     },
     {
-      "name": "Jaden Brooks",
+      "name": "Nicholas Phelps",
       "position": "FW",
-      "rating": 69,
-      "age": 35,
-      "value": 20700000
+      "rating": 65,
+      "age": 22,
+      "value": 32842105
     },
     {
-      "name": "Liang Kang",
+      "name": "Myles Joseph",
       "position": "FW",
-      "rating": 67,
-      "age": 35,
-      "value": 20100000
+      "rating": 80,
+      "age": 17,
+      "value": 40000000
     },
     {
-      "name": "Tyler Spencer",
+      "name": "Chad Simmons",
       "position": "FW",
-      "rating": 67,
-      "age": 19,
-      "value": 37026315
+      "rating": 86,
+      "age": 23,
+      "value": 40000000
     },
     {
-      "name": "Mateo Gonz\u00e1lez",
+      "name": "Benny Parker",
+      "position": "FW",
+      "rating": 60,
+      "age": 32,
+      "value": 20842105
+    },
+    {
+      "name": "Ping Matsumoto",
       "position": "FW",
       "rating": 64,
-      "age": 34,
-      "value": 20210526
-    },
-    {
-      "name": "Femi Toure",
-      "position": "FW",
-      "rating": 76,
-      "age": 31,
-      "value": 27600000
+      "age": 24,
+      "value": 30315789
     }
   ],
   "stadium": {

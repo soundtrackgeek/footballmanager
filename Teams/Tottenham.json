@@ -2,144 +2,144 @@
   "name": "Tottenham",
   "squad": [
     {
-      "name": "William \u00c5kesson",
+      "name": "Xavier Hart",
       "position": "GK",
-      "rating": 88,
-      "age": 33,
-      "value": 15562105
+      "rating": 64,
+      "age": 32,
+      "value": 11856842
     },
     {
-      "name": "Taylor Black",
+      "name": "Tuan Ito",
       "position": "GK",
-      "rating": 86,
+      "rating": 71,
+      "age": 27,
+      "value": 16143157
+    },
+    {
+      "name": "Bradley Morris",
+      "position": "GK",
+      "rating": 79,
+      "age": 16,
+      "value": 25280000
+    },
+    {
+      "name": "Nicol\u00e1s Romero",
+      "position": "DF",
+      "rating": 79,
       "age": 28,
-      "value": 18829473
+      "value": 21621052
     },
     {
-      "name": "Sebasti\u00e1n Ortega",
-      "position": "GK",
-      "rating": 75,
-      "age": 20,
-      "value": 21473684
-    },
-    {
-      "name": "Sven J\u00f8rgensen",
+      "name": "Diego Diaz",
       "position": "DF",
-      "rating": 68,
-      "age": 20,
-      "value": 24336842
+      "rating": 64,
+      "age": 30,
+      "value": 16168421
     },
     {
-      "name": "Brock Cox",
-      "position": "DF",
-      "rating": 66,
-      "age": 35,
-      "value": 13200000
-    },
-    {
-      "name": "Vance Schneider",
-      "position": "DF",
-      "rating": 89,
-      "age": 17,
-      "value": 34663157
-    },
-    {
-      "name": "Jengo Sangare",
+      "name": "Min-jun Lee",
       "position": "DF",
       "rating": 60,
+      "age": 17,
+      "value": 23368421
+    },
+    {
+      "name": "Rune Lindholm",
+      "position": "DF",
+      "rating": 77,
       "age": 28,
-      "value": 16421052
+      "value": 21073684
     },
     {
-      "name": "Ivan Fuller",
+      "name": "Riley Palmer",
       "position": "DF",
-      "rating": 61,
-      "age": 29,
-      "value": 16052631
+      "rating": 84,
+      "age": 24,
+      "value": 26526315
     },
     {
-      "name": "River Bowman",
+      "name": "Evan Reed",
       "position": "DF",
-      "rating": 71,
-      "age": 19,
-      "value": 26157894
+      "rating": 87,
+      "age": 24,
+      "value": 27473684
     },
     {
-      "name": "Kellen Mills",
+      "name": "Harry Holmes",
       "position": "MF",
-      "rating": 70,
+      "rating": 61,
       "age": 35,
-      "value": 16800000
+      "value": 14640000
     },
     {
-      "name": "Jett Hicks",
+      "name": "Brendan Cooper",
       "position": "MF",
-      "rating": 62,
-      "age": 29,
-      "value": 19578947
+      "rating": 79,
+      "age": 18,
+      "value": 35924210
     },
     {
-      "name": "Lucas Curtis",
-      "position": "MF",
-      "rating": 63,
-      "age": 22,
-      "value": 25465263
-    },
-    {
-      "name": "Kendall Grimes",
+      "name": "Adrian Olofsson",
       "position": "MF",
       "rating": 61,
-      "age": 19,
-      "value": 26968421
-    },
-    {
-      "name": "Mathias Nielsen",
-      "position": "MF",
-      "rating": 86,
-      "age": 23,
-      "value": 33675789
-    },
-    {
-      "name": "Dean Barnett",
-      "position": "MF",
-      "rating": 80,
-      "age": 25,
-      "value": 29305263
-    },
-    {
-      "name": "Raj Sharma",
-      "position": "FW",
-      "rating": 83,
       "age": 22,
-      "value": 40000000
+      "value": 24656842
     },
     {
-      "name": "Josiah Franklin",
-      "position": "FW",
-      "rating": 73,
-      "age": 30,
-      "value": 27663157
+      "name": "Ben Turner",
+      "position": "MF",
+      "rating": 83,
+      "age": 29,
+      "value": 26210526
     },
     {
-      "name": "Ezra Bryant",
-      "position": "FW",
-      "rating": 64,
-      "age": 33,
+      "name": "Dennis Bell",
+      "position": "MF",
+      "rating": 84,
+      "age": 34,
       "value": 21221052
     },
     {
-      "name": "Pranav Liu",
-      "position": "FW",
-      "rating": 70,
-      "age": 27,
-      "value": 29842105
+      "name": "Alfonso Jackson",
+      "position": "MF",
+      "rating": 71,
+      "age": 23,
+      "value": 27802105
     },
     {
-      "name": "Zane Hughes",
+      "name": "Renato Medina",
       "position": "FW",
       "rating": 90,
-      "age": 21,
-      "value": 40000000
+      "age": 26,
+      "value": 39789473
+    },
+    {
+      "name": "Ra\u00fal Torres",
+      "position": "FW",
+      "rating": 62,
+      "age": 31,
+      "value": 22515789
+    },
+    {
+      "name": "Kody Meadows",
+      "position": "FW",
+      "rating": 80,
+      "age": 31,
+      "value": 29052631
+    },
+    {
+      "name": "Heath Sharp",
+      "position": "FW",
+      "rating": 62,
+      "age": 34,
+      "value": 19578947
+    },
+    {
+      "name": "Gustavo Murray",
+      "position": "FW",
+      "rating": 67,
+      "age": 26,
+      "value": 29621052
     }
   ],
   "stadium": {

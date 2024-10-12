@@ -2,144 +2,144 @@
   "name": "Wolves",
   "squad": [
     {
+      "name": "Erik Cunningham",
+      "position": "GK",
+      "rating": 72,
+      "age": 23,
+      "value": 18795789
+    },
+    {
       "name": "Felix Palmer",
       "position": "GK",
-      "rating": 75,
-      "age": 20,
-      "value": 21473684
+      "rating": 90,
+      "age": 18,
+      "value": 27284210
     },
     {
-      "name": "Brian Richardson",
+      "name": "Clark Myers",
       "position": "GK",
-      "rating": 90,
+      "rating": 87,
       "age": 21,
-      "value": 25010526
+      "value": 24176842
     },
     {
-      "name": "Frank Franklin",
-      "position": "GK",
-      "rating": 90,
-      "age": 20,
-      "value": 25768421
-    },
-    {
-      "name": "Izaiah Banks",
+      "name": "Harley Bowman",
       "position": "DF",
-      "rating": 73,
-      "age": 19,
-      "value": 26894736
+      "rating": 86,
+      "age": 27,
+      "value": 24442105
     },
     {
-      "name": "Rowan Fletcher",
+      "name": "Lawrence Bennett",
       "position": "DF",
-      "rating": 65,
-      "age": 19,
-      "value": 23947368
+      "rating": 68,
+      "age": 32,
+      "value": 15747368
     },
     {
-      "name": "Liam Flores",
+      "name": "Kobe Patel",
       "position": "DF",
-      "rating": 85,
-      "age": 16,
-      "value": 34000000
+      "rating": 63,
+      "age": 35,
+      "value": 12600000
+    },
+    {
+      "name": "Marshall Fitzgerald",
+      "position": "DF",
+      "rating": 88,
+      "age": 31,
+      "value": 21305263
+    },
+    {
+      "name": "Adel Rodriguez",
+      "position": "DF",
+      "rating": 69,
+      "age": 25,
+      "value": 21063157
     },
     {
       "name": "Francisco Palmer",
       "position": "DF",
-      "rating": 69,
-      "age": 29,
-      "value": 18157894
+      "rating": 65,
+      "age": 28,
+      "value": 17789473
     },
     {
-      "name": "Pedro Le\u00f3n",
-      "position": "DF",
-      "rating": 82,
+      "name": "Jeffrey Fisher",
+      "position": "MF",
+      "rating": 64,
       "age": 30,
-      "value": 20715789
+      "value": 19402105
     },
     {
-      "name": "Ralph Webb",
-      "position": "DF",
+      "name": "Zola Jansen",
+      "position": "MF",
       "rating": 90,
-      "age": 25,
-      "value": 27473684
+      "age": 33,
+      "value": 23873684
     },
     {
-      "name": "Conor Flores",
+      "name": "Konner Harmon",
+      "position": "MF",
+      "rating": 89,
+      "age": 26,
+      "value": 31477894
+    },
+    {
+      "name": "Alex  Taylor",
+      "position": "MF",
+      "rating": 79,
+      "age": 21,
+      "value": 32930526
+    },
+    {
+      "name": "Barney Roberts",
       "position": "MF",
       "rating": 65,
       "age": 21,
       "value": 27094736
     },
     {
-      "name": "Bernard Collins",
+      "name": "Leslie Griffin",
       "position": "MF",
-      "rating": 68,
-      "age": 19,
-      "value": 30063157
+      "rating": 77,
+      "age": 35,
+      "value": 18480000
     },
     {
-      "name": "Ezra Bryant",
-      "position": "MF",
-      "rating": 88,
-      "age": 24,
-      "value": 33347368
-    },
-    {
-      "name": "Shane Griffin",
-      "position": "MF",
-      "rating": 67,
-      "age": 25,
-      "value": 24543157
-    },
-    {
-      "name": "Mat\u00edas Alvarez",
-      "position": "MF",
-      "rating": 60,
-      "age": 32,
-      "value": 16673684
-    },
-    {
-      "name": "Gregory Hamilton",
-      "position": "MF",
-      "rating": 71,
-      "age": 28,
-      "value": 23317894
-    },
-    {
-      "name": "Ronald Hicks",
+      "name": "Simba Mwangi",
       "position": "FW",
       "rating": 87,
-      "age": 25,
-      "value": 39836842
+      "age": 27,
+      "value": 37089473
     },
     {
-      "name": "Pablo Dur\u00e1n",
+      "name": "Ricardo Perry",
       "position": "FW",
-      "rating": 69,
-      "age": 28,
-      "value": 28326315
+      "rating": 71,
+      "age": 22,
+      "value": 35873684
     },
     {
-      "name": "Kofi Quartey",
+      "name": "Josiah Franklin",
       "position": "FW",
-      "rating": 63,
-      "age": 21,
-      "value": 32826315
-    },
-    {
-      "name": "Dean Barnett",
-      "position": "FW",
-      "rating": 73,
+      "rating": 79,
       "age": 20,
-      "value": 39189473
+      "value": 40000000
     },
     {
-      "name": "Mohammad Brooks",
+      "name": "Clifford Long",
       "position": "FW",
-      "rating": 61,
-      "age": 25,
-      "value": 27931578
+      "rating": 89,
+      "age": 28,
+      "value": 36536842
+    },
+    {
+      "name": "Min-jun Lee",
+      "position": "FW",
+      "rating": 72,
+      "age": 22,
+      "value": 36378947
     }
   ],
   "stadium": {

@@ -2,144 +2,144 @@
   "name": "Liverpool",
   "squad": [
     {
-      "name": "Hugo Navarro",
+      "name": "Mathias Nielsen",
       "position": "GK",
-      "rating": 72,
-      "age": 33,
-      "value": 12732631
+      "rating": 78,
+      "age": 22,
+      "value": 21018947
     },
     {
-      "name": "Quinn Shaw",
+      "name": "Alexander Magnusson",
       "position": "GK",
-      "rating": 73,
-      "age": 27,
-      "value": 16597894
+      "rating": 88,
+      "age": 16,
+      "value": 28160000
     },
     {
-      "name": "Juan Pablo Castillo",
+      "name": "Ji-hoon Kim",
       "position": "GK",
-      "rating": 89,
-      "age": 19,
-      "value": 26231578
+      "rating": 88,
+      "age": 34,
+      "value": 14821052
     },
     {
-      "name": "Brian Richardson",
-      "position": "DF",
-      "rating": 62,
-      "age": 30,
-      "value": 15663157
-    },
-    {
-      "name": "Terry Hughes",
+      "name": "Anders Iversen",
       "position": "DF",
       "rating": 78,
       "age": 18,
       "value": 29557894
     },
     {
-      "name": "Trevor Edwards",
+      "name": "Gabriel Fern\u00e1ndez",
       "position": "DF",
-      "rating": 72,
-      "age": 25,
-      "value": 21978947
+      "rating": 86,
+      "age": 29,
+      "value": 22631578
     },
     {
-      "name": "Joel Rasmussen",
+      "name": "Simon Bates",
+      "position": "DF",
+      "rating": 84,
+      "age": 21,
+      "value": 29178947
+    },
+    {
+      "name": "Roland Patterson",
       "position": "DF",
       "rating": 82,
       "age": 33,
       "value": 18126315
     },
     {
-      "name": "Jesse Palmer",
+      "name": "Gustav Karlsson",
       "position": "DF",
-      "rating": 85,
-      "age": 29,
-      "value": 22368421
+      "rating": 70,
+      "age": 17,
+      "value": 27263157
     },
     {
-      "name": "Craig Washington",
+      "name": "Hiro Iyer",
       "position": "DF",
-      "rating": 66,
-      "age": 26,
-      "value": 19452631
+      "rating": 82,
+      "age": 17,
+      "value": 31936842
     },
     {
-      "name": "Zola Jansen",
+      "name": "Sam Reid",
       "position": "MF",
-      "rating": 79,
-      "age": 18,
-      "value": 35924210
+      "rating": 88,
+      "age": 31,
+      "value": 25566315
     },
     {
-      "name": "Nikhil Reddy",
+      "name": "Vishal Nakamura",
       "position": "MF",
-      "rating": 90,
-      "age": 33,
-      "value": 23873684
+      "rating": 73,
+      "age": 23,
+      "value": 28585263
     },
     {
-      "name": "Haruki Sato",
+      "name": "Uriah Reed",
       "position": "MF",
-      "rating": 75,
-      "age": 33,
-      "value": 19894736
+      "rating": 86,
+      "age": 35,
+      "value": 20640000
     },
     {
-      "name": "Jelani Akinyele",
+      "name": "Mikkel Larsen",
       "position": "MF",
-      "rating": 65,
-      "age": 22,
-      "value": 26273684
+      "rating": 64,
+      "age": 35,
+      "value": 15360000
     },
     {
-      "name": "Anthony King",
+      "name": "Kelly Morgan",
       "position": "MF",
-      "rating": 76,
-      "age": 30,
-      "value": 23040000
-    },
-    {
-      "name": "Sanjay Joshi",
-      "position": "MF",
-      "rating": 69,
-      "age": 19,
-      "value": 30505263
-    },
-    {
-      "name": "Donovan Murphy",
-      "position": "FW",
-      "rating": 69,
-      "age": 34,
-      "value": 21789473
-    },
-    {
-      "name": "Elias Nilsen",
-      "position": "FW",
-      "rating": 67,
-      "age": 18,
-      "value": 38084210
-    },
-    {
-      "name": "Pablo Dur\u00e1n",
-      "position": "FW",
-      "rating": 68,
-      "age": 26,
-      "value": 30063157
-    },
-    {
-      "name": "Joshua Kim",
-      "position": "FW",
       "rating": 78,
-      "age": 25,
-      "value": 35715789
+      "age": 32,
+      "value": 21675789
     },
     {
-      "name": "Ravi Patel",
+      "name": "Arthur Scott",
+      "position": "MF",
+      "rating": 70,
+      "age": 31,
+      "value": 20336842
+    },
+    {
+      "name": "James Cook",
       "position": "FW",
-      "rating": 72,
-      "age": 26,
-      "value": 31831578
+      "rating": 83,
+      "age": 20,
+      "value": 40000000
+    },
+    {
+      "name": "Victor Marin",
+      "position": "FW",
+      "rating": 84,
+      "age": 16,
+      "value": 40000000
+    },
+    {
+      "name": "Viktor Perry",
+      "position": "FW",
+      "rating": 65,
+      "age": 25,
+      "value": 29763157
+    },
+    {
+      "name": "Isaiah Hansen",
+      "position": "FW",
+      "rating": 84,
+      "age": 27,
+      "value": 35810526
+    },
+    {
+      "name": "Barack Mitchell",
+      "position": "FW",
+      "rating": 82,
+      "age": 24,
+      "value": 38842105
     }
   ],
   "stadium": {
