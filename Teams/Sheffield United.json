@@ -2,144 +2,144 @@
   "name": "Sheffield United",
   "squad": [
     {
-      "name": "Max Palmer",
+      "name": "Johnny Onyango",
       "position": "GK",
-      "rating": 87,
-      "age": 22,
-      "value": 23444210
+      "rating": 90,
+      "age": 31,
+      "value": 17431578
     },
     {
-      "name": "Drew Ward",
+      "name": "Mason Guo",
       "position": "GK",
-      "rating": 79,
-      "age": 21,
-      "value": 21953684
-    },
-    {
-      "name": "Dustin Ulfsson",
-      "position": "GK",
-      "rating": 85,
-      "age": 18,
-      "value": 25768421
-    },
-    {
-      "name": "Jos\u00e9 Biko",
-      "position": "DF",
-      "rating": 78,
-      "age": 33,
-      "value": 17242105
-    },
-    {
-      "name": "Arjun Dean",
-      "position": "DF",
-      "rating": 83,
-      "age": 32,
-      "value": 19221052
-    },
-    {
-      "name": "Tyson Hart",
-      "position": "DF",
-      "rating": 74,
-      "age": 24,
-      "value": 23368421
-    },
-    {
-      "name": "Femi Burke",
-      "position": "DF",
-      "rating": 60,
-      "age": 20,
-      "value": 21473684
-    },
-    {
-      "name": "Stefan Williamson",
-      "position": "DF",
-      "rating": 70,
-      "age": 30,
-      "value": 17684210
-    },
-    {
-      "name": "Marc Rao",
-      "position": "DF",
-      "rating": 82,
-      "age": 34,
-      "value": 17263157
-    },
-    {
-      "name": "Damian Hughes",
-      "position": "MF",
       "rating": 86,
-      "age": 18,
-      "value": 39107368
+      "age": 31,
+      "value": 16656842
     },
     {
-      "name": "Ram\u00f3n Hansen",
-      "position": "MF",
-      "rating": 84,
+      "name": "Adri\u00e1n Delgado",
+      "position": "GK",
+      "rating": 63,
       "age": 20,
-      "value": 36075789
+      "value": 18037894
     },
     {
-      "name": "Carlos Choi",
-      "position": "MF",
-      "rating": 83,
-      "age": 28,
-      "value": 27258947
-    },
-    {
-      "name": "Bradley Richards",
-      "position": "MF",
-      "rating": 88,
-      "age": 25,
-      "value": 32235789
-    },
-    {
-      "name": "Carter Zhu",
-      "position": "MF",
-      "rating": 68,
-      "age": 17,
-      "value": 31781052
-    },
-    {
-      "name": "Ryker Richardson",
-      "position": "MF",
-      "rating": 74,
-      "age": 22,
-      "value": 29911578
-    },
-    {
-      "name": "Cameron Alvarez",
-      "position": "FW",
+      "name": "Shawn Brooks",
+      "position": "DF",
       "rating": 75,
       "age": 18,
+      "value": 28421052
+    },
+    {
+      "name": "Javier Patel",
+      "position": "DF",
+      "rating": 65,
+      "age": 30,
+      "value": 16421052
+    },
+    {
+      "name": "Elijah Seo",
+      "position": "DF",
+      "rating": 77,
+      "age": 28,
+      "value": 21073684
+    },
+    {
+      "name": "Ali Andersen",
+      "position": "DF",
+      "rating": 62,
+      "age": 22,
+      "value": 20884210
+    },
+    {
+      "name": "Ra\u00fal Jabari",
+      "position": "DF",
+      "rating": 78,
+      "age": 30,
+      "value": 19705263
+    },
+    {
+      "name": "Brian Murphy",
+      "position": "DF",
+      "rating": 78,
+      "age": 25,
+      "value": 23810526
+    },
+    {
+      "name": "Victor Eriksson",
+      "position": "MF",
+      "rating": 69,
+      "age": 34,
+      "value": 17431578
+    },
+    {
+      "name": "Hank Webster",
+      "position": "MF",
+      "rating": 79,
+      "age": 22,
+      "value": 31932631
+    },
+    {
+      "name": "Amir Newman",
+      "position": "MF",
+      "rating": 60,
+      "age": 35,
+      "value": 14400000
+    },
+    {
+      "name": "Frederick Fowler",
+      "position": "MF",
+      "rating": 86,
+      "age": 22,
+      "value": 34762105
+    },
+    {
+      "name": "Shawn Pedersen",
+      "position": "MF",
+      "rating": 63,
+      "age": 16,
+      "value": 30240000
+    },
+    {
+      "name": "Damon Reid",
+      "position": "MF",
+      "rating": 76,
+      "age": 23,
+      "value": 29760000
+    },
+    {
+      "name": "Kris Foster",
+      "position": "FW",
+      "rating": 61,
+      "age": 30,
+      "value": 23115789
+    },
+    {
+      "name": "Soren Gray",
+      "position": "FW",
+      "rating": 63,
+      "age": 34,
+      "value": 19894736
+    },
+    {
+      "name": "Lawrence Stone",
+      "position": "FW",
+      "rating": 67,
+      "age": 19,
+      "value": 37026315
+    },
+    {
+      "name": "Isaac Grant",
+      "position": "FW",
+      "rating": 83,
+      "age": 20,
       "value": 40000000
     },
     {
-      "name": "Samuel Nakamura",
+      "name": "Liang Martinez",
       "position": "FW",
-      "rating": 62,
-      "age": 27,
-      "value": 26431578
-    },
-    {
-      "name": "Arjun Franklin",
-      "position": "FW",
-      "rating": 77,
-      "age": 26,
-      "value": 34042105
-    },
-    {
-      "name": "Alex Fuller",
-      "position": "FW",
-      "rating": 61,
-      "age": 33,
-      "value": 20226315
-    },
-    {
-      "name": "Glen Beck",
-      "position": "FW",
-      "rating": 62,
-      "age": 23,
-      "value": 30347368
+      "rating": 89,
+      "age": 30,
+      "value": 33726315
     }
   ],
   "stadium": {

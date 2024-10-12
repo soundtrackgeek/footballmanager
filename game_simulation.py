@@ -8,6 +8,14 @@ from colorama import init, Fore, Back, Style
 # Initialize colorama
 init(autoreset=True)
 
+# Load commentator lines from file
+def load_commentator_lines(filename):
+    with open(filename, 'r', encoding='utf-8') as file:
+        return [line.strip() for line in file if line.strip()]
+
+# Load the commentator lines at the beginning of the script
+commentator_lines = load_commentator_lines('commentatorgoals.txt')
+
 def determine_goal_scorer(team):
     weights = {Position.FW: 0.6, Position.MF: 0.3, Position.DF: 0.08, Position.GK: 0.02}
     players = team.selected_players
@@ -78,19 +86,6 @@ def simulate_user_match(home_team, away_team):
     away_goals = 0
     home_scorers = []
     away_scorers = []
-
-    commentator_lines = [
-        "What a strike! The crowd goes wild!",
-        "Unbelievable finish! That's why they pay him the big bucks!",
-        "He's done it! A moment of pure magic!",
-        "The keeper had no chance! What a goal!",
-        "That's a goal that will be replayed for years to come!",
-        "Clinical finish! He made it look so easy!",
-        "The net bulges and the fans erupt! Fantastic goal!",
-        "A goal of the highest quality! Simply breathtaking!",
-        "He's hit that one like a rocket! Unstoppable!",
-        "Cool as you like! He slots it home with ease!"
-    ]
 
     print(f"\nExciting match: {Fore.CYAN}{home_team.name}{Style.RESET_ALL} vs {Fore.CYAN}{away_team.name}{Style.RESET_ALL}")
     print(f"\n{Fore.GREEN}Kick-off!{Style.RESET_ALL}\n")

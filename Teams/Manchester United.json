@@ -2,144 +2,144 @@
   "name": "Manchester United",
   "squad": [
     {
-      "name": "Jasper Bryant",
+      "name": "Mathew Green",
       "position": "GK",
-      "rating": 83,
-      "age": 21,
-      "value": 23065263
-    },
-    {
-      "name": "Thomas Fisher",
-      "position": "GK",
-      "rating": 74,
-      "age": 22,
-      "value": 19941052
-    },
-    {
-      "name": "Gabriel Fields",
-      "position": "GK",
-      "rating": 84,
-      "age": 23,
-      "value": 21928421
-    },
-    {
-      "name": "Isaiah Dom\u00ednguez",
-      "position": "DF",
-      "rating": 67,
-      "age": 33,
-      "value": 14810526
-    },
-    {
-      "name": "Jett Palmer",
-      "position": "DF",
-      "rating": 65,
-      "age": 30,
-      "value": 16421052
-    },
-    {
-      "name": "Alvin Watanabe",
-      "position": "DF",
-      "rating": 69,
-      "age": 30,
-      "value": 17431578
-    },
-    {
-      "name": "Adeyemi Brooks",
-      "position": "DF",
-      "rating": 87,
-      "age": 17,
-      "value": 33884210
-    },
-    {
-      "name": "Jermaine Gomez",
-      "position": "DF",
-      "rating": 84,
+      "rating": 72,
       "age": 34,
-      "value": 17684210
+      "value": 12126315
     },
     {
-      "name": "Malachi Reyes",
-      "position": "DF",
-      "rating": 67,
-      "age": 25,
-      "value": 20452631
-    },
-    {
-      "name": "Kaleb Boone",
-      "position": "MF",
-      "rating": 86,
-      "age": 28,
-      "value": 28244210
-    },
-    {
-      "name": "Amani Griffin",
-      "position": "MF",
-      "rating": 86,
+      "name": "Cian Beck",
+      "position": "GK",
+      "rating": 90,
       "age": 22,
-      "value": 34762105
+      "value": 24252631
     },
     {
-      "name": "Steven Toure",
-      "position": "MF",
-      "rating": 74,
-      "age": 21,
-      "value": 30846315
+      "name": "Jayden King",
+      "position": "GK",
+      "rating": 88,
+      "age": 18,
+      "value": 26677894
     },
     {
-      "name": "Raj Griffin",
-      "position": "MF",
-      "rating": 61,
-      "age": 35,
-      "value": 14640000
+      "name": "Kirk Harmon",
+      "position": "DF",
+      "rating": 71,
+      "age": 19,
+      "value": 26157894
     },
     {
-      "name": "Kabelo Howard",
-      "position": "MF",
-      "rating": 68,
+      "name": "Ibrahim Ramsey",
+      "position": "DF",
+      "rating": 77,
+      "age": 16,
+      "value": 30800000
+    },
+    {
+      "name": "Raymond Hansen",
+      "position": "DF",
+      "rating": 72,
       "age": 23,
-      "value": 26627368
+      "value": 23494736
     },
     {
-      "name": "Lyle Sharp",
+      "name": "Elias Ben\u00edtez",
+      "position": "DF",
+      "rating": 78,
+      "age": 20,
+      "value": 27915789
+    },
+    {
+      "name": "Einar Abebe",
+      "position": "DF",
+      "rating": 83,
+      "age": 22,
+      "value": 27957894
+    },
+    {
+      "name": "Pranav Dixon",
+      "position": "DF",
+      "rating": 82,
+      "age": 25,
+      "value": 25031578
+    },
+    {
+      "name": "Veer Little",
       "position": "MF",
       "rating": 83,
-      "age": 17,
-      "value": 38791578
+      "age": 34,
+      "value": 20968421
     },
     {
-      "name": "Anthony Carter",
-      "position": "FW",
-      "rating": 81,
-      "age": 22,
-      "value": 40000000
+      "name": "Malachi Moore",
+      "position": "MF",
+      "rating": 69,
+      "age": 18,
+      "value": 31376842
     },
     {
-      "name": "Miles Stephens",
-      "position": "FW",
-      "rating": 71,
-      "age": 20,
-      "value": 38115789
+      "name": "Raul Magnusson",
+      "position": "MF",
+      "rating": 90,
+      "age": 25,
+      "value": 32968421
     },
     {
-      "name": "Jackson Perez",
-      "position": "FW",
-      "rating": 80,
+      "name": "Hugo Nakajima",
+      "position": "MF",
+      "rating": 76,
       "age": 19,
-      "value": 40000000
+      "value": 33600000
     },
     {
-      "name": "Aiden Flores",
-      "position": "FW",
+      "name": "Cameron Garc\u00eda",
+      "position": "MF",
+      "rating": 83,
+      "age": 18,
+      "value": 37743157
+    },
+    {
+      "name": "Nicolas Rice",
+      "position": "MF",
       "rating": 84,
-      "age": 33,
-      "value": 27852631
+      "age": 20,
+      "value": 36075789
     },
     {
-      "name": "Josiah Fisher",
+      "name": "Clayton Baker",
       "position": "FW",
       "rating": 78,
-      "age": 32,
-      "value": 27094736
+      "age": 16,
+      "value": 40000000
+    },
+    {
+      "name": "Rajesh Howard",
+      "position": "FW",
+      "rating": 80,
+      "age": 35,
+      "value": 24000000
+    },
+    {
+      "name": "Carter Sanchez",
+      "position": "FW",
+      "rating": 73,
+      "age": 17,
+      "value": 40000000
+    },
+    {
+      "name": "Trenton Scott",
+      "position": "FW",
+      "rating": 84,
+      "age": 30,
+      "value": 31831578
+    },
+    {
+      "name": "Brayden Bailey",
+      "position": "FW",
+      "rating": 63,
+      "age": 28,
+      "value": 25863157
     }
   ],
   "stadium": {

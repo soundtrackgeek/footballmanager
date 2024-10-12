@@ -2,144 +2,144 @@
   "name": "Nottingham Forest",
   "squad": [
     {
-      "name": "Darren Fuller",
+      "name": "Colin Zhu",
       "position": "GK",
-      "rating": 87,
-      "age": 31,
-      "value": 16850526
+      "rating": 63,
+      "age": 20,
+      "value": 18037894
     },
     {
-      "name": "Spencer Delgado",
-      "position": "GK",
-      "rating": 82,
-      "age": 32,
-      "value": 15191578
-    },
-    {
-      "name": "Jerome Black",
+      "name": "Lucas Molina",
       "position": "GK",
       "rating": 63,
       "age": 28,
       "value": 13793684
     },
     {
-      "name": "Tuan Watkins",
-      "position": "DF",
-      "rating": 87,
-      "age": 16,
-      "value": 34800000
-    },
-    {
-      "name": "Isak Palmer",
-      "position": "DF",
-      "rating": 83,
-      "age": 30,
-      "value": 20968421
-    },
-    {
-      "name": "Malachi Evans",
-      "position": "DF",
-      "rating": 84,
-      "age": 30,
-      "value": 21221052
-    },
-    {
-      "name": "Johan Olson",
-      "position": "DF",
-      "rating": 68,
-      "age": 25,
-      "value": 20757894
-    },
-    {
-      "name": "Carter Baker",
-      "position": "DF",
-      "rating": 61,
-      "age": 33,
-      "value": 13484210
-    },
-    {
-      "name": "Ade Murphy",
-      "position": "DF",
-      "rating": 62,
-      "age": 23,
-      "value": 20231578
-    },
-    {
-      "name": "Milton Henry",
-      "position": "MF",
-      "rating": 79,
-      "age": 34,
-      "value": 19957894
-    },
-    {
-      "name": "Marc Hughes",
-      "position": "MF",
-      "rating": 67,
-      "age": 34,
-      "value": 16926315
-    },
-    {
-      "name": "Quentin Morgan",
-      "position": "MF",
-      "rating": 80,
-      "age": 30,
-      "value": 24252631
-    },
-    {
-      "name": "Francisco Fowler",
-      "position": "MF",
-      "rating": 63,
+      "name": "Manuel Washington",
+      "position": "GK",
+      "rating": 90,
       "age": 17,
-      "value": 29444210
+      "value": 28042105
     },
     {
-      "name": "Yuki Bishop",
+      "name": "Devin Martin",
+      "position": "DF",
+      "rating": 72,
+      "age": 32,
+      "value": 16673684
+    },
+    {
+      "name": "Henry Harrison",
+      "position": "DF",
+      "rating": 73,
+      "age": 29,
+      "value": 19210526
+    },
+    {
+      "name": "Jared Thomas",
+      "position": "DF",
+      "rating": 69,
+      "age": 24,
+      "value": 21789473
+    },
+    {
+      "name": "Kolby Holland",
+      "position": "DF",
+      "rating": 69,
+      "age": 21,
+      "value": 23968421
+    },
+    {
+      "name": "Reid Burke",
+      "position": "DF",
+      "rating": 85,
+      "age": 32,
+      "value": 19684210
+    },
+    {
+      "name": "Jeffrey Norberg",
+      "position": "DF",
+      "rating": 90,
+      "age": 19,
+      "value": 33157894
+    },
+    {
+      "name": "Yusuf Norberg",
       "position": "MF",
-      "rating": 77,
-      "age": 18,
-      "value": 35014736
+      "rating": 76,
+      "age": 29,
+      "value": 24000000
     },
     {
-      "name": "Tunde Benson",
+      "name": "Zion Pepper",
+      "position": "MF",
+      "rating": 90,
+      "age": 34,
+      "value": 22736842
+    },
+    {
+      "name": "Esteban Allen",
+      "position": "MF",
+      "rating": 89,
+      "age": 33,
+      "value": 23608421
+    },
+    {
+      "name": "Austin Osei",
+      "position": "MF",
+      "rating": 74,
+      "age": 32,
+      "value": 20564210
+    },
+    {
+      "name": "Tao-Jun Brown",
       "position": "MF",
       "rating": 83,
-      "age": 25,
-      "value": 30404210
+      "age": 26,
+      "value": 29355789
     },
     {
-      "name": "Craig Richardson",
+      "name": "Timothy Alexander",
+      "position": "MF",
+      "rating": 70,
+      "age": 28,
+      "value": 22989473
+    },
+    {
+      "name": "Alejandro Robinson",
       "position": "FW",
-      "rating": 73,
-      "age": 34,
-      "value": 23052631
+      "rating": 77,
+      "age": 32,
+      "value": 26747368
     },
     {
-      "name": "Cristian Reyes",
-      "position": "FW",
-      "rating": 73,
-      "age": 35,
-      "value": 21900000
-    },
-    {
-      "name": "Sven Bates",
-      "position": "FW",
-      "rating": 62,
-      "age": 22,
-      "value": 31326315
-    },
-    {
-      "name": "Ryan Patterson",
-      "position": "FW",
-      "rating": 63,
-      "age": 35,
-      "value": 18900000
-    },
-    {
-      "name": "Barney Salazar",
+      "name": "Lucas Henderson",
       "position": "FW",
       "rating": 61,
-      "age": 29,
-      "value": 24078947
+      "age": 21,
+      "value": 31784210
+    },
+    {
+      "name": "Troy Perry",
+      "position": "FW",
+      "rating": 84,
+      "age": 34,
+      "value": 26526315
+    },
+    {
+      "name": "Hayden Sandstr\u00f6m",
+      "position": "FW",
+      "rating": 62,
+      "age": 19,
+      "value": 34263157
+    },
+    {
+      "name": "Arjun Peterson",
+      "position": "FW",
+      "rating": 88,
+      "age": 23,
+      "value": 40000000
     }
   ],
   "stadium": {

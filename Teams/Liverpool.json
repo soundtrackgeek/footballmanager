@@ -2,144 +2,144 @@
   "name": "Liverpool",
   "squad": [
     {
-      "name": "Aedan Schneider",
+      "name": "Musa Cruz",
       "position": "GK",
-      "rating": 89,
-      "age": 34,
-      "value": 14989473
+      "rating": 70,
+      "age": 19,
+      "value": 20631578
     },
     {
-      "name": "Keith Romero",
+      "name": "Clark Pedersen",
       "position": "GK",
-      "rating": 78,
-      "age": 16,
-      "value": 24960000
+      "rating": 81,
+      "age": 26,
+      "value": 19098947
     },
     {
-      "name": "Wei-Lun Long",
+      "name": "Zayden Gonz\u00e1lez",
       "position": "GK",
-      "rating": 82,
-      "age": 30,
-      "value": 16572631
+      "rating": 62,
+      "age": 22,
+      "value": 16707368
     },
     {
-      "name": "Jake Ulfsson",
-      "position": "DF",
-      "rating": 79,
-      "age": 31,
-      "value": 19126315
-    },
-    {
-      "name": "Levi Sandberg",
-      "position": "DF",
-      "rating": 68,
-      "age": 34,
-      "value": 14315789
-    },
-    {
-      "name": "Joel Bates",
-      "position": "DF",
-      "rating": 82,
-      "age": 25,
-      "value": 25031578
-    },
-    {
-      "name": "Ade Bryant",
-      "position": "DF",
-      "rating": 84,
-      "age": 17,
-      "value": 32715789
-    },
-    {
-      "name": "Weston Hayes",
+      "name": "Rory Hill",
       "position": "DF",
       "rating": 87,
-      "age": 34,
-      "value": 18315789
+      "age": 16,
+      "value": 34800000
     },
     {
-      "name": "Noel Carter",
+      "name": "Waylon Barnes",
       "position": "DF",
-      "rating": 68,
-      "age": 35,
-      "value": 13600000
+      "rating": 67,
+      "age": 30,
+      "value": 16926315
     },
     {
-      "name": "Dashiell Gonz\u00e1lez",
+      "name": "Kenji Barnes",
+      "position": "DF",
+      "rating": 88,
+      "age": 20,
+      "value": 31494736
+    },
+    {
+      "name": "Travis Mason",
+      "position": "DF",
+      "rating": 72,
+      "age": 32,
+      "value": 16673684
+    },
+    {
+      "name": "Franklin Collins",
+      "position": "DF",
+      "rating": 84,
+      "age": 24,
+      "value": 26526315
+    },
+    {
+      "name": "Daniel Ibrahim",
+      "position": "DF",
+      "rating": 83,
+      "age": 23,
+      "value": 27084210
+    },
+    {
+      "name": "Wilson Bates",
       "position": "MF",
-      "rating": 77,
+      "rating": 88,
       "age": 29,
-      "value": 24315789
+      "value": 27789473
     },
     {
-      "name": "Joel Bishop",
+      "name": "Reid Holt",
+      "position": "MF",
+      "rating": 60,
+      "age": 25,
+      "value": 21978947
+    },
+    {
+      "name": "Hector Nguyen",
+      "position": "MF",
+      "rating": 75,
+      "age": 32,
+      "value": 20842105
+    },
+    {
+      "name": "Brody Martinez",
+      "position": "MF",
+      "rating": 70,
+      "age": 25,
+      "value": 25642105
+    },
+    {
+      "name": "William Hart",
+      "position": "MF",
+      "rating": 83,
+      "age": 33,
+      "value": 22016842
+    },
+    {
+      "name": "Kobe Barnett",
       "position": "MF",
       "rating": 73,
-      "age": 33,
-      "value": 19364210
+      "age": 34,
+      "value": 18442105
     },
     {
-      "name": "Wei Rogers",
-      "position": "MF",
-      "rating": 79,
-      "age": 16,
-      "value": 37920000
-    },
-    {
-      "name": "Cael Carter",
-      "position": "MF",
-      "rating": 74,
-      "age": 20,
-      "value": 31781052
-    },
-    {
-      "name": "Bobby Gariba",
-      "position": "MF",
-      "rating": 61,
-      "age": 23,
-      "value": 23886315
-    },
-    {
-      "name": "Bernard Mills",
-      "position": "MF",
-      "rating": 61,
-      "age": 31,
-      "value": 17722105
-    },
-    {
-      "name": "Carlos Woods",
+      "name": "Sebastian Bates",
       "position": "FW",
-      "rating": 68,
+      "rating": 90,
       "age": 19,
-      "value": 37578947
-    },
-    {
-      "name": "Abraham Nakamura",
-      "position": "FW",
-      "rating": 80,
-      "age": 31,
-      "value": 29052631
-    },
-    {
-      "name": "Damian Coleman",
-      "position": "FW",
-      "rating": 70,
-      "age": 31,
-      "value": 25421052
-    },
-    {
-      "name": "Carter Gonzalez",
-      "position": "FW",
-      "rating": 84,
-      "age": 21,
       "value": 40000000
     },
     {
-      "name": "Tony Hayes",
+      "name": "Dalton Hicks",
       "position": "FW",
-      "rating": 88,
-      "age": 30,
-      "value": 33347368
+      "rating": 85,
+      "age": 31,
+      "value": 30868421
+    },
+    {
+      "name": "Sunil Pena",
+      "position": "FW",
+      "rating": 64,
+      "age": 34,
+      "value": 20210526
+    },
+    {
+      "name": "Suraj Reid",
+      "position": "FW",
+      "rating": 79,
+      "age": 31,
+      "value": 28689473
+    },
+    {
+      "name": "Raj Webster",
+      "position": "FW",
+      "rating": 68,
+      "age": 22,
+      "value": 34357894
     }
   ],
   "stadium": {

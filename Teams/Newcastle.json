@@ -2,144 +2,144 @@
   "name": "Newcastle",
   "squad": [
     {
-      "name": "Jiro Holland",
+      "name": "Finn Fofana",
       "position": "GK",
-      "rating": 60,
-      "age": 29,
-      "value": 12631578
+      "rating": 70,
+      "age": 25,
+      "value": 17094736
     },
     {
-      "name": "Grant Jackson",
+      "name": "Rajesh Njoroge",
       "position": "GK",
-      "rating": 65,
-      "age": 27,
-      "value": 14778947
+      "rating": 69,
+      "age": 16,
+      "value": 22080000
     },
     {
-      "name": "Amari Franco",
+      "name": "Lucas Yoo",
       "position": "GK",
-      "rating": 62,
+      "rating": 63,
       "age": 17,
-      "value": 19317894
+      "value": 19629473
     },
     {
-      "name": "Brantley West",
+      "name": "Kingston Xu",
       "position": "DF",
-      "rating": 68,
-      "age": 20,
-      "value": 24336842
-    },
-    {
-      "name": "Elias Ramirez",
-      "position": "DF",
-      "rating": 78,
-      "age": 19,
-      "value": 28736842
-    },
-    {
-      "name": "Marco Mason",
-      "position": "DF",
-      "rating": 88,
-      "age": 20,
-      "value": 31494736
-    },
-    {
-      "name": "Ruben Franklin",
-      "position": "DF",
-      "rating": 66,
-      "age": 27,
-      "value": 18757894
-    },
-    {
-      "name": "Daniel Carroll",
-      "position": "DF",
-      "rating": 84,
-      "age": 22,
-      "value": 28294736
-    },
-    {
-      "name": "Ulises Mabena",
-      "position": "DF",
-      "rating": 89,
-      "age": 20,
-      "value": 31852631
-    },
-    {
-      "name": "Anton Green",
-      "position": "MF",
-      "rating": 75,
-      "age": 22,
-      "value": 30315789
-    },
-    {
-      "name": "Barry Mart\u00ednez",
-      "position": "MF",
-      "rating": 82,
-      "age": 26,
-      "value": 29002105
-    },
-    {
-      "name": "Rune Badu",
-      "position": "MF",
-      "rating": 64,
-      "age": 23,
-      "value": 25061052
-    },
-    {
-      "name": "Ram\u00f3n Zamani",
-      "position": "MF",
-      "rating": 61,
-      "age": 30,
-      "value": 18492631
-    },
-    {
-      "name": "Kenneth Goodman",
-      "position": "MF",
       "rating": 65,
       "age": 31,
-      "value": 18884210
+      "value": 15736842
     },
     {
-      "name": "Johannes Haynes",
-      "position": "MF",
-      "rating": 86,
-      "age": 18,
-      "value": 39107368
+      "name": "Rodney Jabari",
+      "position": "DF",
+      "rating": 82,
+      "age": 29,
+      "value": 21578947
     },
     {
-      "name": "Amir Diaz",
-      "position": "FW",
-      "rating": 65,
-      "age": 26,
-      "value": 28736842
+      "name": "Marc Richards",
+      "position": "DF",
+      "rating": 68,
+      "age": 35,
+      "value": 13600000
     },
     {
-      "name": "Remington Barnes",
-      "position": "FW",
-      "rating": 80,
-      "age": 33,
-      "value": 26526315
-    },
-    {
-      "name": "Barney Young",
-      "position": "FW",
-      "rating": 69,
-      "age": 21,
-      "value": 35952631
-    },
-    {
-      "name": "Damien Andersen",
-      "position": "FW",
-      "rating": 87,
-      "age": 30,
-      "value": 32968421
-    },
-    {
-      "name": "Victor Kim",
-      "position": "FW",
-      "rating": 70,
+      "name": "Oliver Baxter",
+      "position": "DF",
+      "rating": 76,
       "age": 23,
-      "value": 34263157
+      "value": 24800000
+    },
+    {
+      "name": "Milton Murphy",
+      "position": "DF",
+      "rating": 67,
+      "age": 31,
+      "value": 16221052
+    },
+    {
+      "name": "Tao French",
+      "position": "DF",
+      "rating": 82,
+      "age": 19,
+      "value": 30210526
+    },
+    {
+      "name": "Dylan Lin",
+      "position": "MF",
+      "rating": 83,
+      "age": 28,
+      "value": 27258947
+    },
+    {
+      "name": "Marcos Rivera",
+      "position": "MF",
+      "rating": 71,
+      "age": 17,
+      "value": 33183157
+    },
+    {
+      "name": "Rogelio Russell",
+      "position": "MF",
+      "rating": 71,
+      "age": 33,
+      "value": 18833684
+    },
+    {
+      "name": "Axel Olson",
+      "position": "MF",
+      "rating": 66,
+      "age": 26,
+      "value": 23343157
+    },
+    {
+      "name": "Javier Patterson",
+      "position": "MF",
+      "rating": 88,
+      "age": 16,
+      "value": 40000000
+    },
+    {
+      "name": "Henry Pepper",
+      "position": "MF",
+      "rating": 84,
+      "age": 34,
+      "value": 21221052
+    },
+    {
+      "name": "Carlos Lindholm",
+      "position": "FW",
+      "rating": 76,
+      "age": 26,
+      "value": 33600000
+    },
+    {
+      "name": "Frank Andrews",
+      "position": "FW",
+      "rating": 89,
+      "age": 21,
+      "value": 40000000
+    },
+    {
+      "name": "Preston Scott",
+      "position": "FW",
+      "rating": 60,
+      "age": 17,
+      "value": 35052631
+    },
+    {
+      "name": "Salvador Bradley",
+      "position": "FW",
+      "rating": 62,
+      "age": 29,
+      "value": 24473684
+    },
+    {
+      "name": "Barney Baker",
+      "position": "FW",
+      "rating": 75,
+      "age": 17,
+      "value": 40000000
     }
   ],
   "stadium": {

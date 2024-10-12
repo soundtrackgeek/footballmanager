@@ -2,144 +2,144 @@
   "name": "Wolves",
   "squad": [
     {
-      "name": "Alexander Gomez",
+      "name": "Alejandro Franklin",
       "position": "GK",
-      "rating": 65,
-      "age": 30,
-      "value": 13136842
+      "rating": 75,
+      "age": 29,
+      "value": 15789473
     },
     {
-      "name": "Alejandro Haynes",
+      "name": "Adeola Brooks",
       "position": "GK",
-      "rating": 63,
-      "age": 19,
-      "value": 18568421
-    },
-    {
-      "name": "Aditya Lin",
-      "position": "GK",
-      "rating": 73,
-      "age": 30,
-      "value": 14753684
-    },
-    {
-      "name": "Edmund Park",
-      "position": "DF",
-      "rating": 84,
-      "age": 33,
-      "value": 18568421
-    },
-    {
-      "name": "Bruno Westerlund",
-      "position": "DF",
       "rating": 90,
-      "age": 32,
-      "value": 20842105
+      "age": 21,
+      "value": 25010526
     },
     {
-      "name": "Joel Balogun",
-      "position": "DF",
-      "rating": 69,
-      "age": 16,
-      "value": 27600000
+      "name": "Timothy Holmberg",
+      "position": "GK",
+      "rating": 77,
+      "age": 31,
+      "value": 14913684
     },
     {
-      "name": "Franklin Alvarez",
+      "name": "Francisco Zamani",
       "position": "DF",
       "rating": 89,
-      "age": 24,
-      "value": 28105263
+      "age": 21,
+      "value": 30915789
     },
     {
-      "name": "William Black",
+      "name": "Henry Black",
       "position": "DF",
-      "rating": 77,
-      "age": 32,
-      "value": 17831578
+      "rating": 79,
+      "age": 17,
+      "value": 30768421
     },
     {
-      "name": "Victor Olsen",
+      "name": "Lucas Benson",
       "position": "DF",
-      "rating": 63,
-      "age": 33,
-      "value": 13926315
-    },
-    {
-      "name": "Desmond Webb",
-      "position": "MF",
-      "rating": 83,
-      "age": 24,
-      "value": 31452631
-    },
-    {
-      "name": "Simba Baker",
-      "position": "MF",
-      "rating": 69,
-      "age": 20,
-      "value": 29633684
-    },
-    {
-      "name": "Anton Washington",
-      "position": "MF",
-      "rating": 67,
-      "age": 32,
-      "value": 18618947
-    },
-    {
-      "name": "Grant Morgan",
-      "position": "MF",
-      "rating": 85,
-      "age": 23,
-      "value": 33284210
-    },
-    {
-      "name": "Sulaiman Feng",
-      "position": "MF",
       "rating": 60,
-      "age": 26,
-      "value": 21221052
+      "age": 23,
+      "value": 19578947
     },
     {
-      "name": "Malcolm Barnett",
+      "name": "Thomas Jordan",
+      "position": "DF",
+      "rating": 76,
+      "age": 30,
+      "value": 19200000
+    },
+    {
+      "name": "Easton Hayes",
+      "position": "DF",
+      "rating": 67,
+      "age": 28,
+      "value": 18336842
+    },
+    {
+      "name": "Brantley Perry",
+      "position": "DF",
+      "rating": 83,
+      "age": 31,
+      "value": 20094736
+    },
+    {
+      "name": "Giovanni Sanchez",
       "position": "MF",
-      "rating": 87,
-      "age": 22,
-      "value": 35166315
+      "rating": 89,
+      "age": 27,
+      "value": 30353684
     },
     {
-      "name": "Rene Berglund",
+      "name": "Musa Hamilton",
+      "position": "MF",
+      "rating": 61,
+      "age": 25,
+      "value": 22345263
+    },
+    {
+      "name": "Wayne Reed",
+      "position": "MF",
+      "rating": 76,
+      "age": 29,
+      "value": 24000000
+    },
+    {
+      "name": "Sage Mart\u00ednez",
+      "position": "MF",
+      "rating": 70,
+      "age": 21,
+      "value": 29178947
+    },
+    {
+      "name": "Ken Alexander",
+      "position": "MF",
+      "rating": 64,
+      "age": 25,
+      "value": 23444210
+    },
+    {
+      "name": "Bo Medina",
+      "position": "MF",
+      "rating": 86,
+      "age": 31,
+      "value": 24985263
+    },
+    {
+      "name": "Frank Nakajima",
+      "position": "FW",
+      "rating": 64,
+      "age": 34,
+      "value": 20210526
+    },
+    {
+      "name": "Kwame Brooks",
+      "position": "FW",
+      "rating": 67,
+      "age": 26,
+      "value": 29621052
+    },
+    {
+      "name": "Brody Sato",
       "position": "FW",
       "rating": 81,
-      "age": 30,
-      "value": 30694736
-    },
-    {
-      "name": "Rogelio Graham",
-      "position": "FW",
-      "rating": 75,
-      "age": 27,
-      "value": 31973684
-    },
-    {
-      "name": "Brantley Murphy",
-      "position": "FW",
-      "rating": 65,
-      "age": 16,
-      "value": 39000000
-    },
-    {
-      "name": "Luis Hicks",
-      "position": "FW",
-      "rating": 68,
-      "age": 28,
-      "value": 27915789
-    },
-    {
-      "name": "Fredrik Owens",
-      "position": "FW",
-      "rating": 78,
       "age": 22,
-      "value": 39410526
+      "value": 40000000
+    },
+    {
+      "name": "Taylor Hart",
+      "position": "FW",
+      "rating": 84,
+      "age": 31,
+      "value": 30505263
+    },
+    {
+      "name": "Fredrik Hart",
+      "position": "FW",
+      "rating": 69,
+      "age": 20,
+      "value": 37042105
     }
   ],
   "stadium": {

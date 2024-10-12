@@ -2,144 +2,144 @@
   "name": "Brentford",
   "squad": [
     {
-      "name": "Dwayne Hanson",
+      "name": "Anders Fredriksson",
       "position": "GK",
-      "rating": 82,
+      "rating": 83,
+      "age": 25,
+      "value": 20269473
+    },
+    {
+      "name": "Harold Schmidt",
+      "position": "GK",
+      "rating": 66,
+      "age": 35,
+      "value": 10560000
+    },
+    {
+      "name": "Duncan Watkins",
+      "position": "GK",
+      "rating": 77,
       "age": 18,
-      "value": 24858947
+      "value": 23343157
     },
     {
-      "name": "Hunter Guo",
-      "position": "GK",
-      "rating": 74,
-      "age": 23,
-      "value": 19317894
-    },
-    {
-      "name": "Rohan Hayes",
-      "position": "GK",
-      "rating": 71,
-      "age": 33,
-      "value": 12555789
-    },
-    {
-      "name": "Emil Hayes",
+      "name": "Kenneth Robinson",
       "position": "DF",
-      "rating": 78,
-      "age": 22,
-      "value": 26273684
-    },
-    {
-      "name": "Noel Rasmussen",
-      "position": "DF",
-      "rating": 63,
-      "age": 32,
-      "value": 14589473
-    },
-    {
-      "name": "Gabriel Nilsson",
-      "position": "DF",
-      "rating": 86,
-      "age": 26,
-      "value": 25347368
-    },
-    {
-      "name": "Wilson Rao",
-      "position": "DF",
-      "rating": 76,
-      "age": 17,
-      "value": 29600000
-    },
-    {
-      "name": "Satoshi Shaw",
-      "position": "DF",
-      "rating": 80,
-      "age": 32,
-      "value": 18526315
-    },
-    {
-      "name": "Rohan Bailey",
-      "position": "DF",
-      "rating": 89,
-      "age": 29,
-      "value": 23421052
-    },
-    {
-      "name": "Dennis Alvarez",
-      "position": "MF",
       "rating": 90,
       "age": 19,
-      "value": 39789473
+      "value": 33157894
     },
     {
-      "name": "Rowan Ellison",
-      "position": "MF",
-      "rating": 71,
+      "name": "Marco Mills",
+      "position": "DF",
+      "rating": 68,
+      "age": 26,
+      "value": 20042105
+    },
+    {
+      "name": "Hugo Reid",
+      "position": "DF",
+      "rating": 65,
+      "age": 22,
+      "value": 21894736
+    },
+    {
+      "name": "Maxwell Kim",
+      "position": "DF",
+      "rating": 70,
+      "age": 25,
+      "value": 21368421
+    },
+    {
+      "name": "Frank Abebe",
+      "position": "DF",
+      "rating": 90,
+      "age": 23,
+      "value": 29368421
+    },
+    {
+      "name": "Danny Palmer",
+      "position": "DF",
+      "rating": 77,
       "age": 27,
-      "value": 24214736
+      "value": 21884210
     },
     {
-      "name": "Josiah Mills",
+      "name": "Dakota Perry",
       "position": "MF",
-      "rating": 80,
-      "age": 18,
-      "value": 36378947
+      "rating": 87,
+      "age": 29,
+      "value": 27473684
     },
     {
-      "name": "Toby Salazar",
+      "name": "Tyrone Martin",
       "position": "MF",
-      "rating": 85,
-      "age": 17,
-      "value": 39726315
+      "rating": 75,
+      "age": 30,
+      "value": 22736842
     },
     {
-      "name": "Lyle Baldwin",
+      "name": "Nuru Henriksen",
+      "position": "MF",
+      "rating": 83,
+      "age": 34,
+      "value": 20968421
+    },
+    {
+      "name": "River Bryan",
+      "position": "MF",
+      "rating": 62,
+      "age": 28,
+      "value": 20362105
+    },
+    {
+      "name": "Tyrone Alvarez",
       "position": "MF",
       "rating": 79,
-      "age": 35,
-      "value": 18960000
+      "age": 20,
+      "value": 33928421
     },
     {
-      "name": "Wilson Abebe",
+      "name": "Mark Stone",
       "position": "MF",
       "rating": 73,
-      "age": 29,
-      "value": 23052631
+      "age": 23,
+      "value": 28585263
     },
     {
-      "name": "Fernando Lewis",
+      "name": "Fernando Nkosi",
       "position": "FW",
-      "rating": 82,
-      "age": 19,
+      "rating": 86,
+      "age": 16,
       "value": 40000000
     },
     {
-      "name": "Daichi Holmberg",
+      "name": "Karl Patterson",
       "position": "FW",
-      "rating": 77,
-      "age": 25,
-      "value": 35257894
+      "rating": 61,
+      "age": 16,
+      "value": 36600000
     },
     {
-      "name": "Ian Hart",
+      "name": "Henry Osei",
       "position": "FW",
-      "rating": 83,
+      "rating": 67,
+      "age": 24,
+      "value": 31736842
+    },
+    {
+      "name": "Johnny Fox",
+      "position": "FW",
+      "rating": 76,
+      "age": 33,
+      "value": 25200000
+    },
+    {
+      "name": "Isaac Baker",
+      "position": "FW",
+      "rating": 75,
       "age": 21,
-      "value": 40000000
-    },
-    {
-      "name": "Alonso Badu",
-      "position": "FW",
-      "rating": 65,
-      "age": 26,
-      "value": 28736842
-    },
-    {
-      "name": "August Watson",
-      "position": "FW",
-      "rating": 89,
-      "age": 19,
-      "value": 40000000
+      "value": 39078947
     }
   ],
   "stadium": {

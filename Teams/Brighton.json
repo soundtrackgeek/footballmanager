@@ -2,144 +2,144 @@
   "name": "Brighton",
   "squad": [
     {
-      "name": "Tyson Hamilton",
+      "name": "Jorge Liu",
       "position": "GK",
-      "rating": 89,
-      "age": 19,
-      "value": 26231578
+      "rating": 63,
+      "age": 21,
+      "value": 17507368
     },
     {
-      "name": "Stewart Coleman",
+      "name": "Sebastian Whitaker",
       "position": "GK",
-      "rating": 87,
-      "age": 31,
-      "value": 16850526
+      "rating": 63,
+      "age": 16,
+      "value": 20160000
     },
     {
-      "name": "Baojun Meadows",
+      "name": "Paige Reyes",
       "position": "GK",
-      "rating": 62,
-      "age": 35,
-      "value": 9920000
+      "rating": 85,
+      "age": 29,
+      "value": 17894736
     },
     {
-      "name": "Uriel Akinyele",
-      "position": "DF",
-      "rating": 77,
-      "age": 34,
-      "value": 16210526
-    },
-    {
-      "name": "Raymond Howard",
+      "name": "Gustavo Manning",
       "position": "DF",
       "rating": 80,
-      "age": 34,
-      "value": 16842105
+      "age": 32,
+      "value": 18526315
     },
     {
-      "name": "Adan Mendoza",
+      "name": "Izaiah Stewart",
       "position": "DF",
-      "rating": 75,
+      "rating": 65,
+      "age": 18,
+      "value": 24631578
+    },
+    {
+      "name": "Kyan Lambert",
+      "position": "DF",
+      "rating": 71,
+      "age": 30,
+      "value": 17936842
+    },
+    {
+      "name": "Francisco Richardson",
+      "position": "DF",
+      "rating": 76,
       "age": 23,
-      "value": 24473684
+      "value": 24800000
     },
     {
-      "name": "Dakota Cruz",
+      "name": "Ibrahim Holm",
       "position": "DF",
-      "rating": 61,
-      "age": 16,
-      "value": 24400000
+      "rating": 71,
+      "age": 29,
+      "value": 18684210
     },
     {
-      "name": "Connor Wheeler",
+      "name": "Jeffrey Parsons",
       "position": "DF",
-      "rating": 63,
+      "rating": 71,
+      "age": 19,
+      "value": 26157894
+    },
+    {
+      "name": "Oluwafemi Cunningham",
+      "position": "MF",
+      "rating": 78,
       "age": 24,
-      "value": 19894736
+      "value": 29557894
     },
     {
-      "name": "Keita Biko",
-      "position": "DF",
+      "name": "Timothy Bailey",
+      "position": "MF",
+      "rating": 68,
+      "age": 29,
+      "value": 21473684
+    },
+    {
+      "name": "Ross Guo",
+      "position": "MF",
+      "rating": 72,
+      "age": 28,
+      "value": 23646315
+    },
+    {
+      "name": "Chris Berry",
+      "position": "MF",
       "rating": 69,
       "age": 17,
-      "value": 26873684
+      "value": 32248421
     },
     {
-      "name": "Einar Morrison",
+      "name": "Tanner Rasmussen",
       "position": "MF",
-      "rating": 80,
-      "age": 18,
-      "value": 36378947
-    },
-    {
-      "name": "Ben James",
-      "position": "MF",
-      "rating": 83,
-      "age": 16,
-      "value": 39840000
-    },
-    {
-      "name": "Vance Adams",
-      "position": "MF",
-      "rating": 81,
-      "age": 35,
-      "value": 19440000
-    },
-    {
-      "name": "Martin Hanson",
-      "position": "MF",
-      "rating": 85,
-      "age": 28,
-      "value": 27915789
-    },
-    {
-      "name": "Elias Dlamini",
-      "position": "MF",
-      "rating": 79,
-      "age": 22,
-      "value": 31932631
-    },
-    {
-      "name": "Oliver Eklund",
-      "position": "MF",
-      "rating": 80,
-      "age": 22,
-      "value": 32336842
-    },
-    {
-      "name": "Kofi Chukwu",
-      "position": "FW",
-      "rating": 89,
+      "rating": 86,
       "age": 29,
-      "value": 35131578
+      "value": 27157894
     },
     {
-      "name": "Nils Flores",
-      "position": "FW",
-      "rating": 70,
-      "age": 27,
-      "value": 29842105
+      "name": "Wayne Lewis",
+      "position": "MF",
+      "rating": 82,
+      "age": 26,
+      "value": 29002105
     },
     {
-      "name": "Simon Onyango",
-      "position": "FW",
-      "rating": 72,
-      "age": 30,
-      "value": 27284210
-    },
-    {
-      "name": "Chidi Rogers",
-      "position": "FW",
-      "rating": 60,
-      "age": 35,
-      "value": 18000000
-    },
-    {
-      "name": "Hugo Rom\u00e1n",
+      "name": "Marvin Palmer",
       "position": "FW",
       "rating": 86,
-      "age": 21,
-      "value": 40000000
+      "age": 28,
+      "value": 35305263
+    },
+    {
+      "name": "Conor Ferguson",
+      "position": "FW",
+      "rating": 71,
+      "age": 29,
+      "value": 28026315
+    },
+    {
+      "name": "Bart Graham",
+      "position": "FW",
+      "rating": 81,
+      "age": 23,
+      "value": 39647368
+    },
+    {
+      "name": "Renato Richardson",
+      "position": "FW",
+      "rating": 65,
+      "age": 25,
+      "value": 29763157
+    },
+    {
+      "name": "Agust\u00edn Alexander",
+      "position": "FW",
+      "rating": 61,
+      "age": 27,
+      "value": 26005263
     }
   ],
   "stadium": {

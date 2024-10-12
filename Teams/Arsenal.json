@@ -2,144 +2,144 @@
   "name": "Arsenal",
   "squad": [
     {
-      "name": "Omar Valdez",
+      "name": "Nils Fields",
       "position": "GK",
-      "rating": 87,
-      "age": 22,
-      "value": 23444210
+      "rating": 70,
+      "age": 16,
+      "value": 22400000
     },
     {
-      "name": "Charles Cook",
+      "name": "August Mcdonald",
       "position": "GK",
-      "rating": 63,
-      "age": 24,
-      "value": 15915789
+      "rating": 80,
+      "age": 21,
+      "value": 22231578
     },
     {
-      "name": "Bryson Patel",
+      "name": "Tom\u00e1s Karlberg",
       "position": "GK",
-      "rating": 88,
+      "rating": 60,
       "age": 34,
-      "value": 14821052
+      "value": 10105263
     },
     {
-      "name": "Rasmus Haynes",
+      "name": "Alexander Bennett",
       "position": "DF",
-      "rating": 87,
+      "rating": 76,
+      "age": 28,
+      "value": 20800000
+    },
+    {
+      "name": "Vance Guo",
+      "position": "DF",
+      "rating": 72,
+      "age": 21,
+      "value": 25010526
+    },
+    {
+      "name": "Pablo Barton",
+      "position": "DF",
+      "rating": 79,
+      "age": 29,
+      "value": 20789473
+    },
+    {
+      "name": "Viktor Cabrera",
+      "position": "DF",
+      "rating": 61,
+      "age": 31,
+      "value": 14768421
+    },
+    {
+      "name": "Anthony Franklin",
+      "position": "DF",
+      "rating": 86,
+      "age": 24,
+      "value": 27157894
+    },
+    {
+      "name": "Reid Gray",
+      "position": "DF",
+      "rating": 81,
+      "age": 29,
+      "value": 21315789
+    },
+    {
+      "name": "Ricardo Bennett",
+      "position": "MF",
+      "rating": 86,
+      "age": 18,
+      "value": 39107368
+    },
+    {
+      "name": "Richard Quartey",
+      "position": "MF",
+      "rating": 90,
       "age": 20,
+      "value": 38652631
+    },
+    {
+      "name": "Jos\u00e9 Marshall",
+      "position": "MF",
+      "rating": 66,
+      "age": 20,
+      "value": 28345263
+    },
+    {
+      "name": "Curtis Griffin",
+      "position": "MF",
+      "rating": 73,
+      "age": 24,
+      "value": 27663157
+    },
+    {
+      "name": "Waylon S\u00f6derberg",
+      "position": "MF",
+      "rating": 72,
+      "age": 28,
+      "value": 23646315
+    },
+    {
+      "name": "Morten Meadows",
+      "position": "MF",
+      "rating": 90,
+      "age": 21,
+      "value": 37515789
+    },
+    {
+      "name": "Toshiro Whitaker",
+      "position": "FW",
+      "rating": 86,
+      "age": 34,
+      "value": 27157894
+    },
+    {
+      "name": "Alan Garza",
+      "position": "FW",
+      "rating": 68,
+      "age": 25,
       "value": 31136842
     },
     {
-      "name": "Garrett Guerrero",
-      "position": "DF",
-      "rating": 85,
-      "age": 26,
-      "value": 25052631
-    },
-    {
-      "name": "Victor Hart",
-      "position": "DF",
-      "rating": 67,
-      "age": 23,
-      "value": 21863157
-    },
-    {
-      "name": "Joshua Rowe",
-      "position": "DF",
-      "rating": 71,
-      "age": 30,
-      "value": 17936842
-    },
-    {
-      "name": "Lyle Long",
-      "position": "DF",
-      "rating": 74,
-      "age": 22,
-      "value": 24926315
-    },
-    {
-      "name": "Benjamin Carter",
-      "position": "DF",
-      "rating": 71,
-      "age": 33,
-      "value": 15694736
-    },
-    {
-      "name": "Christian Payne",
-      "position": "MF",
-      "rating": 74,
-      "age": 31,
-      "value": 21498947
-    },
-    {
-      "name": "Sam Knox",
-      "position": "MF",
-      "rating": 70,
-      "age": 33,
-      "value": 18568421
-    },
-    {
-      "name": "Arjun Perez",
-      "position": "MF",
-      "rating": 77,
-      "age": 21,
-      "value": 32096842
-    },
-    {
-      "name": "Emil Beck",
-      "position": "MF",
-      "rating": 72,
-      "age": 17,
-      "value": 33650526
-    },
-    {
-      "name": "Kaito Stone",
-      "position": "MF",
+      "name": "Rory Garc\u00eda",
+      "position": "FW",
       "rating": 63,
-      "age": 30,
-      "value": 19098947
-    },
-    {
-      "name": "Kenta Jenkins",
-      "position": "MF",
-      "rating": 63,
-      "age": 17,
-      "value": 29444210
-    },
-    {
-      "name": "Tumelo Harmon",
-      "position": "FW",
-      "rating": 72,
-      "age": 30,
-      "value": 27284210
-    },
-    {
-      "name": "Hiro Murray",
-      "position": "FW",
-      "rating": 73,
-      "age": 29,
-      "value": 28815789
-    },
-    {
-      "name": "Fernando Jabari",
-      "position": "FW",
-      "rating": 73,
-      "age": 16,
-      "value": 40000000
-    },
-    {
-      "name": "Beau Dean",
-      "position": "FW",
-      "rating": 68,
       "age": 21,
-      "value": 35431578
+      "value": 32826315
     },
     {
-      "name": "Craig Gao",
+      "name": "Aiden Jabari",
+      "position": "FW",
+      "rating": 62,
+      "age": 28,
+      "value": 25452631
+    },
+    {
+      "name": "Brock Mart\u00ednez",
       "position": "FW",
       "rating": 90,
-      "age": 17,
-      "value": 40000000
+      "age": 31,
+      "value": 32684210
     }
   ],
   "stadium": {

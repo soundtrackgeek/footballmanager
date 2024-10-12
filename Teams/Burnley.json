@@ -2,144 +2,144 @@
   "name": "Burnley",
   "squad": [
     {
-      "name": "Musa Yamamoto",
+      "name": "Zane Barton",
       "position": "GK",
-      "rating": 88,
-      "age": 16,
-      "value": 28160000
+      "rating": 76,
+      "age": 18,
+      "value": 23040000
     },
     {
-      "name": "Kingston Akinyele",
+      "name": "Daichi Sandberg",
       "position": "GK",
-      "rating": 88,
-      "age": 21,
-      "value": 24454736
+      "rating": 84,
+      "age": 31,
+      "value": 16269473
     },
     {
-      "name": "Kellen Bell",
+      "name": "Aedan Shin",
       "position": "GK",
       "rating": 85,
-      "age": 25,
-      "value": 20757894
+      "age": 27,
+      "value": 19326315
     },
     {
-      "name": "Jared Arnold",
+      "name": "Luis Cabrera",
       "position": "DF",
-      "rating": 78,
-      "age": 35,
-      "value": 15600000
+      "rating": 88,
+      "age": 29,
+      "value": 23157894
     },
     {
-      "name": "Brooks Long",
+      "name": "Gustavo Castro",
       "position": "DF",
       "rating": 80,
-      "age": 26,
-      "value": 23578947
+      "age": 27,
+      "value": 22736842
     },
     {
-      "name": "Nicol\u00e1s Hassan",
+      "name": "Mathew Boone",
       "position": "DF",
-      "rating": 86,
-      "age": 28,
-      "value": 23536842
-    },
-    {
-      "name": "Renato Hayes",
-      "position": "DF",
-      "rating": 64,
+      "rating": 67,
       "age": 34,
-      "value": 13473684
+      "value": 14105263
     },
     {
-      "name": "Paul Morris",
+      "name": "Nuru Woods",
       "position": "DF",
       "rating": 77,
-      "age": 20,
-      "value": 27557894
+      "age": 30,
+      "value": 19452631
     },
     {
-      "name": "Damon Ross",
+      "name": "Leif Freeman",
       "position": "DF",
-      "rating": 74,
-      "age": 21,
-      "value": 25705263
+      "rating": 90,
+      "age": 35,
+      "value": 18000000
     },
     {
-      "name": "Matthew Russell",
-      "position": "MF",
-      "rating": 71,
-      "age": 27,
-      "value": 24214736
+      "name": "Vance Kwon",
+      "position": "DF",
+      "rating": 75,
+      "age": 35,
+      "value": 15000000
     },
     {
-      "name": "Morgan Ben\u00edtez",
+      "name": "Roderick Rasmussen",
       "position": "MF",
-      "rating": 69,
-      "age": 17,
-      "value": 32248421
+      "rating": 63,
+      "age": 30,
+      "value": 19098947
     },
     {
-      "name": "Christopher Grant",
+      "name": "Tunde Parker",
       "position": "MF",
-      "rating": 73,
-      "age": 21,
-      "value": 30429473
+      "rating": 63,
+      "age": 29,
+      "value": 19894736
     },
     {
-      "name": "Marshall Nguyen",
+      "name": "Amani Ross",
       "position": "MF",
-      "rating": 72,
-      "age": 24,
+      "rating": 63,
+      "age": 33,
+      "value": 16711578
+    },
+    {
+      "name": "Stewart Alvarez",
+      "position": "MF",
+      "rating": 89,
+      "age": 25,
+      "value": 32602105
+    },
+    {
+      "name": "Axel Palacios",
+      "position": "MF",
+      "rating": 68,
+      "age": 28,
+      "value": 22332631
+    },
+    {
+      "name": "Henrik Fisher",
+      "position": "MF",
+      "rating": 60,
+      "age": 18,
       "value": 27284210
     },
     {
-      "name": "Cian Evans",
-      "position": "MF",
-      "rating": 71,
-      "age": 25,
-      "value": 26008421
-    },
-    {
-      "name": "Kyle J\u00f8rgensen",
-      "position": "MF",
-      "rating": 70,
-      "age": 21,
-      "value": 29178947
-    },
-    {
-      "name": "Nuru West",
+      "name": "Mandla Njoroge",
       "position": "FW",
-      "rating": 65,
-      "age": 29,
-      "value": 25657894
+      "rating": 86,
+      "age": 35,
+      "value": 25800000
     },
     {
-      "name": "Hugo Hill",
+      "name": "Thiago Rogers",
       "position": "FW",
-      "rating": 83,
-      "age": 24,
-      "value": 39315789
+      "rating": 67,
+      "age": 32,
+      "value": 23273684
     },
     {
-      "name": "Raul Akinyele",
+      "name": "Edward Baker",
       "position": "FW",
-      "rating": 80,
-      "age": 18,
+      "rating": 88,
+      "age": 34,
+      "value": 27789473
+    },
+    {
+      "name": "Max Mills",
+      "position": "FW",
+      "rating": 81,
+      "age": 22,
       "value": 40000000
     },
     {
-      "name": "Albert Ramos",
+      "name": "Keegan Roberts",
       "position": "FW",
-      "rating": 88,
-      "age": 33,
-      "value": 29178947
-    },
-    {
-      "name": "Reid Chukwu",
-      "position": "FW",
-      "rating": 89,
-      "age": 31,
-      "value": 32321052
+      "rating": 75,
+      "age": 24,
+      "value": 35526315
     }
   ],
   "stadium": {

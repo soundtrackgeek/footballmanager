@@ -2,144 +2,144 @@
   "name": "Tottenham",
   "squad": [
     {
-      "name": "Diego Bailey",
+      "name": "Tyson Bennett",
       "position": "GK",
-      "rating": 74,
-      "age": 23,
-      "value": 19317894
+      "rating": 68,
+      "age": 17,
+      "value": 21187368
     },
     {
-      "name": "Manuel Brooks",
+      "name": "Malcolm Marshall",
       "position": "GK",
-      "rating": 78,
-      "age": 35,
-      "value": 12480000
-    },
-    {
-      "name": "Andr\u00e9s Fuentes",
-      "position": "GK",
-      "rating": 90,
-      "age": 34,
-      "value": 15157894
-    },
-    {
-      "name": "Griffin Parker",
-      "position": "DF",
-      "rating": 63,
-      "age": 18,
-      "value": 23873684
-    },
-    {
-      "name": "Trenton Lee",
-      "position": "DF",
       "rating": 86,
-      "age": 23,
-      "value": 28063157
+      "age": 26,
+      "value": 20277894
     },
     {
-      "name": "Jabari Martinez",
+      "name": "Glen Griffin",
+      "position": "GK",
+      "rating": 60,
+      "age": 22,
+      "value": 16168421
+    },
+    {
+      "name": "Troy Barton",
       "position": "DF",
-      "rating": 78,
-      "age": 23,
-      "value": 25452631
+      "rating": 75,
+      "age": 16,
+      "value": 30000000
     },
     {
-      "name": "Cyrus Quartey",
+      "name": "Cory Goodman",
       "position": "DF",
-      "rating": 63,
-      "age": 24,
-      "value": 19894736
+      "rating": 75,
+      "age": 35,
+      "value": 15000000
     },
     {
-      "name": "Casey Baker",
+      "name": "Leandro Le\u00f3n",
       "position": "DF",
       "rating": 61,
-      "age": 27,
-      "value": 17336842
-    },
-    {
-      "name": "Bryson Cabrera",
-      "position": "DF",
-      "rating": 86,
-      "age": 24,
-      "value": 27157894
-    },
-    {
-      "name": "Preston Roberts",
-      "position": "MF",
-      "rating": 60,
-      "age": 34,
-      "value": 15157894
-    },
-    {
-      "name": "Thabo Peterson",
-      "position": "MF",
-      "rating": 69,
-      "age": 32,
-      "value": 19174736
-    },
-    {
-      "name": "Christian Barnes",
-      "position": "MF",
-      "rating": 78,
       "age": 23,
-      "value": 30543157
+      "value": 19905263
     },
     {
-      "name": "Cael Long",
-      "position": "MF",
-      "rating": 85,
-      "age": 27,
-      "value": 28989473
-    },
-    {
-      "name": "Francisco Nilsen",
-      "position": "MF",
+      "name": "Amani Rivera",
+      "position": "DF",
       "rating": 78,
-      "age": 16,
-      "value": 37440000
-    },
-    {
-      "name": "Jeffrey Kwon",
-      "position": "MF",
-      "rating": 60,
-      "age": 33,
-      "value": 15915789
-    },
-    {
-      "name": "Barry Jacobsen",
-      "position": "FW",
-      "rating": 87,
-      "age": 16,
-      "value": 40000000
-    },
-    {
-      "name": "Dumi Russell",
-      "position": "FW",
-      "rating": 80,
-      "age": 21,
-      "value": 40000000
-    },
-    {
-      "name": "Jacob Rodr\u00edguez",
-      "position": "FW",
-      "rating": 78,
-      "age": 20,
-      "value": 40000000
-    },
-    {
-      "name": "Edgar Gustavsson",
-      "position": "FW",
-      "rating": 68,
       "age": 34,
-      "value": 21473684
+      "value": 16421052
     },
     {
-      "name": "Rohan West",
+      "name": "Zayden Flores",
+      "position": "DF",
+      "rating": 69,
+      "age": 16,
+      "value": 27600000
+    },
+    {
+      "name": "Adeola Ramirez",
+      "position": "DF",
+      "rating": 62,
+      "age": 25,
+      "value": 18926315
+    },
+    {
+      "name": "Tristan Larsson",
+      "position": "MF",
+      "rating": 64,
+      "age": 29,
+      "value": 20210526
+    },
+    {
+      "name": "Sean Henry",
+      "position": "MF",
+      "rating": 75,
+      "age": 28,
+      "value": 24631578
+    },
+    {
+      "name": "William Sanchez",
+      "position": "MF",
+      "rating": 63,
+      "age": 22,
+      "value": 25465263
+    },
+    {
+      "name": "Thabo Black",
+      "position": "MF",
+      "rating": 90,
+      "age": 26,
+      "value": 31831578
+    },
+    {
+      "name": "Oscar Perez",
+      "position": "MF",
+      "rating": 68,
+      "age": 22,
+      "value": 27486315
+    },
+    {
+      "name": "Orlando Kabiru",
+      "position": "MF",
+      "rating": 86,
+      "age": 21,
+      "value": 35848421
+    },
+    {
+      "name": "Marlon Olson",
       "position": "FW",
-      "rating": 70,
-      "age": 30,
-      "value": 26526315
+      "rating": 75,
+      "age": 31,
+      "value": 27236842
+    },
+    {
+      "name": "Luke Burke",
+      "position": "FW",
+      "rating": 62,
+      "age": 22,
+      "value": 31326315
+    },
+    {
+      "name": "Sam Bates",
+      "position": "FW",
+      "rating": 77,
+      "age": 22,
+      "value": 38905263
+    },
+    {
+      "name": "Tony French",
+      "position": "FW",
+      "rating": 81,
+      "age": 35,
+      "value": 24300000
+    },
+    {
+      "name": "Erik Farmer",
+      "position": "FW",
+      "rating": 76,
+      "age": 16,
+      "value": 40000000
     }
   ],
   "stadium": {
