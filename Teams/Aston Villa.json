@@ -2,144 +2,144 @@
   "name": "Aston Villa",
   "squad": [
     {
-      "name": "Benjamin Torres",
+      "name": "Soren Lubega",
       "position": "GK",
-      "rating": 78,
+      "rating": 65,
       "age": 26,
-      "value": 18391578
+      "value": 15326315
     },
     {
-      "name": "Torsten Norberg",
+      "name": "Anders Hart",
       "position": "GK",
-      "rating": 80,
-      "age": 33,
-      "value": 14147368
+      "rating": 70,
+      "age": 20,
+      "value": 20042105
     },
     {
-      "name": "George Rivera",
+      "name": "Tom\u00e1s Torres",
       "position": "GK",
-      "rating": 90,
-      "age": 26,
-      "value": 21221052
-    },
-    {
-      "name": "Mohammad Brooks",
-      "position": "DF",
       "rating": 84,
-      "age": 33,
-      "value": 18568421
+      "age": 29,
+      "value": 17684210
     },
     {
-      "name": "Theodore Fields",
+      "name": "Bryce Wright",
       "position": "DF",
-      "rating": 86,
-      "age": 19,
-      "value": 31684210
+      "rating": 90,
+      "age": 20,
+      "value": 32210526
     },
     {
-      "name": "Morgan Alvarez",
+      "name": "Wei-Lun Abebe",
       "position": "DF",
-      "rating": 86,
-      "age": 16,
-      "value": 34400000
+      "rating": 61,
+      "age": 29,
+      "value": 16052631
     },
     {
-      "name": "Antonio Cruz",
+      "name": "Kwame Suzuki",
       "position": "DF",
-      "rating": 67,
+      "rating": 71,
+      "age": 21,
+      "value": 24663157
+    },
+    {
+      "name": "Tyrone Goodman",
+      "position": "DF",
+      "rating": 80,
       "age": 17,
-      "value": 26094736
+      "value": 31157894
     },
     {
-      "name": "Brody Howard",
+      "name": "Zion Barnett",
+      "position": "DF",
+      "rating": 86,
+      "age": 20,
+      "value": 30778947
+    },
+    {
+      "name": "Marlon Henry",
       "position": "DF",
       "rating": 75,
-      "age": 32,
-      "value": 17368421
+      "age": 28,
+      "value": 20526315
     },
     {
-      "name": "Damien Freeman",
-      "position": "DF",
-      "rating": 83,
-      "age": 33,
-      "value": 18347368
-    },
-    {
-      "name": "Jorge Fuentes",
+      "name": "Kaito Nilsson",
       "position": "MF",
-      "rating": 60,
-      "age": 32,
-      "value": 16673684
+      "rating": 77,
+      "age": 26,
+      "value": 27233684
     },
     {
-      "name": "Vance Schneider",
+      "name": "Arjun Jordan",
       "position": "MF",
       "rating": 65,
-      "age": 32,
-      "value": 18063157
+      "age": 29,
+      "value": 20526315
     },
     {
-      "name": "Diego Morris",
+      "name": "Thabo Bergstrom",
       "position": "MF",
-      "rating": 69,
-      "age": 33,
-      "value": 18303157
+      "rating": 89,
+      "age": 25,
+      "value": 32602105
     },
     {
-      "name": "Kabelo Ibrahim",
-      "position": "MF",
-      "rating": 78,
-      "age": 21,
-      "value": 32513684
-    },
-    {
-      "name": "Noah Jansson",
-      "position": "MF",
-      "rating": 73,
-      "age": 26,
-      "value": 25818947
-    },
-    {
-      "name": "Rene Page",
+      "name": "Santiago Berg",
       "position": "MF",
       "rating": 81,
-      "age": 18,
-      "value": 36833684
+      "age": 30,
+      "value": 24555789
     },
     {
-      "name": "Lucas Westerlund",
-      "position": "FW",
-      "rating": 64,
-      "age": 28,
-      "value": 26273684
+      "name": "Beau Fox",
+      "position": "MF",
+      "rating": 87,
+      "age": 30,
+      "value": 26374736
     },
     {
-      "name": "Amir Clark",
-      "position": "FW",
-      "rating": 83,
-      "age": 16,
-      "value": 40000000
+      "name": "Alexander Morris",
+      "position": "MF",
+      "rating": 68,
+      "age": 32,
+      "value": 18896842
     },
     {
-      "name": "Kofi Benjumea",
+      "name": "Ruben Takahashi",
       "position": "FW",
-      "rating": 70,
-      "age": 16,
-      "value": 40000000
+      "rating": 89,
+      "age": 31,
+      "value": 32321052
     },
     {
-      "name": "Jamie Murphy",
+      "name": "Antonio Garc\u00eda",
       "position": "FW",
-      "rating": 85,
-      "age": 18,
-      "value": 40000000
+      "rating": 89,
+      "age": 34,
+      "value": 28105263
     },
     {
-      "name": "Quincy Oliver",
+      "name": "Ignacio Pena",
       "position": "FW",
-      "rating": 73,
+      "rating": 62,
+      "age": 34,
+      "value": 19578947
+    },
+    {
+      "name": "Axel Singh",
+      "position": "FW",
+      "rating": 88,
       "age": 17,
       "value": 40000000
+    },
+    {
+      "name": "Anurak Reyes",
+      "position": "FW",
+      "rating": 64,
+      "age": 24,
+      "value": 30315789
     }
   ],
   "stadium": {

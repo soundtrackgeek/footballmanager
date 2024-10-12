@@ -2,144 +2,144 @@
   "name": "West Ham",
   "squad": [
     {
-      "name": "George Rivera",
+      "name": "Suraj Kim",
       "position": "GK",
-      "rating": 81,
-      "age": 31,
-      "value": 15688421
+      "rating": 80,
+      "age": 21,
+      "value": 22231578
     },
     {
-      "name": "Mohammad Brooks",
+      "name": "Kato Mitchell",
+      "position": "GK",
+      "rating": 70,
+      "age": 33,
+      "value": 12378947
+    },
+    {
+      "name": "Frederick Le\u00f3n",
       "position": "GK",
       "rating": 78,
-      "age": 31,
-      "value": 15107368
-    },
-    {
-      "name": "Brian Richardson",
-      "position": "GK",
-      "rating": 88,
-      "age": 25,
-      "value": 21490526
-    },
-    {
-      "name": "Devin Rogers",
-      "position": "DF",
-      "rating": 86,
-      "age": 20,
-      "value": 30778947
-    },
-    {
-      "name": "Cian Hayes",
-      "position": "DF",
-      "rating": 84,
-      "age": 28,
+      "age": 19,
       "value": 22989473
     },
     {
-      "name": "Danny Scott",
+      "name": "Babatunde Chen",
+      "position": "DF",
+      "rating": 85,
+      "age": 19,
+      "value": 31315789
+    },
+    {
+      "name": "Rafael Jimenez",
+      "position": "DF",
+      "rating": 71,
+      "age": 18,
+      "value": 26905263
+    },
+    {
+      "name": "Rory Hart",
+      "position": "DF",
+      "rating": 87,
+      "age": 25,
+      "value": 26557894
+    },
+    {
+      "name": "Javier Pena",
+      "position": "DF",
+      "rating": 74,
+      "age": 18,
+      "value": 28042105
+    },
+    {
+      "name": "Caden Kim",
       "position": "DF",
       "rating": 68,
-      "age": 24,
-      "value": 21473684
+      "age": 28,
+      "value": 18610526
     },
     {
-      "name": "Erik Cunningham",
-      "position": "DF",
-      "rating": 67,
-      "age": 27,
-      "value": 19042105
-    },
-    {
-      "name": "Barack Mitchell",
+      "name": "Frank Diaz",
       "position": "DF",
       "rating": 73,
       "age": 18,
       "value": 27663157
     },
     {
-      "name": "Raul Knox",
-      "position": "DF",
-      "rating": 89,
-      "age": 20,
-      "value": 31852631
-    },
-    {
-      "name": "Bhekizizwe Abiola",
+      "name": "Nuru Murphy",
       "position": "MF",
-      "rating": 72,
-      "age": 20,
-      "value": 30922105
+      "rating": 87,
+      "age": 19,
+      "value": 38463157
     },
     {
-      "name": "Sanjay Joshi",
+      "name": "Benjamin Chukwu",
+      "position": "MF",
+      "rating": 86,
+      "age": 29,
+      "value": 27157894
+    },
+    {
+      "name": "Adrian Sanchez",
+      "position": "MF",
+      "rating": 69,
+      "age": 18,
+      "value": 31376842
+    },
+    {
+      "name": "Guy Cohen",
       "position": "MF",
       "rating": 84,
-      "age": 33,
-      "value": 22282105
+      "age": 24,
+      "value": 31831578
     },
     {
-      "name": "Hugo Navarro",
+      "name": "Luis Stewart",
       "position": "MF",
-      "rating": 90,
-      "age": 22,
-      "value": 36378947
+      "rating": 62,
+      "age": 21,
+      "value": 25844210
     },
     {
-      "name": "Kolby Mills",
+      "name": "Kenji Benjumea",
       "position": "MF",
-      "rating": 60,
-      "age": 17,
-      "value": 28042105
-    },
-    {
-      "name": "William Bates",
-      "position": "MF",
-      "rating": 80,
-      "age": 18,
-      "value": 36378947
-    },
-    {
-      "name": "William Bates",
-      "position": "MF",
-      "rating": 81,
-      "age": 22,
-      "value": 32741052
-    },
-    {
-      "name": "Pranav Liu",
-      "position": "FW",
-      "rating": 64,
-      "age": 33,
-      "value": 21221052
-    },
-    {
-      "name": "Jae Seo",
-      "position": "FW",
       "rating": 71,
-      "age": 17,
-      "value": 40000000
-    },
-    {
-      "name": "Quincy Oliver",
-      "position": "FW",
-      "rating": 75,
-      "age": 22,
-      "value": 37894736
-    },
-    {
-      "name": "Kenji Jung",
-      "position": "FW",
-      "rating": 78,
       "age": 16,
+      "value": 34080000
+    },
+    {
+      "name": "Jeremy Morris",
+      "position": "FW",
+      "rating": 88,
+      "age": 25,
       "value": 40000000
     },
     {
-      "name": "Shawn Newman",
+      "name": "Brian Rasmussen",
       "position": "FW",
-      "rating": 80,
-      "age": 30,
-      "value": 30315789
+      "rating": 70,
+      "age": 24,
+      "value": 33157894
+    },
+    {
+      "name": "Stewart Barnett",
+      "position": "FW",
+      "rating": 74,
+      "age": 31,
+      "value": 26873684
+    },
+    {
+      "name": "Anton Rice",
+      "position": "FW",
+      "rating": 84,
+      "age": 23,
+      "value": 40000000
+    },
+    {
+      "name": "Lee Bell",
+      "position": "FW",
+      "rating": 81,
+      "age": 20,
+      "value": 40000000
     }
   ],
   "stadium": {

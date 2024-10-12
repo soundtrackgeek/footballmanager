@@ -2,144 +2,144 @@
   "name": "Fulham",
   "squad": [
     {
-      "name": "Lincoln Burke",
+      "name": "Daniel Gomez",
       "position": "GK",
-      "rating": 83,
-      "age": 34,
-      "value": 13978947
-    },
-    {
-      "name": "Santiago Silva",
-      "position": "GK",
-      "rating": 80,
-      "age": 31,
-      "value": 15494736
-    },
-    {
-      "name": "Jae Seo",
-      "position": "GK",
-      "rating": 63,
-      "age": 32,
-      "value": 11671578
-    },
-    {
-      "name": "Aziz Campbell",
-      "position": "DF",
-      "rating": 80,
-      "age": 22,
-      "value": 26947368
-    },
-    {
-      "name": "Allan Lee",
-      "position": "DF",
-      "rating": 79,
-      "age": 21,
-      "value": 27442105
-    },
-    {
-      "name": "Max Andrews",
-      "position": "DF",
-      "rating": 90,
-      "age": 24,
-      "value": 28421052
-    },
-    {
-      "name": "Mohammad Brooks",
-      "position": "DF",
-      "rating": 71,
-      "age": 20,
-      "value": 25410526
-    },
-    {
-      "name": "Hector Salazar",
-      "position": "DF",
-      "rating": 60,
-      "age": 29,
-      "value": 15789473
-    },
-    {
-      "name": "Clayton Fisher",
-      "position": "DF",
       "rating": 75,
-      "age": 18,
-      "value": 28421052
-    },
-    {
-      "name": "Francisco Rom\u00e1n",
-      "position": "MF",
-      "rating": 74,
-      "age": 29,
-      "value": 23368421
-    },
-    {
-      "name": "Harry Holmes",
-      "position": "MF",
-      "rating": 82,
       "age": 26,
-      "value": 29002105
+      "value": 17684210
     },
     {
-      "name": "Vidar S\u00f6derberg",
-      "position": "MF",
-      "rating": 88,
-      "age": 29,
-      "value": 27789473
-    },
-    {
-      "name": "Ming Park",
-      "position": "MF",
+      "name": "Kenji Lindholm",
+      "position": "GK",
       "rating": 64,
-      "age": 30,
-      "value": 19402105
-    },
-    {
-      "name": "Leandro Reid",
-      "position": "MF",
-      "rating": 68,
       "age": 31,
-      "value": 19755789
+      "value": 12395789
     },
     {
-      "name": "Hassan French",
+      "name": "Yuki Reid",
+      "position": "GK",
+      "rating": 66,
+      "age": 35,
+      "value": 10560000
+    },
+    {
+      "name": "Ismael Holt",
+      "position": "DF",
+      "rating": 66,
+      "age": 27,
+      "value": 18757894
+    },
+    {
+      "name": "Mitchell Olson",
+      "position": "DF",
+      "rating": 70,
+      "age": 30,
+      "value": 17684210
+    },
+    {
+      "name": "Jesse Gomez",
+      "position": "DF",
+      "rating": 67,
+      "age": 35,
+      "value": 13400000
+    },
+    {
+      "name": "Bruno Rodriguez",
+      "position": "DF",
+      "rating": 88,
+      "age": 32,
+      "value": 20378947
+    },
+    {
+      "name": "Mohamed Sj\u00f6berg",
+      "position": "DF",
+      "rating": 62,
+      "age": 26,
+      "value": 18273684
+    },
+    {
+      "name": "Garrett Gomes",
+      "position": "DF",
+      "rating": 65,
+      "age": 31,
+      "value": 15736842
+    },
+    {
+      "name": "Weston Reid",
       "position": "MF",
-      "rating": 89,
+      "rating": 78,
       "age": 28,
-      "value": 29229473
+      "value": 25616842
     },
     {
-      "name": "Isak Holmberg",
+      "name": "Felix Fox",
+      "position": "MF",
+      "rating": 84,
+      "age": 23,
+      "value": 32892631
+    },
+    {
+      "name": "Angel Rodr\u00edguez",
+      "position": "MF",
+      "rating": 66,
+      "age": 26,
+      "value": 23343157
+    },
+    {
+      "name": "Steve Hill",
+      "position": "MF",
+      "rating": 85,
+      "age": 22,
+      "value": 34357894
+    },
+    {
+      "name": "Ping Kwon",
+      "position": "MF",
+      "rating": 81,
+      "age": 29,
+      "value": 25578947
+    },
+    {
+      "name": "Patrick Mitchell",
+      "position": "MF",
+      "rating": 87,
+      "age": 27,
+      "value": 29671578
+    },
+    {
+      "name": "Harold Kareem",
       "position": "FW",
-      "rating": 77,
+      "rating": 85,
+      "age": 30,
+      "value": 32210526
+    },
+    {
+      "name": "Abraham Ulfsson",
+      "position": "FW",
+      "rating": 66,
+      "age": 17,
+      "value": 38557894
+    },
+    {
+      "name": "Kingston Stewart",
+      "position": "FW",
+      "rating": 80,
+      "age": 24,
+      "value": 37894736
+    },
+    {
+      "name": "Isak Biko",
+      "position": "FW",
+      "rating": 67,
+      "age": 27,
+      "value": 28563157
+    },
+    {
+      "name": "Ralph Ross",
+      "position": "FW",
+      "rating": 82,
       "age": 16,
       "value": 40000000
-    },
-    {
-      "name": "Quentin Rowe",
-      "position": "FW",
-      "rating": 82,
-      "age": 30,
-      "value": 31073684
-    },
-    {
-      "name": "Eugene Burke",
-      "position": "FW",
-      "rating": 90,
-      "age": 29,
-      "value": 35526315
-    },
-    {
-      "name": "David Brooks",
-      "position": "FW",
-      "rating": 90,
-      "age": 24,
-      "value": 40000000
-    },
-    {
-      "name": "Kyle Hamilton",
-      "position": "FW",
-      "rating": 75,
-      "age": 29,
-      "value": 29605263
     }
   ],
   "stadium": {

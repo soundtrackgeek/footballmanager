@@ -13,6 +13,10 @@ class Player:
     with open('playernames.csv', 'r', encoding='utf-8') as file:
         reader = csv.reader(file)
         names = list(reader)
+    
+    # Separate first names and surnames
+    first_names = [row[0] for row in names]
+    surnames = [row[1] for row in names]
 
     def __init__(self, name, position, rating):
         self.name = name
@@ -49,9 +53,10 @@ class Player:
 
     @classmethod
     def generate_player(cls, position):
-        # Choose a random first name and last name from the loaded names
-        first_name, last_name = random.choice(cls.names)
-        name = f"{first_name} {last_name}"
+        # Choose a random first name and surname independently
+        first_name = random.choice(cls.first_names)
+        surname = random.choice(cls.surnames)
+        name = f"{first_name} {surname}"
         rating = random.randint(60, 90)
         return cls(name, Position[position], rating)
 

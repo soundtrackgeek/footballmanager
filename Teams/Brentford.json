@@ -2,144 +2,144 @@
   "name": "Brentford",
   "squad": [
     {
-      "name": "Tao Wang",
+      "name": "Ricardo Hart",
       "position": "GK",
+      "rating": 70,
+      "age": 34,
+      "value": 11789473
+    },
+    {
+      "name": "Haruto Stone",
+      "position": "GK",
+      "rating": 89,
+      "age": 18,
+      "value": 26981052
+    },
+    {
+      "name": "Leonel Choi",
+      "position": "GK",
+      "rating": 62,
+      "age": 24,
+      "value": 15663157
+    },
+    {
+      "name": "Johan Powell",
+      "position": "DF",
+      "rating": 60,
+      "age": 29,
+      "value": 15789473
+    },
+    {
+      "name": "Lewis Mabena",
+      "position": "DF",
+      "rating": 73,
+      "age": 27,
+      "value": 20747368
+    },
+    {
+      "name": "Brandon Cabrera",
+      "position": "DF",
+      "rating": 74,
+      "age": 23,
+      "value": 24147368
+    },
+    {
+      "name": "Miguel White",
+      "position": "DF",
+      "rating": 89,
+      "age": 30,
+      "value": 22484210
+    },
+    {
+      "name": "Josiah Ramirez",
+      "position": "DF",
+      "rating": 75,
+      "age": 32,
+      "value": 17368421
+    },
+    {
+      "name": "Andrew Burke",
+      "position": "DF",
       "rating": 72,
       "age": 32,
-      "value": 13338947
+      "value": 16673684
     },
     {
-      "name": "Martin Sandberg",
-      "position": "GK",
-      "rating": 83,
-      "age": 18,
-      "value": 25162105
-    },
-    {
-      "name": "Rafael Morales",
-      "position": "GK",
-      "rating": 80,
-      "age": 29,
-      "value": 16842105
-    },
-    {
-      "name": "Vidar S\u00f6derberg",
-      "position": "DF",
-      "rating": 82,
-      "age": 23,
-      "value": 26757894
-    },
-    {
-      "name": "Jesse Palmer",
-      "position": "DF",
-      "rating": 65,
-      "age": 29,
-      "value": 17105263
-    },
-    {
-      "name": "Paige Franklin",
-      "position": "DF",
-      "rating": 66,
-      "age": 32,
-      "value": 15284210
-    },
-    {
-      "name": "Kato Kwamena",
-      "position": "DF",
-      "rating": 66,
-      "age": 20,
-      "value": 23621052
-    },
-    {
-      "name": "Kevin Whitaker",
-      "position": "DF",
-      "rating": 90,
-      "age": 18,
-      "value": 34105263
-    },
-    {
-      "name": "Sim\u00f3n Vega",
-      "position": "DF",
-      "rating": 88,
-      "age": 29,
-      "value": 23157894
-    },
-    {
-      "name": "Wesley Olson",
+      "name": "Giovanni Ross",
       "position": "MF",
-      "rating": 64,
-      "age": 24,
-      "value": 24252631
-    },
-    {
-      "name": "Agust\u00edn Molina",
-      "position": "MF",
-      "rating": 81,
-      "age": 26,
-      "value": 28648421
-    },
-    {
-      "name": "Derek Coleman",
-      "position": "MF",
-      "rating": 87,
-      "age": 30,
-      "value": 26374736
-    },
-    {
-      "name": "Stephen Williamson",
-      "position": "MF",
-      "rating": 71,
+      "rating": 73,
       "age": 27,
-      "value": 24214736
+      "value": 24896842
     },
     {
-      "name": "Max Andrews",
+      "name": "Pedro Benson",
       "position": "MF",
-      "rating": 60,
-      "age": 31,
-      "value": 17431578
+      "rating": 62,
+      "age": 29,
+      "value": 19578947
     },
     {
-      "name": "Suraj Gao",
+      "name": "Keith Cohen",
       "position": "MF",
-      "rating": 69,
-      "age": 25,
-      "value": 25275789
-    },
-    {
-      "name": "Pedro Bradley",
-      "position": "FW",
-      "rating": 69,
+      "rating": 84,
       "age": 20,
-      "value": 37042105
+      "value": 36075789
     },
     {
-      "name": "Jabari Ciss\u00e9",
+      "name": "Dustin Hamilton",
+      "position": "MF",
+      "rating": 62,
+      "age": 22,
+      "value": 25061052
+    },
+    {
+      "name": "Roland Pena",
+      "position": "MF",
+      "rating": 86,
+      "age": 25,
+      "value": 31503157
+    },
+    {
+      "name": "Lyle Richards",
+      "position": "MF",
+      "rating": 69,
+      "age": 28,
+      "value": 22661052
+    },
+    {
+      "name": "Alan Lopez",
       "position": "FW",
-      "rating": 82,
+      "rating": 78,
       "age": 23,
+      "value": 38178947
+    },
+    {
+      "name": "Guy Howard",
+      "position": "FW",
+      "rating": 76,
+      "age": 21,
+      "value": 39600000
+    },
+    {
+      "name": "Owen Patel",
+      "position": "FW",
+      "rating": 78,
+      "age": 21,
       "value": 40000000
     },
     {
-      "name": "Dwayne Washington",
+      "name": "Orlando Nguyen",
       "position": "FW",
-      "rating": 69,
+      "rating": 76,
       "age": 21,
-      "value": 35952631
+      "value": 39600000
     },
     {
-      "name": "Ping Matsumoto",
+      "name": "Bryce Mabena",
       "position": "FW",
-      "rating": 66,
-      "age": 30,
-      "value": 25010526
-    },
-    {
-      "name": "Adeola Dias",
-      "position": "FW",
-      "rating": 85,
-      "age": 35,
-      "value": 25500000
+      "rating": 67,
+      "age": 24,
+      "value": 31736842
     }
   ],
   "stadium": {

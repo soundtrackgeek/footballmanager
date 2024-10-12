@@ -2,144 +2,144 @@
   "name": "Wolves",
   "squad": [
     {
-      "name": "Femi Toure",
+      "name": "Waylon Vestergaard",
       "position": "GK",
-      "rating": 89,
-      "age": 19,
-      "value": 26231578
+      "rating": 90,
+      "age": 25,
+      "value": 21978947
     },
     {
-      "name": "Ivan Fuller",
+      "name": "Darren Knox",
       "position": "GK",
-      "rating": 72,
-      "age": 31,
-      "value": 13945263
+      "rating": 61,
+      "age": 29,
+      "value": 12842105
     },
     {
-      "name": "Roman Goodman",
+      "name": "Antonio Dean",
       "position": "GK",
-      "rating": 64,
-      "age": 17,
-      "value": 19941052
+      "rating": 61,
+      "age": 29,
+      "value": 12842105
     },
     {
-      "name": "Lucas Westerlund",
+      "name": "Angel Freeman",
       "position": "DF",
-      "rating": 64,
-      "age": 30,
-      "value": 16168421
+      "rating": 78,
+      "age": 20,
+      "value": 27915789
     },
     {
-      "name": "Kenny Kim",
+      "name": "Toby Flores",
       "position": "DF",
-      "rating": 83,
-      "age": 18,
-      "value": 31452631
+      "rating": 75,
+      "age": 28,
+      "value": 20526315
     },
     {
-      "name": "Frederick Morrison",
+      "name": "Manuel Reid",
+      "position": "DF",
+      "rating": 78,
+      "age": 25,
+      "value": 23810526
+    },
+    {
+      "name": "Tyrone Franklin",
+      "position": "DF",
+      "rating": 62,
+      "age": 24,
+      "value": 19578947
+    },
+    {
+      "name": "Kwabena Reyes",
+      "position": "DF",
+      "rating": 86,
+      "age": 29,
+      "value": 22631578
+    },
+    {
+      "name": "Adan Parsons",
       "position": "DF",
       "rating": 65,
+      "age": 35,
+      "value": 13000000
+    },
+    {
+      "name": "Damien Fox",
+      "position": "MF",
+      "rating": 62,
       "age": 26,
-      "value": 19157894
+      "value": 21928421
     },
     {
-      "name": "Masashi Feng",
-      "position": "DF",
-      "rating": 83,
-      "age": 33,
-      "value": 18347368
-    },
-    {
-      "name": "Jeremiah Dean",
-      "position": "DF",
-      "rating": 83,
-      "age": 31,
-      "value": 20094736
-    },
-    {
-      "name": "Ricardo Perry",
-      "position": "DF",
-      "rating": 82,
-      "age": 30,
-      "value": 20715789
-    },
-    {
-      "name": "Jett Hicks",
+      "name": "Aziz Watkins",
       "position": "MF",
-      "rating": 71,
-      "age": 21,
-      "value": 29595789
+      "rating": 85,
+      "age": 19,
+      "value": 37578947
     },
     {
-      "name": "Russell Fuller",
+      "name": "Adan Franklin",
       "position": "MF",
-      "rating": 89,
-      "age": 30,
-      "value": 26981052
-    },
-    {
-      "name": "Ravi Patel",
-      "position": "MF",
-      "rating": 64,
-      "age": 16,
-      "value": 30720000
-    },
-    {
-      "name": "Juan Silva",
-      "position": "MF",
-      "rating": 66,
-      "age": 30,
+      "rating": 72,
+      "age": 32,
       "value": 20008421
     },
     {
-      "name": "Adekunle Kareem",
+      "name": "Daryl Singh",
       "position": "MF",
-      "rating": 68,
+      "rating": 70,
       "age": 26,
-      "value": 24050526
+      "value": 24757894
     },
     {
-      "name": "Joaquin Hayes",
+      "name": "Logan Arnold",
       "position": "MF",
-      "rating": 72,
-      "age": 18,
-      "value": 32741052
-    },
-    {
-      "name": "Simon Mikkelsen",
-      "position": "FW",
-      "rating": 77,
-      "age": 32,
-      "value": 26747368
-    },
-    {
-      "name": "Zola Jansen",
-      "position": "FW",
-      "rating": 67,
-      "age": 16,
-      "value": 40000000
-    },
-    {
-      "name": "Lukas Ramirez",
-      "position": "FW",
-      "rating": 64,
-      "age": 20,
-      "value": 34357894
-    },
-    {
-      "name": "Fredrik Thomsen",
-      "position": "FW",
       "rating": 68,
       "age": 30,
-      "value": 25768421
+      "value": 20614736
     },
     {
-      "name": "Kwame Onyango",
+      "name": "Dustin Garza",
+      "position": "MF",
+      "rating": 73,
+      "age": 18,
+      "value": 33195789
+    },
+    {
+      "name": "Anthony Peters",
       "position": "FW",
-      "rating": 77,
-      "age": 16,
-      "value": 40000000
+      "rating": 67,
+      "age": 24,
+      "value": 31736842
+    },
+    {
+      "name": "Amari Parker",
+      "position": "FW",
+      "rating": 82,
+      "age": 31,
+      "value": 29778947
+    },
+    {
+      "name": "Chris Murphy",
+      "position": "FW",
+      "rating": 86,
+      "age": 25,
+      "value": 39378947
+    },
+    {
+      "name": "Tobias Bowman",
+      "position": "FW",
+      "rating": 79,
+      "age": 34,
+      "value": 24947368
+    },
+    {
+      "name": "Sergio Long",
+      "position": "FW",
+      "rating": 68,
+      "age": 27,
+      "value": 28989473
     }
   ],
   "stadium": {

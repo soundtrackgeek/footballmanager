@@ -2,144 +2,144 @@
   "name": "Manchester United",
   "squad": [
     {
-      "name": "Axel Adams",
-      "position": "GK",
-      "rating": 87,
-      "age": 25,
-      "value": 21246315
-    },
-    {
-      "name": "Santiago Reyes",
+      "name": "Lucas Green",
       "position": "GK",
       "rating": 64,
-      "age": 17,
-      "value": 19941052
+      "age": 34,
+      "value": 10778947
     },
     {
-      "name": "Lars Andersen",
+      "name": "Brantley Hayes",
       "position": "GK",
-      "rating": 75,
+      "rating": 65,
       "age": 25,
-      "value": 18315789
+      "value": 15873684
     },
     {
-      "name": "Jeffrey Fisher",
-      "position": "DF",
+      "name": "Alejandro Castillo",
+      "position": "GK",
       "rating": 73,
-      "age": 20,
-      "value": 26126315
+      "age": 19,
+      "value": 21515789
     },
     {
-      "name": "Milton Blake",
-      "position": "DF",
-      "rating": 85,
-      "age": 21,
-      "value": 29526315
-    },
-    {
-      "name": "Eugene Burke",
-      "position": "DF",
-      "rating": 80,
-      "age": 28,
-      "value": 21894736
-    },
-    {
-      "name": "Simon Bates",
+      "name": "Min-jun Washington",
       "position": "DF",
       "rating": 77,
-      "age": 26,
-      "value": 22694736
+      "age": 17,
+      "value": 29989473
     },
     {
-      "name": "Sergio Morgan",
+      "name": "Jayson Nakamura",
       "position": "DF",
-      "rating": 80,
-      "age": 28,
-      "value": 21894736
-    },
-    {
-      "name": "Guillermo Gray",
-      "position": "DF",
-      "rating": 68,
-      "age": 18,
-      "value": 25768421
-    },
-    {
-      "name": "Lars Andersen",
-      "position": "MF",
       "rating": 83,
-      "age": 30,
-      "value": 25162105
+      "age": 22,
+      "value": 27957894
     },
     {
-      "name": "Tumelo Ekwueme",
+      "name": "Soren Jenkins",
+      "position": "DF",
+      "rating": 75,
+      "age": 20,
+      "value": 26842105
+    },
+    {
+      "name": "Mikkel Franklin",
+      "position": "DF",
+      "rating": 83,
+      "age": 25,
+      "value": 25336842
+    },
+    {
+      "name": "Mat\u00edas Ferguson",
+      "position": "DF",
+      "rating": 63,
+      "age": 32,
+      "value": 14589473
+    },
+    {
+      "name": "Alan Gray",
+      "position": "DF",
+      "rating": 67,
+      "age": 17,
+      "value": 26094736
+    },
+    {
+      "name": "Mathew Singh",
       "position": "MF",
-      "rating": 82,
-      "age": 19,
-      "value": 36252631
+      "rating": 81,
+      "age": 29,
+      "value": 25578947
     },
     {
-      "name": "Leslie Griffin",
+      "name": "Miguel Holt",
       "position": "MF",
-      "rating": 86,
-      "age": 24,
-      "value": 32589473
+      "rating": 81,
+      "age": 33,
+      "value": 21486315
     },
     {
-      "name": "Adri\u00e1n Cabrera",
+      "name": "Dominic Brown",
+      "position": "MF",
+      "rating": 70,
+      "age": 22,
+      "value": 28294736
+    },
+    {
+      "name": "Aedan Page",
       "position": "MF",
       "rating": 68,
-      "age": 16,
-      "value": 32640000
+      "age": 23,
+      "value": 26627368
     },
     {
-      "name": "Colin Ross",
+      "name": "Haruki Griffin",
       "position": "MF",
-      "rating": 82,
-      "age": 35,
-      "value": 19680000
+      "rating": 72,
+      "age": 20,
+      "value": 30922105
     },
     {
-      "name": "Izaiah Banks",
+      "name": "Lars Webb",
       "position": "MF",
+      "rating": 62,
+      "age": 29,
+      "value": 19578947
+    },
+    {
+      "name": "Babatunde Palmer",
+      "position": "FW",
       "rating": 84,
-      "age": 32,
-      "value": 23343157
+      "age": 28,
+      "value": 34484210
     },
     {
-      "name": "Hayden Manning",
+      "name": "Francisco Mitchell",
+      "position": "FW",
+      "rating": 63,
+      "age": 28,
+      "value": 25863157
+    },
+    {
+      "name": "Ling Joshi",
       "position": "FW",
       "rating": 76,
-      "age": 17,
-      "value": 40000000
+      "age": 27,
+      "value": 32400000
     },
     {
-      "name": "Dumi Pepper",
-      "position": "FW",
-      "rating": 68,
-      "age": 21,
-      "value": 35431578
-    },
-    {
-      "name": "Mathew Howard",
-      "position": "FW",
-      "rating": 74,
-      "age": 22,
-      "value": 37389473
-    },
-    {
-      "name": "Bo Barnes",
+      "name": "Elliot Bowman",
       "position": "FW",
       "rating": 86,
-      "age": 17,
-      "value": 40000000
+      "age": 35,
+      "value": 25800000
     },
     {
-      "name": "Gavin Pena",
+      "name": "Sean Hart",
       "position": "FW",
-      "rating": 66,
-      "age": 25,
-      "value": 30221052
+      "rating": 82,
+      "age": 29,
+      "value": 32368421
     }
   ],
   "stadium": {

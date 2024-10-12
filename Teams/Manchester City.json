@@ -2,144 +2,144 @@
   "name": "Manchester City",
   "squad": [
     {
-      "name": "Javier Mendoza",
+      "name": "Remington Ramirez",
       "position": "GK",
-      "rating": 75,
-      "age": 19,
-      "value": 22105263
+      "rating": 82,
+      "age": 33,
+      "value": 14501052
     },
     {
-      "name": "Alexander Moore",
+      "name": "Leo Andersen",
       "position": "GK",
-      "rating": 86,
-      "age": 34,
-      "value": 14484210
+      "rating": 60,
+      "age": 25,
+      "value": 14652631
     },
     {
-      "name": "Thomas Little",
+      "name": "Xavier Brown",
       "position": "GK",
-      "rating": 66,
-      "age": 23,
-      "value": 17229473
+      "rating": 74,
+      "age": 32,
+      "value": 13709473
     },
     {
-      "name": "Musa Patel",
+      "name": "Jake Goodman",
+      "position": "DF",
+      "rating": 78,
+      "age": 22,
+      "value": 26273684
+    },
+    {
+      "name": "Simon Bailey",
+      "position": "DF",
+      "rating": 82,
+      "age": 32,
+      "value": 18989473
+    },
+    {
+      "name": "Jae Kim",
       "position": "DF",
       "rating": 90,
       "age": 31,
       "value": 21789473
     },
     {
-      "name": "Tony Higgins",
+      "name": "Nicol\u00e1s West",
+      "position": "DF",
+      "rating": 74,
+      "age": 34,
+      "value": 15578947
+    },
+    {
+      "name": "Patrick Ulfsson",
+      "position": "DF",
+      "rating": 77,
+      "age": 22,
+      "value": 25936842
+    },
+    {
+      "name": "Noah Li",
       "position": "DF",
       "rating": 90,
-      "age": 30,
-      "value": 22736842
+      "age": 27,
+      "value": 25578947
     },
     {
-      "name": "Tyrone Griffin",
-      "position": "DF",
-      "rating": 63,
-      "age": 28,
-      "value": 17242105
-    },
-    {
-      "name": "Samuel Cohen",
-      "position": "DF",
-      "rating": 79,
-      "age": 33,
-      "value": 17463157
-    },
-    {
-      "name": "Alejandro Morales",
-      "position": "DF",
-      "rating": 60,
-      "age": 30,
-      "value": 15157894
-    },
-    {
-      "name": "Finn Olsen",
-      "position": "DF",
-      "rating": 72,
-      "age": 23,
-      "value": 23494736
-    },
-    {
-      "name": "Clark Myers",
+      "name": "Cael Griffin",
       "position": "MF",
       "rating": 88,
-      "age": 28,
-      "value": 28901052
+      "age": 20,
+      "value": 37793684
     },
     {
-      "name": "Sven J\u00f8rgensen",
-      "position": "MF",
-      "rating": 62,
-      "age": 35,
-      "value": 14880000
-    },
-    {
-      "name": "Mathew Howard",
-      "position": "MF",
-      "rating": 78,
-      "age": 17,
-      "value": 36454736
-    },
-    {
-      "name": "Daniel Lopez",
-      "position": "MF",
-      "rating": 63,
-      "age": 28,
-      "value": 20690526
-    },
-    {
-      "name": "Kyle Hamilton",
-      "position": "MF",
-      "rating": 76,
-      "age": 29,
-      "value": 24000000
-    },
-    {
-      "name": "Amir Verma",
+      "name": "Mario Thomas",
       "position": "MF",
       "rating": 85,
-      "age": 21,
-      "value": 35431578
+      "age": 35,
+      "value": 20400000
     },
     {
-      "name": "Brandon Murphy",
-      "position": "FW",
-      "rating": 81,
-      "age": 30,
-      "value": 30694736
+      "name": "Stanley Morgan",
+      "position": "MF",
+      "rating": 72,
+      "age": 34,
+      "value": 18189473
     },
     {
-      "name": "Anurak Nguyen",
-      "position": "FW",
-      "rating": 66,
-      "age": 28,
-      "value": 27094736
+      "name": "Gregory Ramirez",
+      "position": "MF",
+      "rating": 72,
+      "age": 16,
+      "value": 34560000
     },
     {
-      "name": "Daichi Zhu",
-      "position": "FW",
-      "rating": 87,
-      "age": 17,
-      "value": 40000000
+      "name": "Yusuf Kimura",
+      "position": "MF",
+      "rating": 83,
+      "age": 22,
+      "value": 33549473
     },
     {
-      "name": "Rune Lindholm",
-      "position": "FW",
-      "rating": 84,
-      "age": 17,
-      "value": 40000000
-    },
-    {
-      "name": "Bart Phillips",
-      "position": "FW",
-      "rating": 86,
+      "name": "Chad Jansson",
+      "position": "MF",
+      "rating": 68,
       "age": 20,
+      "value": 29204210
+    },
+    {
+      "name": "Henrik Wheeler",
+      "position": "FW",
+      "rating": 72,
+      "age": 18,
       "value": 40000000
+    },
+    {
+      "name": "Andrew Han",
+      "position": "FW",
+      "rating": 74,
+      "age": 18,
+      "value": 40000000
+    },
+    {
+      "name": "Marshall Cooper",
+      "position": "FW",
+      "rating": 88,
+      "age": 24,
+      "value": 40000000
+    },
+    {
+      "name": "Obi Solberg",
+      "position": "FW",
+      "rating": 69,
+      "age": 16,
+      "value": 40000000
+    },
+    {
+      "name": "Agust\u00edn Dias",
+      "position": "FW",
+      "rating": 69,
+      "age": 22,
+      "value": 34863157
     }
   ],
   "stadium": {

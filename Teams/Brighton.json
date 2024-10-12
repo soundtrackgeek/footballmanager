@@ -2,144 +2,144 @@
   "name": "Brighton",
   "squad": [
     {
-      "name": "Kyle Hamilton",
+      "name": "Karl Freeman",
       "position": "GK",
-      "rating": 83,
-      "age": 25,
-      "value": 20269473
-    },
-    {
-      "name": "Alex  Taylor",
-      "position": "GK",
-      "rating": 69,
-      "age": 33,
-      "value": 12202105
-    },
-    {
-      "name": "Damon Wheeler",
-      "position": "GK",
-      "rating": 86,
-      "age": 30,
-      "value": 17381052
-    },
-    {
-      "name": "Marcus Gordon",
-      "position": "DF",
-      "rating": 65,
-      "age": 32,
-      "value": 15052631
-    },
-    {
-      "name": "Adeyemi Nkosi",
-      "position": "DF",
-      "rating": 65,
-      "age": 25,
-      "value": 19842105
-    },
-    {
-      "name": "Felix Palmer",
-      "position": "DF",
-      "rating": 67,
-      "age": 27,
-      "value": 19042105
-    },
-    {
-      "name": "Tristan Webster",
-      "position": "DF",
-      "rating": 73,
-      "age": 30,
-      "value": 18442105
-    },
-    {
-      "name": "Dwayne Washington",
-      "position": "DF",
       "rating": 81,
-      "age": 17,
-      "value": 31547368
+      "age": 28,
+      "value": 17734736
     },
     {
-      "name": "Chase Bryant",
+      "name": "Kwame Marsh",
+      "position": "GK",
+      "rating": 61,
+      "age": 17,
+      "value": 19006315
+    },
+    {
+      "name": "Angelo Benson",
+      "position": "GK",
+      "rating": 61,
+      "age": 18,
+      "value": 18492631
+    },
+    {
+      "name": "Aditya Brooks",
+      "position": "DF",
+      "rating": 70,
+      "age": 16,
+      "value": 28000000
+    },
+    {
+      "name": "Ekon Benson",
       "position": "DF",
       "rating": 72,
-      "age": 18,
-      "value": 27284210
+      "age": 17,
+      "value": 28042105
     },
     {
-      "name": "Oliver Morgan",
+      "name": "Pablo Dean",
+      "position": "DF",
+      "rating": 72,
+      "age": 30,
+      "value": 18189473
+    },
+    {
+      "name": "Jeremy Gray",
+      "position": "DF",
+      "rating": 72,
+      "age": 33,
+      "value": 15915789
+    },
+    {
+      "name": "Haruki Kim",
+      "position": "DF",
+      "rating": 90,
+      "age": 17,
+      "value": 35052631
+    },
+    {
+      "name": "Jonathan Franklin",
+      "position": "DF",
+      "rating": 77,
+      "age": 26,
+      "value": 22694736
+    },
+    {
+      "name": "Mario Morris",
       "position": "MF",
-      "rating": 75,
-      "age": 27,
-      "value": 25578947
-    },
-    {
-      "name": "Pedro Le\u00f3n",
-      "position": "MF",
-      "rating": 83,
-      "age": 29,
-      "value": 26210526
-    },
-    {
-      "name": "Esteban Valencia",
-      "position": "MF",
-      "rating": 84,
-      "age": 21,
-      "value": 35014736
-    },
-    {
-      "name": "Erik Berg",
-      "position": "MF",
-      "rating": 83,
-      "age": 23,
-      "value": 32501052
-    },
-    {
-      "name": "Ricardo Su\u00e1rez",
-      "position": "MF",
-      "rating": 88,
-      "age": 35,
-      "value": 21120000
-    },
-    {
-      "name": "Clark Myers",
-      "position": "MF",
-      "rating": 61,
-      "age": 22,
-      "value": 24656842
-    },
-    {
-      "name": "Abel Gonzalez",
-      "position": "FW",
-      "rating": 60,
-      "age": 25,
-      "value": 27473684
-    },
-    {
-      "name": "Kyle Hamilton",
-      "position": "FW",
-      "rating": 88,
+      "rating": 86,
       "age": 24,
+      "value": 32589473
+    },
+    {
+      "name": "Kenny Hamilton",
+      "position": "MF",
+      "rating": 86,
+      "age": 28,
+      "value": 28244210
+    },
+    {
+      "name": "Einar Cox",
+      "position": "MF",
+      "rating": 80,
+      "age": 22,
+      "value": 32336842
+    },
+    {
+      "name": "Bruce Oliver",
+      "position": "MF",
+      "rating": 83,
+      "age": 21,
+      "value": 34597894
+    },
+    {
+      "name": "Carl Kabiru",
+      "position": "MF",
+      "rating": 79,
+      "age": 33,
+      "value": 20955789
+    },
+    {
+      "name": "Kwesi Hansen",
+      "position": "MF",
+      "rating": 88,
+      "age": 23,
+      "value": 34458947
+    },
+    {
+      "name": "Devin Page",
+      "position": "FW",
+      "rating": 86,
+      "age": 28,
+      "value": 35305263
+    },
+    {
+      "name": "Victor Barrios",
+      "position": "FW",
+      "rating": 88,
+      "age": 16,
       "value": 40000000
     },
     {
-      "name": "Anton Vestergaard",
+      "name": "Kellen Patel",
       "position": "FW",
-      "rating": 73,
-      "age": 28,
-      "value": 29968421
+      "rating": 72,
+      "age": 27,
+      "value": 30694736
     },
     {
-      "name": "Eugene Burke",
+      "name": "Spencer Watkins",
       "position": "FW",
-      "rating": 62,
-      "age": 18,
-      "value": 35242105
+      "rating": 75,
+      "age": 33,
+      "value": 24868421
     },
     {
-      "name": "Lincoln Burke",
+      "name": "Dumi Barnes",
       "position": "FW",
-      "rating": 66,
-      "age": 34,
-      "value": 20842105
+      "rating": 67,
+      "age": 21,
+      "value": 34910526
     }
   ],
   "stadium": {

@@ -2,144 +2,144 @@
   "name": "Liverpool",
   "squad": [
     {
-      "name": "Daniel Ulfsson",
+      "name": "Gustav Shaw",
       "position": "GK",
-      "rating": 63,
-      "age": 35,
-      "value": 10080000
+      "rating": 77,
+      "age": 33,
+      "value": 13616842
     },
     {
-      "name": "Ruben Richardson",
+      "name": "Ali Harrison",
       "position": "GK",
-      "rating": 88,
-      "age": 25,
-      "value": 21490526
+      "rating": 72,
+      "age": 27,
+      "value": 16370526
     },
     {
-      "name": "Filip Fredriksson",
+      "name": "Garrett Hicks",
       "position": "GK",
-      "rating": 70,
-      "age": 30,
-      "value": 14147368
-    },
-    {
-      "name": "Mario Shaw",
-      "position": "DF",
-      "rating": 73,
-      "age": 31,
-      "value": 17673684
-    },
-    {
-      "name": "Stewart Parsons",
-      "position": "DF",
       "rating": 65,
-      "age": 16,
-      "value": 26000000
+      "age": 29,
+      "value": 13684210
     },
     {
-      "name": "Ivan Fuller",
+      "name": "Troy Sanchez",
       "position": "DF",
       "rating": 81,
-      "age": 32,
-      "value": 18757894
+      "age": 16,
+      "value": 32400000
     },
     {
-      "name": "Tobias Lund",
-      "position": "DF",
-      "rating": 67,
-      "age": 19,
-      "value": 24684210
-    },
-    {
-      "name": "Rowan Fletcher",
-      "position": "DF",
-      "rating": 84,
-      "age": 30,
-      "value": 21221052
-    },
-    {
-      "name": "William Bates",
+      "name": "Alejandro Ross",
       "position": "DF",
       "rating": 60,
-      "age": 21,
-      "value": 20842105
+      "age": 30,
+      "value": 15157894
     },
     {
-      "name": "Ruben Richardson",
-      "position": "MF",
-      "rating": 89,
-      "age": 17,
-      "value": 40000000
-    },
-    {
-      "name": "Wilson Peters",
-      "position": "MF",
-      "rating": 64,
-      "age": 19,
-      "value": 28294736
-    },
-    {
-      "name": "August Gustavsson",
-      "position": "MF",
-      "rating": 85,
-      "age": 35,
-      "value": 20400000
-    },
-    {
-      "name": "Bart Phillips",
-      "position": "MF",
-      "rating": 89,
-      "age": 17,
-      "value": 40000000
-    },
-    {
-      "name": "James Cook",
-      "position": "MF",
-      "rating": 76,
-      "age": 19,
-      "value": 33600000
-    },
-    {
-      "name": "Kellen Mills",
-      "position": "MF",
-      "rating": 76,
-      "age": 23,
-      "value": 29760000
-    },
-    {
-      "name": "Daniel Lopez",
-      "position": "FW",
-      "rating": 79,
-      "age": 26,
-      "value": 34926315
-    },
-    {
-      "name": "Masashi Feng",
-      "position": "FW",
-      "rating": 86,
-      "age": 35,
-      "value": 25800000
-    },
-    {
-      "name": "Curtis Butler",
-      "position": "FW",
-      "rating": 67,
-      "age": 22,
-      "value": 33852631
-    },
-    {
-      "name": "Marcos Ben\u00edtez",
-      "position": "FW",
+      "name": "Jayden Marshall",
+      "position": "DF",
       "rating": 69,
-      "age": 16,
+      "age": 33,
+      "value": 15252631
+    },
+    {
+      "name": "Marshall Joseph",
+      "position": "DF",
+      "rating": 90,
+      "age": 20,
+      "value": 32210526
+    },
+    {
+      "name": "Hugo Wallace",
+      "position": "DF",
+      "rating": 62,
+      "age": 20,
+      "value": 22189473
+    },
+    {
+      "name": "Oluwafemi Rom\u00e1n",
+      "position": "DF",
+      "rating": 71,
+      "age": 25,
+      "value": 21673684
+    },
+    {
+      "name": "Roland Rao",
+      "position": "MF",
+      "rating": 77,
+      "age": 24,
+      "value": 29178947
+    },
+    {
+      "name": "Kody Pepper",
+      "position": "MF",
+      "rating": 87,
+      "age": 19,
+      "value": 38463157
+    },
+    {
+      "name": "Tobias Wilson",
+      "position": "MF",
+      "rating": 89,
+      "age": 28,
+      "value": 29229473
+    },
+    {
+      "name": "Ian Choi",
+      "position": "MF",
+      "rating": 89,
+      "age": 30,
+      "value": 26981052
+    },
+    {
+      "name": "Eugene Eriksson",
+      "position": "MF",
+      "rating": 73,
+      "age": 17,
+      "value": 34117894
+    },
+    {
+      "name": "Declan Jacobsen",
+      "position": "MF",
+      "rating": 68,
+      "age": 34,
+      "value": 17178947
+    },
+    {
+      "name": "Axel Watts",
+      "position": "FW",
+      "rating": 87,
+      "age": 19,
       "value": 40000000
     },
     {
-      "name": "Kellen Mills",
+      "name": "Cyrus Iyer",
       "position": "FW",
-      "rating": 85,
-      "age": 20,
+      "rating": 83,
+      "age": 23,
       "value": 40000000
+    },
+    {
+      "name": "River Fowler",
+      "position": "FW",
+      "rating": 61,
+      "age": 16,
+      "value": 36600000
+    },
+    {
+      "name": "Bernard Hassan",
+      "position": "FW",
+      "rating": 63,
+      "age": 18,
+      "value": 35810526
+    },
+    {
+      "name": "Stefan Ramsey",
+      "position": "FW",
+      "rating": 88,
+      "age": 29,
+      "value": 34736842
     }
   ],
   "stadium": {

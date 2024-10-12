@@ -2,144 +2,144 @@
   "name": "Everton",
   "squad": [
     {
-      "name": "Carter Butler",
+      "name": "Felipe Hart",
       "position": "GK",
       "rating": 79,
-      "age": 30,
-      "value": 15966315
+      "age": 26,
+      "value": 18627368
     },
     {
-      "name": "Barney Roberts",
+      "name": "Kwesi Molina",
       "position": "GK",
-      "rating": 68,
-      "age": 27,
-      "value": 15461052
+      "rating": 89,
+      "age": 24,
+      "value": 22484210
     },
     {
-      "name": "Noah Jansson",
+      "name": "Edwin Henderson",
       "position": "GK",
-      "rating": 83,
-      "age": 19,
-      "value": 24463157
-    },
-    {
-      "name": "Devin Rogers",
-      "position": "DF",
-      "rating": 70,
-      "age": 27,
-      "value": 19894736
-    },
-    {
-      "name": "Bruno Reyes",
-      "position": "DF",
-      "rating": 77,
-      "age": 25,
-      "value": 23505263
-    },
-    {
-      "name": "Uriah Reed",
-      "position": "DF",
       "rating": 83,
       "age": 21,
-      "value": 28831578
+      "value": 23065263
     },
     {
-      "name": "Adan Perez",
+      "name": "Keith Bell",
+      "position": "DF",
+      "rating": 66,
+      "age": 18,
+      "value": 25010526
+    },
+    {
+      "name": "Johan Murray",
       "position": "DF",
       "rating": 79,
-      "age": 30,
-      "value": 19957894
+      "age": 34,
+      "value": 16631578
     },
     {
-      "name": "Taylor Black",
+      "name": "Daniel Griffin",
+      "position": "DF",
+      "rating": 89,
+      "age": 30,
+      "value": 22484210
+    },
+    {
+      "name": "Toshiro Ross",
+      "position": "DF",
+      "rating": 83,
+      "age": 23,
+      "value": 27084210
+    },
+    {
+      "name": "Chase Magnusson",
       "position": "DF",
       "rating": 69,
-      "age": 34,
-      "value": 14526315
+      "age": 18,
+      "value": 26147368
     },
     {
-      "name": "Thabo Saye",
+      "name": "Harley Washington",
       "position": "DF",
-      "rating": 71,
-      "age": 24,
-      "value": 22421052
+      "rating": 62,
+      "age": 22,
+      "value": 20884210
     },
     {
-      "name": "Anton Vestergaard",
+      "name": "Jamie Bates",
       "position": "MF",
-      "rating": 77,
-      "age": 35,
-      "value": 18480000
+      "rating": 63,
+      "age": 26,
+      "value": 22282105
     },
     {
-      "name": "Jaden Brooks",
+      "name": "Desmond Brooks",
+      "position": "MF",
+      "rating": 61,
+      "age": 25,
+      "value": 22345263
+    },
+    {
+      "name": "Olaf Gonzales",
+      "position": "MF",
+      "rating": 74,
+      "age": 19,
+      "value": 32715789
+    },
+    {
+      "name": "Marc Lee",
+      "position": "MF",
+      "rating": 73,
+      "age": 26,
+      "value": 25818947
+    },
+    {
+      "name": "Sefu Hart",
+      "position": "MF",
+      "rating": 60,
+      "age": 32,
+      "value": 16673684
+    },
+    {
+      "name": "Wesley Young",
       "position": "MF",
       "rating": 80,
-      "age": 22,
-      "value": 32336842
+      "age": 25,
+      "value": 29305263
     },
     {
-      "name": "Ling Rao",
-      "position": "MF",
-      "rating": 75,
-      "age": 29,
-      "value": 23684210
-    },
-    {
-      "name": "Lucas Westerlund",
-      "position": "MF",
-      "rating": 88,
-      "age": 28,
-      "value": 28901052
-    },
-    {
-      "name": "Chike Umar",
-      "position": "MF",
-      "rating": 67,
-      "age": 17,
-      "value": 31313684
-    },
-    {
-      "name": "Landon Franks",
-      "position": "MF",
-      "rating": 90,
-      "age": 35,
-      "value": 21600000
-    },
-    {
-      "name": "Gunnar West",
+      "name": "Carlos Wang",
       "position": "FW",
       "rating": 72,
-      "age": 20,
-      "value": 38652631
+      "age": 24,
+      "value": 34105263
     },
     {
-      "name": "Anton Vestergaard",
+      "name": "Nicholas Guo",
       "position": "FW",
-      "rating": 60,
-      "age": 27,
-      "value": 25578947
+      "rating": 64,
+      "age": 34,
+      "value": 20210526
     },
     {
-      "name": "Uriel Murray",
+      "name": "Jayden Silva",
       "position": "FW",
-      "rating": 70,
-      "age": 18,
-      "value": 39789473
+      "rating": 80,
+      "age": 33,
+      "value": 26526315
     },
     {
-      "name": "Daniel Ulfsson",
+      "name": "Kayden Fisher",
       "position": "FW",
-      "rating": 76,
-      "age": 28,
-      "value": 31200000
+      "rating": 78,
+      "age": 17,
+      "value": 40000000
     },
     {
-      "name": "Griffin Graham",
+      "name": "Matt Jenkins",
       "position": "FW",
-      "rating": 85,
-      "age": 27,
-      "value": 36236842
+      "rating": 89,
+      "age": 26,
+      "value": 39347368
     }
   ],
   "stadium": {

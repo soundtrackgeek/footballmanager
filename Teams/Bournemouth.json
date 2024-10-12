@@ -2,144 +2,144 @@
   "name": "Bournemouth",
   "squad": [
     {
-      "name": "Ryker Spencer",
+      "name": "Jason Diaz",
       "position": "GK",
-      "rating": 88,
-      "age": 34,
-      "value": 14821052
-    },
-    {
-      "name": "Patrick Sanders",
-      "position": "GK",
-      "rating": 78,
-      "age": 31,
-      "value": 15107368
-    },
-    {
-      "name": "Einar Berglund",
-      "position": "GK",
-      "rating": 65,
-      "age": 16,
-      "value": 20800000
-    },
-    {
-      "name": "Graham Watts",
-      "position": "DF",
-      "rating": 66,
-      "age": 25,
-      "value": 20147368
-    },
-    {
-      "name": "Amir Clark",
-      "position": "DF",
-      "rating": 87,
-      "age": 17,
-      "value": 33884210
-    },
-    {
-      "name": "Sefu Chukwu",
-      "position": "DF",
-      "rating": 71,
-      "age": 23,
-      "value": 23168421
-    },
-    {
-      "name": "Zane Hughes",
-      "position": "DF",
-      "rating": 84,
-      "age": 29,
-      "value": 22105263
-    },
-    {
-      "name": "Taylor Black",
-      "position": "DF",
-      "rating": 71,
+      "rating": 81,
       "age": 24,
-      "value": 22421052
+      "value": 20463157
     },
     {
-      "name": "Luke Peters",
+      "name": "Fernando Rivera",
+      "position": "GK",
+      "rating": 62,
+      "age": 27,
+      "value": 14096842
+    },
+    {
+      "name": "Benjamin Cooper",
+      "position": "GK",
+      "rating": 74,
+      "age": 27,
+      "value": 16825263
+    },
+    {
+      "name": "Eric Berg",
+      "position": "DF",
+      "rating": 71,
+      "age": 27,
+      "value": 20178947
+    },
+    {
+      "name": "Kabelo Karlsson",
+      "position": "DF",
+      "rating": 71,
+      "age": 29,
+      "value": 18684210
+    },
+    {
+      "name": "Abraham Howard",
+      "position": "DF",
+      "rating": 61,
+      "age": 20,
+      "value": 21831578
+    },
+    {
+      "name": "Ibrahim Ortega",
+      "position": "DF",
+      "rating": 68,
+      "age": 16,
+      "value": 27200000
+    },
+    {
+      "name": "Antonio Butler",
       "position": "DF",
       "rating": 82,
-      "age": 18,
-      "value": 31073684
+      "age": 23,
+      "value": 26757894
     },
     {
-      "name": "Kellen Mills",
-      "position": "MF",
-      "rating": 73,
-      "age": 21,
-      "value": 30429473
-    },
-    {
-      "name": "Gage Bryant",
-      "position": "MF",
-      "rating": 88,
-      "age": 27,
-      "value": 30012631
-    },
-    {
-      "name": "Harley Bowman",
-      "position": "MF",
-      "rating": 65,
-      "age": 30,
-      "value": 19705263
-    },
-    {
-      "name": "Travis Benson",
-      "position": "MF",
-      "rating": 86,
-      "age": 26,
-      "value": 30416842
-    },
-    {
-      "name": "Musa Iyanda",
-      "position": "MF",
-      "rating": 61,
-      "age": 21,
-      "value": 25427368
-    },
-    {
-      "name": "Casey Barnett",
-      "position": "MF",
-      "rating": 79,
-      "age": 17,
-      "value": 36922105
-    },
-    {
-      "name": "Obi Jabari",
-      "position": "FW",
-      "rating": 87,
-      "age": 21,
-      "value": 40000000
-    },
-    {
-      "name": "Rajesh Desai",
-      "position": "FW",
-      "rating": 73,
-      "age": 27,
-      "value": 31121052
-    },
-    {
-      "name": "Nathan Barton",
-      "position": "FW",
-      "rating": 78,
-      "age": 21,
-      "value": 40000000
-    },
-    {
-      "name": "Christopher Diaz",
-      "position": "FW",
-      "rating": 87,
-      "age": 26,
-      "value": 38463157
-    },
-    {
-      "name": "Gage Bryant",
-      "position": "FW",
-      "rating": 88,
+      "name": "Blake Rao",
+      "position": "DF",
+      "rating": 84,
       "age": 24,
+      "value": 26526315
+    },
+    {
+      "name": "Kwame Cruz",
+      "position": "MF",
+      "rating": 84,
+      "age": 26,
+      "value": 29709473
+    },
+    {
+      "name": "Rafael Howard",
+      "position": "MF",
+      "rating": 64,
+      "age": 24,
+      "value": 24252631
+    },
+    {
+      "name": "Tyrone Biko",
+      "position": "MF",
+      "rating": 85,
+      "age": 32,
+      "value": 23621052
+    },
+    {
+      "name": "Hugo Sandstr\u00f6m",
+      "position": "MF",
+      "rating": 90,
+      "age": 26,
+      "value": 31831578
+    },
+    {
+      "name": "Aaron Jordan",
+      "position": "MF",
+      "rating": 72,
+      "age": 25,
+      "value": 26374736
+    },
+    {
+      "name": "Ade Burke",
+      "position": "MF",
+      "rating": 80,
+      "age": 27,
+      "value": 27284210
+    },
+    {
+      "name": "Derrick Gordon",
+      "position": "FW",
+      "rating": 67,
+      "age": 22,
+      "value": 33852631
+    },
+    {
+      "name": "Oscar Kang",
+      "position": "FW",
+      "rating": 69,
+      "age": 21,
+      "value": 35952631
+    },
+    {
+      "name": "Kabelo Choi",
+      "position": "FW",
+      "rating": 81,
+      "age": 17,
       "value": 40000000
+    },
+    {
+      "name": "Filip Valencia",
+      "position": "FW",
+      "rating": 79,
+      "age": 25,
+      "value": 36173684
+    },
+    {
+      "name": "Zane Alvarez",
+      "position": "FW",
+      "rating": 66,
+      "age": 29,
+      "value": 26052631
     }
   ],
   "stadium": {

@@ -2,144 +2,144 @@
   "name": "Newcastle",
   "squad": [
     {
-      "name": "Douglas Long",
+      "name": "Alex Williamson",
       "position": "GK",
-      "rating": 76,
-      "age": 19,
-      "value": 22400000
+      "rating": 90,
+      "age": 32,
+      "value": 16673684
     },
     {
-      "name": "Isaiah Hansen",
-      "position": "GK",
-      "rating": 76,
-      "age": 30,
-      "value": 15360000
-    },
-    {
-      "name": "Kenneth Hart",
+      "name": "Amir Knox",
       "position": "GK",
       "rating": 61,
+      "age": 33,
+      "value": 10787368
+    },
+    {
+      "name": "Malachi Watanabe",
+      "position": "GK",
+      "rating": 78,
       "age": 28,
-      "value": 13355789
+      "value": 17077894
     },
     {
-      "name": "Caleb Gray",
+      "name": "Malcolm Hart",
       "position": "DF",
-      "rating": 71,
-      "age": 21,
-      "value": 24663157
+      "rating": 69,
+      "age": 34,
+      "value": 14526315
     },
     {
-      "name": "Logan Mann",
+      "name": "Abraham Das",
       "position": "DF",
-      "rating": 89,
-      "age": 24,
-      "value": 28105263
+      "rating": 61,
+      "age": 23,
+      "value": 19905263
     },
     {
-      "name": "Shane Griffin",
-      "position": "DF",
-      "rating": 81,
-      "age": 20,
-      "value": 28989473
-    },
-    {
-      "name": "Zuberi Kabiru",
-      "position": "DF",
-      "rating": 86,
-      "age": 21,
-      "value": 29873684
-    },
-    {
-      "name": "Mohamed Holland",
-      "position": "DF",
-      "rating": 66,
-      "age": 20,
-      "value": 23621052
-    },
-    {
-      "name": "Kwesi Venter",
+      "name": "Rajesh Magnusson",
       "position": "DF",
       "rating": 74,
-      "age": 17,
-      "value": 28821052
+      "age": 23,
+      "value": 24147368
     },
     {
-      "name": "Chase Bryant",
+      "name": "Chike Solberg",
+      "position": "DF",
+      "rating": 67,
+      "age": 21,
+      "value": 23273684
+    },
+    {
+      "name": "Alex Scott",
+      "position": "DF",
+      "rating": 69,
+      "age": 19,
+      "value": 25421052
+    },
+    {
+      "name": "Bo Abiola",
+      "position": "DF",
+      "rating": 61,
+      "age": 27,
+      "value": 17336842
+    },
+    {
+      "name": "Lucas Black",
+      "position": "MF",
+      "rating": 86,
+      "age": 26,
+      "value": 30416842
+    },
+    {
+      "name": "Roy Haynes",
+      "position": "MF",
+      "rating": 87,
+      "age": 24,
+      "value": 32968421
+    },
+    {
+      "name": "Lamine Dlamini",
+      "position": "MF",
+      "rating": 70,
+      "age": 29,
+      "value": 22105263
+    },
+    {
+      "name": "Trenton Ramirez",
+      "position": "MF",
+      "rating": 63,
+      "age": 30,
+      "value": 19098947
+    },
+    {
+      "name": "Rowan Cooper",
+      "position": "MF",
+      "rating": 66,
+      "age": 35,
+      "value": 15840000
+    },
+    {
+      "name": "Edmund Ortega",
       "position": "MF",
       "rating": 65,
       "age": 23,
       "value": 25452631
     },
     {
-      "name": "Tao-Jun Bhatia",
-      "position": "MF",
-      "rating": 70,
-      "age": 26,
-      "value": 24757894
-    },
-    {
-      "name": "Anurak Nguyen",
-      "position": "MF",
-      "rating": 70,
-      "age": 34,
-      "value": 17684210
-    },
-    {
-      "name": "Russell Fuller",
-      "position": "MF",
-      "rating": 71,
-      "age": 29,
-      "value": 22421052
-    },
-    {
-      "name": "Emiliano Ortiz",
-      "position": "MF",
-      "rating": 67,
-      "age": 18,
-      "value": 30467368
-    },
-    {
-      "name": "Abraham Lee",
-      "position": "MF",
-      "rating": 87,
-      "age": 28,
-      "value": 28572631
-    },
-    {
-      "name": "Landon Franks",
+      "name": "Finn Tanaka",
       "position": "FW",
-      "rating": 82,
-      "age": 28,
-      "value": 33663157
+      "rating": 66,
+      "age": 22,
+      "value": 33347368
     },
     {
-      "name": "Jett Hicks",
+      "name": "Oscar Brooks",
       "position": "FW",
-      "rating": 63,
-      "age": 28,
-      "value": 25863157
+      "rating": 90,
+      "age": 23,
+      "value": 40000000
     },
     {
-      "name": "Thabo Badu",
-      "position": "FW",
-      "rating": 63,
-      "age": 32,
-      "value": 21884210
-    },
-    {
-      "name": "William \u00c5kesson",
-      "position": "FW",
-      "rating": 60,
-      "age": 16,
-      "value": 36000000
-    },
-    {
-      "name": "Simba Mwangi",
+      "name": "Brendan Butler",
       "position": "FW",
       "rating": 73,
-      "age": 35,
-      "value": 21900000
+      "age": 16,
+      "value": 40000000
+    },
+    {
+      "name": "Juan Cruz",
+      "position": "FW",
+      "rating": 84,
+      "age": 17,
+      "value": 40000000
+    },
+    {
+      "name": "Milton Dean",
+      "position": "FW",
+      "rating": 64,
+      "age": 25,
+      "value": 29305263
     }
   ],
   "stadium": {

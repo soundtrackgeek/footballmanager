@@ -2,144 +2,144 @@
   "name": "Chelsea",
   "squad": [
     {
-      "name": "Noah Jansson",
+      "name": "Ji-hoon Cruz",
       "position": "GK",
-      "rating": 63,
-      "age": 22,
-      "value": 16976842
+      "rating": 77,
+      "age": 26,
+      "value": 18155789
     },
     {
-      "name": "Simon Mikkelsen",
+      "name": "Rodney Bell",
       "position": "GK",
+      "rating": 61,
+      "age": 30,
+      "value": 12328421
+    },
+    {
+      "name": "Ulises Dahl",
+      "position": "GK",
+      "rating": 76,
+      "age": 17,
+      "value": 23680000
+    },
+    {
+      "name": "Anurak Butler",
+      "position": "DF",
+      "rating": 76,
+      "age": 23,
+      "value": 24800000
+    },
+    {
+      "name": "Caden Owens",
+      "position": "DF",
+      "rating": 72,
+      "age": 21,
+      "value": 25010526
+    },
+    {
+      "name": "Mathew Zhang",
+      "position": "DF",
       "rating": 80,
-      "age": 33,
-      "value": 14147368
-    },
-    {
-      "name": "Adam Martinez",
-      "position": "GK",
-      "rating": 85,
       "age": 19,
-      "value": 25052631
+      "value": 29473684
     },
     {
-      "name": "Darren Green",
+      "name": "Cody Morrison",
       "position": "DF",
-      "rating": 90,
-      "age": 23,
-      "value": 29368421
+      "rating": 72,
+      "age": 26,
+      "value": 21221052
     },
     {
-      "name": "Rajesh Desai",
+      "name": "Daisuke Dur\u00e1n",
       "position": "DF",
-      "rating": 87,
-      "age": 22,
-      "value": 29305263
+      "rating": 79,
+      "age": 19,
+      "value": 29105263
     },
     {
-      "name": "Franklin Hansen",
+      "name": "Joel Gao",
       "position": "DF",
-      "rating": 85,
-      "age": 23,
-      "value": 27736842
+      "rating": 74,
+      "age": 35,
+      "value": 14800000
     },
     {
-      "name": "Aiden Hernandez",
-      "position": "DF",
-      "rating": 81,
-      "age": 25,
-      "value": 24726315
-    },
-    {
-      "name": "Brooks Ward",
-      "position": "DF",
-      "rating": 71,
-      "age": 18,
-      "value": 26905263
-    },
-    {
-      "name": "Aedan Gomez",
-      "position": "DF",
-      "rating": 86,
-      "age": 18,
-      "value": 32589473
-    },
-    {
-      "name": "Victor Pedersen",
+      "name": "Brian Barnes",
       "position": "MF",
-      "rating": 60,
-      "age": 20,
-      "value": 25768421
+      "rating": 68,
+      "age": 33,
+      "value": 18037894
     },
     {
-      "name": "Mikkel Larsen",
+      "name": "Haruto Torbj\u00f6rnsson",
+      "position": "MF",
+      "rating": 86,
+      "age": 33,
+      "value": 22812631
+    },
+    {
+      "name": "Darren Xolani",
       "position": "MF",
       "rating": 86,
       "age": 18,
       "value": 39107368
     },
     {
-      "name": "Christopher Diaz",
+      "name": "Musa Perez",
       "position": "MF",
-      "rating": 68,
-      "age": 28,
-      "value": 22332631
+      "rating": 73,
+      "age": 29,
+      "value": 23052631
     },
     {
-      "name": "Graham Watts",
+      "name": "Ezequiel Marshall",
       "position": "MF",
-      "rating": 82,
-      "age": 19,
-      "value": 36252631
+      "rating": 78,
+      "age": 17,
+      "value": 36454736
     },
     {
-      "name": "Edgar Franco",
+      "name": "Xavier Thomas",
       "position": "MF",
       "rating": 74,
-      "age": 30,
-      "value": 22433684
+      "age": 19,
+      "value": 32715789
     },
     {
-      "name": "Oliver Morgan",
-      "position": "MF",
-      "rating": 79,
-      "age": 25,
-      "value": 28938947
-    },
-    {
-      "name": "Malachi Harrison",
+      "name": "Tom\u00e1s Meadows",
       "position": "FW",
       "rating": 80,
-      "age": 24,
-      "value": 37894736
+      "age": 33,
+      "value": 26526315
     },
     {
-      "name": "Maxwell Hart",
+      "name": "Brayden Owens",
       "position": "FW",
-      "rating": 71,
-      "age": 29,
-      "value": 28026315
-    },
-    {
-      "name": "William \u00c5kesson",
-      "position": "FW",
-      "rating": 90,
-      "age": 24,
+      "rating": 78,
+      "age": 18,
       "value": 40000000
     },
     {
-      "name": "Pranav Liu",
+      "name": "Quentin Kim",
       "position": "FW",
-      "rating": 67,
-      "age": 32,
-      "value": 23273684
+      "rating": 75,
+      "age": 31,
+      "value": 27236842
     },
     {
-      "name": "Jacob Ramos",
+      "name": "Shiro Yoo",
       "position": "FW",
-      "rating": 73,
-      "age": 20,
-      "value": 39189473
+      "rating": 88,
+      "age": 17,
+      "value": 40000000
+    },
+    {
+      "name": "Uriel Scott",
+      "position": "FW",
+      "rating": 64,
+      "age": 16,
+      "value": 38400000
     }
   ],
   "stadium": {
