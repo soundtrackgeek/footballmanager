@@ -2,144 +2,144 @@
   "name": "Wolves",
   "squad": [
     {
-      "name": "Erik Cunningham",
+      "name": "Femi Toure",
+      "position": "GK",
+      "rating": 89,
+      "age": 19,
+      "value": 26231578
+    },
+    {
+      "name": "Ivan Fuller",
       "position": "GK",
       "rating": 72,
-      "age": 23,
-      "value": 18795789
-    },
-    {
-      "name": "Felix Palmer",
-      "position": "GK",
-      "rating": 90,
-      "age": 18,
-      "value": 27284210
-    },
-    {
-      "name": "Clark Myers",
-      "position": "GK",
-      "rating": 87,
-      "age": 21,
-      "value": 24176842
-    },
-    {
-      "name": "Harley Bowman",
-      "position": "DF",
-      "rating": 86,
-      "age": 27,
-      "value": 24442105
-    },
-    {
-      "name": "Lawrence Bennett",
-      "position": "DF",
-      "rating": 68,
-      "age": 32,
-      "value": 15747368
-    },
-    {
-      "name": "Kobe Patel",
-      "position": "DF",
-      "rating": 63,
-      "age": 35,
-      "value": 12600000
-    },
-    {
-      "name": "Marshall Fitzgerald",
-      "position": "DF",
-      "rating": 88,
       "age": 31,
-      "value": 21305263
+      "value": 13945263
     },
     {
-      "name": "Adel Rodriguez",
+      "name": "Roman Goodman",
+      "position": "GK",
+      "rating": 64,
+      "age": 17,
+      "value": 19941052
+    },
+    {
+      "name": "Lucas Westerlund",
       "position": "DF",
-      "rating": 69,
-      "age": 25,
-      "value": 21063157
-    },
-    {
-      "name": "Francisco Palmer",
-      "position": "DF",
-      "rating": 65,
-      "age": 28,
-      "value": 17789473
-    },
-    {
-      "name": "Jeffrey Fisher",
-      "position": "MF",
       "rating": 64,
       "age": 30,
-      "value": 19402105
+      "value": 16168421
     },
     {
-      "name": "Zola Jansen",
-      "position": "MF",
-      "rating": 90,
-      "age": 33,
-      "value": 23873684
+      "name": "Kenny Kim",
+      "position": "DF",
+      "rating": 83,
+      "age": 18,
+      "value": 31452631
     },
     {
-      "name": "Konner Harmon",
-      "position": "MF",
-      "rating": 89,
-      "age": 26,
-      "value": 31477894
-    },
-    {
-      "name": "Alex  Taylor",
-      "position": "MF",
-      "rating": 79,
-      "age": 21,
-      "value": 32930526
-    },
-    {
-      "name": "Barney Roberts",
-      "position": "MF",
+      "name": "Frederick Morrison",
+      "position": "DF",
       "rating": 65,
-      "age": 21,
-      "value": 27094736
+      "age": 26,
+      "value": 19157894
     },
     {
-      "name": "Leslie Griffin",
-      "position": "MF",
-      "rating": 77,
-      "age": 35,
-      "value": 18480000
+      "name": "Masashi Feng",
+      "position": "DF",
+      "rating": 83,
+      "age": 33,
+      "value": 18347368
     },
     {
-      "name": "Simba Mwangi",
-      "position": "FW",
-      "rating": 87,
-      "age": 27,
-      "value": 37089473
+      "name": "Jeremiah Dean",
+      "position": "DF",
+      "rating": 83,
+      "age": 31,
+      "value": 20094736
     },
     {
       "name": "Ricardo Perry",
-      "position": "FW",
-      "rating": 71,
-      "age": 22,
-      "value": 35873684
+      "position": "DF",
+      "rating": 82,
+      "age": 30,
+      "value": 20715789
     },
     {
-      "name": "Josiah Franklin",
+      "name": "Jett Hicks",
+      "position": "MF",
+      "rating": 71,
+      "age": 21,
+      "value": 29595789
+    },
+    {
+      "name": "Russell Fuller",
+      "position": "MF",
+      "rating": 89,
+      "age": 30,
+      "value": 26981052
+    },
+    {
+      "name": "Ravi Patel",
+      "position": "MF",
+      "rating": 64,
+      "age": 16,
+      "value": 30720000
+    },
+    {
+      "name": "Juan Silva",
+      "position": "MF",
+      "rating": 66,
+      "age": 30,
+      "value": 20008421
+    },
+    {
+      "name": "Adekunle Kareem",
+      "position": "MF",
+      "rating": 68,
+      "age": 26,
+      "value": 24050526
+    },
+    {
+      "name": "Joaquin Hayes",
+      "position": "MF",
+      "rating": 72,
+      "age": 18,
+      "value": 32741052
+    },
+    {
+      "name": "Simon Mikkelsen",
       "position": "FW",
-      "rating": 79,
-      "age": 20,
+      "rating": 77,
+      "age": 32,
+      "value": 26747368
+    },
+    {
+      "name": "Zola Jansen",
+      "position": "FW",
+      "rating": 67,
+      "age": 16,
       "value": 40000000
     },
     {
-      "name": "Clifford Long",
+      "name": "Lukas Ramirez",
       "position": "FW",
-      "rating": 89,
-      "age": 28,
-      "value": 36536842
+      "rating": 64,
+      "age": 20,
+      "value": 34357894
     },
     {
-      "name": "Min-jun Lee",
+      "name": "Fredrik Thomsen",
       "position": "FW",
-      "rating": 72,
-      "age": 22,
-      "value": 36378947
+      "rating": 68,
+      "age": 30,
+      "value": 25768421
+    },
+    {
+      "name": "Kwame Onyango",
+      "position": "FW",
+      "rating": 77,
+      "age": 16,
+      "value": 40000000
     }
   ],
   "stadium": {

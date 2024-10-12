@@ -2,144 +2,144 @@
   "name": "Luton",
   "squad": [
     {
-      "name": "Alonso White",
+      "name": "Dennis Bell",
       "position": "GK",
-      "rating": 84,
-      "age": 29,
-      "value": 17684210
-    },
-    {
-      "name": "Ignacio Flores",
-      "position": "GK",
-      "rating": 74,
-      "age": 24,
-      "value": 18694736
-    },
-    {
-      "name": "Ekon Zamani",
-      "position": "GK",
-      "rating": 72,
-      "age": 17,
-      "value": 22433684
-    },
-    {
-      "name": "Kamau Njoroge",
-      "position": "DF",
-      "rating": 65,
-      "age": 19,
-      "value": 23947368
-    },
-    {
-      "name": "Chad Simmons",
-      "position": "DF",
-      "rating": 85,
-      "age": 34,
-      "value": 17894736
-    },
-    {
-      "name": "Rene Page",
-      "position": "DF",
-      "rating": 63,
-      "age": 29,
-      "value": 16578947
-    },
-    {
-      "name": "Giovanni Cruz",
-      "position": "DF",
-      "rating": 62,
-      "age": 33,
-      "value": 13705263
-    },
-    {
-      "name": "Beau Evans",
-      "position": "DF",
       "rating": 80,
-      "age": 33,
-      "value": 17684210
+      "age": 18,
+      "value": 24252631
     },
     {
-      "name": "Nikhil Reddy",
+      "name": "Mathew Howard",
+      "position": "GK",
+      "rating": 65,
+      "age": 30,
+      "value": 13136842
+    },
+    {
+      "name": "Kaleb Woods",
+      "position": "GK",
+      "rating": 77,
+      "age": 25,
+      "value": 18804210
+    },
+    {
+      "name": "Reuben Black",
+      "position": "DF",
+      "rating": 81,
+      "age": 17,
+      "value": 31547368
+    },
+    {
+      "name": "Joaquin Hayes",
       "position": "DF",
       "rating": 66,
-      "age": 35,
-      "value": 13200000
+      "age": 16,
+      "value": 26400000
     },
     {
-      "name": "Jarrett Ferguson",
+      "name": "Benny Parker",
+      "position": "DF",
+      "rating": 87,
+      "age": 17,
+      "value": 33884210
+    },
+    {
+      "name": "Damien Freeman",
+      "position": "DF",
+      "rating": 65,
+      "age": 23,
+      "value": 21210526
+    },
+    {
+      "name": "Fredrik Thomsen",
+      "position": "DF",
+      "rating": 71,
+      "age": 31,
+      "value": 17189473
+    },
+    {
+      "name": "Jerome Stone",
+      "position": "DF",
+      "rating": 75,
+      "age": 25,
+      "value": 22894736
+    },
+    {
+      "name": "Masashi Feng",
+      "position": "MF",
+      "rating": 67,
+      "age": 22,
+      "value": 27082105
+    },
+    {
+      "name": "Kwesi Venter",
       "position": "MF",
       "rating": 73,
-      "age": 31,
-      "value": 21208421
-    },
-    {
-      "name": "Juan Garza",
-      "position": "MF",
-      "rating": 61,
-      "age": 22,
-      "value": 24656842
-    },
-    {
-      "name": "Charlie Morgan",
-      "position": "MF",
-      "rating": 76,
-      "age": 29,
-      "value": 24000000
-    },
-    {
-      "name": "Nicholas Phelps",
-      "position": "MF",
-      "rating": 76,
-      "age": 16,
-      "value": 36480000
-    },
-    {
-      "name": "Jonathan Owens",
-      "position": "MF",
-      "rating": 63,
-      "age": 28,
-      "value": 20690526
-    },
-    {
-      "name": "Jonathan Owens",
-      "position": "MF",
-      "rating": 61,
       "age": 23,
-      "value": 23886315
+      "value": 28585263
     },
     {
-      "name": "Garrett Castillo",
-      "position": "FW",
-      "rating": 83,
-      "age": 24,
-      "value": 39315789
-    },
-    {
-      "name": "Nathan Barton",
-      "position": "FW",
-      "rating": 89,
+      "name": "Babatunde Gariba",
+      "position": "MF",
+      "rating": 81,
       "age": 16,
-      "value": 40000000
+      "value": 38880000
     },
     {
-      "name": "Barack Mitchell",
-      "position": "FW",
-      "rating": 89,
+      "name": "Simon Bates",
+      "position": "MF",
+      "rating": 81,
       "age": 19,
-      "value": 40000000
+      "value": 35810526
     },
     {
-      "name": "Einar Berglund",
-      "position": "FW",
-      "rating": 77,
+      "name": "Jordan Long",
+      "position": "MF",
+      "rating": 90,
+      "age": 30,
+      "value": 27284210
+    },
+    {
+      "name": "Kelly Morgan",
+      "position": "MF",
+      "rating": 60,
       "age": 29,
-      "value": 30394736
+      "value": 18947368
     },
     {
-      "name": "Bruno Reyes",
+      "name": "Ji-hoon Kim",
       "position": "FW",
       "rating": 74,
-      "age": 23,
-      "value": 36221052
+      "age": 34,
+      "value": 23368421
+    },
+    {
+      "name": "Sean Duncan",
+      "position": "FW",
+      "rating": 77,
+      "age": 22,
+      "value": 38905263
+    },
+    {
+      "name": "Leonardo Barrios",
+      "position": "FW",
+      "rating": 67,
+      "age": 32,
+      "value": 23273684
+    },
+    {
+      "name": "Easton Hamilton",
+      "position": "FW",
+      "rating": 84,
+      "age": 17,
+      "value": 40000000
+    },
+    {
+      "name": "Ryan Freeman",
+      "position": "FW",
+      "rating": 74,
+      "age": 24,
+      "value": 35052631
     }
   ],
   "stadium": {

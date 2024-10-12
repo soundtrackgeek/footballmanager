@@ -53,7 +53,7 @@ class Player:
         first_name, last_name = random.choice(cls.names)
         name = f"{first_name} {last_name}"
         rating = random.randint(60, 90)
-        return cls(name, position, rating)
+        return cls(name, Position[position], rating)
 
     def __str__(self):
         return f"{self.name} ({self.position.name}, Rating: {self.rating}, Age: {self.age}, Value: £{self.value:,})"

@@ -2,11 +2,7 @@ import random
 import json
 from itertools import combinations
 import csv
-
-class Player:
-    def __init__(self, name, position):
-        self.name = name
-        self.position = position
+from player import Player, Position
 
 class Team:
     def __init__(self, name):
@@ -36,15 +32,11 @@ def load_player_names():
             last_names.append(row[1])
     return first_names, last_names
 
-# Update the generate_player function
-def generate_player(position, first_names, last_names):
-    return Player(f"{random.choice(first_names)} {random.choice(last_names)}", position)
-
-def generate_squad(team, first_names, last_names):
+def generate_squad(team):
     positions = ["GK", "DF", "MF", "FW"]
     for _ in range(20):
         position = random.choice(positions)
-        player = generate_player(position, first_names, last_names)
+        player = Player.generate_player(position)
         team.add_player(player)
 
 def generate_fixture_list(teams):
@@ -74,9 +66,8 @@ def save_fixture_list(fixtures):
 
 def main():
     teams = create_teams()
-    first_names, last_names = load_player_names()
     for team in teams:
-        generate_squad(team, first_names, last_names)
+        generate_squad(team)
     
     print("Welcome to Football Manager!")
     num_players = int(input("Enter the number of players (1-4): "))
@@ -94,7 +85,7 @@ def main():
         
         print("\nYour squad:")
         for player in chosen_team.squad:
-            print(f"{player.name} - {player.position}")
+            print(f"{player.name} - {player.position.name}")
     
     print("\nGenerating fixture list for the season...")
     fixtures = generate_fixture_list(teams)

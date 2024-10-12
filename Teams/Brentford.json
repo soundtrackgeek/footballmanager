@@ -2,144 +2,144 @@
   "name": "Brentford",
   "squad": [
     {
-      "name": "Owen Fox",
+      "name": "Tao Wang",
       "position": "GK",
-      "rating": 75,
-      "age": 34,
-      "value": 12631578
-    },
-    {
-      "name": "Benny Parker",
-      "position": "GK",
-      "rating": 76,
-      "age": 30,
-      "value": 15360000
-    },
-    {
-      "name": "Martin Black",
-      "position": "GK",
-      "rating": 67,
-      "age": 16,
-      "value": 21440000
-    },
-    {
-      "name": "Babatunde Gariba",
-      "position": "DF",
-      "rating": 70,
-      "age": 16,
-      "value": 28000000
-    },
-    {
-      "name": "Kendall Grimes",
-      "position": "DF",
-      "rating": 86,
+      "rating": 72,
       "age": 32,
-      "value": 19915789
+      "value": 13338947
     },
     {
-      "name": "Victor Pedersen",
-      "position": "DF",
-      "rating": 76,
-      "age": 34,
-      "value": 16000000
-    },
-    {
-      "name": "Kirk Holt",
-      "position": "DF",
-      "rating": 69,
-      "age": 25,
-      "value": 21063157
-    },
-    {
-      "name": "Danny Scott",
-      "position": "DF",
-      "rating": 81,
-      "age": 23,
-      "value": 26431578
-    },
-    {
-      "name": "Santiago Reyes",
-      "position": "DF",
-      "rating": 69,
-      "age": 17,
-      "value": 26873684
-    },
-    {
-      "name": "Tao-Jun Bhatia",
-      "position": "MF",
-      "rating": 65,
-      "age": 28,
-      "value": 21347368
-    },
-    {
-      "name": "Andreas Sandstr\u00f6m",
-      "position": "MF",
-      "rating": 85,
-      "age": 31,
-      "value": 24694736
-    },
-    {
-      "name": "Hank Watson",
-      "position": "MF",
+      "name": "Martin Sandberg",
+      "position": "GK",
       "rating": 83,
-      "age": 21,
-      "value": 34597894
+      "age": 18,
+      "value": 25162105
     },
     {
-      "name": "Roman Goodman",
-      "position": "MF",
-      "rating": 64,
-      "age": 25,
-      "value": 23444210
+      "name": "Rafael Morales",
+      "position": "GK",
+      "rating": 80,
+      "age": 29,
+      "value": 16842105
     },
     {
-      "name": "Daryl Bennett",
-      "position": "MF",
-      "rating": 66,
-      "age": 28,
-      "value": 21675789
-    },
-    {
-      "name": "Cael Bennett",
-      "position": "MF",
+      "name": "Vidar S\u00f6derberg",
+      "position": "DF",
       "rating": 82,
       "age": 23,
-      "value": 32109473
+      "value": 26757894
     },
     {
-      "name": "Hiro Iyer",
-      "position": "FW",
+      "name": "Jesse Palmer",
+      "position": "DF",
+      "rating": 65,
+      "age": 29,
+      "value": 17105263
+    },
+    {
+      "name": "Paige Franklin",
+      "position": "DF",
+      "rating": 66,
+      "age": 32,
+      "value": 15284210
+    },
+    {
+      "name": "Kato Kwamena",
+      "position": "DF",
+      "rating": 66,
+      "age": 20,
+      "value": 23621052
+    },
+    {
+      "name": "Kevin Whitaker",
+      "position": "DF",
+      "rating": 90,
+      "age": 18,
+      "value": 34105263
+    },
+    {
+      "name": "Sim\u00f3n Vega",
+      "position": "DF",
+      "rating": 88,
+      "age": 29,
+      "value": 23157894
+    },
+    {
+      "name": "Wesley Olson",
+      "position": "MF",
       "rating": 64,
-      "age": 27,
-      "value": 27284210
+      "age": 24,
+      "value": 24252631
     },
     {
-      "name": "Frank Franklin",
-      "position": "FW",
-      "rating": 83,
-      "age": 19,
-      "value": 40000000
-    },
-    {
-      "name": "Waylon Hayes",
-      "position": "FW",
-      "rating": 77,
+      "name": "Agust\u00edn Molina",
+      "position": "MF",
+      "rating": 81,
       "age": 26,
-      "value": 34042105
+      "value": 28648421
     },
     {
-      "name": "Aaron Smith",
-      "position": "FW",
-      "rating": 67,
-      "age": 19,
-      "value": 37026315
-    },
-    {
-      "name": "Clark Myers",
-      "position": "FW",
+      "name": "Derek Coleman",
+      "position": "MF",
       "rating": 87,
-      "age": 21,
+      "age": 30,
+      "value": 26374736
+    },
+    {
+      "name": "Stephen Williamson",
+      "position": "MF",
+      "rating": 71,
+      "age": 27,
+      "value": 24214736
+    },
+    {
+      "name": "Max Andrews",
+      "position": "MF",
+      "rating": 60,
+      "age": 31,
+      "value": 17431578
+    },
+    {
+      "name": "Suraj Gao",
+      "position": "MF",
+      "rating": 69,
+      "age": 25,
+      "value": 25275789
+    },
+    {
+      "name": "Pedro Bradley",
+      "position": "FW",
+      "rating": 69,
+      "age": 20,
+      "value": 37042105
+    },
+    {
+      "name": "Jabari Ciss\u00e9",
+      "position": "FW",
+      "rating": 82,
+      "age": 23,
       "value": 40000000
+    },
+    {
+      "name": "Dwayne Washington",
+      "position": "FW",
+      "rating": 69,
+      "age": 21,
+      "value": 35952631
+    },
+    {
+      "name": "Ping Matsumoto",
+      "position": "FW",
+      "rating": 66,
+      "age": 30,
+      "value": 25010526
+    },
+    {
+      "name": "Adeola Dias",
+      "position": "FW",
+      "rating": 85,
+      "age": 35,
+      "value": 25500000
     }
   ],
   "stadium": {

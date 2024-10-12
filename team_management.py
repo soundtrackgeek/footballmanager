@@ -108,13 +108,14 @@ def create_teams():
     return teams
 
 def generate_squad(team):
-    positions = {
-        Position.GK: 3,
-        Position.DF: 6,
-        Position.MF: 6,
-        Position.FW: 5
+    positions = ["GK", "DF", "MF", "FW"]
+    position_counts = {
+        "GK": 3,
+        "DF": 6,
+        "MF": 6,
+        "FW": 5
     }
-    for position, count in positions.items():
+    for position, count in position_counts.items():
         for _ in range(count):
             player = Player.generate_player(position)
             team.add_player(player)

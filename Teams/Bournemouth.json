@@ -2,143 +2,143 @@
   "name": "Bournemouth",
   "squad": [
     {
-      "name": "Wyatt Jordan",
+      "name": "Ryker Spencer",
       "position": "GK",
-      "rating": 72,
+      "rating": 88,
+      "age": 34,
+      "value": 14821052
+    },
+    {
+      "name": "Patrick Sanders",
+      "position": "GK",
+      "rating": 78,
       "age": 31,
-      "value": 13945263
+      "value": 15107368
     },
     {
-      "name": "Tyrone Griffin",
+      "name": "Einar Berglund",
       "position": "GK",
-      "rating": 82,
+      "rating": 65,
       "age": 16,
-      "value": 26240000
+      "value": 20800000
     },
     {
-      "name": "Karl Jacobsen",
-      "position": "GK",
-      "rating": 62,
-      "age": 23,
-      "value": 16185263
-    },
-    {
-      "name": "Kwame Abebe",
-      "position": "DF",
-      "rating": 73,
-      "age": 23,
-      "value": 23821052
-    },
-    {
-      "name": "Thabo Badu",
-      "position": "DF",
-      "rating": 62,
-      "age": 24,
-      "value": 19578947
-    },
-    {
-      "name": "Jeffrey Fisher",
+      "name": "Graham Watts",
       "position": "DF",
       "rating": 66,
-      "age": 30,
-      "value": 16673684
+      "age": 25,
+      "value": 20147368
     },
     {
-      "name": "Marcus Gordon",
+      "name": "Amir Clark",
       "position": "DF",
-      "rating": 67,
-      "age": 22,
-      "value": 22568421
-    },
-    {
-      "name": "Kingston Reid",
-      "position": "DF",
-      "rating": 73,
-      "age": 20,
-      "value": 26126315
-    },
-    {
-      "name": "Bart Phillips",
-      "position": "DF",
-      "rating": 71,
-      "age": 34,
-      "value": 14947368
-    },
-    {
-      "name": "Emiliano Ortiz",
-      "position": "MF",
-      "rating": 74,
-      "age": 20,
-      "value": 31781052
-    },
-    {
-      "name": "Landon Franks",
-      "position": "MF",
-      "rating": 76,
-      "age": 19,
-      "value": 33600000
-    },
-    {
-      "name": "Isaac Newman",
-      "position": "MF",
-      "rating": 90,
-      "age": 26,
-      "value": 31831578
-    },
-    {
-      "name": "Javier Mendoza",
-      "position": "MF",
-      "rating": 90,
-      "age": 23,
-      "value": 35242105
-    },
-    {
-      "name": "Ruben Richardson",
-      "position": "MF",
-      "rating": 69,
-      "age": 27,
-      "value": 23532631
-    },
-    {
-      "name": "Mateo Gonz\u00e1lez",
-      "position": "MF",
-      "rating": 71,
+      "rating": 87,
       "age": 17,
-      "value": 33183157
+      "value": 33884210
     },
     {
-      "name": "Agust\u00edn Molina",
-      "position": "FW",
-      "rating": 88,
+      "name": "Sefu Chukwu",
+      "position": "DF",
+      "rating": 71,
       "age": 23,
+      "value": 23168421
+    },
+    {
+      "name": "Zane Hughes",
+      "position": "DF",
+      "rating": 84,
+      "age": 29,
+      "value": 22105263
+    },
+    {
+      "name": "Taylor Black",
+      "position": "DF",
+      "rating": 71,
+      "age": 24,
+      "value": 22421052
+    },
+    {
+      "name": "Luke Peters",
+      "position": "DF",
+      "rating": 82,
+      "age": 18,
+      "value": 31073684
+    },
+    {
+      "name": "Kellen Mills",
+      "position": "MF",
+      "rating": 73,
+      "age": 21,
+      "value": 30429473
+    },
+    {
+      "name": "Gage Bryant",
+      "position": "MF",
+      "rating": 88,
+      "age": 27,
+      "value": 30012631
+    },
+    {
+      "name": "Harley Bowman",
+      "position": "MF",
+      "rating": 65,
+      "age": 30,
+      "value": 19705263
+    },
+    {
+      "name": "Travis Benson",
+      "position": "MF",
+      "rating": 86,
+      "age": 26,
+      "value": 30416842
+    },
+    {
+      "name": "Musa Iyanda",
+      "position": "MF",
+      "rating": 61,
+      "age": 21,
+      "value": 25427368
+    },
+    {
+      "name": "Casey Barnett",
+      "position": "MF",
+      "rating": 79,
+      "age": 17,
+      "value": 36922105
+    },
+    {
+      "name": "Obi Jabari",
+      "position": "FW",
+      "rating": 87,
+      "age": 21,
       "value": 40000000
     },
     {
-      "name": "Marshall Fitzgerald",
+      "name": "Rajesh Desai",
       "position": "FW",
-      "rating": 65,
-      "age": 24,
-      "value": 30789473
+      "rating": 73,
+      "age": 27,
+      "value": 31121052
     },
     {
-      "name": "Declan James",
+      "name": "Nathan Barton",
       "position": "FW",
-      "rating": 77,
-      "age": 35,
-      "value": 23100000
-    },
-    {
-      "name": "Daryl Bennett",
-      "position": "FW",
-      "rating": 75,
-      "age": 25,
-      "value": 34342105
-    },
-    {
-      "name": "Randy Flores",
-      "position": "FW",
-      "rating": 79,
+      "rating": 78,
       "age": 21,
+      "value": 40000000
+    },
+    {
+      "name": "Christopher Diaz",
+      "position": "FW",
+      "rating": 87,
+      "age": 26,
+      "value": 38463157
+    },
+    {
+      "name": "Gage Bryant",
+      "position": "FW",
+      "rating": 88,
+      "age": 24,
       "value": 40000000
     }
   ],

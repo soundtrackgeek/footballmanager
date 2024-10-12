@@ -2,144 +2,144 @@
   "name": "Aston Villa",
   "squad": [
     {
-      "name": "Leonardo Barrios",
+      "name": "Benjamin Torres",
       "position": "GK",
-      "rating": 66,
+      "rating": 78,
       "age": 26,
-      "value": 15562105
+      "value": 18391578
     },
     {
-      "name": "Jordan Long",
+      "name": "Torsten Norberg",
       "position": "GK",
       "rating": 80,
-      "age": 19,
-      "value": 23578947
-    },
-    {
-      "name": "Ibrahim Gomes",
-      "position": "GK",
-      "rating": 69,
-      "age": 21,
-      "value": 19174736
-    },
-    {
-      "name": "Sam Reid",
-      "position": "DF",
-      "rating": 71,
-      "age": 16,
-      "value": 28400000
-    },
-    {
-      "name": "Lamine Osei",
-      "position": "DF",
-      "rating": 62,
       "age": 33,
-      "value": 13705263
+      "value": 14147368
     },
     {
-      "name": "Konner Harmon",
-      "position": "DF",
-      "rating": 77,
-      "age": 23,
-      "value": 25126315
-    },
-    {
-      "name": "Martin Black",
-      "position": "DF",
-      "rating": 81,
-      "age": 22,
-      "value": 27284210
-    },
-    {
-      "name": "Nicolas Franklin",
-      "position": "DF",
-      "rating": 72,
-      "age": 28,
-      "value": 19705263
-    },
-    {
-      "name": "Ling Rao",
-      "position": "DF",
-      "rating": 61,
-      "age": 21,
-      "value": 21189473
-    },
-    {
-      "name": "Dexter Stewart",
-      "position": "MF",
-      "rating": 84,
-      "age": 23,
-      "value": 32892631
-    },
-    {
-      "name": "Victor Marin",
-      "position": "MF",
-      "rating": 62,
-      "age": 30,
-      "value": 18795789
-    },
-    {
-      "name": "Walter Watkins",
-      "position": "MF",
-      "rating": 86,
-      "age": 17,
-      "value": 40000000
-    },
-    {
-      "name": "Nuru Mabena",
-      "position": "MF",
-      "rating": 64,
-      "age": 16,
-      "value": 30720000
-    },
-    {
-      "name": "Isaac Newman",
-      "position": "MF",
-      "rating": 71,
-      "age": 19,
-      "value": 31389473
-    },
-    {
-      "name": "River Bowman",
-      "position": "MF",
-      "rating": 81,
-      "age": 21,
-      "value": 33764210
-    },
-    {
-      "name": "Mandla Yeboah",
-      "position": "FW",
-      "rating": 67,
-      "age": 17,
-      "value": 39142105
-    },
-    {
-      "name": "Felix Palmer",
-      "position": "FW",
-      "rating": 67,
-      "age": 25,
-      "value": 30678947
-    },
-    {
-      "name": "Ethan Morgan",
-      "position": "FW",
-      "rating": 81,
-      "age": 24,
-      "value": 38368421
+      "name": "George Rivera",
+      "position": "GK",
+      "rating": 90,
+      "age": 26,
+      "value": 21221052
     },
     {
       "name": "Mohammad Brooks",
-      "position": "FW",
-      "rating": 81,
-      "age": 31,
-      "value": 29415789
+      "position": "DF",
+      "rating": 84,
+      "age": 33,
+      "value": 18568421
     },
     {
-      "name": "August Gustavsson",
+      "name": "Theodore Fields",
+      "position": "DF",
+      "rating": 86,
+      "age": 19,
+      "value": 31684210
+    },
+    {
+      "name": "Morgan Alvarez",
+      "position": "DF",
+      "rating": 86,
+      "age": 16,
+      "value": 34400000
+    },
+    {
+      "name": "Antonio Cruz",
+      "position": "DF",
+      "rating": 67,
+      "age": 17,
+      "value": 26094736
+    },
+    {
+      "name": "Brody Howard",
+      "position": "DF",
+      "rating": 75,
+      "age": 32,
+      "value": 17368421
+    },
+    {
+      "name": "Damien Freeman",
+      "position": "DF",
+      "rating": 83,
+      "age": 33,
+      "value": 18347368
+    },
+    {
+      "name": "Jorge Fuentes",
+      "position": "MF",
+      "rating": 60,
+      "age": 32,
+      "value": 16673684
+    },
+    {
+      "name": "Vance Schneider",
+      "position": "MF",
+      "rating": 65,
+      "age": 32,
+      "value": 18063157
+    },
+    {
+      "name": "Diego Morris",
+      "position": "MF",
+      "rating": 69,
+      "age": 33,
+      "value": 18303157
+    },
+    {
+      "name": "Kabelo Ibrahim",
+      "position": "MF",
+      "rating": 78,
+      "age": 21,
+      "value": 32513684
+    },
+    {
+      "name": "Noah Jansson",
+      "position": "MF",
+      "rating": 73,
+      "age": 26,
+      "value": 25818947
+    },
+    {
+      "name": "Rene Page",
+      "position": "MF",
+      "rating": 81,
+      "age": 18,
+      "value": 36833684
+    },
+    {
+      "name": "Lucas Westerlund",
       "position": "FW",
-      "rating": 68,
-      "age": 29,
-      "value": 26842105
+      "rating": 64,
+      "age": 28,
+      "value": 26273684
+    },
+    {
+      "name": "Amir Clark",
+      "position": "FW",
+      "rating": 83,
+      "age": 16,
+      "value": 40000000
+    },
+    {
+      "name": "Kofi Benjumea",
+      "position": "FW",
+      "rating": 70,
+      "age": 16,
+      "value": 40000000
+    },
+    {
+      "name": "Jamie Murphy",
+      "position": "FW",
+      "rating": 85,
+      "age": 18,
+      "value": 40000000
+    },
+    {
+      "name": "Quincy Oliver",
+      "position": "FW",
+      "rating": 73,
+      "age": 17,
+      "value": 40000000
     }
   ],
   "stadium": {

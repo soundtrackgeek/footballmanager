@@ -2,144 +2,144 @@
   "name": "Everton",
   "squad": [
     {
-      "name": "Erik Berg",
+      "name": "Carter Butler",
       "position": "GK",
-      "rating": 62,
-      "age": 20,
-      "value": 17751578
-    },
-    {
-      "name": "Joseph Reid",
-      "position": "GK",
-      "rating": 89,
-      "age": 26,
-      "value": 20985263
-    },
-    {
-      "name": "Tom\u00e1s Valdez",
-      "position": "GK",
-      "rating": 86,
-      "age": 34,
-      "value": 14484210
-    },
-    {
-      "name": "Preston Hanson",
-      "position": "DF",
-      "rating": 66,
-      "age": 33,
-      "value": 14589473
-    },
-    {
-      "name": "Tuan Ito",
-      "position": "DF",
-      "rating": 84,
-      "age": 33,
-      "value": 18568421
-    },
-    {
-      "name": "Musa Iyanda",
-      "position": "DF",
-      "rating": 62,
-      "age": 20,
-      "value": 22189473
-    },
-    {
-      "name": "Andr\u00e9s Gomez",
-      "position": "DF",
-      "rating": 71,
-      "age": 26,
-      "value": 20926315
-    },
-    {
-      "name": "Hiro Iyer",
-      "position": "DF",
-      "rating": 88,
-      "age": 21,
-      "value": 30568421
-    },
-    {
-      "name": "Emerson Reyes",
-      "position": "DF",
-      "rating": 86,
-      "age": 29,
-      "value": 22631578
-    },
-    {
-      "name": "Bryan Peterson",
-      "position": "MF",
-      "rating": 84,
-      "age": 35,
-      "value": 20160000
-    },
-    {
-      "name": "Mitchell Bennett",
-      "position": "MF",
-      "rating": 86,
-      "age": 27,
-      "value": 29330526
-    },
-    {
-      "name": "Tristan Webster",
-      "position": "MF",
-      "rating": 82,
-      "age": 18,
-      "value": 37288421
-    },
-    {
-      "name": "Cecil Foster",
-      "position": "MF",
-      "rating": 71,
-      "age": 21,
-      "value": 29595789
-    },
-    {
-      "name": "Juan Silva",
-      "position": "MF",
-      "rating": 71,
-      "age": 20,
-      "value": 30492631
-    },
-    {
-      "name": "Benjam\u00edn Rodr\u00edguez",
-      "position": "MF",
-      "rating": 63,
-      "age": 22,
-      "value": 25465263
-    },
-    {
-      "name": "Ruben Richardson",
-      "position": "FW",
-      "rating": 88,
-      "age": 31,
-      "value": 31957894
-    },
-    {
-      "name": "Adrian Olofsson",
-      "position": "FW",
       "rating": 79,
-      "age": 34,
-      "value": 24947368
-    },
-    {
-      "name": "Huy Zhang",
-      "position": "FW",
-      "rating": 84,
-      "age": 34,
-      "value": 26526315
-    },
-    {
-      "name": "Kaden Henry",
-      "position": "FW",
-      "rating": 71,
       "age": 30,
-      "value": 26905263
+      "value": 15966315
     },
     {
-      "name": "Kato Kwamena",
-      "position": "FW",
-      "rating": 62,
+      "name": "Barney Roberts",
+      "position": "GK",
+      "rating": 68,
+      "age": 27,
+      "value": 15461052
+    },
+    {
+      "name": "Noah Jansson",
+      "position": "GK",
+      "rating": 83,
+      "age": 19,
+      "value": 24463157
+    },
+    {
+      "name": "Devin Rogers",
+      "position": "DF",
+      "rating": 70,
+      "age": 27,
+      "value": 19894736
+    },
+    {
+      "name": "Bruno Reyes",
+      "position": "DF",
+      "rating": 77,
+      "age": 25,
+      "value": 23505263
+    },
+    {
+      "name": "Uriah Reed",
+      "position": "DF",
+      "rating": 83,
+      "age": 21,
+      "value": 28831578
+    },
+    {
+      "name": "Adan Perez",
+      "position": "DF",
+      "rating": 79,
+      "age": 30,
+      "value": 19957894
+    },
+    {
+      "name": "Taylor Black",
+      "position": "DF",
+      "rating": 69,
+      "age": 34,
+      "value": 14526315
+    },
+    {
+      "name": "Thabo Saye",
+      "position": "DF",
+      "rating": 71,
+      "age": 24,
+      "value": 22421052
+    },
+    {
+      "name": "Anton Vestergaard",
+      "position": "MF",
+      "rating": 77,
+      "age": 35,
+      "value": 18480000
+    },
+    {
+      "name": "Jaden Brooks",
+      "position": "MF",
+      "rating": 80,
+      "age": 22,
+      "value": 32336842
+    },
+    {
+      "name": "Ling Rao",
+      "position": "MF",
+      "rating": 75,
       "age": 29,
-      "value": 24473684
+      "value": 23684210
+    },
+    {
+      "name": "Lucas Westerlund",
+      "position": "MF",
+      "rating": 88,
+      "age": 28,
+      "value": 28901052
+    },
+    {
+      "name": "Chike Umar",
+      "position": "MF",
+      "rating": 67,
+      "age": 17,
+      "value": 31313684
+    },
+    {
+      "name": "Landon Franks",
+      "position": "MF",
+      "rating": 90,
+      "age": 35,
+      "value": 21600000
+    },
+    {
+      "name": "Gunnar West",
+      "position": "FW",
+      "rating": 72,
+      "age": 20,
+      "value": 38652631
+    },
+    {
+      "name": "Anton Vestergaard",
+      "position": "FW",
+      "rating": 60,
+      "age": 27,
+      "value": 25578947
+    },
+    {
+      "name": "Uriel Murray",
+      "position": "FW",
+      "rating": 70,
+      "age": 18,
+      "value": 39789473
+    },
+    {
+      "name": "Daniel Ulfsson",
+      "position": "FW",
+      "rating": 76,
+      "age": 28,
+      "value": 31200000
+    },
+    {
+      "name": "Griffin Graham",
+      "position": "FW",
+      "rating": 85,
+      "age": 27,
+      "value": 36236842
     }
   ],
   "stadium": {

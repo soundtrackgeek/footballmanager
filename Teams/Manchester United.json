@@ -2,144 +2,144 @@
   "name": "Manchester United",
   "squad": [
     {
-      "name": "Satoshi Suzuki",
+      "name": "Axel Adams",
       "position": "GK",
-      "rating": 72,
-      "age": 18,
-      "value": 21827368
-    },
-    {
-      "name": "Rafael Morales",
-      "position": "GK",
-      "rating": 90,
-      "age": 33,
-      "value": 15915789
-    },
-    {
-      "name": "Angel Young",
-      "position": "GK",
-      "rating": 84,
-      "age": 33,
-      "value": 14854736
-    },
-    {
-      "name": "Sebastian Sj\u00f6berg",
-      "position": "DF",
-      "rating": 88,
-      "age": 21,
-      "value": 30568421
-    },
-    {
-      "name": "Benjamin Torbj\u00f6rnsson",
-      "position": "DF",
-      "rating": 63,
-      "age": 33,
-      "value": 13926315
-    },
-    {
-      "name": "Santiago Silva",
-      "position": "DF",
-      "rating": 71,
-      "age": 24,
-      "value": 22421052
-    },
-    {
-      "name": "Ling Rao",
-      "position": "DF",
-      "rating": 81,
-      "age": 32,
-      "value": 18757894
-    },
-    {
-      "name": "Masashi Feng",
-      "position": "DF",
-      "rating": 80,
-      "age": 21,
-      "value": 27789473
-    },
-    {
-      "name": "Marvin Freeman",
-      "position": "DF",
       "rating": 87,
-      "age": 34,
+      "age": 25,
+      "value": 21246315
+    },
+    {
+      "name": "Santiago Reyes",
+      "position": "GK",
+      "rating": 64,
+      "age": 17,
+      "value": 19941052
+    },
+    {
+      "name": "Lars Andersen",
+      "position": "GK",
+      "rating": 75,
+      "age": 25,
       "value": 18315789
     },
     {
-      "name": "Guy Crawford",
-      "position": "MF",
-      "rating": 78,
-      "age": 25,
-      "value": 28572631
+      "name": "Jeffrey Fisher",
+      "position": "DF",
+      "rating": 73,
+      "age": 20,
+      "value": 26126315
     },
     {
-      "name": "Mohamed Holland",
-      "position": "MF",
-      "rating": 78,
-      "age": 29,
-      "value": 24631578
-    },
-    {
-      "name": "Roman Goodman",
-      "position": "MF",
-      "rating": 81,
-      "age": 23,
-      "value": 31717894
-    },
-    {
-      "name": "Morten Peterson",
-      "position": "MF",
-      "rating": 65,
-      "age": 27,
-      "value": 22168421
-    },
-    {
-      "name": "Rune Lindholm",
-      "position": "MF",
-      "rating": 77,
+      "name": "Milton Blake",
+      "position": "DF",
+      "rating": 85,
       "age": 21,
-      "value": 32096842
+      "value": 29526315
     },
     {
-      "name": "Baojun Kobayashi",
-      "position": "MF",
-      "rating": 89,
-      "age": 21,
-      "value": 37098947
+      "name": "Eugene Burke",
+      "position": "DF",
+      "rating": 80,
+      "age": 28,
+      "value": 21894736
     },
     {
-      "name": "Kellen Mills",
-      "position": "FW",
-      "rating": 81,
-      "age": 29,
-      "value": 31973684
-    },
-    {
-      "name": "Johnny Haynes",
-      "position": "FW",
+      "name": "Simon Bates",
+      "position": "DF",
       "rating": 77,
-      "age": 27,
-      "value": 32826315
+      "age": 26,
+      "value": 22694736
     },
     {
-      "name": "Wyatt Jordan",
-      "position": "FW",
+      "name": "Sergio Morgan",
+      "position": "DF",
+      "rating": 80,
+      "age": 28,
+      "value": 21894736
+    },
+    {
+      "name": "Guillermo Gray",
+      "position": "DF",
+      "rating": 68,
+      "age": 18,
+      "value": 25768421
+    },
+    {
+      "name": "Lars Andersen",
+      "position": "MF",
+      "rating": 83,
+      "age": 30,
+      "value": 25162105
+    },
+    {
+      "name": "Tumelo Ekwueme",
+      "position": "MF",
+      "rating": 82,
+      "age": 19,
+      "value": 36252631
+    },
+    {
+      "name": "Leslie Griffin",
+      "position": "MF",
+      "rating": 86,
+      "age": 24,
+      "value": 32589473
+    },
+    {
+      "name": "Adri\u00e1n Cabrera",
+      "position": "MF",
+      "rating": 68,
+      "age": 16,
+      "value": 32640000
+    },
+    {
+      "name": "Colin Ross",
+      "position": "MF",
       "rating": 82,
       "age": 35,
-      "value": 24600000
+      "value": 19680000
     },
     {
-      "name": "Johnny Haynes",
+      "name": "Izaiah Banks",
+      "position": "MF",
+      "rating": 84,
+      "age": 32,
+      "value": 23343157
+    },
+    {
+      "name": "Hayden Manning",
       "position": "FW",
-      "rating": 79,
-      "age": 19,
+      "rating": 76,
+      "age": 17,
       "value": 40000000
     },
     {
-      "name": "Jae Seo",
+      "name": "Dumi Pepper",
       "position": "FW",
-      "rating": 81,
-      "age": 35,
-      "value": 24300000
+      "rating": 68,
+      "age": 21,
+      "value": 35431578
+    },
+    {
+      "name": "Mathew Howard",
+      "position": "FW",
+      "rating": 74,
+      "age": 22,
+      "value": 37389473
+    },
+    {
+      "name": "Bo Barnes",
+      "position": "FW",
+      "rating": 86,
+      "age": 17,
+      "value": 40000000
+    },
+    {
+      "name": "Gavin Pena",
+      "position": "FW",
+      "rating": 66,
+      "age": 25,
+      "value": 30221052
     }
   ],
   "stadium": {

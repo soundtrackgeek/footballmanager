@@ -2,144 +2,144 @@
   "name": "Manchester City",
   "squad": [
     {
-      "name": "Shiro Lim",
+      "name": "Javier Mendoza",
       "position": "GK",
-      "rating": 71,
-      "age": 29,
-      "value": 14947368
+      "rating": 75,
+      "age": 19,
+      "value": 22105263
     },
     {
-      "name": "Stephen Williamson",
+      "name": "Alexander Moore",
+      "position": "GK",
+      "rating": 86,
+      "age": 34,
+      "value": 14484210
+    },
+    {
+      "name": "Thomas Little",
       "position": "GK",
       "rating": 66,
       "age": 23,
       "value": 17229473
     },
     {
-      "name": "Christian Solberg",
-      "position": "GK",
-      "rating": 86,
-      "age": 19,
-      "value": 25347368
-    },
-    {
-      "name": "Diego Diaz",
-      "position": "DF",
-      "rating": 87,
-      "age": 28,
-      "value": 23810526
-    },
-    {
-      "name": "Jelani Rose",
-      "position": "DF",
-      "rating": 70,
-      "age": 20,
-      "value": 25052631
-    },
-    {
-      "name": "Benjamin Torres",
-      "position": "DF",
-      "rating": 84,
-      "age": 20,
-      "value": 30063157
-    },
-    {
-      "name": "Orlando Manning",
-      "position": "DF",
-      "rating": 88,
-      "age": 23,
-      "value": 28715789
-    },
-    {
-      "name": "Marlon Dixon",
+      "name": "Musa Patel",
       "position": "DF",
       "rating": 90,
-      "age": 25,
-      "value": 27473684
+      "age": 31,
+      "value": 21789473
     },
     {
-      "name": "Elijah Cunningham",
+      "name": "Tony Higgins",
       "position": "DF",
-      "rating": 80,
-      "age": 21,
-      "value": 27789473
+      "rating": 90,
+      "age": 30,
+      "value": 22736842
     },
     {
-      "name": "Marlon Dixon",
-      "position": "MF",
-      "rating": 81,
+      "name": "Tyrone Griffin",
+      "position": "DF",
+      "rating": 63,
+      "age": 28,
+      "value": 17242105
+    },
+    {
+      "name": "Samuel Cohen",
+      "position": "DF",
+      "rating": 79,
       "age": 33,
-      "value": 21486315
+      "value": 17463157
     },
     {
-      "name": "Grant West",
-      "position": "MF",
-      "rating": 76,
-      "age": 22,
-      "value": 30720000
+      "name": "Alejandro Morales",
+      "position": "DF",
+      "rating": 60,
+      "age": 30,
+      "value": 15157894
     },
     {
-      "name": "Dexter Stewart",
-      "position": "MF",
-      "rating": 87,
-      "age": 34,
-      "value": 21978947
+      "name": "Finn Olsen",
+      "position": "DF",
+      "rating": 72,
+      "age": 23,
+      "value": 23494736
     },
     {
-      "name": "Yusuf Brown",
-      "position": "MF",
-      "rating": 89,
-      "age": 26,
-      "value": 31477894
-    },
-    {
-      "name": "Russell Fuller",
+      "name": "Clark Myers",
       "position": "MF",
       "rating": 88,
-      "age": 30,
-      "value": 26677894
+      "age": 28,
+      "value": 28901052
     },
     {
-      "name": "Caleb Gray",
+      "name": "Sven J\u00f8rgensen",
+      "position": "MF",
+      "rating": 62,
+      "age": 35,
+      "value": 14880000
+    },
+    {
+      "name": "Mathew Howard",
+      "position": "MF",
+      "rating": 78,
+      "age": 17,
+      "value": 36454736
+    },
+    {
+      "name": "Daniel Lopez",
       "position": "MF",
       "rating": 63,
-      "age": 26,
-      "value": 22282105
+      "age": 28,
+      "value": 20690526
     },
     {
-      "name": "Nicholas Phelps",
-      "position": "FW",
-      "rating": 65,
-      "age": 22,
-      "value": 32842105
+      "name": "Kyle Hamilton",
+      "position": "MF",
+      "rating": 76,
+      "age": 29,
+      "value": 24000000
     },
     {
-      "name": "Myles Joseph",
+      "name": "Amir Verma",
+      "position": "MF",
+      "rating": 85,
+      "age": 21,
+      "value": 35431578
+    },
+    {
+      "name": "Brandon Murphy",
       "position": "FW",
-      "rating": 80,
+      "rating": 81,
+      "age": 30,
+      "value": 30694736
+    },
+    {
+      "name": "Anurak Nguyen",
+      "position": "FW",
+      "rating": 66,
+      "age": 28,
+      "value": 27094736
+    },
+    {
+      "name": "Daichi Zhu",
+      "position": "FW",
+      "rating": 87,
       "age": 17,
       "value": 40000000
     },
     {
-      "name": "Chad Simmons",
+      "name": "Rune Lindholm",
       "position": "FW",
-      "rating": 86,
-      "age": 23,
+      "rating": 84,
+      "age": 17,
       "value": 40000000
     },
     {
-      "name": "Benny Parker",
+      "name": "Bart Phillips",
       "position": "FW",
-      "rating": 60,
-      "age": 32,
-      "value": 20842105
-    },
-    {
-      "name": "Ping Matsumoto",
-      "position": "FW",
-      "rating": 64,
-      "age": 24,
-      "value": 30315789
+      "rating": 86,
+      "age": 20,
+      "value": 40000000
     }
   ],
   "stadium": {

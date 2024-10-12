@@ -2,144 +2,144 @@
   "name": "Chelsea",
   "squad": [
     {
-      "name": "Edwin Murphy",
+      "name": "Noah Jansson",
       "position": "GK",
-      "rating": 82,
-      "age": 16,
-      "value": 26240000
+      "rating": 63,
+      "age": 22,
+      "value": 16976842
     },
     {
-      "name": "Jake Russell",
+      "name": "Simon Mikkelsen",
       "position": "GK",
-      "rating": 67,
-      "age": 19,
-      "value": 19747368
+      "rating": 80,
+      "age": 33,
+      "value": 14147368
     },
     {
-      "name": "Damon Wheeler",
+      "name": "Adam Martinez",
       "position": "GK",
-      "rating": 67,
-      "age": 29,
-      "value": 14105263
-    },
-    {
-      "name": "Javier Mendoza",
-      "position": "DF",
-      "rating": 84,
-      "age": 31,
-      "value": 20336842
-    },
-    {
-      "name": "Emerson Reyes",
-      "position": "DF",
-      "rating": 75,
-      "age": 30,
-      "value": 18947368
-    },
-    {
-      "name": "Izaiah Banks",
-      "position": "DF",
-      "rating": 89,
-      "age": 35,
-      "value": 17800000
-    },
-    {
-      "name": "Ram\u00f3n Rivera",
-      "position": "DF",
-      "rating": 67,
-      "age": 19,
-      "value": 24684210
-    },
-    {
-      "name": "Ricardo Su\u00e1rez",
-      "position": "DF",
       "rating": 85,
       "age": 19,
-      "value": 31315789
+      "value": 25052631
     },
     {
-      "name": "Vincent Bennett",
+      "name": "Darren Green",
       "position": "DF",
-      "rating": 78,
-      "age": 32,
-      "value": 18063157
-    },
-    {
-      "name": "Mario Shaw",
-      "position": "MF",
-      "rating": 64,
-      "age": 19,
-      "value": 28294736
-    },
-    {
-      "name": "Kevin Whitaker",
-      "position": "MF",
-      "rating": 76,
-      "age": 26,
-      "value": 26880000
-    },
-    {
-      "name": "Paige Franklin",
-      "position": "MF",
-      "rating": 66,
-      "age": 33,
-      "value": 17507368
-    },
-    {
-      "name": "Bryan Peterson",
-      "position": "MF",
-      "rating": 79,
+      "rating": 90,
       "age": 23,
-      "value": 30934736
+      "value": 29368421
     },
     {
-      "name": "Ibrahim Gomes",
-      "position": "MF",
-      "rating": 63,
+      "name": "Rajesh Desai",
+      "position": "DF",
+      "rating": 87,
+      "age": 22,
+      "value": 29305263
+    },
+    {
+      "name": "Franklin Hansen",
+      "position": "DF",
+      "rating": 85,
+      "age": 23,
+      "value": 27736842
+    },
+    {
+      "name": "Aiden Hernandez",
+      "position": "DF",
+      "rating": 81,
       "age": 25,
-      "value": 23077894
+      "value": 24726315
     },
     {
-      "name": "Jeffrey Fisher",
-      "position": "MF",
-      "rating": 77,
-      "age": 23,
-      "value": 30151578
+      "name": "Brooks Ward",
+      "position": "DF",
+      "rating": 71,
+      "age": 18,
+      "value": 26905263
     },
     {
-      "name": "Ken Guo",
-      "position": "FW",
-      "rating": 88,
-      "age": 23,
-      "value": 40000000
-    },
-    {
-      "name": "Wesley Olson",
-      "position": "FW",
-      "rating": 86,
-      "age": 29,
-      "value": 33947368
-    },
-    {
-      "name": "Damien Freeman",
-      "position": "FW",
-      "rating": 83,
-      "age": 31,
-      "value": 30142105
-    },
-    {
-      "name": "Sven J\u00f8rgensen",
-      "position": "FW",
-      "rating": 61,
-      "age": 20,
-      "value": 32747368
-    },
-    {
-      "name": "Leonardo Barrios",
-      "position": "FW",
+      "name": "Aedan Gomez",
+      "position": "DF",
       "rating": 86,
       "age": 18,
+      "value": 32589473
+    },
+    {
+      "name": "Victor Pedersen",
+      "position": "MF",
+      "rating": 60,
+      "age": 20,
+      "value": 25768421
+    },
+    {
+      "name": "Mikkel Larsen",
+      "position": "MF",
+      "rating": 86,
+      "age": 18,
+      "value": 39107368
+    },
+    {
+      "name": "Christopher Diaz",
+      "position": "MF",
+      "rating": 68,
+      "age": 28,
+      "value": 22332631
+    },
+    {
+      "name": "Graham Watts",
+      "position": "MF",
+      "rating": 82,
+      "age": 19,
+      "value": 36252631
+    },
+    {
+      "name": "Edgar Franco",
+      "position": "MF",
+      "rating": 74,
+      "age": 30,
+      "value": 22433684
+    },
+    {
+      "name": "Oliver Morgan",
+      "position": "MF",
+      "rating": 79,
+      "age": 25,
+      "value": 28938947
+    },
+    {
+      "name": "Malachi Harrison",
+      "position": "FW",
+      "rating": 80,
+      "age": 24,
+      "value": 37894736
+    },
+    {
+      "name": "Maxwell Hart",
+      "position": "FW",
+      "rating": 71,
+      "age": 29,
+      "value": 28026315
+    },
+    {
+      "name": "William \u00c5kesson",
+      "position": "FW",
+      "rating": 90,
+      "age": 24,
       "value": 40000000
+    },
+    {
+      "name": "Pranav Liu",
+      "position": "FW",
+      "rating": 67,
+      "age": 32,
+      "value": 23273684
+    },
+    {
+      "name": "Jacob Ramos",
+      "position": "FW",
+      "rating": 73,
+      "age": 20,
+      "value": 39189473
     }
   ],
   "stadium": {
