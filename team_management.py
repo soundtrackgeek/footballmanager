@@ -122,7 +122,17 @@ def choose_team(teams):
 
 def display_squad(team):
     print(f"\n{team.name} Squad:")
-    for i, player in enumerate(team.squad, 1):
+    
+    # Display selected players first
+    if team.selected_players:
+        print("\nSelected Starting XI:")
+        for i, player in enumerate(team.selected_players, 1):
+            print(f"{i}. {player.name} - {player.position.name} - Rating: {player.rating} - Age: {player.age} - Value: £{player.value:,}")
+    
+    # Display unselected players
+    print("\nOther Squad Players:")
+    unselected_players = [p for p in team.squad if p not in team.selected_players]
+    for i, player in enumerate(unselected_players, len(team.selected_players) + 1):
         print(f"{i}. {player.name} - {player.position.name} - Rating: {player.rating} - Age: {player.age} - Value: £{player.value:,}")
 
 def select_team(team):
@@ -153,8 +163,8 @@ def select_team(team):
 
     team.selected_players = selected_players
     print("\nSelected Team:")
-    for player in team.selected_players:
-        print(f"{player.name} - {player.position.name} - Rating: {player.rating} - Age: {player.age} - Value: £{player.value:,}")
+    for i, player in enumerate(team.selected_players, 1):
+        print(f"{i}. {player.name} - {player.position.name} - Rating: {player.rating} - Age: {player.age} - Value: £{player.value:,}")
     
     team_rating = team.calculate_team_rating()
     print(f"\nTeam Rating: {team_rating:.2f}")
