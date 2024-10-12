@@ -1,6 +1,7 @@
 import random
 import json
 from itertools import combinations
+import csv
 
 class Player:
     def __init__(self, name, position):
@@ -24,25 +25,26 @@ def create_teams():
     ]
     return [Team(name) for name in teams]
 
-def generate_player(position):
-    first_names = ["John", "David", "Michael", "James", "William", "Robert", "Richard", "Thomas", "Charles", "Daniel",
-                   "Juan", "Mohammed", "Ian", "Liam", "Sven", "Alejandro", "Dmitri", "Kwame", "Raj", "Giovanni",
-                   "Hiroshi", "Mohammed", "Holger", "Zain", "Aisha", "Chet", "Priya", "Hassan", "Ingvald", "Paolo",
-                   "Mateo", "Nikolai", "Omar", "Thiago", "Rafael", "Khalid", "Yusuf", "Andrei", "Luca", "Emilio",
-                   "Santiago", "Dario", "Tomas", "Viktor", "Marek", "Jasper", "Ruben", "Kieran", "Dante", "Zachary",
-                   "Felix", "Nico", "Rami", "Anwar", "Sergio", "Milo"]
-    last_names = ["Smith", "Johnson", "Williams", "Brown", "Jones", "Garcia", "Miller", "Davis", "Rodriguez", "Martinez",
-                  "Nguyen", "Kim", "Patel", "Müller", "Ivanov", "Silva", "Kowalski", "Tanaka", "O'Brien", "Dubois",
-                  "Yamamoto", "Ali", "Petrov", "Gonzalez", "Andersson", "Chen", "Singh", "Rossi", "Novak", "Sato",
-                  "Henderson", "Khan", "López", "Bianchi", "Kovács", "Nielsen", "Sokolov", "Fernández", "O'Reilly", "Liu",
-                  "Matsumoto", "Kumar", "Rojas", "Björk", "Dimitrov", "Santos", "Takahashi", "Zhang", "Huang", "Meyer"]
+# Add this function to read the CSV file
+def load_player_names():
+    first_names = []
+    last_names = []
+    with open('playernames.csv', 'r') as file:
+        csv_reader = csv.reader(file)
+        for row in csv_reader:
+            first_names.append(row[0])
+            last_names.append(row[1])
+    return first_names, last_names
+
+# Update the generate_player function
+def generate_player(position, first_names, last_names):
     return Player(f"{random.choice(first_names)} {random.choice(last_names)}", position)
 
-def generate_squad(team):
+def generate_squad(team, first_names, last_names):
     positions = ["GK", "DF", "MF", "FW"]
     for _ in range(20):
         position = random.choice(positions)
-        player = generate_player(position)
+        player = generate_player(position, first_names, last_names)
         team.add_player(player)
 
 def generate_fixture_list(teams):
@@ -72,8 +74,9 @@ def save_fixture_list(fixtures):
 
 def main():
     teams = create_teams()
+    first_names, last_names = load_player_names()
     for team in teams:
-        generate_squad(team)
+        generate_squad(team, first_names, last_names)
     
     print("Welcome to Football Manager!")
     num_players = int(input("Enter the number of players (1-4): "))
