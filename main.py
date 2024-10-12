@@ -233,8 +233,8 @@ def main():
                 else:
                     print("Your team is already selected. You can change it from the Team menu if needed.")
                 print(f"\nSimulating Week {current_week}")
-                update_transfer_market(transfer_market, teams)  # Update transfer market before playing the week
                 current_week = play_week(fixtures, table, current_week, player_team)
+                update_transfer_market(transfer_market, teams)  # Process transfers after the week is played
             else:
                 print("\nThe season has ended. No more games to play.")
         elif choice == "6":

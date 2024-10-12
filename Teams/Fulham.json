@@ -2,144 +2,144 @@
   "name": "Fulham",
   "squad": [
     {
-      "name": "Eugene Gonzalez",
+      "name": "Bruno Umar",
       "position": "GK",
-      "rating": 65,
-      "age": 28,
-      "value": 14231578
-    },
-    {
-      "name": "Shane Fredriksson",
-      "position": "GK",
-      "rating": 61,
+      "rating": 73,
       "age": 27,
-      "value": 13869473
+      "value": 16597894
     },
     {
-      "name": "Cristian Mabena",
+      "name": "Amir Gray",
       "position": "GK",
-      "rating": 69,
-      "age": 26,
-      "value": 16269473
+      "rating": 89,
+      "age": 19,
+      "value": 26231578
     },
     {
-      "name": "Sam Kabiru",
-      "position": "DF",
-      "rating": 62,
-      "age": 23,
-      "value": 20231578
-    },
-    {
-      "name": "Cameron Long",
-      "position": "DF",
-      "rating": 64,
-      "age": 27,
-      "value": 18189473
-    },
-    {
-      "name": "Kwesi Mitchell",
-      "position": "DF",
-      "rating": 68,
-      "age": 18,
-      "value": 25768421
-    },
-    {
-      "name": "Keith Goodman",
-      "position": "DF",
-      "rating": 64,
-      "age": 28,
-      "value": 17515789
-    },
-    {
-      "name": "Cian Holland",
-      "position": "DF",
+      "name": "Ignacio Wood",
+      "position": "GK",
       "rating": 87,
-      "age": 20,
-      "value": 31136842
+      "age": 26,
+      "value": 20513684
     },
     {
-      "name": "Milton Ciss\u00e9",
+      "name": "Benny Cohen",
       "position": "DF",
-      "rating": 69,
-      "age": 32,
-      "value": 15978947
-    },
-    {
-      "name": "Cecil Reed",
-      "position": "MF",
-      "rating": 82,
+      "rating": 71,
       "age": 34,
-      "value": 20715789
+      "value": 14947368
     },
     {
-      "name": "Erik Hamilton",
-      "position": "MF",
-      "rating": 84,
-      "age": 27,
-      "value": 28648421
+      "name": "Marlon Sharp",
+      "position": "DF",
+      "rating": 90,
+      "age": 24,
+      "value": 28421052
     },
     {
-      "name": "Josiah Baldwin",
-      "position": "MF",
+      "name": "Rohan Nilsen",
+      "position": "DF",
+      "rating": 60,
+      "age": 24,
+      "value": 18947368
+    },
+    {
+      "name": "Axel Holmes",
+      "position": "DF",
+      "rating": 75,
+      "age": 26,
+      "value": 22105263
+    },
+    {
+      "name": "Karl Norberg",
+      "position": "DF",
       "rating": 88,
-      "age": 29,
+      "age": 24,
       "value": 27789473
     },
     {
-      "name": "Aziz Nelson",
-      "position": "MF",
-      "rating": 69,
-      "age": 29,
-      "value": 21789473
+      "name": "Soren Olson",
+      "position": "DF",
+      "rating": 67,
+      "age": 30,
+      "value": 16926315
     },
     {
-      "name": "Andreas Fernandes",
+      "name": "Esteban Richards",
+      "position": "MF",
+      "rating": 79,
+      "age": 34,
+      "value": 19957894
+    },
+    {
+      "name": "Harley Pena",
+      "position": "MF",
+      "rating": 63,
+      "age": 21,
+      "value": 26261052
+    },
+    {
+      "name": "George Reyes",
       "position": "MF",
       "rating": 83,
-      "age": 18,
-      "value": 37743157
+      "age": 19,
+      "value": 36694736
     },
     {
-      "name": "Brayden Murray",
+      "name": "Thiago Rivera",
       "position": "MF",
-      "rating": 89,
+      "rating": 75,
+      "age": 21,
+      "value": 31263157
+    },
+    {
+      "name": "Einar Palmer",
+      "position": "MF",
+      "rating": 84,
+      "age": 26,
+      "value": 29709473
+    },
+    {
+      "name": "Kyler Cooper",
+      "position": "MF",
+      "rating": 73,
+      "age": 29,
+      "value": 23052631
+    },
+    {
+      "name": "Adeola Reyes",
+      "position": "FW",
+      "rating": 83,
+      "age": 20,
+      "value": 40000000
+    },
+    {
+      "name": "Oscar Haynes",
+      "position": "FW",
+      "rating": 90,
       "age": 16,
       "value": 40000000
     },
     {
-      "name": "Axel Morales",
+      "name": "Aziz Kim",
       "position": "FW",
-      "rating": 77,
-      "age": 34,
-      "value": 24315789
+      "rating": 90,
+      "age": 23,
+      "value": 40000000
     },
     {
-      "name": "Jeremiah Manning",
+      "name": "Jonathan Han",
       "position": "FW",
-      "rating": 71,
-      "age": 29,
-      "value": 28026315
+      "rating": 63,
+      "age": 24,
+      "value": 29842105
     },
     {
-      "name": "Aaron Long",
+      "name": "Caleb Hart",
       "position": "FW",
-      "rating": 67,
-      "age": 21,
-      "value": 34910526
-    },
-    {
-      "name": "Anton Palmer",
-      "position": "FW",
-      "rating": 83,
-      "age": 34,
-      "value": 26210526
-    },
-    {
-      "name": "Will Ramsey",
-      "position": "FW",
-      "rating": 64,
-      "age": 35,
-      "value": 19200000
+      "rating": 78,
+      "age": 33,
+      "value": 25863157
     }
   ],
   "stadium": {

@@ -2,144 +2,144 @@
   "name": "Everton",
   "squad": [
     {
-      "name": "August Marshall",
+      "name": "Noel Ramirez",
       "position": "GK",
-      "rating": 60,
-      "age": 20,
-      "value": 17178947
-    },
-    {
-      "name": "Sebasti\u00e1n Haynes",
-      "position": "GK",
-      "rating": 84,
-      "age": 30,
-      "value": 16976842
-    },
-    {
-      "name": "Matt Valencia",
-      "position": "GK",
-      "rating": 84,
+      "rating": 69,
       "age": 22,
-      "value": 22635789
+      "value": 18593684
     },
     {
-      "name": "Jeremy West",
-      "position": "DF",
-      "rating": 83,
-      "age": 18,
-      "value": 31452631
+      "name": "Tyrone Watts",
+      "position": "GK",
+      "rating": 77,
+      "age": 35,
+      "value": 12320000
     },
     {
-      "name": "Jett Henderson",
+      "name": "Charlie Bennett",
+      "position": "GK",
+      "rating": 76,
+      "age": 32,
+      "value": 14080000
+    },
+    {
+      "name": "Kris Lewis",
       "position": "DF",
-      "rating": 86,
+      "rating": 72,
+      "age": 17,
+      "value": 28042105
+    },
+    {
+      "name": "Alejandro Webster",
+      "position": "DF",
+      "rating": 76,
+      "age": 22,
+      "value": 25600000
+    },
+    {
+      "name": "Oliver Joshi",
+      "position": "DF",
+      "rating": 80,
       "age": 19,
-      "value": 31684210
+      "value": 29473684
     },
     {
-      "name": "Sulaiman Kabiru",
+      "name": "Riley Mann",
       "position": "DF",
-      "rating": 75,
+      "rating": 71,
+      "age": 21,
+      "value": 24663157
+    },
+    {
+      "name": "Isaac Joshi",
+      "position": "DF",
+      "rating": 69,
+      "age": 16,
+      "value": 27600000
+    },
+    {
+      "name": "Charlie Howard",
+      "position": "DF",
+      "rating": 85,
+      "age": 22,
+      "value": 28631578
+    },
+    {
+      "name": "Kwasi Hunt",
+      "position": "MF",
+      "rating": 69,
       "age": 20,
-      "value": 26842105
+      "value": 29633684
     },
     {
-      "name": "Randy Scott",
-      "position": "DF",
-      "rating": 80,
-      "age": 28,
-      "value": 21894736
-    },
-    {
-      "name": "Johnny Holmes",
-      "position": "DF",
-      "rating": 63,
-      "age": 17,
-      "value": 24536842
-    },
-    {
-      "name": "James Guo",
-      "position": "DF",
-      "rating": 64,
+      "name": "Pedro Berg",
+      "position": "MF",
+      "rating": 67,
       "age": 35,
-      "value": 12800000
+      "value": 16080000
     },
     {
-      "name": "Damien Watanabe",
+      "name": "Ronald Adams",
+      "position": "MF",
+      "rating": 68,
+      "age": 25,
+      "value": 24909473
+    },
+    {
+      "name": "Sunil Peterson",
+      "position": "MF",
+      "rating": 62,
+      "age": 24,
+      "value": 23494736
+    },
+    {
+      "name": "Marcos Hart",
       "position": "MF",
       "rating": 82,
-      "age": 27,
-      "value": 27966315
+      "age": 20,
+      "value": 35216842
     },
     {
-      "name": "Morgan Rodriguez",
+      "name": "Christian Lubega",
       "position": "MF",
-      "rating": 82,
-      "age": 18,
-      "value": 37288421
+      "rating": 74,
+      "age": 25,
+      "value": 27107368
     },
     {
-      "name": "Daniel Newman",
-      "position": "MF",
-      "rating": 90,
-      "age": 16,
-      "value": 40000000
-    },
-    {
-      "name": "Rodney Oliver",
-      "position": "MF",
-      "rating": 80,
-      "age": 16,
-      "value": 38400000
-    },
-    {
-      "name": "Dwayne Huang",
-      "position": "MF",
-      "rating": 79,
-      "age": 17,
-      "value": 36922105
-    },
-    {
-      "name": "Vincent Pena",
-      "position": "MF",
-      "rating": 79,
-      "age": 29,
-      "value": 24947368
-    },
-    {
-      "name": "Daniel Bates",
-      "position": "FW",
-      "rating": 75,
-      "age": 23,
-      "value": 36710526
-    },
-    {
-      "name": "Gustav Marin",
-      "position": "FW",
-      "rating": 84,
-      "age": 35,
-      "value": 25200000
-    },
-    {
-      "name": "Sean Oliver",
+      "name": "Roy Hamilton",
       "position": "FW",
       "rating": 61,
-      "age": 28,
-      "value": 25042105
+      "age": 27,
+      "value": 26005263
     },
     {
-      "name": "Matt Patel",
+      "name": "Aaron Jackson",
       "position": "FW",
-      "rating": 62,
-      "age": 35,
-      "value": 18600000
+      "rating": 73,
+      "age": 30,
+      "value": 27663157
     },
     {
-      "name": "Ben Fernandes",
+      "name": "Danny Howard",
       "position": "FW",
-      "rating": 72,
-      "age": 18,
-      "value": 40000000
+      "rating": 80,
+      "age": 23,
+      "value": 39157894
+    },
+    {
+      "name": "Daniel Morrison",
+      "position": "FW",
+      "rating": 82,
+      "age": 29,
+      "value": 32368421
+    },
+    {
+      "name": "Cameron Das",
+      "position": "FW",
+      "rating": 68,
+      "age": 20,
+      "value": 36505263
     }
   ],
   "stadium": {

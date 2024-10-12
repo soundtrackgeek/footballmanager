@@ -2,144 +2,144 @@
   "name": "Newcastle",
   "squad": [
     {
-      "name": "Waylon Cunningham",
+      "name": "Diego Patel",
       "position": "GK",
-      "rating": 61,
+      "rating": 69,
       "age": 33,
-      "value": 10787368
+      "value": 12202105
     },
     {
-      "name": "Joel King",
+      "name": "Ian Rivera",
       "position": "GK",
-      "rating": 80,
-      "age": 17,
-      "value": 24926315
+      "rating": 84,
+      "age": 29,
+      "value": 17684210
     },
     {
-      "name": "Sulaiman  Taylor",
+      "name": "Garrett Guerrero",
       "position": "GK",
+      "rating": 88,
+      "age": 29,
+      "value": 18526315
+    },
+    {
+      "name": "Malachi Harrison",
+      "position": "DF",
+      "rating": 74,
+      "age": 27,
+      "value": 21031578
+    },
+    {
+      "name": "Matthew Lee",
+      "position": "DF",
+      "rating": 83,
+      "age": 32,
+      "value": 19221052
+    },
+    {
+      "name": "Mauricio Umar",
+      "position": "DF",
       "rating": 86,
-      "age": 22,
-      "value": 23174736
+      "age": 24,
+      "value": 27157894
     },
     {
-      "name": "Roberto Hayes",
-      "position": "DF",
-      "rating": 75,
-      "age": 26,
-      "value": 22105263
-    },
-    {
-      "name": "Manuel Phillips",
-      "position": "DF",
-      "rating": 79,
-      "age": 30,
-      "value": 19957894
-    },
-    {
-      "name": "Emmanuel Morris",
-      "position": "DF",
-      "rating": 77,
-      "age": 23,
-      "value": 25126315
-    },
-    {
-      "name": "Rajesh Dur\u00e1n",
+      "name": "Kobe Mabena",
       "position": "DF",
       "rating": 70,
-      "age": 17,
-      "value": 27263157
+      "age": 33,
+      "value": 15473684
     },
     {
-      "name": "Mitchell Richardson",
+      "name": "Jackson Hamilton",
       "position": "DF",
-      "rating": 85,
-      "age": 18,
-      "value": 32210526
+      "rating": 73,
+      "age": 26,
+      "value": 21515789
     },
     {
-      "name": "Ryan Coleman",
+      "name": "Keith Gray",
       "position": "DF",
-      "rating": 60,
-      "age": 27,
-      "value": 17052631
+      "rating": 64,
+      "age": 28,
+      "value": 17515789
     },
     {
-      "name": "Owen Franks",
+      "name": "Alonso Rojas",
       "position": "MF",
-      "rating": 81,
-      "age": 25,
-      "value": 29671578
+      "rating": 73,
+      "age": 30,
+      "value": 22130526
     },
     {
-      "name": "Nicol\u00e1s Reid",
+      "name": "Omar Olson",
+      "position": "MF",
+      "rating": 77,
+      "age": 30,
+      "value": 23343157
+    },
+    {
+      "name": "Leandro Turner",
       "position": "MF",
       "rating": 64,
-      "age": 24,
-      "value": 24252631
+      "age": 20,
+      "value": 27486315
     },
     {
-      "name": "Jerome Alexander",
+      "name": "Gage Sanchez",
       "position": "MF",
-      "rating": 62,
-      "age": 23,
-      "value": 24277894
+      "rating": 81,
+      "age": 26,
+      "value": 28648421
     },
     {
-      "name": "Edward Hart",
+      "name": "Isaac Rodriguez",
       "position": "MF",
-      "rating": 68,
-      "age": 16,
-      "value": 32640000
+      "rating": 78,
+      "age": 22,
+      "value": 31528421
     },
     {
-      "name": "Damian Crawford",
+      "name": "Daniel Bishop",
       "position": "MF",
       "rating": 80,
-      "age": 22,
-      "value": 32336842
-    },
-    {
-      "name": "Femi Singh",
-      "position": "MF",
-      "rating": 63,
-      "age": 29,
-      "value": 19894736
-    },
-    {
-      "name": "Alejandro Diaz",
-      "position": "FW",
-      "rating": 75,
       "age": 24,
-      "value": 35526315
+      "value": 30315789
     },
     {
-      "name": "Tristan Freeman",
+      "name": "Isaiah Murphy",
+      "position": "FW",
+      "rating": 82,
+      "age": 35,
+      "value": 24600000
+    },
+    {
+      "name": "Brock Sato",
+      "position": "FW",
+      "rating": 84,
+      "age": 17,
+      "value": 40000000
+    },
+    {
+      "name": "Gustav Hicks",
       "position": "FW",
       "rating": 61,
-      "age": 34,
-      "value": 19263157
+      "age": 19,
+      "value": 33710526
     },
     {
-      "name": "Cyrus Henderson",
+      "name": "Liang Garc\u00eda",
       "position": "FW",
-      "rating": 71,
-      "age": 35,
-      "value": 21300000
+      "rating": 80,
+      "age": 31,
+      "value": 29052631
     },
     {
-      "name": "Alfonso Manning",
+      "name": "Huy West",
       "position": "FW",
-      "rating": 60,
-      "age": 21,
-      "value": 31263157
-    },
-    {
-      "name": "Keith Rice",
-      "position": "FW",
-      "rating": 70,
-      "age": 20,
-      "value": 37578947
+      "rating": 90,
+      "age": 24,
+      "value": 40000000
     }
   ],
   "stadium": {

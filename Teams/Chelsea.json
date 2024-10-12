@@ -2,144 +2,144 @@
   "name": "Chelsea",
   "squad": [
     {
-      "name": "Dylan Fletcher",
+      "name": "Devin Dlamini",
       "position": "GK",
-      "rating": 89,
-      "age": 19,
-      "value": 26231578
+      "rating": 78,
+      "age": 22,
+      "value": 21018947
     },
     {
-      "name": "Anthony Hansen",
+      "name": "Lewis Gray",
       "position": "GK",
-      "rating": 84,
-      "age": 27,
-      "value": 19098947
+      "rating": 81,
+      "age": 21,
+      "value": 22509473
     },
     {
-      "name": "Francisco Le\u00f3n",
+      "name": "Chidi Bradley",
       "position": "GK",
-      "rating": 84,
-      "age": 20,
-      "value": 24050526
-    },
-    {
-      "name": "Wei Price",
-      "position": "DF",
-      "rating": 67,
-      "age": 34,
-      "value": 14105263
-    },
-    {
-      "name": "Anton Ellis",
-      "position": "DF",
       "rating": 77,
-      "age": 32,
-      "value": 17831578
+      "age": 27,
+      "value": 17507368
     },
     {
-      "name": "Elias Hayes",
+      "name": "Satoshi Brooks",
       "position": "DF",
-      "rating": 68,
-      "age": 29,
-      "value": 17894736
+      "rating": 82,
+      "age": 33,
+      "value": 18126315
     },
     {
-      "name": "Ming Morris",
+      "name": "Zachary Xolani",
+      "position": "DF",
+      "rating": 61,
+      "age": 29,
+      "value": 16052631
+    },
+    {
+      "name": "Bo Barnes",
+      "position": "DF",
+      "rating": 89,
+      "age": 31,
+      "value": 21547368
+    },
+    {
+      "name": "Christian Palmer",
       "position": "DF",
       "rating": 60,
-      "age": 35,
-      "value": 12000000
-    },
-    {
-      "name": "Malcolm Morgan",
-      "position": "DF",
-      "rating": 69,
-      "age": 34,
-      "value": 14526315
-    },
-    {
-      "name": "Leslie Gonzalez",
-      "position": "DF",
-      "rating": 84,
-      "age": 25,
-      "value": 25642105
-    },
-    {
-      "name": "Frank Morrison",
-      "position": "MF",
-      "rating": 78,
-      "age": 16,
-      "value": 37440000
-    },
-    {
-      "name": "Guillermo Phelps",
-      "position": "MF",
-      "rating": 76,
       "age": 33,
-      "value": 20160000
+      "value": 13263157
     },
     {
-      "name": "Victor Lin",
-      "position": "MF",
-      "rating": 88,
-      "age": 34,
-      "value": 22231578
-    },
-    {
-      "name": "Jin Bennett",
-      "position": "MF",
-      "rating": 65,
+      "name": "Spencer Oliver",
+      "position": "DF",
+      "rating": 71,
       "age": 24,
-      "value": 24631578
+      "value": 22421052
     },
     {
-      "name": "Tyler Valdez",
-      "position": "MF",
-      "rating": 75,
-      "age": 21,
-      "value": 31263157
+      "name": "Zayden Morris",
+      "position": "DF",
+      "rating": 79,
+      "age": 16,
+      "value": 31600000
     },
     {
-      "name": "Ronald Stewart",
+      "name": "Lyle Hunt",
       "position": "MF",
-      "rating": 74,
+      "rating": 84,
       "age": 24,
-      "value": 28042105
+      "value": 31831578
     },
     {
-      "name": "Stewart Baxter",
-      "position": "FW",
-      "rating": 76,
-      "age": 30,
-      "value": 28800000
-    },
-    {
-      "name": "Jesse Brooks",
-      "position": "FW",
-      "rating": 63,
-      "age": 28,
-      "value": 25863157
-    },
-    {
-      "name": "Yusuf Murphy",
-      "position": "FW",
-      "rating": 89,
+      "name": "Daniel Grimes",
+      "position": "MF",
+      "rating": 73,
       "age": 19,
+      "value": 32273684
+    },
+    {
+      "name": "Ezra Pepper",
+      "position": "MF",
+      "rating": 64,
+      "age": 31,
+      "value": 18593684
+    },
+    {
+      "name": "Mohamed Richardson",
+      "position": "MF",
+      "rating": 70,
+      "age": 30,
+      "value": 21221052
+    },
+    {
+      "name": "Garrett Reed",
+      "position": "MF",
+      "rating": 87,
+      "age": 25,
+      "value": 31869473
+    },
+    {
+      "name": "Cael Jansen",
+      "position": "MF",
+      "rating": 70,
+      "age": 21,
+      "value": 29178947
+    },
+    {
+      "name": "Nehemiah Reid",
+      "position": "FW",
+      "rating": 84,
+      "age": 28,
+      "value": 34484210
+    },
+    {
+      "name": "Jermaine Hughes",
+      "position": "FW",
+      "rating": 74,
+      "age": 33,
+      "value": 24536842
+    },
+    {
+      "name": "Andy Mills",
+      "position": "FW",
+      "rating": 72,
+      "age": 30,
+      "value": 27284210
+    },
+    {
+      "name": "Christopher Hamilton",
+      "position": "FW",
+      "rating": 80,
+      "age": 17,
       "value": 40000000
     },
     {
-      "name": "Sven Brooks",
-      "position": "FW",
-      "rating": 70,
-      "age": 31,
-      "value": 25421052
-    },
-    {
-      "name": "Shawn Takahashi",
+      "name": "Soren Flores",
       "position": "FW",
       "rating": 61,
-      "age": 26,
-      "value": 26968421
+      "age": 30,
+      "value": 23115789
     }
   ],
   "stadium": {

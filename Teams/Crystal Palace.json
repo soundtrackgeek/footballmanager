@@ -2,144 +2,144 @@
   "name": "Crystal Palace",
   "squad": [
     {
-      "name": "Dean Rojas",
+      "name": "August Franklin",
       "position": "GK",
-      "rating": 69,
-      "age": 17,
-      "value": 21498947
+      "rating": 71,
+      "age": 16,
+      "value": 22720000
     },
     {
-      "name": "Musa Valdez",
+      "name": "Oliver Allen",
       "position": "GK",
-      "rating": 90,
-      "age": 33,
-      "value": 15915789
-    },
-    {
-      "name": "Nicholas Phillips",
-      "position": "GK",
-      "rating": 77,
-      "age": 23,
-      "value": 20101052
-    },
-    {
-      "name": "Alonso Delgado",
-      "position": "DF",
-      "rating": 82,
-      "age": 26,
-      "value": 24168421
-    },
-    {
-      "name": "Samuel Castro",
-      "position": "DF",
-      "rating": 62,
-      "age": 17,
-      "value": 24147368
-    },
-    {
-      "name": "Yuki Baker",
-      "position": "DF",
-      "rating": 74,
-      "age": 27,
-      "value": 21031578
-    },
-    {
-      "name": "Evan Palmer",
-      "position": "DF",
-      "rating": 89,
-      "age": 32,
-      "value": 20610526
-    },
-    {
-      "name": "Kwasi Morrison",
-      "position": "DF",
-      "rating": 75,
-      "age": 33,
-      "value": 16578947
-    },
-    {
-      "name": "Kwabena Bowman",
-      "position": "DF",
-      "rating": 78,
-      "age": 22,
-      "value": 26273684
-    },
-    {
-      "name": "Taylor Hughes",
-      "position": "MF",
-      "rating": 60,
-      "age": 17,
-      "value": 28042105
-    },
-    {
-      "name": "Oluwafemi Larsson",
-      "position": "MF",
-      "rating": 83,
-      "age": 28,
-      "value": 27258947
-    },
-    {
-      "name": "Jabari Robinson",
-      "position": "MF",
-      "rating": 80,
-      "age": 25,
-      "value": 29305263
-    },
-    {
-      "name": "Gunnar Berglund",
-      "position": "MF",
-      "rating": 60,
-      "age": 33,
-      "value": 15915789
-    },
-    {
-      "name": "Mason Higgins",
-      "position": "MF",
-      "rating": 77,
-      "age": 34,
+      "rating": 70,
+      "age": 21,
       "value": 19452631
     },
     {
-      "name": "Wayne Reid",
+      "name": "Kwabena Hamilton",
+      "position": "GK",
+      "rating": 68,
+      "age": 25,
+      "value": 16606315
+    },
+    {
+      "name": "Anton Beck",
+      "position": "DF",
+      "rating": 73,
+      "age": 17,
+      "value": 28431578
+    },
+    {
+      "name": "John Ekwueme",
+      "position": "DF",
+      "rating": 63,
+      "age": 28,
+      "value": 17242105
+    },
+    {
+      "name": "Bjorn Cohen",
+      "position": "DF",
+      "rating": 66,
+      "age": 29,
+      "value": 17368421
+    },
+    {
+      "name": "Lucas Shaw",
+      "position": "DF",
+      "rating": 85,
+      "age": 20,
+      "value": 30421052
+    },
+    {
+      "name": "Gabriel Fisher",
+      "position": "DF",
+      "rating": 83,
+      "age": 26,
+      "value": 24463157
+    },
+    {
+      "name": "Milton Allen",
+      "position": "DF",
+      "rating": 71,
+      "age": 28,
+      "value": 19431578
+    },
+    {
+      "name": "Oluwafemi Ramirez",
       "position": "MF",
-      "rating": 61,
-      "age": 18,
-      "value": 27738947
+      "rating": 69,
+      "age": 35,
+      "value": 16560000
     },
     {
-      "name": "Colin Marshall",
-      "position": "FW",
-      "rating": 75,
+      "name": "Ling Eriksson",
+      "position": "MF",
+      "rating": 66,
       "age": 30,
-      "value": 28421052
+      "value": 20008421
     },
     {
-      "name": "Sulaiman Hart",
-      "position": "FW",
-      "rating": 87,
+      "name": "Richard Ortiz",
+      "position": "MF",
+      "rating": 82,
       "age": 34,
-      "value": 27473684
+      "value": 20715789
     },
     {
-      "name": "Darren Murray",
+      "name": "Waylon Su\u00e1rez",
+      "position": "MF",
+      "rating": 73,
+      "age": 34,
+      "value": 18442105
+    },
+    {
+      "name": "Isaac Baker",
+      "position": "MF",
+      "rating": 63,
+      "age": 16,
+      "value": 30240000
+    },
+    {
+      "name": "Nnamdi Smith",
+      "position": "MF",
+      "rating": 85,
+      "age": 32,
+      "value": 23621052
+    },
+    {
+      "name": "Anton Scott",
+      "position": "FW",
+      "rating": 77,
+      "age": 32,
+      "value": 26747368
+    },
+    {
+      "name": "Nicholas Toure",
+      "position": "FW",
+      "rating": 66,
+      "age": 30,
+      "value": 25010526
+    },
+    {
+      "name": "Gage Jansen",
+      "position": "FW",
+      "rating": 72,
+      "age": 32,
+      "value": 25010526
+    },
+    {
+      "name": "Henry Green",
+      "position": "FW",
+      "rating": 66,
+      "age": 16,
+      "value": 39600000
+    },
+    {
+      "name": "Joaquin Rasmussen",
       "position": "FW",
       "rating": 81,
-      "age": 32,
-      "value": 28136842
-    },
-    {
-      "name": "Jos\u00e9 Benson",
-      "position": "FW",
-      "rating": 60,
-      "age": 17,
-      "value": 35052631
-    },
-    {
-      "name": "Jiro Parker",
-      "position": "FW",
-      "rating": 65,
-      "age": 21,
-      "value": 33868421
+      "age": 33,
+      "value": 26857894
     }
   ],
   "stadium": {

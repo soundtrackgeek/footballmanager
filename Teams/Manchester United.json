@@ -2,144 +2,144 @@
   "name": "Manchester United",
   "squad": [
     {
-      "name": "Noah Pena",
+      "name": "Alex Nielsen",
       "position": "GK",
-      "rating": 70,
-      "age": 19,
-      "value": 20631578
-    },
-    {
-      "name": "Uriah Griffin",
-      "position": "GK",
-      "rating": 90,
-      "age": 25,
-      "value": 21978947
-    },
-    {
-      "name": "Yahir Franklin",
-      "position": "GK",
-      "rating": 89,
-      "age": 22,
-      "value": 23983157
-    },
-    {
-      "name": "Kenny Sandstr\u00f6m",
-      "position": "DF",
-      "rating": 80,
+      "rating": 61,
       "age": 29,
-      "value": 21052631
+      "value": 12842105
     },
     {
-      "name": "Shawn Hart",
+      "name": "Clark Cohen",
+      "position": "GK",
+      "rating": 87,
+      "age": 28,
+      "value": 19048421
+    },
+    {
+      "name": "Travis Rasmussen",
+      "position": "GK",
+      "rating": 61,
+      "age": 26,
+      "value": 14383157
+    },
+    {
+      "name": "Adeola Berglund",
       "position": "DF",
-      "rating": 77,
-      "age": 29,
-      "value": 20263157
+      "rating": 60,
+      "age": 28,
+      "value": 16421052
     },
     {
-      "name": "Rasmus Choi",
+      "name": "Anil Sangare",
       "position": "DF",
       "rating": 88,
-      "age": 21,
-      "value": 30568421
+      "age": 33,
+      "value": 19452631
     },
     {
-      "name": "Kenneth Kimura",
+      "name": "Charles Sandstr\u00f6m",
       "position": "DF",
-      "rating": 80,
-      "age": 28,
-      "value": 21894736
+      "rating": 66,
+      "age": 18,
+      "value": 25010526
     },
     {
-      "name": "Ronald Lin",
+      "name": "Suraj Freeman",
       "position": "DF",
-      "rating": 71,
-      "age": 25,
-      "value": 21673684
+      "rating": 72,
+      "age": 32,
+      "value": 16673684
     },
     {
-      "name": "Riley Barnett",
+      "name": "Terry Burke",
       "position": "DF",
-      "rating": 87,
-      "age": 27,
-      "value": 24726315
-    },
-    {
-      "name": "Jack Jabari",
-      "position": "MF",
-      "rating": 60,
-      "age": 25,
-      "value": 21978947
-    },
-    {
-      "name": "Ralph Guerrero",
-      "position": "MF",
-      "rating": 85,
-      "age": 28,
-      "value": 27915789
-    },
-    {
-      "name": "Adam Webster",
-      "position": "MF",
       "rating": 83,
-      "age": 24,
-      "value": 31452631
+      "age": 34,
+      "value": 17473684
     },
     {
-      "name": "Wayne Valencia",
-      "position": "MF",
-      "rating": 77,
-      "age": 20,
-      "value": 33069473
-    },
-    {
-      "name": "Finn Medina",
-      "position": "MF",
+      "name": "Angelo Fredriksson",
+      "position": "DF",
       "rating": 65,
-      "age": 21,
-      "value": 27094736
+      "age": 32,
+      "value": 15052631
     },
     {
-      "name": "Nathan Barnett",
+      "name": "Jermaine Gray",
       "position": "MF",
-      "rating": 85,
-      "age": 19,
-      "value": 37578947
+      "rating": 62,
+      "age": 20,
+      "value": 26627368
     },
     {
-      "name": "Damon Bhatia",
-      "position": "FW",
-      "rating": 83,
-      "age": 28,
-      "value": 34073684
+      "name": "Ji-hoon Guerrero",
+      "position": "MF",
+      "rating": 64,
+      "age": 17,
+      "value": 29911578
     },
     {
-      "name": "Isaiah Hunt",
-      "position": "FW",
+      "name": "Noel Fields",
+      "position": "MF",
       "rating": 71,
+      "age": 22,
+      "value": 28698947
+    },
+    {
+      "name": "Min-jun Diaz",
+      "position": "MF",
+      "rating": 83,
+      "age": 33,
+      "value": 22016842
+    },
+    {
+      "name": "Pedro Coleman",
+      "position": "MF",
+      "rating": 68,
+      "age": 16,
+      "value": 32640000
+    },
+    {
+      "name": "Chad Simmons",
+      "position": "MF",
+      "rating": 86,
+      "age": 18,
+      "value": 39107368
+    },
+    {
+      "name": "Isaiah Pena",
+      "position": "FW",
+      "rating": 89,
+      "age": 31,
+      "value": 32321052
+    },
+    {
+      "name": "Lee Stewart",
+      "position": "FW",
+      "rating": 78,
+      "age": 33,
+      "value": 25863157
+    },
+    {
+      "name": "Kameron Franklin",
+      "position": "FW",
+      "rating": 90,
       "age": 16,
       "value": 40000000
     },
     {
-      "name": "Jacob Stone",
+      "name": "Mauricio Desai",
       "position": "FW",
-      "rating": 85,
-      "age": 22,
-      "value": 40000000
+      "rating": 86,
+      "age": 26,
+      "value": 38021052
     },
     {
-      "name": "Orlando Rose",
+      "name": "Hank Lee",
       "position": "FW",
-      "rating": 70,
-      "age": 34,
-      "value": 22105263
-    },
-    {
-      "name": "Kevin Mehta",
-      "position": "FW",
-      "rating": 62,
-      "age": 19,
-      "value": 34263157
+      "rating": 79,
+      "age": 35,
+      "value": 23700000
     }
   ],
   "stadium": {

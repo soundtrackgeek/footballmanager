@@ -2,144 +2,144 @@
   "name": "Burnley",
   "squad": [
     {
-      "name": "Declan Stone",
+      "name": "Kwabena Hayes",
       "position": "GK",
-      "rating": 65,
-      "age": 26,
-      "value": 15326315
+      "rating": 63,
+      "age": 25,
+      "value": 15385263
     },
     {
-      "name": "Keita Palmer",
+      "name": "Victor Oliver",
       "position": "GK",
-      "rating": 84,
+      "rating": 76,
       "age": 22,
-      "value": 22635789
+      "value": 20480000
     },
     {
-      "name": "Milton Holmes",
+      "name": "Axel Perry",
       "position": "GK",
       "rating": 75,
-      "age": 25,
-      "value": 18315789
+      "age": 29,
+      "value": 15789473
     },
     {
-      "name": "Tao Lindholm",
+      "name": "Min-jun Franklin",
       "position": "DF",
-      "rating": 62,
-      "age": 33,
-      "value": 13705263
-    },
-    {
-      "name": "Bryan Howard",
-      "position": "DF",
-      "rating": 84,
-      "age": 24,
-      "value": 26526315
-    },
-    {
-      "name": "Masashi Bell",
-      "position": "DF",
-      "rating": 60,
-      "age": 23,
-      "value": 19578947
-    },
-    {
-      "name": "Jiro Cunningham",
-      "position": "DF",
-      "rating": 66,
-      "age": 19,
+      "rating": 70,
+      "age": 21,
       "value": 24315789
     },
     {
-      "name": "Andreas Payne",
+      "name": "Olaf Bhatia",
       "position": "DF",
-      "rating": 77,
-      "age": 26,
-      "value": 22694736
-    },
-    {
-      "name": "Colin Toure",
-      "position": "DF",
-      "rating": 74,
+      "rating": 81,
       "age": 31,
-      "value": 17915789
+      "value": 19610526
     },
     {
-      "name": "Edgar Campbell",
+      "name": "Lucas Henry",
+      "position": "DF",
+      "rating": 80,
+      "age": 28,
+      "value": 21894736
+    },
+    {
+      "name": "Aedan Perez",
+      "position": "DF",
+      "rating": 86,
+      "age": 23,
+      "value": 28063157
+    },
+    {
+      "name": "Uriah Nilsson",
+      "position": "DF",
+      "rating": 81,
+      "age": 19,
+      "value": 29842105
+    },
+    {
+      "name": "Yusuf Adams",
+      "position": "DF",
+      "rating": 65,
+      "age": 26,
+      "value": 19157894
+    },
+    {
+      "name": "Walter Sanchez",
       "position": "MF",
-      "rating": 63,
+      "rating": 68,
       "age": 17,
-      "value": 29444210
+      "value": 31781052
     },
     {
-      "name": "Nnamdi Perry",
+      "name": "Casey Cabrera",
       "position": "MF",
-      "rating": 69,
-      "age": 33,
-      "value": 18303157
+      "rating": 86,
+      "age": 19,
+      "value": 38021052
     },
     {
-      "name": "Rune Rodriguez",
-      "position": "MF",
-      "rating": 67,
-      "age": 30,
-      "value": 20311578
-    },
-    {
-      "name": "Zion Akinyele",
-      "position": "MF",
-      "rating": 88,
-      "age": 17,
-      "value": 40000000
-    },
-    {
-      "name": "Taylor Silva",
-      "position": "MF",
-      "rating": 63,
-      "age": 16,
-      "value": 30240000
-    },
-    {
-      "name": "Sim\u00f3n Kabiru",
+      "name": "Trenton Flores",
       "position": "MF",
       "rating": 82,
-      "age": 21,
-      "value": 34181052
+      "age": 17,
+      "value": 38324210
     },
     {
-      "name": "Renato Kabiru",
+      "name": "Samuel Castro",
+      "position": "MF",
+      "rating": 75,
+      "age": 30,
+      "value": 22736842
+    },
+    {
+      "name": "Adri\u00e1n Nguyen",
+      "position": "MF",
+      "rating": 82,
+      "age": 34,
+      "value": 20715789
+    },
+    {
+      "name": "Malcolm Silva",
+      "position": "MF",
+      "rating": 65,
+      "age": 32,
+      "value": 18063157
+    },
+    {
+      "name": "Tyler Holmes",
+      "position": "FW",
+      "rating": 88,
+      "age": 32,
+      "value": 30568421
+    },
+    {
+      "name": "Bjorn Goodman",
+      "position": "FW",
+      "rating": 65,
+      "age": 27,
+      "value": 27710526
+    },
+    {
+      "name": "Ibrahim Lubega",
       "position": "FW",
       "rating": 65,
       "age": 26,
       "value": 28736842
     },
     {
-      "name": "Easton Bailey",
+      "name": "Morten Bennett",
       "position": "FW",
-      "rating": 80,
-      "age": 21,
+      "rating": 67,
+      "age": 26,
+      "value": 29621052
+    },
+    {
+      "name": "Sanjay Oliver",
+      "position": "FW",
+      "rating": 73,
+      "age": 17,
       "value": 40000000
-    },
-    {
-      "name": "Kellen Reyes",
-      "position": "FW",
-      "rating": 77,
-      "age": 24,
-      "value": 36473684
-    },
-    {
-      "name": "Izaiah Hassan",
-      "position": "FW",
-      "rating": 87,
-      "age": 35,
-      "value": 26100000
-    },
-    {
-      "name": "Anton West",
-      "position": "FW",
-      "rating": 81,
-      "age": 35,
-      "value": 24300000
     }
   ],
   "stadium": {

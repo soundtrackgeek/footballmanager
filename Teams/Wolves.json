@@ -2,144 +2,144 @@
   "name": "Wolves",
   "squad": [
     {
-      "name": "Lucas Reid",
+      "name": "Declan Zhu",
       "position": "GK",
-      "rating": 65,
-      "age": 30,
-      "value": 13136842
-    },
-    {
-      "name": "Tyler Bishop",
-      "position": "GK",
-      "rating": 77,
-      "age": 34,
-      "value": 12968421
-    },
-    {
-      "name": "Walter Dlamini",
-      "position": "GK",
-      "rating": 76,
-      "age": 34,
-      "value": 12800000
-    },
-    {
-      "name": "Jacob Fofana",
-      "position": "DF",
       "rating": 70,
-      "age": 18,
-      "value": 26526315
+      "age": 17,
+      "value": 21810526
     },
     {
-      "name": "Kofi Stewart",
-      "position": "DF",
-      "rating": 76,
-      "age": 35,
-      "value": 15200000
+      "name": "Elliot Perez",
+      "position": "GK",
+      "rating": 60,
+      "age": 20,
+      "value": 17178947
     },
     {
-      "name": "Oliver Diaz",
-      "position": "DF",
-      "rating": 89,
-      "age": 22,
-      "value": 29978947
+      "name": "Yuto Powell",
+      "position": "GK",
+      "rating": 84,
+      "age": 34,
+      "value": 14147368
     },
     {
-      "name": "Adam Kang",
-      "position": "DF",
-      "rating": 75,
-      "age": 27,
-      "value": 21315789
-    },
-    {
-      "name": "Jos\u00e9 Nakajima",
+      "name": "Javier Reid",
       "position": "DF",
       "rating": 87,
-      "age": 21,
-      "value": 30221052
+      "age": 23,
+      "value": 28389473
     },
     {
-      "name": "Wyatt Lubega",
+      "name": "Amir Bailey",
+      "position": "DF",
+      "rating": 63,
+      "age": 26,
+      "value": 18568421
+    },
+    {
+      "name": "Bao Watson",
+      "position": "DF",
+      "rating": 68,
+      "age": 16,
+      "value": 27200000
+    },
+    {
+      "name": "Matthew Spencer",
       "position": "DF",
       "rating": 81,
-      "age": 35,
-      "value": 16200000
+      "age": 20,
+      "value": 28989473
     },
     {
-      "name": "Luis Lee",
-      "position": "MF",
-      "rating": 65,
-      "age": 18,
-      "value": 29557894
+      "name": "Johan Akinyele",
+      "position": "DF",
+      "rating": 67,
+      "age": 21,
+      "value": 23273684
     },
     {
-      "name": "Lucas Martin",
-      "position": "MF",
+      "name": "Mohammad Ellison",
+      "position": "DF",
       "rating": 90,
-      "age": 33,
-      "value": 23873684
+      "age": 20,
+      "value": 32210526
     },
     {
-      "name": "Desmond Foster",
+      "name": "Juan Pablo Mori",
       "position": "MF",
-      "rating": 77,
-      "age": 32,
-      "value": 21397894
-    },
-    {
-      "name": "Austin Jansen",
-      "position": "MF",
-      "rating": 84,
+      "rating": 76,
       "age": 35,
-      "value": 20160000
+      "value": 18240000
     },
     {
-      "name": "Jae Rojas",
+      "name": "Jean Rodr\u00edguez",
       "position": "MF",
-      "rating": 79,
-      "age": 22,
-      "value": 31932631
-    },
-    {
-      "name": "Hector Lambert",
-      "position": "MF",
-      "rating": 81,
-      "age": 35,
-      "value": 19440000
-    },
-    {
-      "name": "Emil Reid",
-      "position": "FW",
-      "rating": 66,
-      "age": 27,
-      "value": 28136842
-    },
-    {
-      "name": "Cecil Andersen",
-      "position": "FW",
-      "rating": 69,
-      "age": 35,
-      "value": 20700000
-    },
-    {
-      "name": "Morten Abiola",
-      "position": "FW",
-      "rating": 65,
-      "age": 32,
-      "value": 22578947
-    },
-    {
-      "name": "Darren Evans",
-      "position": "FW",
-      "rating": 65,
+      "rating": 67,
       "age": 30,
-      "value": 24631578
+      "value": 20311578
     },
     {
-      "name": "Amani Rodriguez",
-      "position": "FW",
-      "rating": 62,
+      "name": "Andr\u00e9s Xolani",
+      "position": "MF",
+      "rating": 69,
+      "age": 17,
+      "value": 32248421
+    },
+    {
+      "name": "Soren Lopez",
+      "position": "MF",
+      "rating": 87,
+      "age": 18,
+      "value": 39562105
+    },
+    {
+      "name": "Ping Cunningham",
+      "position": "MF",
+      "rating": 69,
       "age": 28,
-      "value": 25452631
+      "value": 22661052
+    },
+    {
+      "name": "Waylon Hart",
+      "position": "MF",
+      "rating": 87,
+      "age": 31,
+      "value": 25275789
+    },
+    {
+      "name": "Jengo Ben\u00edtez",
+      "position": "FW",
+      "rating": 71,
+      "age": 16,
+      "value": 40000000
+    },
+    {
+      "name": "Juan Pablo Page",
+      "position": "FW",
+      "rating": 81,
+      "age": 25,
+      "value": 37089473
+    },
+    {
+      "name": "Tanner Fuller",
+      "position": "FW",
+      "rating": 84,
+      "age": 16,
+      "value": 40000000
+    },
+    {
+      "name": "Reese Olofsson",
+      "position": "FW",
+      "rating": 67,
+      "age": 23,
+      "value": 32794736
+    },
+    {
+      "name": "Wei-Lun \u00c5kesson",
+      "position": "FW",
+      "rating": 72,
+      "age": 21,
+      "value": 37515789
     }
   ],
   "stadium": {

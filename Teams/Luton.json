@@ -2,144 +2,144 @@
   "name": "Luton",
   "squad": [
     {
-      "name": "Andr\u00e9s Mitchell",
+      "name": "Sefu Ramirez",
       "position": "GK",
-      "rating": 82,
-      "age": 34,
-      "value": 13810526
+      "rating": 73,
+      "age": 21,
+      "value": 20286315
     },
     {
-      "name": "Mike Anderson",
+      "name": "Desmond Cunningham",
       "position": "GK",
-      "rating": 85,
+      "rating": 66,
       "age": 28,
-      "value": 18610526
+      "value": 14450526
     },
     {
-      "name": "Kwame Morgan",
+      "name": "Gavin Rivera",
       "position": "GK",
-      "rating": 89,
-      "age": 33,
-      "value": 15738947
+      "rating": 67,
+      "age": 22,
+      "value": 18054736
     },
     {
-      "name": "Warren Kwon",
+      "name": "Benjam\u00edn Adams",
+      "position": "DF",
+      "rating": 84,
+      "age": 33,
+      "value": 18568421
+    },
+    {
+      "name": "Riley Franco",
       "position": "DF",
       "rating": 68,
-      "age": 18,
-      "value": 25768421
+      "age": 29,
+      "value": 17894736
     },
     {
-      "name": "Hassan Foster",
+      "name": "Mario Green",
       "position": "DF",
-      "rating": 71,
-      "age": 32,
-      "value": 16442105
-    },
-    {
-      "name": "Malcolm Khan",
-      "position": "DF",
-      "rating": 65,
-      "age": 34,
-      "value": 13684210
-    },
-    {
-      "name": "Adri\u00e1n Ito",
-      "position": "DF",
-      "rating": 79,
-      "age": 21,
-      "value": 27442105
-    },
-    {
-      "name": "Tariq Iversen",
-      "position": "DF",
-      "rating": 70,
-      "age": 25,
-      "value": 21368421
-    },
-    {
-      "name": "Andy Torbj\u00f6rnsson",
-      "position": "DF",
-      "rating": 70,
+      "rating": 66,
       "age": 28,
-      "value": 19157894
+      "value": 18063157
     },
     {
-      "name": "Antonio Holland",
+      "name": "Izaiah Lopez",
+      "position": "DF",
+      "rating": 77,
+      "age": 32,
+      "value": 17831578
+    },
+    {
+      "name": "Tom\u00e1s Blake",
+      "position": "DF",
+      "rating": 78,
+      "age": 19,
+      "value": 28736842
+    },
+    {
+      "name": "Juan Stewart",
+      "position": "DF",
+      "rating": 70,
+      "age": 18,
+      "value": 26526315
+    },
+    {
+      "name": "Uriel Umar",
+      "position": "MF",
+      "rating": 62,
+      "age": 34,
+      "value": 15663157
+    },
+    {
+      "name": "Adeola Peterson",
+      "position": "MF",
+      "rating": 83,
+      "age": 20,
+      "value": 35646315
+    },
+    {
+      "name": "Vance Bhatia",
+      "position": "MF",
+      "rating": 73,
+      "age": 35,
+      "value": 17520000
+    },
+    {
+      "name": "Leon Gray",
+      "position": "MF",
+      "rating": 62,
+      "age": 23,
+      "value": 24277894
+    },
+    {
+      "name": "Julian Guo",
+      "position": "MF",
+      "rating": 86,
+      "age": 22,
+      "value": 34762105
+    },
+    {
+      "name": "Kobe Mehta",
       "position": "MF",
       "rating": 67,
-      "age": 35,
-      "value": 16080000
-    },
-    {
-      "name": "Angel Romero",
-      "position": "MF",
-      "rating": 89,
-      "age": 33,
-      "value": 23608421
-    },
-    {
-      "name": "Kingston Umar",
-      "position": "MF",
-      "rating": 60,
-      "age": 34,
-      "value": 15157894
-    },
-    {
-      "name": "Ryker Navarro",
-      "position": "MF",
-      "rating": 81,
-      "age": 19,
-      "value": 35810526
-    },
-    {
-      "name": "Adrian Hanson",
-      "position": "MF",
-      "rating": 64,
-      "age": 22,
-      "value": 25869473
-    },
-    {
-      "name": "Clement Gray",
-      "position": "MF",
-      "rating": 61,
-      "age": 19,
-      "value": 26968421
-    },
-    {
-      "name": "Israel Marshall",
-      "position": "FW",
-      "rating": 61,
       "age": 18,
-      "value": 34673684
+      "value": 30467368
     },
     {
-      "name": "Miles Little",
+      "name": "Quentin Stone",
       "position": "FW",
-      "rating": 79,
-      "age": 24,
-      "value": 37421052
+      "rating": 73,
+      "age": 18,
+      "value": 40000000
     },
     {
-      "name": "Daniel Reid",
+      "name": "Obi Spencer",
       "position": "FW",
-      "rating": 77,
-      "age": 35,
-      "value": 23100000
+      "rating": 75,
+      "age": 19,
+      "value": 40000000
     },
     {
-      "name": "Blake Nkosi",
-      "position": "FW",
-      "rating": 62,
-      "age": 21,
-      "value": 32305263
-    },
-    {
-      "name": "Christian Jabari",
+      "name": "Lucas Webster",
       "position": "FW",
       "rating": 69,
-      "age": 21,
-      "value": 35952631
+      "age": 23,
+      "value": 33773684
+    },
+    {
+      "name": "Wei Hayes",
+      "position": "FW",
+      "rating": 88,
+      "age": 25,
+      "value": 40000000
+    },
+    {
+      "name": "Devin Marshall",
+      "position": "FW",
+      "rating": 72,
+      "age": 32,
+      "value": 25010526
     }
   ],
   "stadium": {

@@ -2,144 +2,144 @@
   "name": "Nottingham Forest",
   "squad": [
     {
-      "name": "Grant Oliver",
+      "name": "Sulaiman Reid",
       "position": "GK",
-      "rating": 90,
-      "age": 20,
-      "value": 25768421
-    },
-    {
-      "name": "Kofi Brooks",
-      "position": "GK",
-      "rating": 81,
-      "age": 25,
-      "value": 19781052
-    },
-    {
-      "name": "Kingston Marshall",
-      "position": "GK",
-      "rating": 62,
-      "age": 23,
-      "value": 16185263
-    },
-    {
-      "name": "Xavier Palmer",
-      "position": "DF",
-      "rating": 82,
-      "age": 20,
-      "value": 29347368
-    },
-    {
-      "name": "Tobias Mitchell",
-      "position": "DF",
-      "rating": 85,
-      "age": 31,
-      "value": 20578947
-    },
-    {
-      "name": "Shin Karlberg",
-      "position": "DF",
-      "rating": 82,
-      "age": 32,
-      "value": 18989473
-    },
-    {
-      "name": "Ling Morris",
-      "position": "DF",
-      "rating": 82,
-      "age": 22,
-      "value": 27621052
-    },
-    {
-      "name": "Ricardo Gomez",
-      "position": "DF",
-      "rating": 72,
-      "age": 35,
-      "value": 14400000
-    },
-    {
-      "name": "Cyrus Payne",
-      "position": "DF",
       "rating": 68,
-      "age": 22,
-      "value": 22905263
+      "age": 23,
+      "value": 17751578
     },
     {
-      "name": "Justin Long",
-      "position": "MF",
-      "rating": 60,
-      "age": 32,
-      "value": 16673684
-    },
-    {
-      "name": "Hugo Andersen",
-      "position": "MF",
-      "rating": 82,
-      "age": 31,
-      "value": 23823157
-    },
-    {
-      "name": "Mauricio Webb",
-      "position": "MF",
-      "rating": 70,
-      "age": 29,
-      "value": 22105263
-    },
-    {
-      "name": "Ryan Xolani",
-      "position": "MF",
-      "rating": 84,
-      "age": 20,
-      "value": 36075789
-    },
-    {
-      "name": "Frederick Hicks",
-      "position": "MF",
-      "rating": 75,
-      "age": 35,
-      "value": 18000000
-    },
-    {
-      "name": "Leslie Desai",
-      "position": "MF",
-      "rating": 60,
-      "age": 29,
-      "value": 18947368
-    },
-    {
-      "name": "Reese Yeboah",
-      "position": "FW",
-      "rating": 89,
-      "age": 29,
-      "value": 35131578
-    },
-    {
-      "name": "Declan Rogers",
-      "position": "FW",
-      "rating": 86,
+      "name": "Noel Bates",
+      "position": "GK",
+      "rating": 87,
       "age": 19,
-      "value": 40000000
+      "value": 25642105
     },
     {
-      "name": "Kwesi Bergstrom",
-      "position": "FW",
-      "rating": 71,
-      "age": 18,
-      "value": 40000000
+      "name": "Frank Iversen",
+      "position": "GK",
+      "rating": 88,
+      "age": 28,
+      "value": 19267368
     },
     {
-      "name": "Abel Dahl",
-      "position": "FW",
+      "name": "Emil Khan",
+      "position": "DF",
+      "rating": 89,
+      "age": 28,
+      "value": 24357894
+    },
+    {
+      "name": "Levi Rom\u00e1n",
+      "position": "DF",
+      "rating": 66,
+      "age": 32,
+      "value": 15284210
+    },
+    {
+      "name": "Randy Fletcher",
+      "position": "DF",
+      "rating": 74,
+      "age": 34,
+      "value": 15578947
+    },
+    {
+      "name": "Alejandro Rodriguez",
+      "position": "DF",
+      "rating": 83,
+      "age": 31,
+      "value": 20094736
+    },
+    {
+      "name": "Keith Griffin",
+      "position": "DF",
+      "rating": 82,
+      "age": 16,
+      "value": 32800000
+    },
+    {
+      "name": "Cian Kim",
+      "position": "DF",
+      "rating": 82,
+      "age": 25,
+      "value": 25031578
+    },
+    {
+      "name": "Bart Eklund",
+      "position": "MF",
+      "rating": 69,
+      "age": 29,
+      "value": 21789473
+    },
+    {
+      "name": "Femi Barnes",
+      "position": "MF",
+      "rating": 73,
+      "age": 16,
+      "value": 35040000
+    },
+    {
+      "name": "Dwayne Howard",
+      "position": "MF",
+      "rating": 69,
+      "age": 25,
+      "value": 25275789
+    },
+    {
+      "name": "Roberto Desai",
+      "position": "MF",
+      "rating": 66,
+      "age": 21,
+      "value": 27511578
+    },
+    {
+      "name": "Kaden Molina",
+      "position": "MF",
       "rating": 62,
-      "age": 35,
-      "value": 18600000
+      "age": 18,
+      "value": 28193684
     },
     {
-      "name": "Daichi Roberts",
+      "name": "Nikhil Shaw",
+      "position": "MF",
+      "rating": 87,
+      "age": 34,
+      "value": 21978947
+    },
+    {
+      "name": "Remington Valencia",
+      "position": "FW",
+      "rating": 74,
+      "age": 26,
+      "value": 32715789
+    },
+    {
+      "name": "Bruno Nkosi",
+      "position": "FW",
+      "rating": 60,
+      "age": 24,
+      "value": 28421052
+    },
+    {
+      "name": "Elliot Gustavsson",
+      "position": "FW",
+      "rating": 69,
+      "age": 26,
+      "value": 30505263
+    },
+    {
+      "name": "Bradley Parker",
+      "position": "FW",
+      "rating": 72,
+      "age": 24,
+      "value": 34105263
+    },
+    {
+      "name": "Gage Smith",
       "position": "FW",
       "rating": 76,
-      "age": 24,
-      "value": 36000000
+      "age": 16,
+      "value": 40000000
     }
   ],
   "stadium": {

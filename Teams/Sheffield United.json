@@ -2,144 +2,144 @@
   "name": "Sheffield United",
   "squad": [
     {
-      "name": "Keith Cook",
+      "name": "Noel Price",
       "position": "GK",
-      "rating": 78,
-      "age": 30,
-      "value": 15764210
-    },
-    {
-      "name": "Sven J\u00f8rgensen",
-      "position": "GK",
-      "rating": 79,
-      "age": 22,
-      "value": 21288421
-    },
-    {
-      "name": "Isaiah Das",
-      "position": "GK",
-      "rating": 88,
-      "age": 19,
-      "value": 25936842
-    },
-    {
-      "name": "Pablo Manning",
-      "position": "DF",
-      "rating": 75,
-      "age": 34,
-      "value": 15789473
-    },
-    {
-      "name": "Dakota Hunt",
-      "position": "DF",
-      "rating": 79,
-      "age": 18,
-      "value": 29936842
-    },
-    {
-      "name": "Ram\u00f3n Lindgren",
-      "position": "DF",
       "rating": 73,
-      "age": 33,
-      "value": 16136842
+      "age": 22,
+      "value": 19671578
     },
     {
-      "name": "Nicolas Palmer",
-      "position": "DF",
-      "rating": 66,
-      "age": 25,
-      "value": 20147368
+      "name": "Bradley Nguyen",
+      "position": "GK",
+      "rating": 70,
+      "age": 31,
+      "value": 13557894
     },
     {
-      "name": "Kenneth Hart",
-      "position": "DF",
-      "rating": 69,
-      "age": 19,
-      "value": 25421052
+      "name": "Alvin Joseph",
+      "position": "GK",
+      "rating": 85,
+      "age": 32,
+      "value": 15747368
     },
     {
-      "name": "Marlon Sanders",
+      "name": "Uriah Wheeler",
       "position": "DF",
-      "rating": 88,
+      "rating": 60,
+      "age": 31,
+      "value": 14526315
+    },
+    {
+      "name": "Kwabena Scott",
+      "position": "DF",
+      "rating": 67,
       "age": 20,
-      "value": 31494736
+      "value": 23978947
     },
     {
-      "name": "Musa Torbj\u00f6rnsson",
-      "position": "MF",
-      "rating": 84,
+      "name": "Axel Romero",
+      "position": "DF",
+      "rating": 70,
+      "age": 19,
+      "value": 25789473
+    },
+    {
+      "name": "Andreas Joseph",
+      "position": "DF",
+      "rating": 86,
       "age": 34,
+      "value": 18105263
+    },
+    {
+      "name": "Tony Jansen",
+      "position": "DF",
+      "rating": 64,
+      "age": 16,
+      "value": 25600000
+    },
+    {
+      "name": "Craig Toure",
+      "position": "DF",
+      "rating": 62,
+      "age": 33,
+      "value": 13705263
+    },
+    {
+      "name": "Travis Gonzalez",
+      "position": "MF",
+      "rating": 80,
+      "age": 33,
       "value": 21221052
     },
     {
-      "name": "Morten Griffin",
+      "name": "Tyler Vestergaard",
       "position": "MF",
-      "rating": 79,
-      "age": 19,
-      "value": 34926315
+      "rating": 71,
+      "age": 30,
+      "value": 21524210
     },
     {
-      "name": "Uriah Dixon",
+      "name": "Bradley Bell",
+      "position": "MF",
+      "rating": 70,
+      "age": 27,
+      "value": 23873684
+    },
+    {
+      "name": "Lars Palmer",
       "position": "MF",
       "rating": 74,
       "age": 28,
       "value": 24303157
     },
     {
-      "name": "Max Gustavsson",
+      "name": "Joaquin Dahl",
       "position": "MF",
-      "rating": 73,
-      "age": 33,
-      "value": 19364210
-    },
-    {
-      "name": "Roberto Kabiru",
-      "position": "MF",
-      "rating": 68,
-      "age": 18,
-      "value": 30922105
-    },
-    {
-      "name": "Kwabena Griffin",
-      "position": "MF",
-      "rating": 89,
+      "rating": 79,
       "age": 30,
-      "value": 26981052
+      "value": 23949473
     },
     {
-      "name": "Mandla Holmes",
-      "position": "FW",
-      "rating": 83,
-      "age": 26,
-      "value": 36694736
+      "name": "Milton Hill",
+      "position": "MF",
+      "rating": 66,
+      "age": 21,
+      "value": 27511578
     },
     {
-      "name": "Antonio Young",
+      "name": "Kelly Morgan",
       "position": "FW",
-      "rating": 60,
+      "rating": 62,
       "age": 33,
+      "value": 20557894
+    },
+    {
+      "name": "Arthur Cox",
+      "position": "FW",
+      "rating": 63,
+      "age": 34,
       "value": 19894736
     },
     {
-      "name": "Uriah Sandstr\u00f6m",
+      "name": "Mateo Rivera",
       "position": "FW",
-      "rating": 63,
-      "age": 20,
-      "value": 33821052
-    },
-    {
-      "name": "Brian Eklund",
-      "position": "FW",
-      "rating": 89,
-      "age": 23,
-      "value": 40000000
-    },
-    {
-      "name": "Cory Lindberg",
-      "position": "FW",
-      "rating": 85,
+      "rating": 64,
       "age": 32,
-      "value": 29526315
+      "value": 22231578
+    },
+    {
+      "name": "Alex Larsen",
+      "position": "FW",
+      "rating": 87,
+      "age": 32,
+      "value": 30221052
+    },
+    {
+      "name": "Zane Patel",
+      "position": "FW",
+      "rating": 78,
+      "age": 25,
+      "value": 35715789
     }
   ],
   "stadium": {

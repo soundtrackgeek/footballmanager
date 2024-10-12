@@ -2,144 +2,144 @@
   "name": "Tottenham",
   "squad": [
     {
-      "name": "River Lubega",
+      "name": "Uriah Olofsson",
       "position": "GK",
-      "rating": 90,
-      "age": 24,
-      "value": 22736842
-    },
-    {
-      "name": "Erik Hunt",
-      "position": "GK",
-      "rating": 72,
-      "age": 31,
-      "value": 13945263
-    },
-    {
-      "name": "Sefu Flores",
-      "position": "GK",
-      "rating": 60,
-      "age": 23,
-      "value": 15663157
-    },
-    {
-      "name": "Joel Peters",
-      "position": "DF",
       "rating": 85,
-      "age": 22,
-      "value": 28631578
+      "age": 29,
+      "value": 17894736
     },
     {
-      "name": "Maximiliano Russell",
-      "position": "DF",
-      "rating": 88,
-      "age": 20,
-      "value": 31494736
-    },
-    {
-      "name": "Viktor Nguyen",
-      "position": "DF",
-      "rating": 67,
-      "age": 23,
-      "value": 21863157
-    },
-    {
-      "name": "Clark Franklin",
-      "position": "DF",
-      "rating": 62,
-      "age": 17,
-      "value": 24147368
-    },
-    {
-      "name": "Konner Burke",
-      "position": "DF",
-      "rating": 77,
-      "age": 30,
-      "value": 19452631
-    },
-    {
-      "name": "Marvin Ben\u00edtez",
-      "position": "DF",
-      "rating": 78,
-      "age": 16,
-      "value": 31200000
-    },
-    {
-      "name": "Nehemiah Palmer",
-      "position": "MF",
-      "rating": 76,
-      "age": 33,
-      "value": 20160000
-    },
-    {
-      "name": "Francisco Kareem",
-      "position": "MF",
-      "rating": 90,
-      "age": 30,
-      "value": 27284210
-    },
-    {
-      "name": "Zion Iyer",
-      "position": "MF",
-      "rating": 69,
-      "age": 18,
-      "value": 31376842
-    },
-    {
-      "name": "Adrian Bryant",
-      "position": "MF",
-      "rating": 73,
-      "age": 35,
-      "value": 17520000
-    },
-    {
-      "name": "Andrew Ramsey",
-      "position": "MF",
-      "rating": 77,
-      "age": 23,
-      "value": 30151578
-    },
-    {
-      "name": "Felix Gao",
-      "position": "MF",
-      "rating": 86,
-      "age": 35,
-      "value": 20640000
-    },
-    {
-      "name": "Jelani Williamson",
-      "position": "FW",
-      "rating": 87,
+      "name": "Connor Barrios",
+      "position": "GK",
+      "rating": 79,
       "age": 21,
+      "value": 21953684
+    },
+    {
+      "name": "Kobe Nguyen",
+      "position": "GK",
+      "rating": 87,
+      "age": 30,
+      "value": 17583157
+    },
+    {
+      "name": "Victor King",
+      "position": "DF",
+      "rating": 77,
+      "age": 22,
+      "value": 25936842
+    },
+    {
+      "name": "Timothy Holt",
+      "position": "DF",
+      "rating": 77,
+      "age": 33,
+      "value": 17021052
+    },
+    {
+      "name": "Colin Palmer",
+      "position": "DF",
+      "rating": 77,
+      "age": 17,
+      "value": 29989473
+    },
+    {
+      "name": "Ryker Lindberg",
+      "position": "DF",
+      "rating": 82,
+      "age": 19,
+      "value": 30210526
+    },
+    {
+      "name": "Kyler Griffin",
+      "position": "DF",
+      "rating": 82,
+      "age": 26,
+      "value": 24168421
+    },
+    {
+      "name": "Paige Adams",
+      "position": "DF",
+      "rating": 89,
+      "age": 34,
+      "value": 18736842
+    },
+    {
+      "name": "Marcos Lee",
+      "position": "MF",
+      "rating": 72,
+      "age": 35,
+      "value": 17280000
+    },
+    {
+      "name": "Adekunle Barnes",
+      "position": "MF",
+      "rating": 65,
+      "age": 23,
+      "value": 25452631
+    },
+    {
+      "name": "Axel Bell",
+      "position": "MF",
+      "rating": 71,
+      "age": 18,
+      "value": 32286315
+    },
+    {
+      "name": "Sage Russell",
+      "position": "MF",
+      "rating": 63,
+      "age": 19,
+      "value": 27852631
+    },
+    {
+      "name": "Cody Scott",
+      "position": "MF",
+      "rating": 70,
+      "age": 29,
+      "value": 22105263
+    },
+    {
+      "name": "Mason Burke",
+      "position": "MF",
+      "rating": 83,
+      "age": 35,
+      "value": 19920000
+    },
+    {
+      "name": "Santiago Franklin",
+      "position": "FW",
+      "rating": 88,
+      "age": 33,
+      "value": 29178947
+    },
+    {
+      "name": "Andrew Perry",
+      "position": "FW",
+      "rating": 72,
+      "age": 16,
       "value": 40000000
     },
     {
-      "name": "Randy Martinez",
+      "name": "Leandro Hicks",
       "position": "FW",
-      "rating": 82,
-      "age": 28,
-      "value": 33663157
-    },
-    {
-      "name": "Vishal Kim",
-      "position": "FW",
-      "rating": 86,
+      "rating": 69,
       "age": 26,
-      "value": 38021052
+      "value": 30505263
     },
     {
-      "name": "Ra\u00fal Hoover",
+      "name": "Dexter Joseph",
       "position": "FW",
-      "rating": 68,
-      "age": 17,
-      "value": 39726315
+      "rating": 89,
+      "age": 16,
+      "value": 40000000
     },
     {
-      "name": "Beau Bennett",
+      "name": "Marc West",
       "position": "FW",
-      "rating": 79,
-      "age": 27,
-      "value": 33678947
+      "rating": 76,
+      "age": 34,
+      "value": 24000000
     }
   ],
   "stadium": {

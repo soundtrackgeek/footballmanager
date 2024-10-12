@@ -2,144 +2,144 @@
   "name": "Manchester City",
   "squad": [
     {
-      "name": "Mario Franklin",
+      "name": "Kwesi Howard",
       "position": "GK",
-      "rating": 80,
-      "age": 19,
-      "value": 23578947
+      "rating": 79,
+      "age": 30,
+      "value": 15966315
     },
     {
-      "name": "Owen Whitaker",
+      "name": "Brendan \u00c5kesson",
       "position": "GK",
-      "rating": 83,
-      "age": 28,
-      "value": 18172631
-    },
-    {
-      "name": "Victor Delgado",
-      "position": "GK",
-      "rating": 76,
+      "rating": 88,
       "age": 21,
-      "value": 21120000
+      "value": 24454736
     },
     {
-      "name": "Reese Hayes",
+      "name": "Mikkel Boone",
+      "position": "GK",
+      "rating": 87,
+      "age": 18,
+      "value": 26374736
+    },
+    {
+      "name": "Bo Graham",
+      "position": "DF",
+      "rating": 77,
+      "age": 27,
+      "value": 21884210
+    },
+    {
+      "name": "Nikhil Jansson",
+      "position": "DF",
+      "rating": 87,
+      "age": 29,
+      "value": 22894736
+    },
+    {
+      "name": "Alan Navarro",
       "position": "DF",
       "rating": 67,
-      "age": 31,
-      "value": 16221052
+      "age": 28,
+      "value": 18336842
     },
     {
-      "name": "Dalton Phelps",
+      "name": "Ivan Joshi",
       "position": "DF",
-      "rating": 79,
-      "age": 20,
-      "value": 28273684
+      "rating": 90,
+      "age": 28,
+      "value": 24631578
     },
     {
-      "name": "Joshua Morris",
-      "position": "DF",
-      "rating": 86,
-      "age": 19,
-      "value": 31684210
-    },
-    {
-      "name": "Jett Hicks",
+      "name": "Kelly Nilsson",
       "position": "DF",
       "rating": 65,
-      "age": 20,
-      "value": 23263157
+      "age": 24,
+      "value": 20526315
     },
     {
-      "name": "Jengo Newman",
+      "name": "Cooper Bergstrom",
       "position": "DF",
-      "rating": 82,
-      "age": 17,
-      "value": 31936842
-    },
-    {
-      "name": "Aedan Hayes",
-      "position": "DF",
-      "rating": 81,
+      "rating": 63,
       "age": 16,
-      "value": 32400000
+      "value": 25200000
     },
     {
-      "name": "Ralph Balogun",
+      "name": "Pablo Hunt",
       "position": "MF",
-      "rating": 70,
-      "age": 33,
-      "value": 18568421
-    },
-    {
-      "name": "Ra\u00fal Butler",
-      "position": "MF",
-      "rating": 86,
-      "age": 18,
-      "value": 39107368
-    },
-    {
-      "name": "Kabelo Ramsey",
-      "position": "MF",
-      "rating": 89,
-      "age": 25,
-      "value": 32602105
-    },
-    {
-      "name": "Shane Hayes",
-      "position": "MF",
-      "rating": 75,
-      "age": 27,
-      "value": 25578947
-    },
-    {
-      "name": "Uriah Garza",
-      "position": "MF",
-      "rating": 68,
+      "rating": 81,
       "age": 31,
-      "value": 19755789
+      "value": 23532631
     },
     {
-      "name": "Clinton Holland",
+      "name": "Henrik Hill",
       "position": "MF",
-      "rating": 61,
-      "age": 25,
-      "value": 22345263
+      "rating": 64,
+      "age": 22,
+      "value": 25869473
     },
     {
-      "name": "Brendan Bergstrom",
-      "position": "FW",
+      "name": "Donovan Owens",
+      "position": "MF",
+      "rating": 85,
+      "age": 20,
+      "value": 36505263
+    },
+    {
+      "name": "Carlos Barnett",
+      "position": "MF",
       "rating": 87,
-      "age": 19,
+      "age": 34,
+      "value": 21978947
+    },
+    {
+      "name": "Pranav Marshall",
+      "position": "MF",
+      "rating": 90,
+      "age": 28,
+      "value": 29557894
+    },
+    {
+      "name": "Brody Ortiz",
+      "position": "MF",
+      "rating": 85,
+      "age": 18,
+      "value": 38652631
+    },
+    {
+      "name": "Thabo West",
+      "position": "FW",
+      "rating": 75,
+      "age": 17,
       "value": 40000000
     },
     {
-      "name": "Wei Medina",
+      "name": "Haruki Morrison",
       "position": "FW",
-      "rating": 83,
-      "age": 26,
-      "value": 36694736
+      "rating": 74,
+      "age": 33,
+      "value": 24536842
     },
     {
-      "name": "James Lewis",
+      "name": "Ruben West",
       "position": "FW",
-      "rating": 82,
-      "age": 27,
-      "value": 34957894
+      "rating": 84,
+      "age": 35,
+      "value": 25200000
     },
     {
-      "name": "Darren Wood",
+      "name": "Mario Murphy",
       "position": "FW",
-      "rating": 70,
+      "rating": 86,
       "age": 24,
-      "value": 33157894
+      "value": 40000000
     },
     {
-      "name": "Louis Patel",
+      "name": "Finn Cox",
       "position": "FW",
-      "rating": 73,
-      "age": 25,
-      "value": 33426315
+      "rating": 77,
+      "age": 16,
+      "value": 40000000
     }
   ],
   "stadium": {

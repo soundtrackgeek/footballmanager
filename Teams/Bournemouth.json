@@ -2,144 +2,144 @@
   "name": "Bournemouth",
   "squad": [
     {
-      "name": "Logan Marshall",
+      "name": "Ji-hoon Hansen",
       "position": "GK",
-      "rating": 67,
-      "age": 25,
-      "value": 16362105
-    },
-    {
-      "name": "Myles Ferguson",
-      "position": "GK",
-      "rating": 83,
+      "rating": 82,
       "age": 26,
-      "value": 19570526
+      "value": 19334736
     },
     {
-      "name": "Spencer Garc\u00eda",
+      "name": "Quinn Bradshaw",
       "position": "GK",
-      "rating": 71,
-      "age": 19,
-      "value": 20926315
+      "rating": 66,
+      "age": 34,
+      "value": 11115789
     },
     {
-      "name": "Kofi Stewart",
+      "name": "Kolby Murphy",
+      "position": "GK",
+      "rating": 85,
+      "age": 31,
+      "value": 16463157
+    },
+    {
+      "name": "Anders Martinez",
       "position": "DF",
-      "rating": 79,
-      "age": 24,
-      "value": 24947368
+      "rating": 80,
+      "age": 29,
+      "value": 21052631
     },
     {
-      "name": "Gunnar Palmer",
+      "name": "Lucas Bryant",
+      "position": "DF",
+      "rating": 83,
+      "age": 23,
+      "value": 27084210
+    },
+    {
+      "name": "Andres Ekwueme",
+      "position": "DF",
+      "rating": 70,
+      "age": 17,
+      "value": 27263157
+    },
+    {
+      "name": "Ricardo Kim",
+      "position": "DF",
+      "rating": 76,
+      "age": 17,
+      "value": 29600000
+    },
+    {
+      "name": "Bryce Chen",
       "position": "DF",
       "rating": 86,
-      "age": 16,
-      "value": 34400000
+      "age": 33,
+      "value": 19010526
     },
     {
-      "name": "Kyle Long",
+      "name": "Bryson Shaw",
       "position": "DF",
-      "rating": 64,
-      "age": 16,
-      "value": 25600000
+      "rating": 67,
+      "age": 17,
+      "value": 26094736
+    },
+    {
+      "name": "Nkosinathi Zhang",
+      "position": "MF",
+      "rating": 77,
+      "age": 18,
+      "value": 35014736
+    },
+    {
+      "name": "Haruki Price",
+      "position": "MF",
+      "rating": 68,
+      "age": 21,
+      "value": 28345263
     },
     {
       "name": "Lucas Medina",
-      "position": "DF",
-      "rating": 77,
-      "age": 23,
-      "value": 25126315
+      "position": "MF",
+      "rating": 62,
+      "age": 28,
+      "value": 20362105
     },
     {
-      "name": "Erik Page",
-      "position": "DF",
-      "rating": 86,
-      "age": 20,
-      "value": 30778947
-    },
-    {
-      "name": "Ade J\u00f8rgensen",
-      "position": "DF",
+      "name": "Zayden Murphy",
+      "position": "MF",
       "rating": 66,
-      "age": 26,
-      "value": 19452631
+      "age": 27,
+      "value": 22509473
     },
     {
-      "name": "Tyrone Perry",
+      "name": "Aiden Kwamena",
       "position": "MF",
-      "rating": 81,
-      "age": 26,
-      "value": 28648421
-    },
-    {
-      "name": "Babatunde Watts",
-      "position": "MF",
-      "rating": 81,
-      "age": 26,
-      "value": 28648421
-    },
-    {
-      "name": "Dylan Bell",
-      "position": "MF",
-      "rating": 87,
-      "age": 31,
-      "value": 25275789
-    },
-    {
-      "name": "Zuberi Franco",
-      "position": "MF",
-      "rating": 70,
+      "rating": 90,
       "age": 22,
-      "value": 28294736
+      "value": 36378947
     },
     {
-      "name": "Curtis Morrison",
+      "name": "Curtis Banks",
       "position": "MF",
-      "rating": 89,
-      "age": 31,
-      "value": 25856842
-    },
-    {
-      "name": "Andre Yeboah",
-      "position": "MF",
-      "rating": 82,
-      "age": 18,
-      "value": 37288421
-    },
-    {
-      "name": "Jos\u00e9 Wright",
-      "position": "FW",
-      "rating": 61,
-      "age": 29,
-      "value": 24078947
-    },
-    {
-      "name": "Zayden Olsen",
-      "position": "FW",
-      "rating": 85,
-      "age": 22,
-      "value": 40000000
-    },
-    {
-      "name": "Victor Karlberg",
-      "position": "FW",
-      "rating": 89,
+      "rating": 66,
       "age": 33,
-      "value": 29510526
+      "value": 17507368
     },
     {
-      "name": "Yusuf Haynes",
+      "name": "Robert Watson",
       "position": "FW",
-      "rating": 70,
+      "rating": 74,
+      "age": 20,
+      "value": 39726315
+    },
+    {
+      "name": "Gunnar Reyes",
+      "position": "FW",
+      "rating": 86,
       "age": 30,
-      "value": 26526315
+      "value": 32589473
     },
     {
-      "name": "Lars Hamilton",
+      "name": "Robert Franklin",
       "position": "FW",
-      "rating": 76,
-      "age": 25,
-      "value": 34799999
+      "rating": 64,
+      "age": 24,
+      "value": 30315789
+    },
+    {
+      "name": "Frederick Hamilton",
+      "position": "FW",
+      "rating": 73,
+      "age": 27,
+      "value": 31121052
+    },
+    {
+      "name": "Javier Watkins",
+      "position": "FW",
+      "rating": 69,
+      "age": 21,
+      "value": 35952631
     }
   ],
   "stadium": {

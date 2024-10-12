@@ -2,144 +2,144 @@
   "name": "Aston Villa",
   "squad": [
     {
-      "name": "Finn Pedersen",
+      "name": "Kaleb Rao",
       "position": "GK",
-      "rating": 76,
-      "age": 17,
-      "value": 23680000
+      "rating": 63,
+      "age": 31,
+      "value": 12202105
     },
     {
-      "name": "Tuan Jacobsen",
+      "name": "Kato Flores",
       "position": "GK",
-      "rating": 88,
-      "age": 33,
-      "value": 15562105
+      "rating": 66,
+      "age": 35,
+      "value": 10560000
     },
     {
-      "name": "Kwame Campbell",
+      "name": "Brody Mendoza",
       "position": "GK",
-      "rating": 87,
-      "age": 23,
-      "value": 22711578
-    },
-    {
-      "name": "Ignacio Boone",
-      "position": "DF",
-      "rating": 77,
-      "age": 23,
-      "value": 25126315
-    },
-    {
-      "name": "Simon Olson",
-      "position": "DF",
-      "rating": 88,
-      "age": 16,
-      "value": 35200000
-    },
-    {
-      "name": "Haruto Bryant",
-      "position": "DF",
-      "rating": 75,
-      "age": 25,
-      "value": 22894736
-    },
-    {
-      "name": "Babatunde Ramsey",
-      "position": "DF",
       "rating": 60,
       "age": 17,
-      "value": 23368421
+      "value": 18694736
     },
     {
-      "name": "Sage Dahl",
+      "name": "Emerson Palmer",
+      "position": "DF",
+      "rating": 67,
+      "age": 16,
+      "value": 26800000
+    },
+    {
+      "name": "Leonardo Olson",
+      "position": "DF",
+      "rating": 63,
+      "age": 17,
+      "value": 24536842
+    },
+    {
+      "name": "Wilson Shaw",
+      "position": "DF",
+      "rating": 80,
+      "age": 28,
+      "value": 21894736
+    },
+    {
+      "name": "Edwin Gray",
       "position": "DF",
       "rating": 68,
-      "age": 33,
-      "value": 15031578
+      "age": 29,
+      "value": 17894736
     },
     {
-      "name": "Pedro Burke",
+      "name": "Kyler Morgan",
       "position": "DF",
-      "rating": 60,
-      "age": 35,
-      "value": 12000000
-    },
-    {
-      "name": "Isak Price",
-      "position": "MF",
-      "rating": 83,
-      "age": 18,
-      "value": 37743157
-    },
-    {
-      "name": "Connor Torres",
-      "position": "MF",
-      "rating": 62,
-      "age": 16,
-      "value": 29760000
-    },
-    {
-      "name": "Arjun Cunningham",
-      "position": "MF",
-      "rating": 75,
-      "age": 27,
-      "value": 25578947
-    },
-    {
-      "name": "Adeyemi Black",
-      "position": "MF",
-      "rating": 78,
-      "age": 25,
-      "value": 28572631
-    },
-    {
-      "name": "Cody Perez",
-      "position": "MF",
-      "rating": 81,
-      "age": 19,
-      "value": 35810526
-    },
-    {
-      "name": "Victor Bowman",
-      "position": "MF",
-      "rating": 62,
-      "age": 30,
-      "value": 18795789
-    },
-    {
-      "name": "Jonah Kabiru",
-      "position": "FW",
-      "rating": 80,
-      "age": 21,
-      "value": 40000000
-    },
-    {
-      "name": "Heath Lopez",
-      "position": "FW",
-      "rating": 64,
+      "rating": 68,
       "age": 28,
-      "value": 26273684
+      "value": 18610526
     },
     {
-      "name": "Tuan Marshall",
-      "position": "FW",
-      "rating": 88,
-      "age": 31,
-      "value": 31957894
-    },
-    {
-      "name": "Soren Banks",
-      "position": "FW",
-      "rating": 84,
-      "age": 35,
-      "value": 25200000
-    },
-    {
-      "name": "Jack Yeboah",
-      "position": "FW",
-      "rating": 74,
+      "name": "Taylor Richards",
+      "position": "DF",
+      "rating": 76,
       "age": 26,
-      "value": 32715789
+      "value": 22400000
+    },
+    {
+      "name": "Yahir Hughes",
+      "position": "MF",
+      "rating": 79,
+      "age": 21,
+      "value": 32930526
+    },
+    {
+      "name": "Musa Kabiru",
+      "position": "MF",
+      "rating": 74,
+      "age": 23,
+      "value": 28976842
+    },
+    {
+      "name": "Uriah Ibrahim",
+      "position": "MF",
+      "rating": 72,
+      "age": 35,
+      "value": 17280000
+    },
+    {
+      "name": "Matthew Lindholm",
+      "position": "MF",
+      "rating": 62,
+      "age": 31,
+      "value": 18012631
+    },
+    {
+      "name": "Torsten Marsh",
+      "position": "MF",
+      "rating": 69,
+      "age": 24,
+      "value": 26147368
+    },
+    {
+      "name": "Christian Hart",
+      "position": "MF",
+      "rating": 76,
+      "age": 35,
+      "value": 18240000
+    },
+    {
+      "name": "Tumelo Franklin",
+      "position": "FW",
+      "rating": 63,
+      "age": 23,
+      "value": 30836842
+    },
+    {
+      "name": "Nicolas Peters",
+      "position": "FW",
+      "rating": 78,
+      "age": 30,
+      "value": 29557894
+    },
+    {
+      "name": "Patrick Jimenez",
+      "position": "FW",
+      "rating": 83,
+      "age": 24,
+      "value": 39315789
+    },
+    {
+      "name": "Obi Matsumoto",
+      "position": "FW",
+      "rating": 75,
+      "age": 33,
+      "value": 24868421
+    },
+    {
+      "name": "Drew Shin",
+      "position": "FW",
+      "rating": 79,
+      "age": 20,
+      "value": 40000000
     }
   ],
   "stadium": {

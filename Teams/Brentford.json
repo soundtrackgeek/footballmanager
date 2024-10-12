@@ -2,144 +2,144 @@
   "name": "Brentford",
   "squad": [
     {
-      "name": "Rafael Lopez",
+      "name": "Finn Morgan",
+      "position": "GK",
+      "rating": 78,
+      "age": 28,
+      "value": 17077894
+    },
+    {
+      "name": "Jarrett Marin",
       "position": "GK",
       "rating": 65,
-      "age": 29,
-      "value": 13684210
+      "age": 18,
+      "value": 19705263
     },
     {
-      "name": "Jasper Hayes",
+      "name": "Wayne Bauer",
       "position": "GK",
-      "rating": 68,
+      "rating": 65,
       "age": 28,
-      "value": 14888421
+      "value": 14231578
     },
     {
-      "name": "Brayden Morgan",
-      "position": "GK",
-      "rating": 69,
-      "age": 21,
-      "value": 19174736
+      "name": "Adam Grant",
+      "position": "DF",
+      "rating": 68,
+      "age": 34,
+      "value": 14315789
     },
     {
-      "name": "Renato Reyes",
+      "name": "Ibrahim Ross",
+      "position": "DF",
+      "rating": 75,
+      "age": 30,
+      "value": 18947368
+    },
+    {
+      "name": "Myles Gonzales",
       "position": "DF",
       "rating": 85,
-      "age": 33,
-      "value": 18789473
+      "age": 23,
+      "value": 27736842
     },
     {
-      "name": "Daniel Bishop",
+      "name": "Paul Bennett",
       "position": "DF",
-      "rating": 88,
-      "age": 29,
-      "value": 23157894
+      "rating": 83,
+      "age": 22,
+      "value": 27957894
     },
     {
-      "name": "Bhekizizwe Goodman",
+      "name": "Jonathan Flores",
       "position": "DF",
-      "rating": 73,
-      "age": 29,
-      "value": 19210526
+      "rating": 76,
+      "age": 18,
+      "value": 28800000
     },
     {
-      "name": "Thabo Franco",
-      "position": "DF",
-      "rating": 89,
-      "age": 17,
-      "value": 34663157
-    },
-    {
-      "name": "Kolby Yeboah",
+      "name": "Manuel Long",
       "position": "DF",
       "rating": 62,
+      "age": 27,
+      "value": 17621052
+    },
+    {
+      "name": "Emmett Sanders",
+      "position": "MF",
+      "rating": 84,
       "age": 23,
-      "value": 20231578
+      "value": 32892631
     },
     {
-      "name": "Toshiro Dahl",
-      "position": "DF",
-      "rating": 69,
-      "age": 30,
-      "value": 17431578
-    },
-    {
-      "name": "Luis Baker",
+      "name": "Jake Delgado",
       "position": "MF",
-      "rating": 86,
-      "age": 34,
-      "value": 21726315
+      "rating": 84,
+      "age": 23,
+      "value": 32892631
     },
     {
-      "name": "Gustavo Myers",
+      "name": "Keith Umar",
       "position": "MF",
-      "rating": 61,
-      "age": 25,
-      "value": 22345263
+      "rating": 85,
+      "age": 17,
+      "value": 39726315
     },
     {
-      "name": "Conor Pena",
-      "position": "MF",
-      "rating": 72,
-      "age": 29,
-      "value": 22736842
-    },
-    {
-      "name": "Louis Spencer",
+      "name": "Oliver Adams",
       "position": "MF",
       "rating": 75,
-      "age": 24,
-      "value": 28421052
+      "age": 21,
+      "value": 31263157
     },
     {
-      "name": "Elias Lambert",
+      "name": "Hector Dean",
+      "position": "MF",
+      "rating": 87,
+      "age": 26,
+      "value": 30770526
+    },
+    {
+      "name": "Victor Feng",
       "position": "MF",
       "rating": 70,
-      "age": 33,
-      "value": 18568421
-    },
-    {
-      "name": "Terry Hughes",
-      "position": "MF",
-      "rating": 67,
-      "age": 16,
-      "value": 32160000
-    },
-    {
-      "name": "Kellen Saye",
-      "position": "FW",
-      "rating": 71,
       "age": 22,
-      "value": 35873684
+      "value": 28294736
     },
     {
-      "name": "Isak Adams",
+      "name": "Shawn Duncan",
+      "position": "FW",
+      "rating": 72,
+      "age": 20,
+      "value": 38652631
+    },
+    {
+      "name": "Jayden Andrews",
       "position": "FW",
       "rating": 90,
-      "age": 33,
-      "value": 29842105
+      "age": 23,
+      "value": 40000000
     },
     {
-      "name": "Orlando Franklin",
+      "name": "Allen Adams",
       "position": "FW",
-      "rating": 74,
-      "age": 31,
-      "value": 26873684
+      "rating": 75,
+      "age": 23,
+      "value": 36710526
     },
     {
-      "name": "Rodney Edwards",
+      "name": "Thabo Ellis",
       "position": "FW",
-      "rating": 68,
-      "age": 35,
-      "value": 20400000
+      "rating": 78,
+      "age": 21,
+      "value": 40000000
     },
     {
-      "name": "Curtis Scott",
+      "name": "Joel Palacios",
       "position": "FW",
-      "rating": 85,
-      "age": 29,
-      "value": 33552631
+      "rating": 82,
+      "age": 20,
+      "value": 40000000
     }
   ],
   "stadium": {
