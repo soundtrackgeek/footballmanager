@@ -17,6 +17,7 @@ def display_menu():
     print("7. Simulate Season")
     print("8. Stats")
     print("9. Finances")
+    print("10. Injured Players")  # New option
     print("0. Exit")
 
 def display_team_menu():
@@ -176,6 +177,16 @@ def handle_bank_loan(team):
     else:
         print("\nLoan offer declined.")
 
+def display_injured_players(teams):
+    print("\nInjured Players List:")
+    for team in teams:
+        if team.injured_players:
+            print(f"\n{team.name}:")
+            for player in team.injured_players:
+                print(f"  {player.name} - {player.position.name} - Out for {player.injury_weeks_left} week(s)")
+        else:
+            print(f"\n{team.name}: No injured players")
+
 def main():
     teams = create_teams()
     player_team = choose_team(teams)
@@ -213,9 +224,14 @@ def main():
         elif choice == "4":
             print("\nTransfer Market feature not implemented yet.")
         elif choice == "5":
-            if not player_team.selected_players:
-                print("\nYou haven't selected a team yet. Please select your team first.")
-            elif current_week <= total_weeks:
+            if current_week <= total_weeks:
+                print(f"\nPreparing for Week {current_week}")
+                player_team.handle_injuries()
+                if not player_team.selected_players:
+                    print("You haven't selected your team yet. Please select your team now.")
+                    select_team(player_team)
+                else:
+                    print("Your team is already selected. You can change it from the Team menu if needed.")
                 print(f"\nSimulating Week {current_week}")
                 current_week = play_week(fixtures, table, current_week, player_team)
             else:
@@ -233,6 +249,8 @@ def main():
             stats_menu()
         elif choice == "9":
             finances_menu(player_team)
+        elif choice == "10":
+            display_injured_players(teams)  # New option
         elif choice == "0":
             print("Thank you for playing. Goodbye!")
             break

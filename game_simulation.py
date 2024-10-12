@@ -125,6 +125,10 @@ def play_week(fixtures, table, current_week, player_team):
         home_team = next(team for team in table.teams if team.name == home_team_name)
         away_team = next(team for team in table.teams if team.name == away_team_name)
 
+        # Handle injuries for both teams
+        home_team.handle_injuries()
+        away_team.handle_injuries()
+
         # Auto-select team for AI-controlled teams
         if home_team != player_team:
             auto_select_team(home_team)
@@ -134,21 +138,24 @@ def play_week(fixtures, table, current_week, player_team):
         # Handle player's team selection
         if home_team == player_team or away_team == player_team:
             if not player_team.selected_players:
-                auto_select_team(player_team)
+                select_team(player_team)
 
-        # Simulate the user's match with the new exciting screen
+        # Simulate the match
         if home_team == player_team or away_team == player_team:
             home_goals, away_goals, home_scorers, away_scorers = simulate_user_match(home_team, away_team)
         else:
             home_goals, away_goals, home_scorers, away_scorers = simulate_game(home_team, away_team)
 
+        # Update table and statistics
         table.update(home_team_name, away_team_name, home_goals, away_goals)
-        
-        # Update statistics
         stats.update_goal_scorers(home_scorers)
         stats.update_goal_scorers(away_scorers)
         stats.update_club_stats(home_team_name, away_team_name, home_goals, away_goals)
-        
+
+        # Handle injuries after the match
+        home_team.injure_players()
+        away_team.injure_players()
+
         # Calculate attendance and ticket revenue
         attendance = home_team.calculate_match_attendance()
         ticket_revenue = calculate_ticket_revenue(home_team, attendance)

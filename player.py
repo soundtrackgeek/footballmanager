@@ -14,6 +14,8 @@ class Player:
         self.rating = rating
         self.age = random.randint(16, 35)
         self.value = self.calculate_value()
+        self.injured = False
+        self.injury_weeks_left = 0
 
     def calculate_value(self):
         # Base value from rating
