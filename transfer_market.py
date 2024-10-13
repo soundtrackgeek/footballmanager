@@ -8,9 +8,9 @@ class TransferMarket:
         self.pending_transfers = []
         self.bids = {}  # New attribute to track bids
 
-    def update_transfer_list(self, teams):
+    def update_transfer_list(self, teams, player_team):
         for team in teams:
-            if random.random() < 0.1:  # 10% chance
+            if team != player_team and random.random() < 0.1:  # 10% chance, exclude player's team
                 if team.squad:
                     player = random.choice(team.squad)
                     if not any(p == player for p, _ in self.transfer_list):
@@ -196,7 +196,7 @@ def transfer_market_menu(player_team, transfer_market, teams):
         transfer_market.ai_transfer_actions([team for team in teams if team != player_team])
 
 # This function should be called every week in the main game loop
-def update_transfer_market(transfer_market, teams):
-    transfer_market.update_transfer_list(teams)
+def update_transfer_market(transfer_market, teams, player_team):
+    transfer_market.update_transfer_list(teams, player_team)
     transfer_market.update_loan_list(teams)
     transfer_market.process_transfers()

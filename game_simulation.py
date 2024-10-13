@@ -251,7 +251,7 @@ def play_week(fixtures, table, current_week, player_team, transfer_market):
         stats.update_goal_scorers(away_scorers)
         stats.update_club_stats(match['home'], match['away'], home_goals, away_goals)
 
-    update_transfer_market(transfer_market, table.teams)
+    update_transfer_market(transfer_market, table.teams, player_team)
     return current_week + 1
 
 def update_team_finances(team, weekly_financial_summary):
