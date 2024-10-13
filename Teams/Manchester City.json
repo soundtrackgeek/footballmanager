@@ -2,144 +2,144 @@
   "name": "Manchester City",
   "squad": [
     {
-      "name": "Nkosinathi Karlberg",
+      "name": "Nils Carter",
       "position": "GK",
-      "rating": 64,
-      "age": 33,
-      "value": 11317894
+      "rating": 83,
+      "age": 23,
+      "value": 21667368
     },
     {
-      "name": "Rajesh Freeman",
+      "name": "James Bradley",
       "position": "GK",
-      "rating": 68,
-      "age": 18,
-      "value": 20614736
-    },
-    {
-      "name": "Cody Oliver",
-      "position": "GK",
-      "rating": 76,
-      "age": 20,
-      "value": 21760000
-    },
-    {
-      "name": "Quinn Su\u00e1rez",
-      "position": "DF",
-      "rating": 68,
-      "age": 27,
-      "value": 19326315
-    },
-    {
-      "name": "Leonel Dahl",
-      "position": "DF",
-      "rating": 79,
-      "age": 29,
-      "value": 20789473
-    },
-    {
-      "name": "Daryl Akinyele",
-      "position": "DF",
-      "rating": 82,
-      "age": 21,
-      "value": 28484210
-    },
-    {
-      "name": "Adeola Sandstr\u00f6m",
-      "position": "DF",
       "rating": 90,
-      "age": 21,
-      "value": 31263157
+      "age": 25,
+      "value": 21978947
     },
     {
-      "name": "Roberto Powell",
-      "position": "DF",
-      "rating": 79,
-      "age": 18,
-      "value": 29936842
-    },
-    {
-      "name": "Brayden Coleman",
-      "position": "DF",
-      "rating": 69,
-      "age": 28,
-      "value": 18884210
-    },
-    {
-      "name": "Declan Farmer",
-      "position": "MF",
-      "rating": 76,
-      "age": 32,
-      "value": 21120000
-    },
-    {
-      "name": "Noel Spencer",
-      "position": "MF",
+      "name": "Luke Silva",
+      "position": "GK",
       "rating": 81,
-      "age": 24,
-      "value": 30694736
+      "age": 31,
+      "value": 15688421
     },
     {
-      "name": "Jiro Ramadhan",
-      "position": "MF",
-      "rating": 68,
-      "age": 19,
-      "value": 30063157
+      "name": "Ping Graham",
+      "position": "DF",
+      "rating": 62,
+      "age": 20,
+      "value": 22189473
     },
     {
-      "name": "Toby Rowe",
-      "position": "MF",
-      "rating": 76,
+      "name": "Johannes Reyes",
+      "position": "DF",
+      "rating": 74,
+      "age": 16,
+      "value": 29600000
+    },
+    {
+      "name": "Donovan Guo",
+      "position": "DF",
+      "rating": 62,
       "age": 33,
-      "value": 20160000
+      "value": 13705263
     },
     {
-      "name": "Wei Lee",
+      "name": "Allan Patel",
+      "position": "DF",
+      "rating": 87,
+      "age": 29,
+      "value": 22894736
+    },
+    {
+      "name": "Edmund Clark",
+      "position": "DF",
+      "rating": 89,
+      "age": 25,
+      "value": 27168421
+    },
+    {
+      "name": "Edward Berry",
+      "position": "DF",
+      "rating": 78,
+      "age": 19,
+      "value": 28736842
+    },
+    {
+      "name": "Jos\u00e9 Fitzgerald",
+      "position": "MF",
+      "rating": 67,
+      "age": 31,
+      "value": 19465263
+    },
+    {
+      "name": "Matthew Pena",
+      "position": "MF",
+      "rating": 66,
+      "age": 30,
+      "value": 20008421
+    },
+    {
+      "name": "Giovanni Fitzgerald",
+      "position": "MF",
+      "rating": 90,
+      "age": 17,
+      "value": 40000000
+    },
+    {
+      "name": "Emil Ross",
+      "position": "MF",
+      "rating": 79,
+      "age": 25,
+      "value": 28938947
+    },
+    {
+      "name": "Chike Green",
       "position": "MF",
       "rating": 86,
       "age": 27,
       "value": 29330526
     },
     {
-      "name": "Hassan Hicks",
+      "name": "Karl Fox",
       "position": "MF",
-      "rating": 72,
-      "age": 20,
-      "value": 30922105
+      "rating": 85,
+      "age": 21,
+      "value": 35431578
     },
     {
-      "name": "Karl Craig",
+      "name": "Vidar Bates",
       "position": "FW",
       "rating": 89,
-      "age": 17,
-      "value": 40000000
+      "age": 30,
+      "value": 33726315
     },
     {
-      "name": "Ali Brooks",
+      "name": "Oscar Barton",
       "position": "FW",
-      "rating": 67,
-      "age": 26,
-      "value": 29621052
+      "rating": 74,
+      "age": 24,
+      "value": 35052631
     },
     {
-      "name": "Griffin Palmer",
+      "name": "Morgan Long",
+      "position": "FW",
+      "rating": 87,
+      "age": 30,
+      "value": 32968421
+    },
+    {
+      "name": "Lars Njoroge",
+      "position": "FW",
+      "rating": 70,
+      "age": 25,
+      "value": 32052631
+    },
+    {
+      "name": "William Lubega",
       "position": "FW",
       "rating": 83,
-      "age": 16,
-      "value": 40000000
-    },
-    {
-      "name": "Benjamin Perez",
-      "position": "FW",
-      "rating": 63,
-      "age": 20,
-      "value": 33821052
-    },
-    {
-      "name": "Lucas Larsson",
-      "position": "FW",
-      "rating": 90,
-      "age": 25,
-      "value": 40000000
+      "age": 27,
+      "value": 35384210
     }
   ],
   "stadium": {

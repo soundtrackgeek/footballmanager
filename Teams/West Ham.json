@@ -2,144 +2,144 @@
   "name": "West Ham",
   "squad": [
     {
-      "name": "Kendall Das",
+      "name": "Noah Hart",
       "position": "GK",
-      "rating": 79,
-      "age": 19,
-      "value": 23284210
-    },
-    {
-      "name": "Edwin Patel",
-      "position": "GK",
-      "rating": 84,
-      "age": 18,
-      "value": 25465263
-    },
-    {
-      "name": "Marshall Harrison",
-      "position": "GK",
-      "rating": 71,
-      "age": 29,
-      "value": 14947368
-    },
-    {
-      "name": "Barney Barnett",
-      "position": "DF",
-      "rating": 79,
+      "rating": 90,
       "age": 28,
-      "value": 21621052
+      "value": 19705263
     },
     {
-      "name": "Sam Burke",
+      "name": "Emmanuel Bishop",
+      "position": "GK",
+      "rating": 66,
+      "age": 24,
+      "value": 16673684
+    },
+    {
+      "name": "Mat\u00edas Harris",
+      "position": "GK",
+      "rating": 66,
+      "age": 22,
+      "value": 17785263
+    },
+    {
+      "name": "Santiago Romero",
       "position": "DF",
-      "rating": 71,
-      "age": 30,
-      "value": 17936842
+      "rating": 88,
+      "age": 23,
+      "value": 28715789
     },
     {
-      "name": "Cooper Flores",
+      "name": "Tyler Hart",
+      "position": "DF",
+      "rating": 68,
+      "age": 35,
+      "value": 13600000
+    },
+    {
+      "name": "Tristan Abiola",
       "position": "DF",
       "rating": 87,
-      "age": 29,
-      "value": 22894736
+      "age": 35,
+      "value": 17400000
     },
     {
-      "name": "Derrick Olson",
+      "name": "Chad Palmer",
       "position": "DF",
-      "rating": 84,
-      "age": 21,
-      "value": 29178947
+      "rating": 90,
+      "age": 34,
+      "value": 18947368
     },
     {
-      "name": "Paul Adams",
+      "name": "Jengo Gonz\u00e1lez",
       "position": "DF",
-      "rating": 64,
-      "age": 31,
-      "value": 15494736
+      "rating": 71,
+      "age": 35,
+      "value": 14200000
     },
     {
-      "name": "Bhekizizwe Osei",
+      "name": "Barney Saye",
       "position": "DF",
-      "rating": 70,
-      "age": 22,
-      "value": 23578947
+      "rating": 68,
+      "age": 16,
+      "value": 27200000
     },
     {
-      "name": "Ben Bates",
+      "name": "Duncan Verma",
       "position": "MF",
-      "rating": 84,
-      "age": 29,
+      "rating": 64,
+      "age": 17,
+      "value": 29911578
+    },
+    {
+      "name": "Ricardo Ortega",
+      "position": "MF",
+      "rating": 80,
+      "age": 25,
+      "value": 29305263
+    },
+    {
+      "name": "Bernard Abebe",
+      "position": "MF",
+      "rating": 66,
+      "age": 28,
+      "value": 21675789
+    },
+    {
+      "name": "Jacob Kwamena",
+      "position": "MF",
+      "rating": 60,
+      "age": 33,
+      "value": 15915789
+    },
+    {
+      "name": "Esteban Craig",
+      "position": "MF",
+      "rating": 72,
+      "age": 22,
+      "value": 29103157
+    },
+    {
+      "name": "Marshall Bhatia",
+      "position": "MF",
+      "rating": 60,
+      "age": 19,
       "value": 26526315
     },
     {
-      "name": "Kevin Qureshi",
-      "position": "MF",
-      "rating": 66,
-      "age": 16,
-      "value": 31680000
-    },
-    {
-      "name": "Sim\u00f3n West",
-      "position": "MF",
-      "rating": 75,
-      "age": 33,
-      "value": 19894736
-    },
-    {
-      "name": "Wayne Patterson",
-      "position": "MF",
-      "rating": 74,
-      "age": 34,
-      "value": 18694736
-    },
-    {
-      "name": "Alexander Lee",
-      "position": "MF",
-      "rating": 70,
-      "age": 27,
-      "value": 23873684
-    },
-    {
-      "name": "Oluwafemi Castro",
-      "position": "MF",
-      "rating": 70,
-      "age": 29,
-      "value": 22105263
-    },
-    {
-      "name": "Kobe Diaz",
+      "name": "Diego Peterson",
       "position": "FW",
-      "rating": 86,
+      "rating": 82,
       "age": 30,
-      "value": 32589473
+      "value": 31073684
     },
     {
-      "name": "Aiden Bryan",
+      "name": "Nicholas Myers",
       "position": "FW",
-      "rating": 79,
-      "age": 34,
-      "value": 24947368
+      "rating": 87,
+      "age": 31,
+      "value": 31594736
     },
     {
-      "name": "Curtis Hughes",
+      "name": "Marvin Rodr\u00edguez",
       "position": "FW",
-      "rating": 85,
-      "age": 20,
+      "rating": 84,
+      "age": 17,
       "value": 40000000
     },
     {
-      "name": "Angelo Blake",
+      "name": "Jacob Brooks",
       "position": "FW",
-      "rating": 80,
-      "age": 34,
-      "value": 25263157
+      "rating": 75,
+      "age": 31,
+      "value": 27236842
     },
     {
-      "name": "Santiago Eriksson",
+      "name": "Carter Diaz",
       "position": "FW",
-      "rating": 67,
-      "age": 24,
-      "value": 31736842
+      "rating": 65,
+      "age": 30,
+      "value": 24631578
     }
   ],
   "stadium": {

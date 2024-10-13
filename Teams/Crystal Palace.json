@@ -2,144 +2,144 @@
   "name": "Crystal Palace",
   "squad": [
     {
-      "name": "Axel Fuller",
+      "name": "Luis Kwamena",
       "position": "GK",
-      "rating": 83,
-      "age": 35,
-      "value": 13280000
-    },
-    {
-      "name": "Warren Watanabe",
-      "position": "GK",
-      "rating": 61,
+      "rating": 81,
       "age": 30,
-      "value": 12328421
+      "value": 16370526
     },
     {
-      "name": "Dennis Day",
+      "name": "Andy Manning",
       "position": "GK",
-      "rating": 68,
-      "age": 18,
-      "value": 20614736
+      "rating": 72,
+      "age": 32,
+      "value": 13338947
     },
     {
-      "name": "Derrick Whitaker",
+      "name": "Allan Spencer",
+      "position": "GK",
+      "rating": 89,
+      "age": 20,
+      "value": 25482105
+    },
+    {
+      "name": "Angel Larsson",
+      "position": "DF",
+      "rating": 89,
+      "age": 19,
+      "value": 32789473
+    },
+    {
+      "name": "Konner Umar",
+      "position": "DF",
+      "rating": 86,
+      "age": 21,
+      "value": 29873684
+    },
+    {
+      "name": "Mat\u00edas Cohen",
       "position": "DF",
       "rating": 78,
-      "age": 33,
-      "value": 17242105
+      "age": 31,
+      "value": 18884210
     },
     {
-      "name": "Konner Morris",
+      "name": "Nicol\u00e1s Spencer",
       "position": "DF",
-      "rating": 62,
-      "age": 25,
-      "value": 18926315
+      "rating": 66,
+      "age": 21,
+      "value": 22926315
     },
     {
-      "name": "Landon Ibrahim",
-      "position": "DF",
-      "rating": 63,
-      "age": 33,
-      "value": 13926315
-    },
-    {
-      "name": "Adrian Larsen",
-      "position": "DF",
-      "rating": 90,
-      "age": 30,
-      "value": 22736842
-    },
-    {
-      "name": "Daniel Romero",
+      "name": "Dashiell Hansen",
       "position": "DF",
       "rating": 85,
-      "age": 20,
-      "value": 30421052
-    },
-    {
-      "name": "Jackson Farmer",
-      "position": "DF",
-      "rating": 76,
-      "age": 22,
-      "value": 25600000
-    },
-    {
-      "name": "Preston Dias",
-      "position": "MF",
-      "rating": 81,
-      "age": 19,
-      "value": 35810526
-    },
-    {
-      "name": "Harley Ellis",
-      "position": "MF",
-      "rating": 90,
       "age": 27,
-      "value": 30694736
+      "value": 24157894
     },
     {
-      "name": "Eric Watkins",
+      "name": "Francisco Feng",
+      "position": "DF",
+      "rating": 88,
+      "age": 28,
+      "value": 24084210
+    },
+    {
+      "name": "Rory Hadj",
+      "position": "MF",
+      "rating": 64,
+      "age": 35,
+      "value": 15360000
+    },
+    {
+      "name": "Drew Cooper",
+      "position": "MF",
+      "rating": 69,
+      "age": 32,
+      "value": 19174736
+    },
+    {
+      "name": "Brandon Gomes",
+      "position": "MF",
+      "rating": 80,
+      "age": 24,
+      "value": 30315789
+    },
+    {
+      "name": "John Palmer",
+      "position": "MF",
+      "rating": 67,
+      "age": 20,
+      "value": 28774736
+    },
+    {
+      "name": "Jermaine Stone",
       "position": "MF",
       "rating": 85,
       "age": 23,
       "value": 33284210
     },
     {
-      "name": "Darren Wheeler",
-      "position": "MF",
-      "rating": 71,
-      "age": 28,
-      "value": 23317894
-    },
-    {
-      "name": "Amir Richardson",
+      "name": "Reed Arnold",
       "position": "MF",
       "rating": 79,
-      "age": 18,
-      "value": 35924210
+      "age": 29,
+      "value": 24947368
     },
     {
-      "name": "Russell Griffin",
-      "position": "MF",
-      "rating": 67,
-      "age": 19,
-      "value": 29621052
-    },
-    {
-      "name": "Sunil Barnes",
+      "name": "Dexter Joseph",
       "position": "FW",
-      "rating": 85,
-      "age": 28,
+      "rating": 65,
+      "age": 20,
       "value": 34894736
     },
     {
-      "name": "Andr\u00e9s Pena",
+      "name": "Elijah Goodman",
       "position": "FW",
-      "rating": 70,
-      "age": 28,
-      "value": 28736842
+      "rating": 81,
+      "age": 27,
+      "value": 34531578
     },
     {
-      "name": "Lewis Owens",
+      "name": "Taylor Manning",
       "position": "FW",
-      "rating": 76,
-      "age": 20,
-      "value": 40000000
+      "rating": 72,
+      "age": 29,
+      "value": 28421052
     },
     {
-      "name": "Allan Ortega",
+      "name": "Nuru Long",
       "position": "FW",
-      "rating": 61,
-      "age": 33,
-      "value": 20226315
+      "rating": 66,
+      "age": 34,
+      "value": 20842105
     },
     {
-      "name": "Keith Richards",
+      "name": "Jordan Karlberg",
       "position": "FW",
-      "rating": 83,
-      "age": 33,
-      "value": 27521052
+      "rating": 67,
+      "age": 18,
+      "value": 38084210
     }
   ],
   "stadium": {

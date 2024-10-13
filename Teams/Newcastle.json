@@ -2,144 +2,144 @@
   "name": "Newcastle",
   "squad": [
     {
-      "name": "Hugo Andrews",
+      "name": "Morgan Jimenez",
       "position": "GK",
-      "rating": 72,
-      "age": 34,
-      "value": 12126315
-    },
-    {
-      "name": "Casper Richards",
-      "position": "GK",
-      "rating": 70,
-      "age": 33,
-      "value": 12378947
-    },
-    {
-      "name": "Raj Kim",
-      "position": "GK",
-      "rating": 89,
-      "age": 17,
-      "value": 27730526
-    },
-    {
-      "name": "Beau Shin",
-      "position": "DF",
-      "rating": 79,
-      "age": 20,
-      "value": 28273684
-    },
-    {
-      "name": "Lucas Alexander",
-      "position": "DF",
-      "rating": 65,
-      "age": 23,
-      "value": 21210526
-    },
-    {
-      "name": "Clark Jordan",
-      "position": "DF",
       "rating": 60,
-      "age": 34,
-      "value": 12631578
+      "age": 17,
+      "value": 18694736
     },
     {
-      "name": "Lars Peters",
-      "position": "DF",
-      "rating": 90,
-      "age": 33,
-      "value": 19894736
+      "name": "Bo Bhatia",
+      "position": "GK",
+      "rating": 68,
+      "age": 24,
+      "value": 17178947
     },
     {
-      "name": "Maurice Cabrera",
-      "position": "DF",
-      "rating": 82,
-      "age": 33,
-      "value": 18126315
-    },
-    {
-      "name": "Leonardo Marshall",
-      "position": "DF",
-      "rating": 67,
-      "age": 33,
-      "value": 14810526
-    },
-    {
-      "name": "Jonathan Perry",
-      "position": "MF",
-      "rating": 80,
-      "age": 30,
-      "value": 24252631
-    },
-    {
-      "name": "Veer Zamani",
-      "position": "MF",
-      "rating": 65,
-      "age": 22,
-      "value": 26273684
-    },
-    {
-      "name": "Rowan Holt",
-      "position": "MF",
-      "rating": 83,
-      "age": 32,
-      "value": 23065263
-    },
-    {
-      "name": "Jabari Fitzgerald",
-      "position": "MF",
-      "rating": 79,
-      "age": 29,
-      "value": 24947368
-    },
-    {
-      "name": "Musa Collins",
-      "position": "MF",
-      "rating": 82,
-      "age": 32,
-      "value": 22787368
-    },
-    {
-      "name": "Sven Perry",
-      "position": "MF",
-      "rating": 90,
-      "age": 29,
-      "value": 28421052
-    },
-    {
-      "name": "Aaron Flores",
-      "position": "FW",
-      "rating": 69,
+      "name": "Uriah Payne",
+      "position": "GK",
+      "rating": 68,
       "age": 28,
-      "value": 28326315
+      "value": 14888421
     },
     {
-      "name": "Noel Evans",
-      "position": "FW",
-      "rating": 62,
-      "age": 29,
-      "value": 24473684
+      "name": "Noah Parker",
+      "position": "DF",
+      "rating": 90,
+      "age": 28,
+      "value": 24631578
     },
     {
-      "name": "Juan Nguyen",
-      "position": "FW",
-      "rating": 85,
+      "name": "Nkosinathi Owens",
+      "position": "DF",
+      "rating": 63,
+      "age": 20,
+      "value": 22547368
+    },
+    {
+      "name": "Leon Holm",
+      "position": "DF",
+      "rating": 81,
       "age": 19,
+      "value": 29842105
+    },
+    {
+      "name": "Salvador Lindberg",
+      "position": "DF",
+      "rating": 84,
+      "age": 31,
+      "value": 20336842
+    },
+    {
+      "name": "Alexander Howard",
+      "position": "DF",
+      "rating": 78,
+      "age": 21,
+      "value": 27094736
+    },
+    {
+      "name": "Kenji Rogers",
+      "position": "DF",
+      "rating": 73,
+      "age": 18,
+      "value": 27663157
+    },
+    {
+      "name": "Bao Russell",
+      "position": "MF",
+      "rating": 86,
+      "age": 21,
+      "value": 35848421
+    },
+    {
+      "name": "Tanner Marshall",
+      "position": "MF",
+      "rating": 77,
+      "age": 24,
+      "value": 29178947
+    },
+    {
+      "name": "Tobias Duncan",
+      "position": "MF",
+      "rating": 61,
+      "age": 28,
+      "value": 20033684
+    },
+    {
+      "name": "Hank Adams",
+      "position": "MF",
+      "rating": 73,
+      "age": 17,
+      "value": 34117894
+    },
+    {
+      "name": "Emerson Kabiru",
+      "position": "MF",
+      "rating": 85,
+      "age": 24,
+      "value": 32210526
+    },
+    {
+      "name": "Jason Farmer",
+      "position": "MF",
+      "rating": 70,
+      "age": 29,
+      "value": 22105263
+    },
+    {
+      "name": "Benjam\u00edn Watkins",
+      "position": "FW",
+      "rating": 76,
+      "age": 22,
+      "value": 38400000
+    },
+    {
+      "name": "Wesley Nakajima",
+      "position": "FW",
+      "rating": 77,
+      "age": 20,
       "value": 40000000
     },
     {
-      "name": "Kwame Garc\u00eda",
+      "name": "Ayden Hicks",
       "position": "FW",
-      "rating": 88,
-      "age": 31,
-      "value": 31957894
+      "rating": 83,
+      "age": 30,
+      "value": 31452631
     },
     {
-      "name": "Henry Tanaka",
+      "name": "Pablo Gustavsson",
       "position": "FW",
       "rating": 87,
-      "age": 32,
-      "value": 30221052
+      "age": 30,
+      "value": 32968421
+    },
+    {
+      "name": "Charles Mendoza",
+      "position": "FW",
+      "rating": 80,
+      "age": 33,
+      "value": 26526315
     }
   ],
   "stadium": {

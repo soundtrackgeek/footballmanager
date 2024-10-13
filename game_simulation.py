@@ -230,12 +230,21 @@ def play_week(fixtures, table, current_week, player_team, transfer_market):
         for scorer, minute in away_scorers:
             print(f"{Fore.YELLOW}Goal! {scorer.name} scores for {away_team.name} ({minute}'){Style.RESET_ALL}")
         
+        # Simulate injuries for both teams after the match
+        home_team.injure_players()
+        away_team.injure_players()
+        
         # Display injuries
-        injuries = home_team.injured_players + away_team.injured_players
-        if injuries:
+        if home_team.injured_players or away_team.injured_players:
             print(f"\n{Fore.RED}Injuries:{Style.RESET_ALL}")
-            for player in injuries:
-                print(f"{Fore.RED}{player.name} ({player.team.name}) - {player.injury_weeks_left} weeks{Style.RESET_ALL}")
+            if home_team.injured_players:
+                print(f"{Fore.RED}For {home_team.name}:{Style.RESET_ALL}")
+                for player in home_team.injured_players:
+                    print(f"{Fore.RED}- {player.name} - {player.injury_weeks_left} weeks{Style.RESET_ALL}")
+            if away_team.injured_players:
+                print(f"{Fore.RED}For {away_team.name}:{Style.RESET_ALL}")
+                for player in away_team.injured_players:
+                    print(f"{Fore.RED}- {player.name} - {player.injury_weeks_left} weeks{Style.RESET_ALL}")
         
         table.update(match['home'], match['away'], home_goals, away_goals)
         stats.update_goal_scorers(home_scorers)

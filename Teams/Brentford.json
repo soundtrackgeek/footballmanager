@@ -2,144 +2,144 @@
   "name": "Brentford",
   "squad": [
     {
-      "name": "Uriah Flores",
+      "name": "Casper Mikkelsen",
+      "position": "GK",
+      "rating": 77,
+      "age": 35,
+      "value": 12320000
+    },
+    {
+      "name": "Jeffrey Gomes",
+      "position": "GK",
+      "rating": 66,
+      "age": 26,
+      "value": 15562105
+    },
+    {
+      "name": "Kaito Bennett",
       "position": "GK",
       "rating": 63,
-      "age": 28,
-      "value": 13793684
+      "age": 31,
+      "value": 12202105
     },
     {
-      "name": "Marcus Turner",
-      "position": "GK",
-      "rating": 70,
-      "age": 20,
-      "value": 20042105
+      "name": "Tristan Fofana",
+      "position": "DF",
+      "rating": 74,
+      "age": 27,
+      "value": 21031578
     },
     {
-      "name": "Tao Nakamura",
-      "position": "GK",
+      "name": "Nkosinathi Reed",
+      "position": "DF",
+      "rating": 63,
+      "age": 25,
+      "value": 19231578
+    },
+    {
+      "name": "Caleb Hughes",
+      "position": "DF",
+      "rating": 81,
+      "age": 25,
+      "value": 24726315
+    },
+    {
+      "name": "Stefan Henderson",
+      "position": "DF",
       "rating": 70,
       "age": 22,
+      "value": 23578947
+    },
+    {
+      "name": "Alexander Benson",
+      "position": "DF",
+      "rating": 64,
+      "age": 26,
       "value": 18863157
     },
     {
-      "name": "Timothy Bell",
-      "position": "DF",
-      "rating": 68,
-      "age": 17,
-      "value": 26484210
-    },
-    {
-      "name": "Kirk Knox",
-      "position": "DF",
-      "rating": 77,
-      "age": 19,
-      "value": 28368421
-    },
-    {
-      "name": "Kenji Boone",
-      "position": "DF",
-      "rating": 85,
-      "age": 17,
-      "value": 33105263
-    },
-    {
-      "name": "Rodney Berg",
-      "position": "DF",
-      "rating": 79,
-      "age": 29,
-      "value": 20789473
-    },
-    {
-      "name": "Andreas Valdez",
-      "position": "DF",
-      "rating": 83,
-      "age": 16,
-      "value": 33200000
-    },
-    {
-      "name": "Malcolm S\u00f6derberg",
+      "name": "Justin Liu",
       "position": "DF",
       "rating": 70,
-      "age": 21,
-      "value": 24315789
+      "age": 35,
+      "value": 14000000
     },
     {
-      "name": "Jesse Thomsen",
+      "name": "Morgan Fletcher",
       "position": "MF",
-      "rating": 64,
-      "age": 33,
-      "value": 16976842
+      "rating": 80,
+      "age": 35,
+      "value": 19200000
     },
     {
-      "name": "Abel Sandstr\u00f6m",
+      "name": "Pedro Gonz\u00e1lez",
       "position": "MF",
-      "rating": 72,
-      "age": 27,
-      "value": 24555789
+      "rating": 70,
+      "age": 19,
+      "value": 30947368
     },
     {
-      "name": "Brooks Pepper",
-      "position": "MF",
-      "rating": 66,
-      "age": 32,
-      "value": 18341052
-    },
-    {
-      "name": "Ross Reid",
-      "position": "MF",
-      "rating": 62,
-      "age": 28,
-      "value": 20362105
-    },
-    {
-      "name": "Konner Lee",
+      "name": "Benny Chukwu",
       "position": "MF",
       "rating": 89,
-      "age": 26,
-      "value": 31477894
-    },
-    {
-      "name": "Yuki Bryan",
-      "position": "MF",
-      "rating": 71,
-      "age": 29,
-      "value": 22421052
-    },
-    {
-      "name": "Diego Takahashi",
-      "position": "FW",
-      "rating": 61,
-      "age": 28,
-      "value": 25042105
-    },
-    {
-      "name": "Desmond Norberg",
-      "position": "FW",
-      "rating": 62,
       "age": 19,
-      "value": 34263157
+      "value": 39347368
     },
     {
-      "name": "Sean Cabrera",
+      "name": "Brian Gariba",
+      "position": "MF",
+      "rating": 63,
+      "age": 35,
+      "value": 15120000
+    },
+    {
+      "name": "Elijah Nakajima",
+      "position": "MF",
+      "rating": 82,
+      "age": 31,
+      "value": 23823157
+    },
+    {
+      "name": "Theodore Simmons",
+      "position": "MF",
+      "rating": 90,
+      "age": 24,
+      "value": 34105263
+    },
+    {
+      "name": "Kwame Hoover",
       "position": "FW",
-      "rating": 83,
-      "age": 18,
+      "rating": 60,
+      "age": 22,
+      "value": 30315789
+    },
+    {
+      "name": "Paul Henderson",
+      "position": "FW",
+      "rating": 84,
+      "age": 27,
+      "value": 35810526
+    },
+    {
+      "name": "Jackson Morgan",
+      "position": "FW",
+      "rating": 77,
+      "age": 16,
       "value": 40000000
     },
     {
-      "name": "Cody Dur\u00e1n",
+      "name": "Dorian Henderson",
       "position": "FW",
-      "rating": 82,
-      "age": 29,
-      "value": 32368421
+      "rating": 84,
+      "age": 35,
+      "value": 25200000
     },
     {
-      "name": "Juan Gonzalez",
+      "name": "Reid James",
       "position": "FW",
-      "rating": 79,
-      "age": 34,
-      "value": 24947368
+      "rating": 60,
+      "age": 21,
+      "value": 31263157
     }
   ],
   "stadium": {

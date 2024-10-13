@@ -2,144 +2,144 @@
   "name": "Arsenal",
   "squad": [
     {
-      "name": "Will Cohen",
+      "name": "Ezra Yamamoto",
       "position": "GK",
-      "rating": 85,
-      "age": 30,
-      "value": 17178947
-    },
-    {
-      "name": "Colin Rom\u00e1n",
-      "position": "GK",
-      "rating": 72,
-      "age": 34,
-      "value": 12126315
-    },
-    {
-      "name": "Pablo Franklin",
-      "position": "GK",
-      "rating": 90,
-      "age": 16,
-      "value": 28800000
-    },
-    {
-      "name": "Damien Campbell",
-      "position": "DF",
-      "rating": 81,
-      "age": 24,
-      "value": 25578947
-    },
-    {
-      "name": "Dashiell Mcdonald",
-      "position": "DF",
-      "rating": 85,
-      "age": 19,
-      "value": 31315789
-    },
-    {
-      "name": "Joel Ramadhan",
-      "position": "DF",
-      "rating": 89,
-      "age": 19,
-      "value": 32789473
-    },
-    {
-      "name": "Pablo Reid",
-      "position": "DF",
       "rating": 64,
-      "age": 21,
-      "value": 22231578
-    },
-    {
-      "name": "Zion Freeman",
-      "position": "DF",
-      "rating": 79,
       "age": 35,
-      "value": 15800000
+      "value": 10240000
     },
     {
-      "name": "Damon Hicks",
-      "position": "DF",
-      "rating": 65,
-      "age": 16,
-      "value": 26000000
-    },
-    {
-      "name": "Rune Rao",
-      "position": "MF",
-      "rating": 62,
-      "age": 29,
-      "value": 19578947
-    },
-    {
-      "name": "Min-jun Butler",
-      "position": "MF",
-      "rating": 72,
-      "age": 24,
-      "value": 27284210
-    },
-    {
-      "name": "Patrick Patel",
-      "position": "MF",
+      "name": "Hank Adams",
+      "position": "GK",
       "rating": 90,
-      "age": 18,
-      "value": 40000000
-    },
-    {
-      "name": "Elliot Hernandez",
-      "position": "MF",
-      "rating": 87,
-      "age": 23,
-      "value": 34067368
-    },
-    {
-      "name": "Jonah Hassan",
-      "position": "MF",
-      "rating": 78,
-      "age": 22,
-      "value": 31528421
-    },
-    {
-      "name": "Nicolas James",
-      "position": "MF",
-      "rating": 64,
-      "age": 24,
-      "value": 24252631
-    },
-    {
-      "name": "Sven Wood",
-      "position": "FW",
-      "rating": 77,
       "age": 21,
-      "value": 40000000
+      "value": 25010526
     },
     {
-      "name": "Clinton Wood",
-      "position": "FW",
-      "rating": 74,
+      "name": "Renato Nelson",
+      "position": "GK",
+      "rating": 86,
+      "age": 24,
+      "value": 21726315
+    },
+    {
+      "name": "Hugo Bailey",
+      "position": "DF",
+      "rating": 61,
+      "age": 31,
+      "value": 14768421
+    },
+    {
+      "name": "Anthony \u00c5kesson",
+      "position": "DF",
+      "rating": 83,
+      "age": 18,
+      "value": 31452631
+    },
+    {
+      "name": "Jaden Spencer",
+      "position": "DF",
+      "rating": 84,
+      "age": 21,
+      "value": 29178947
+    },
+    {
+      "name": "Aaron Little",
+      "position": "DF",
+      "rating": 84,
+      "age": 26,
+      "value": 24757894
+    },
+    {
+      "name": "Ping West",
+      "position": "DF",
+      "rating": 87,
+      "age": 26,
+      "value": 25642105
+    },
+    {
+      "name": "Andy Sj\u00f6berg",
+      "position": "DF",
+      "rating": 61,
+      "age": 17,
+      "value": 23757894
+    },
+    {
+      "name": "Shin Olofsson",
+      "position": "MF",
+      "rating": 81,
+      "age": 34,
+      "value": 20463157
+    },
+    {
+      "name": "Austin Young",
+      "position": "MF",
+      "rating": 89,
       "age": 17,
       "value": 40000000
     },
     {
-      "name": "Justin Venter",
-      "position": "FW",
-      "rating": 64,
-      "age": 18,
-      "value": 36378947
+      "name": "Jeremy Parker",
+      "position": "MF",
+      "rating": 62,
+      "age": 33,
+      "value": 16446315
     },
     {
-      "name": "Adeyemi Svensson",
+      "name": "Marlon Long",
+      "position": "MF",
+      "rating": 76,
+      "age": 35,
+      "value": 18240000
+    },
+    {
+      "name": "Preston Griffin",
+      "position": "MF",
+      "rating": 83,
+      "age": 23,
+      "value": 32501052
+    },
+    {
+      "name": "Beau Long",
+      "position": "MF",
+      "rating": 83,
+      "age": 33,
+      "value": 22016842
+    },
+    {
+      "name": "Nicholas Lund",
       "position": "FW",
-      "rating": 81,
+      "rating": 84,
+      "age": 19,
+      "value": 40000000
+    },
+    {
+      "name": "Maximiliano Woods",
+      "position": "FW",
+      "rating": 75,
+      "age": 35,
+      "value": 22500000
+    },
+    {
+      "name": "Gage Thomsen",
+      "position": "FW",
+      "rating": 80,
       "age": 18,
       "value": 40000000
     },
     {
-      "name": "Adel Baker",
+      "name": "Jacob Benson",
       "position": "FW",
-      "rating": 73,
-      "age": 18,
-      "value": 40000000
+      "rating": 62,
+      "age": 29,
+      "value": 24473684
+    },
+    {
+      "name": "Amir Valencia",
+      "position": "FW",
+      "rating": 83,
+      "age": 30,
+      "value": 31452631
     }
   ],
   "stadium": {

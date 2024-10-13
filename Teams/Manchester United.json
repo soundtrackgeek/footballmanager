@@ -2,144 +2,144 @@
   "name": "Manchester United",
   "squad": [
     {
-      "name": "Rene Morrison",
-      "position": "GK",
-      "rating": 69,
-      "age": 31,
-      "value": 13364210
-    },
-    {
-      "name": "Dominic Bowman",
+      "name": "Heath J\u00f8rgensen",
       "position": "GK",
       "rating": 85,
-      "age": 26,
-      "value": 20042105
-    },
-    {
-      "name": "Patrick Butler",
-      "position": "GK",
-      "rating": 79,
-      "age": 22,
-      "value": 21288421
-    },
-    {
-      "name": "Anton Ferguson",
-      "position": "DF",
-      "rating": 73,
       "age": 28,
-      "value": 19978947
+      "value": 18610526
     },
     {
-      "name": "Jengo Flores",
-      "position": "DF",
-      "rating": 85,
-      "age": 29,
-      "value": 22368421
+      "name": "Zayden Hunt",
+      "position": "GK",
+      "rating": 65,
+      "age": 33,
+      "value": 11494736
     },
     {
-      "name": "Erik Sharp",
-      "position": "DF",
-      "rating": 90,
+      "name": "Alonso Palmer",
+      "position": "GK",
+      "rating": 78,
       "age": 19,
-      "value": 33157894
+      "value": 22989473
     },
     {
-      "name": "Cecil Hansen",
+      "name": "Adrian Morgan",
       "position": "DF",
-      "rating": 84,
+      "rating": 76,
       "age": 24,
-      "value": 26526315
+      "value": 24000000
     },
     {
-      "name": "Austin Patel",
+      "name": "Tumelo Fisher",
       "position": "DF",
-      "rating": 68,
-      "age": 17,
-      "value": 26484210
+      "rating": 75,
+      "age": 33,
+      "value": 16578947
     },
     {
-      "name": "Nehemiah Grimes",
+      "name": "Nathan Black",
       "position": "DF",
-      "rating": 89,
-      "age": 35,
-      "value": 17800000
+      "rating": 60,
+      "age": 24,
+      "value": 18947368
     },
     {
-      "name": "Rene Alvarez",
+      "name": "Ross Verma",
+      "position": "DF",
+      "rating": 71,
+      "age": 26,
+      "value": 20926315
+    },
+    {
+      "name": "Ruben Ramsey",
+      "position": "DF",
+      "rating": 60,
+      "age": 32,
+      "value": 13894736
+    },
+    {
+      "name": "Shin Huang",
+      "position": "DF",
+      "rating": 76,
+      "age": 33,
+      "value": 16799999
+    },
+    {
+      "name": "Reed Hunt",
       "position": "MF",
       "rating": 83,
-      "age": 26,
-      "value": 29355789
+      "age": 23,
+      "value": 32501052
     },
     {
-      "name": "Nikhil Reed",
+      "name": "Travis Peterson",
       "position": "MF",
-      "rating": 90,
-      "age": 18,
-      "value": 40000000
-    },
-    {
-      "name": "Jae Hayes",
-      "position": "MF",
-      "rating": 89,
-      "age": 17,
-      "value": 40000000
-    },
-    {
-      "name": "Cael Franklin",
-      "position": "MF",
-      "rating": 77,
-      "age": 34,
-      "value": 19452631
-    },
-    {
-      "name": "Dominic Spencer",
-      "position": "MF",
-      "rating": 66,
-      "age": 22,
-      "value": 26677894
-    },
-    {
-      "name": "Kwame Alvarez",
-      "position": "MF",
-      "rating": 60,
-      "age": 16,
-      "value": 28800000
-    },
-    {
-      "name": "Alejandro Marin",
-      "position": "FW",
-      "rating": 90,
-      "age": 34,
-      "value": 28421052
-    },
-    {
-      "name": "Owen Brooks",
-      "position": "FW",
-      "rating": 67,
-      "age": 28,
-      "value": 27505263
-    },
-    {
-      "name": "Andy James",
-      "position": "FW",
       "rating": 68,
-      "age": 25,
-      "value": 31136842
+      "age": 29,
+      "value": 21473684
     },
     {
-      "name": "Leo Burke",
-      "position": "FW",
-      "rating": 85,
+      "name": "Lamine Griffin",
+      "position": "MF",
+      "rating": 87,
       "age": 19,
+      "value": 38463157
+    },
+    {
+      "name": "Rogelio Franks",
+      "position": "MF",
+      "rating": 63,
+      "age": 34,
+      "value": 15915789
+    },
+    {
+      "name": "Jelani Westerlund",
+      "position": "MF",
+      "rating": 74,
+      "age": 33,
+      "value": 19629473
+    },
+    {
+      "name": "Albert Joshi",
+      "position": "MF",
+      "rating": 84,
+      "age": 17,
+      "value": 39258947
+    },
+    {
+      "name": "Sven Hart",
+      "position": "FW",
+      "rating": 61,
+      "age": 24,
+      "value": 28894736
+    },
+    {
+      "name": "Obi Bergstrom",
+      "position": "FW",
+      "rating": 79,
+      "age": 20,
       "value": 40000000
     },
     {
-      "name": "Johan Sandberg",
+      "name": "Spencer Morgan",
       "position": "FW",
-      "rating": 74,
-      "age": 22,
-      "value": 37389473
+      "rating": 60,
+      "age": 21,
+      "value": 31263157
+    },
+    {
+      "name": "Bo Hunt",
+      "position": "FW",
+      "rating": 76,
+      "age": 34,
+      "value": 24000000
+    },
+    {
+      "name": "Terry Kabiru",
+      "position": "FW",
+      "rating": 71,
+      "age": 29,
+      "value": 28026315
     }
   ],
   "stadium": {

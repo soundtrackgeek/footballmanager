@@ -2,144 +2,144 @@
   "name": "Nottingham Forest",
   "squad": [
     {
-      "name": "Brayden Cox",
+      "name": "Troy Hadj",
       "position": "GK",
-      "rating": 73,
-      "age": 35,
-      "value": 11680000
-    },
-    {
-      "name": "Pablo Venter",
-      "position": "GK",
-      "rating": 82,
-      "age": 32,
-      "value": 15191578
-    },
-    {
-      "name": "Karl Cunningham",
-      "position": "GK",
-      "rating": 77,
-      "age": 19,
-      "value": 22694736
-    },
-    {
-      "name": "Adekunle Webster",
-      "position": "DF",
       "rating": 72,
-      "age": 23,
+      "age": 21,
+      "value": 20008421
+    },
+    {
+      "name": "Clark Moore",
+      "position": "GK",
+      "rating": 90,
+      "age": 19,
+      "value": 26526315
+    },
+    {
+      "name": "Ram\u00f3n Bates",
+      "position": "GK",
+      "rating": 88,
+      "age": 31,
+      "value": 17044210
+    },
+    {
+      "name": "Pablo Scott",
+      "position": "DF",
+      "rating": 79,
+      "age": 25,
+      "value": 24115789
+    },
+    {
+      "name": "Ulises Nielsen",
+      "position": "DF",
+      "rating": 80,
+      "age": 28,
+      "value": 21894736
+    },
+    {
+      "name": "Bernard Bergstrom",
+      "position": "DF",
+      "rating": 61,
+      "age": 34,
+      "value": 12842105
+    },
+    {
+      "name": "Nicholas Ramirez",
+      "position": "DF",
+      "rating": 71,
+      "age": 19,
+      "value": 26157894
+    },
+    {
+      "name": "George Navarro",
+      "position": "DF",
+      "rating": 83,
+      "age": 34,
+      "value": 17473684
+    },
+    {
+      "name": "Sebastian Marshall",
+      "position": "DF",
+      "rating": 77,
+      "age": 24,
+      "value": 24315789
+    },
+    {
+      "name": "Glen Dom\u00ednguez",
+      "position": "MF",
+      "rating": 79,
+      "age": 28,
+      "value": 25945263
+    },
+    {
+      "name": "Ken West",
+      "position": "MF",
+      "rating": 78,
+      "age": 25,
+      "value": 28572631
+    },
+    {
+      "name": "Lamine Thomas",
+      "position": "MF",
+      "rating": 83,
+      "age": 21,
+      "value": 34597894
+    },
+    {
+      "name": "Roland Cox",
+      "position": "MF",
+      "rating": 62,
+      "age": 24,
       "value": 23494736
     },
     {
-      "name": "Sam Phillips",
-      "position": "DF",
-      "rating": 73,
+      "name": "Ken Hicks",
+      "position": "MF",
+      "rating": 76,
       "age": 27,
-      "value": 20747368
+      "value": 25920000
     },
     {
-      "name": "Anthony Smith",
-      "position": "DF",
-      "rating": 90,
-      "age": 29,
-      "value": 23684210
-    },
-    {
-      "name": "Kenji Reddy",
-      "position": "DF",
-      "rating": 70,
-      "age": 25,
-      "value": 21368421
-    },
-    {
-      "name": "Troy Ulfsson",
-      "position": "DF",
-      "rating": 86,
-      "age": 24,
-      "value": 27157894
-    },
-    {
-      "name": "Jason Moore",
-      "position": "DF",
-      "rating": 75,
-      "age": 22,
-      "value": 25263157
-    },
-    {
-      "name": "Bobby James",
-      "position": "MF",
-      "rating": 65,
-      "age": 28,
-      "value": 21347368
-    },
-    {
-      "name": "Duncan Rivera",
-      "position": "MF",
-      "rating": 81,
-      "age": 17,
-      "value": 37856842
-    },
-    {
-      "name": "Soren Stone",
-      "position": "MF",
-      "rating": 72,
-      "age": 30,
-      "value": 21827368
-    },
-    {
-      "name": "Jayden Abebe",
-      "position": "MF",
-      "rating": 77,
-      "age": 32,
-      "value": 21397894
-    },
-    {
-      "name": "Gabriel Butler",
+      "name": "Zayden Kim",
       "position": "MF",
       "rating": 88,
-      "age": 32,
-      "value": 24454736
+      "age": 34,
+      "value": 22231578
     },
     {
-      "name": "Asher Bryant",
-      "position": "MF",
-      "rating": 66,
+      "name": "Kenta Henderson",
+      "position": "FW",
+      "rating": 86,
       "age": 21,
-      "value": 27511578
-    },
-    {
-      "name": "Kyle Thomas",
-      "position": "FW",
-      "rating": 64,
-      "age": 28,
-      "value": 26273684
-    },
-    {
-      "name": "Rory Butler",
-      "position": "FW",
-      "rating": 82,
-      "age": 18,
       "value": 40000000
     },
     {
-      "name": "Carlos Mason",
+      "name": "Cory Murray",
       "position": "FW",
-      "rating": 62,
-      "age": 18,
-      "value": 35242105
+      "rating": 60,
+      "age": 21,
+      "value": 31263157
     },
     {
-      "name": "Taylor Bennett",
+      "name": "Desmond Watanabe",
       "position": "FW",
-      "rating": 87,
-      "age": 33,
-      "value": 28847368
-    },
-    {
-      "name": "Spencer Morgan",
-      "position": "FW",
-      "rating": 89,
-      "age": 24,
+      "rating": 78,
+      "age": 20,
       "value": 40000000
+    },
+    {
+      "name": "Daichi Hicks",
+      "position": "FW",
+      "rating": 73,
+      "age": 34,
+      "value": 23052631
+    },
+    {
+      "name": "Ignacio Morgan",
+      "position": "FW",
+      "rating": 65,
+      "age": 30,
+      "value": 24631578
     }
   ],
   "stadium": {

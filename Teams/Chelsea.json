@@ -2,144 +2,144 @@
   "name": "Chelsea",
   "squad": [
     {
-      "name": "Julian Nilsen",
+      "name": "Kayden Lee",
       "position": "GK",
-      "rating": 83,
-      "age": 28,
-      "value": 18172631
-    },
-    {
-      "name": "Thomas Bowman",
-      "position": "GK",
-      "rating": 60,
+      "rating": 65,
       "age": 27,
-      "value": 13642105
+      "value": 14778947
     },
     {
-      "name": "Rakesh Morris",
+      "name": "Lamine Lee",
       "position": "GK",
-      "rating": 80,
-      "age": 27,
-      "value": 18189473
-    },
-    {
-      "name": "Nnamdi Burke",
-      "position": "DF",
-      "rating": 77,
-      "age": 31,
-      "value": 18642105
-    },
-    {
-      "name": "John Hicks",
-      "position": "DF",
-      "rating": 74,
-      "age": 21,
-      "value": 25705263
-    },
-    {
-      "name": "Carl Seo",
-      "position": "DF",
-      "rating": 63,
-      "age": 18,
-      "value": 23873684
-    },
-    {
-      "name": "Jae Bell",
-      "position": "DF",
-      "rating": 63,
-      "age": 30,
-      "value": 15915789
-    },
-    {
-      "name": "Duncan Choi",
-      "position": "DF",
-      "rating": 89,
-      "age": 17,
-      "value": 34663157
-    },
-    {
-      "name": "Diego Morales",
-      "position": "DF",
-      "rating": 62,
-      "age": 32,
-      "value": 14357894
-    },
-    {
-      "name": "Yuki Silva",
-      "position": "MF",
-      "rating": 70,
+      "rating": 69,
       "age": 19,
-      "value": 30947368
+      "value": 20336842
     },
     {
-      "name": "Marcus Iyer",
-      "position": "MF",
-      "rating": 63,
+      "name": "Harley Mendoza",
+      "position": "GK",
+      "rating": 66,
+      "age": 25,
+      "value": 16117894
+    },
+    {
+      "name": "Chase Woods",
+      "position": "DF",
+      "rating": 81,
+      "age": 21,
+      "value": 28136842
+    },
+    {
+      "name": "Rowan Edwards",
+      "position": "DF",
+      "rating": 86,
+      "age": 24,
+      "value": 27157894
+    },
+    {
+      "name": "Jake Jansen",
+      "position": "DF",
+      "rating": 79,
+      "age": 17,
+      "value": 30768421
+    },
+    {
+      "name": "Rory Ito",
+      "position": "DF",
+      "rating": 70,
+      "age": 28,
+      "value": 19157894
+    },
+    {
+      "name": "Santiago Westerlund",
+      "position": "DF",
+      "rating": 66,
       "age": 16,
-      "value": 30240000
+      "value": 26400000
     },
     {
-      "name": "Cecil Washington",
+      "name": "Adan Ramsey",
+      "position": "DF",
+      "rating": 83,
+      "age": 22,
+      "value": 27957894
+    },
+    {
+      "name": "Chike Long",
       "position": "MF",
       "rating": 68,
-      "age": 18,
+      "age": 33,
+      "value": 18037894
+    },
+    {
+      "name": "Kyler Palmer",
+      "position": "MF",
+      "rating": 61,
+      "age": 21,
+      "value": 25427368
+    },
+    {
+      "name": "Finn Mori",
+      "position": "MF",
+      "rating": 82,
+      "age": 22,
+      "value": 33145263
+    },
+    {
+      "name": "Kolby Richards",
+      "position": "MF",
+      "rating": 72,
+      "age": 20,
       "value": 30922105
     },
     {
-      "name": "Ming Palmer",
+      "name": "Damon Berg",
       "position": "MF",
-      "rating": 71,
+      "rating": 67,
       "age": 24,
-      "value": 26905263
+      "value": 25389473
     },
     {
-      "name": "Russell Das",
+      "name": "Jack Richardson",
       "position": "MF",
-      "rating": 60,
-      "age": 25,
-      "value": 21978947
+      "rating": 77,
+      "age": 26,
+      "value": 27233684
     },
     {
-      "name": "Drew Knox",
-      "position": "MF",
-      "rating": 90,
-      "age": 34,
-      "value": 22736842
-    },
-    {
-      "name": "Dakota Ramos",
+      "name": "Ismael Morris",
       "position": "FW",
-      "rating": 82,
+      "rating": 73,
+      "age": 26,
+      "value": 32273684
+    },
+    {
+      "name": "Raymond Mitchell",
+      "position": "FW",
+      "rating": 90,
+      "age": 28,
+      "value": 36947368
+    },
+    {
+      "name": "Christian Martinez",
+      "position": "FW",
+      "rating": 81,
       "age": 16,
       "value": 40000000
     },
     {
-      "name": "Duncan Wood",
+      "name": "Christopher Howard",
       "position": "FW",
-      "rating": 75,
-      "age": 25,
-      "value": 34342105
-    },
-    {
-      "name": "Chike Cook",
-      "position": "FW",
-      "rating": 70,
-      "age": 28,
-      "value": 28736842
-    },
-    {
-      "name": "Kody Han",
-      "position": "FW",
-      "rating": 62,
-      "age": 18,
-      "value": 35242105
-    },
-    {
-      "name": "Chidi Manning",
-      "position": "FW",
-      "rating": 60,
-      "age": 25,
+      "rating": 87,
+      "age": 34,
       "value": 27473684
+    },
+    {
+      "name": "Chad Wright",
+      "position": "FW",
+      "rating": 69,
+      "age": 27,
+      "value": 29415789
     }
   ],
   "stadium": {

@@ -2,144 +2,144 @@
   "name": "Aston Villa",
   "squad": [
     {
-      "name": "Kamau Hayes",
+      "name": "Paige Sharma",
       "position": "GK",
+      "rating": 64,
+      "age": 20,
+      "value": 18324210
+    },
+    {
+      "name": "Danny Holt",
+      "position": "GK",
+      "rating": 72,
+      "age": 24,
+      "value": 18189473
+    },
+    {
+      "name": "Ezra Oliver",
+      "position": "GK",
+      "rating": 74,
+      "age": 19,
+      "value": 21810526
+    },
+    {
+      "name": "Bryce Wheeler",
+      "position": "DF",
+      "rating": 64,
+      "age": 30,
+      "value": 16168421
+    },
+    {
+      "name": "Kaito Adams",
+      "position": "DF",
+      "rating": 76,
+      "age": 35,
+      "value": 15200000
+    },
+    {
+      "name": "Cyrus Stone",
+      "position": "DF",
       "rating": 90,
+      "age": 20,
+      "value": 32210526
+    },
+    {
+      "name": "Kelly Butler",
+      "position": "DF",
+      "rating": 83,
+      "age": 27,
+      "value": 23589473
+    },
+    {
+      "name": "Anders Henderson",
+      "position": "DF",
+      "rating": 65,
+      "age": 16,
+      "value": 26000000
+    },
+    {
+      "name": "Ezequiel Navarro",
+      "position": "DF",
+      "rating": 72,
       "age": 18,
       "value": 27284210
     },
     {
-      "name": "Gunnar Franco",
-      "position": "GK",
-      "rating": 69,
-      "age": 31,
-      "value": 13364210
+      "name": "Harry Benson",
+      "position": "MF",
+      "rating": 65,
+      "age": 23,
+      "value": 25452631
     },
     {
-      "name": "Vance Jordan",
-      "position": "GK",
+      "name": "Reese Stewart",
+      "position": "MF",
+      "rating": 60,
+      "age": 29,
+      "value": 18947368
+    },
+    {
+      "name": "Alonso Wallace",
+      "position": "MF",
+      "rating": 78,
+      "age": 28,
+      "value": 25616842
+    },
+    {
+      "name": "Taylor Marshall",
+      "position": "MF",
+      "rating": 63,
+      "age": 29,
+      "value": 19894736
+    },
+    {
+      "name": "Fredrik Mendoza",
+      "position": "MF",
+      "rating": 90,
+      "age": 18,
+      "value": 40000000
+    },
+    {
+      "name": "Terry Scott",
+      "position": "MF",
       "rating": 65,
       "age": 29,
-      "value": 13684210
-    },
-    {
-      "name": "Glen Hart",
-      "position": "DF",
-      "rating": 82,
-      "age": 18,
-      "value": 31073684
-    },
-    {
-      "name": "Alex Tanaka",
-      "position": "DF",
-      "rating": 65,
-      "age": 24,
       "value": 20526315
     },
     {
-      "name": "Mitchell Parker",
-      "position": "DF",
-      "rating": 68,
-      "age": 32,
-      "value": 15747368
-    },
-    {
-      "name": "Anil Bryan",
-      "position": "DF",
-      "rating": 81,
-      "age": 21,
-      "value": 28136842
-    },
-    {
-      "name": "Russell Jenkins",
-      "position": "DF",
-      "rating": 79,
-      "age": 35,
-      "value": 15800000
-    },
-    {
-      "name": "William Stokes",
-      "position": "DF",
-      "rating": 64,
-      "age": 21,
-      "value": 22231578
-    },
-    {
-      "name": "Conor Sj\u00f6berg",
-      "position": "MF",
-      "rating": 89,
-      "age": 29,
-      "value": 28105263
-    },
-    {
-      "name": "Benjam\u00edn Reyes",
-      "position": "MF",
-      "rating": 83,
-      "age": 24,
-      "value": 31452631
-    },
-    {
-      "name": "Javier Simmons",
-      "position": "MF",
-      "rating": 64,
-      "age": 30,
-      "value": 19402105
-    },
-    {
-      "name": "Ming Lambert",
-      "position": "MF",
-      "rating": 88,
-      "age": 34,
-      "value": 22231578
-    },
-    {
-      "name": "Ezra Murray",
-      "position": "MF",
+      "name": "Bart Nelson",
+      "position": "FW",
       "rating": 61,
-      "age": 32,
-      "value": 16951578
+      "age": 29,
+      "value": 24078947
     },
     {
-      "name": "Jelani Martinez",
-      "position": "MF",
-      "rating": 87,
-      "age": 35,
-      "value": 20880000
-    },
-    {
-      "name": "Aedan Fofana",
-      "position": "FW",
-      "rating": 70,
-      "age": 30,
-      "value": 26526315
-    },
-    {
-      "name": "Anders Suzuki",
-      "position": "FW",
-      "rating": 90,
-      "age": 17,
-      "value": 40000000
-    },
-    {
-      "name": "Mason Reid",
+      "name": "Clark Bell",
       "position": "FW",
       "rating": 81,
-      "age": 22,
-      "value": 40000000
+      "age": 29,
+      "value": 31973684
     },
     {
-      "name": "Aiden Berry",
+      "name": "Daryl Lambert",
       "position": "FW",
-      "rating": 87,
-      "age": 28,
-      "value": 35715789
+      "rating": 78,
+      "age": 24,
+      "value": 36947368
     },
     {
-      "name": "Jos\u00e9 Lund",
+      "name": "Jerome West",
       "position": "FW",
       "rating": 73,
-      "age": 24,
-      "value": 34578947
+      "age": 33,
+      "value": 24205263
+    },
+    {
+      "name": "Renato Russell",
+      "position": "FW",
+      "rating": 65,
+      "age": 34,
+      "value": 20526315
     }
   ],
   "stadium": {

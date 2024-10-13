@@ -2,144 +2,144 @@
   "name": "Burnley",
   "squad": [
     {
-      "name": "Mason Long",
+      "name": "Johan Moore",
       "position": "GK",
-      "rating": 77,
-      "age": 31,
-      "value": 14913684
+      "rating": 81,
+      "age": 34,
+      "value": 13642105
     },
     {
-      "name": "Bao Grant",
+      "name": "Ricardo French",
       "position": "GK",
-      "rating": 71,
-      "age": 22,
-      "value": 19132631
+      "rating": 65,
+      "age": 28,
+      "value": 14231578
     },
     {
-      "name": "Obi Jansen",
+      "name": "Marcos Whitaker",
       "position": "GK",
       "rating": 68,
-      "age": 21,
-      "value": 18896842
+      "age": 16,
+      "value": 21760000
     },
     {
-      "name": "Emil Day",
+      "name": "Adel Hughes",
+      "position": "DF",
+      "rating": 78,
+      "age": 24,
+      "value": 24631578
+    },
+    {
+      "name": "Weston Garc\u00eda",
+      "position": "DF",
+      "rating": 72,
+      "age": 32,
+      "value": 16673684
+    },
+    {
+      "name": "Erik Grant",
       "position": "DF",
       "rating": 69,
-      "age": 29,
-      "value": 18157894
+      "age": 19,
+      "value": 25421052
     },
     {
-      "name": "Luis Clark",
+      "name": "Izaiah Njoroge",
       "position": "DF",
-      "rating": 81,
-      "age": 35,
-      "value": 16200000
+      "rating": 65,
+      "age": 27,
+      "value": 18473684
     },
     {
-      "name": "Dakota Patel",
+      "name": "Shin Olson",
       "position": "DF",
-      "rating": 67,
-      "age": 29,
-      "value": 17631578
+      "rating": 65,
+      "age": 16,
+      "value": 26000000
     },
     {
-      "name": "Randy Meadows",
+      "name": "Brooks Collins",
       "position": "DF",
-      "rating": 70,
-      "age": 17,
-      "value": 27263157
+      "rating": 61,
+      "age": 21,
+      "value": 21189473
     },
     {
-      "name": "Amari Rasmussen",
-      "position": "DF",
-      "rating": 68,
-      "age": 24,
-      "value": 21473684
-    },
-    {
-      "name": "Lucas Akinyele",
-      "position": "DF",
-      "rating": 87,
-      "age": 33,
-      "value": 19231578
-    },
-    {
-      "name": "Noel West",
-      "position": "MF",
-      "rating": 80,
-      "age": 18,
-      "value": 36378947
-    },
-    {
-      "name": "Alvin Rivera",
-      "position": "MF",
-      "rating": 78,
-      "age": 35,
-      "value": 18720000
-    },
-    {
-      "name": "Taylor Baker",
-      "position": "MF",
-      "rating": 79,
-      "age": 31,
-      "value": 22951578
-    },
-    {
-      "name": "Simon Phillips",
+      "name": "Ricardo Powell",
       "position": "MF",
       "rating": 90,
       "age": 30,
       "value": 27284210
     },
     {
-      "name": "Carlos Ortiz",
+      "name": "Preston Woods",
+      "position": "MF",
+      "rating": 89,
+      "age": 32,
+      "value": 24732631
+    },
+    {
+      "name": "Yuto Bryant",
+      "position": "MF",
+      "rating": 90,
+      "age": 26,
+      "value": 31831578
+    },
+    {
+      "name": "Desmond Bryant",
+      "position": "MF",
+      "rating": 70,
+      "age": 28,
+      "value": 22989473
+    },
+    {
+      "name": "Hugo Norberg",
       "position": "MF",
       "rating": 86,
-      "age": 28,
-      "value": 28244210
-    },
-    {
-      "name": "Wei-Lun Cunningham",
-      "position": "MF",
-      "rating": 60,
-      "age": 24,
-      "value": 22736842
-    },
-    {
-      "name": "Conor Henry",
-      "position": "FW",
-      "rating": 64,
       "age": 30,
-      "value": 24252631
+      "value": 26071578
     },
     {
-      "name": "Marc Bennett",
+      "name": "Mathew Patterson",
+      "position": "MF",
+      "rating": 66,
+      "age": 19,
+      "value": 29178947
+    },
+    {
+      "name": "Wei-Lun Higgins",
       "position": "FW",
-      "rating": 78,
-      "age": 35,
-      "value": 23400000
+      "rating": 84,
+      "age": 19,
+      "value": 40000000
     },
     {
-      "name": "Yuto Knox",
-      "position": "FW",
-      "rating": 69,
-      "age": 25,
-      "value": 31594736
-    },
-    {
-      "name": "Larry Murphy",
-      "position": "FW",
-      "rating": 72,
-      "age": 28,
-      "value": 29557894
-    },
-    {
-      "name": "Kato Mikkelsen",
+      "name": "Wilson Day",
       "position": "FW",
       "rating": 89,
-      "age": 28,
-      "value": 36536842
+      "age": 21,
+      "value": 40000000
+    },
+    {
+      "name": "Steve Henry",
+      "position": "FW",
+      "rating": 70,
+      "age": 29,
+      "value": 27631578
+    },
+    {
+      "name": "Alfonso Marsh",
+      "position": "FW",
+      "rating": 80,
+      "age": 32,
+      "value": 27789473
+    },
+    {
+      "name": "Barack Hayes",
+      "position": "FW",
+      "rating": 80,
+      "age": 32,
+      "value": 27789473
     }
   ],
   "stadium": {

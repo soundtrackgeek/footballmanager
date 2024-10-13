@@ -2,143 +2,143 @@
   "name": "Everton",
   "squad": [
     {
-      "name": "Lyle Holt",
+      "name": "Allan Bailey",
       "position": "GK",
-      "rating": 89,
-      "age": 34,
-      "value": 14989473
-    },
-    {
-      "name": "Keith Reyes",
-      "position": "GK",
-      "rating": 66,
-      "age": 29,
-      "value": 13894736
-    },
-    {
-      "name": "Hugo Cruz",
-      "position": "GK",
-      "rating": 67,
-      "age": 34,
-      "value": 11284210
-    },
-    {
-      "name": "Ryan Marshall",
-      "position": "DF",
       "rating": 68,
-      "age": 19,
-      "value": 25052631
+      "age": 23,
+      "value": 17751578
     },
     {
-      "name": "Austin James",
-      "position": "DF",
+      "name": "Kingston Jacobsen",
+      "position": "GK",
       "rating": 80,
-      "age": 21,
-      "value": 27789473
+      "age": 24,
+      "value": 20210526
     },
     {
-      "name": "Harold Campbell",
-      "position": "DF",
-      "rating": 85,
-      "age": 28,
-      "value": 23263157
-    },
-    {
-      "name": "Daniel Burke",
-      "position": "DF",
-      "rating": 72,
+      "name": "Kofi Watkins",
+      "position": "GK",
+      "rating": 61,
       "age": 35,
-      "value": 14400000
+      "value": 9760000
     },
     {
-      "name": "Albert Xolani",
-      "position": "DF",
-      "rating": 74,
-      "age": 33,
-      "value": 16357894
-    },
-    {
-      "name": "Kyler Vega",
+      "name": "Zuberi Fernandes",
       "position": "DF",
       "rating": 86,
-      "age": 30,
-      "value": 21726315
+      "age": 18,
+      "value": 32589473
     },
     {
-      "name": "Elias Jimenez",
+      "name": "Tristan Holmberg",
+      "position": "DF",
+      "rating": 83,
+      "age": 20,
+      "value": 29705263
+    },
+    {
+      "name": "Warren Navarro",
+      "position": "DF",
+      "rating": 83,
+      "age": 27,
+      "value": 23589473
+    },
+    {
+      "name": "Danny Farmer",
+      "position": "DF",
+      "rating": 90,
+      "age": 16,
+      "value": 36000000
+    },
+    {
+      "name": "Jelani Das",
+      "position": "DF",
+      "rating": 79,
+      "age": 22,
+      "value": 26610526
+    },
+    {
+      "name": "Ji-hoon Xu",
+      "position": "DF",
+      "rating": 69,
+      "age": 33,
+      "value": 15252631
+    },
+    {
+      "name": "Barry Barnett",
       "position": "MF",
-      "rating": 61,
-      "age": 19,
-      "value": 26968421
+      "rating": 68,
+      "age": 20,
+      "value": 29204210
     },
     {
-      "name": "Tobias Ortiz",
+      "name": "Gunnar Owens",
+      "position": "MF",
+      "rating": 62,
+      "age": 24,
+      "value": 23494736
+    },
+    {
+      "name": "Liang Hill",
+      "position": "MF",
+      "rating": 70,
+      "age": 35,
+      "value": 16800000
+    },
+    {
+      "name": "Joshua Jackson",
       "position": "MF",
       "rating": 78,
-      "age": 33,
-      "value": 20690526
+      "age": 25,
+      "value": 28572631
     },
     {
-      "name": "Alvin Green",
+      "name": "Reuben Larsen",
       "position": "MF",
-      "rating": 70,
-      "age": 17,
-      "value": 32715789
+      "rating": 68,
+      "age": 31,
+      "value": 19755789
     },
     {
-      "name": "Lamine Thomsen",
+      "name": "Ayden Hughes",
       "position": "MF",
-      "rating": 70,
-      "age": 26,
-      "value": 24757894
-    },
-    {
-      "name": "Milton Shaw",
-      "position": "MF",
-      "rating": 75,
-      "age": 23,
-      "value": 29368421
-    },
-    {
-      "name": "Benjamin Bryan",
-      "position": "MF",
-      "rating": 88,
-      "age": 26,
-      "value": 31124210
-    },
-    {
-      "name": "Jeremiah Owens",
-      "position": "FW",
-      "rating": 85,
+      "rating": 89,
       "age": 20,
+      "value": 38223157
+    },
+    {
+      "name": "Dakota Choi",
+      "position": "FW",
+      "rating": 77,
+      "age": 17,
       "value": 40000000
     },
     {
-      "name": "Suraj Rao",
-      "position": "FW",
-      "rating": 67,
-      "age": 28,
-      "value": 27505263
-    },
-    {
-      "name": "Orlando Palmer",
-      "position": "FW",
-      "rating": 71,
-      "age": 28,
-      "value": 29147368
-    },
-    {
-      "name": "Vidar Watts",
-      "position": "FW",
-      "rating": 72,
-      "age": 27,
-      "value": 30694736
-    },
-    {
-      "name": "Kameron Xu",
+      "name": "Colin Jimenez",
       "position": "FW",
       "rating": 85,
-      "age": 21,
+      "age": 19,
+      "value": 40000000
+    },
+    {
+      "name": "Amari Dias",
+      "position": "FW",
+      "rating": 62,
+      "age": 26,
+      "value": 27410526
+    },
+    {
+      "name": "Jasper Eriksson",
+      "position": "FW",
+      "rating": 68,
+      "age": 27,
+      "value": 28989473
+    },
+    {
+      "name": "Rogelio Murphy",
+      "position": "FW",
+      "rating": 75,
+      "age": 18,
       "value": 40000000
     }
   ],

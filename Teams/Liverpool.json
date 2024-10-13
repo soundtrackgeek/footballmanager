@@ -2,144 +2,144 @@
   "name": "Liverpool",
   "squad": [
     {
-      "name": "Hector Mitchell",
-      "position": "GK",
-      "rating": 77,
-      "age": 18,
-      "value": 23343157
-    },
-    {
-      "name": "Zola Reyes",
-      "position": "GK",
-      "rating": 67,
-      "age": 34,
-      "value": 11284210
-    },
-    {
-      "name": "William Hughes",
+      "name": "Jett Butler",
       "position": "GK",
       "rating": 71,
-      "age": 23,
-      "value": 18534736
+      "age": 33,
+      "value": 12555789
     },
     {
-      "name": "Javier Olson",
-      "position": "DF",
-      "rating": 66,
+      "name": "Pablo Ramsey",
+      "position": "GK",
+      "rating": 74,
+      "age": 31,
+      "value": 14332631
+    },
+    {
+      "name": "Vishal Reid",
+      "position": "GK",
+      "rating": 82,
       "age": 30,
-      "value": 16673684
+      "value": 16572631
     },
     {
-      "name": "Owen Arnold",
+      "name": "Wei-Lun Fuller",
       "position": "DF",
-      "rating": 80,
-      "age": 35,
-      "value": 16000000
+      "rating": 72,
+      "age": 21,
+      "value": 25010526
     },
     {
-      "name": "Kenneth Hansen",
+      "name": "Barry Hart",
+      "position": "DF",
+      "rating": 71,
+      "age": 20,
+      "value": 25410526
+    },
+    {
+      "name": "Raj Barnett",
+      "position": "DF",
+      "rating": 71,
+      "age": 18,
+      "value": 26905263
+    },
+    {
+      "name": "Tobias Badu",
       "position": "DF",
       "rating": 65,
-      "age": 23,
-      "value": 21210526
-    },
-    {
-      "name": "Oluwafemi Richardson",
-      "position": "DF",
-      "rating": 68,
-      "age": 32,
-      "value": 15747368
-    },
-    {
-      "name": "Ra\u00fal Day",
-      "position": "DF",
-      "rating": 75,
       "age": 18,
-      "value": 28421052
+      "value": 24631578
     },
     {
-      "name": "Noah J\u00f8rgensen",
+      "name": "Stephen Mills",
       "position": "DF",
-      "rating": 81,
-      "age": 18,
-      "value": 30694736
+      "rating": 69,
+      "age": 16,
+      "value": 27600000
     },
     {
-      "name": "Cody Marin",
-      "position": "MF",
-      "rating": 79,
-      "age": 19,
-      "value": 34926315
-    },
-    {
-      "name": "Charles Holland",
-      "position": "MF",
-      "rating": 76,
-      "age": 29,
-      "value": 24000000
-    },
-    {
-      "name": "Suraj Perry",
-      "position": "MF",
-      "rating": 89,
-      "age": 24,
-      "value": 33726315
-    },
-    {
-      "name": "Amir Valencia",
-      "position": "MF",
-      "rating": 63,
-      "age": 35,
-      "value": 15120000
-    },
-    {
-      "name": "Vidar Benson",
-      "position": "MF",
-      "rating": 62,
-      "age": 31,
-      "value": 18012631
-    },
-    {
-      "name": "George Parsons",
-      "position": "MF",
-      "rating": 60,
-      "age": 34,
-      "value": 15157894
-    },
-    {
-      "name": "Aedan Barrios",
-      "position": "FW",
-      "rating": 72,
-      "age": 19,
-      "value": 39789473
-    },
-    {
-      "name": "River Takahashi",
-      "position": "FW",
+      "name": "Matt Hicks",
+      "position": "DF",
       "rating": 77,
-      "age": 18,
+      "age": 20,
+      "value": 27557894
+    },
+    {
+      "name": "Ekon Bradshaw",
+      "position": "MF",
+      "rating": 85,
+      "age": 17,
+      "value": 39726315
+    },
+    {
+      "name": "Charlie Perry",
+      "position": "MF",
+      "rating": 80,
+      "age": 28,
+      "value": 26273684
+    },
+    {
+      "name": "Yusuf Ito",
+      "position": "MF",
+      "rating": 67,
+      "age": 16,
+      "value": 32160000
+    },
+    {
+      "name": "Simon Garza",
+      "position": "MF",
+      "rating": 80,
+      "age": 22,
+      "value": 32336842
+    },
+    {
+      "name": "Malcolm Gonz\u00e1lez",
+      "position": "MF",
+      "rating": 77,
+      "age": 23,
+      "value": 30151578
+    },
+    {
+      "name": "Easton Dean",
+      "position": "MF",
+      "rating": 90,
+      "age": 22,
+      "value": 36378947
+    },
+    {
+      "name": "Angelo Henry",
+      "position": "FW",
+      "rating": 80,
+      "age": 20,
       "value": 40000000
     },
     {
-      "name": "Leo Berg",
+      "name": "Uriah Badu",
       "position": "FW",
-      "rating": 60,
-      "age": 16,
-      "value": 36000000
+      "rating": 61,
+      "age": 31,
+      "value": 22152631
     },
     {
-      "name": "Cecil Butler",
+      "name": "Marcus Hicks",
       "position": "FW",
-      "rating": 80,
-      "age": 32,
-      "value": 27789473
+      "rating": 79,
+      "age": 31,
+      "value": 28689473
     },
     {
-      "name": "Isaac Bell",
+      "name": "Lamine Murphy",
       "position": "FW",
-      "rating": 66,
-      "age": 16,
-      "value": 39600000
+      "rating": 84,
+      "age": 28,
+      "value": 34484210
+    },
+    {
+      "name": "Anthony Fuller",
+      "position": "FW",
+      "rating": 73,
+      "age": 33,
+      "value": 24205263
     }
   ],
   "stadium": {

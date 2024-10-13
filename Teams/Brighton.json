@@ -2,144 +2,144 @@
   "name": "Brighton",
   "squad": [
     {
-      "name": "Joel Delgado",
+      "name": "Andrew Shaw",
+      "position": "GK",
+      "rating": 77,
+      "age": 18,
+      "value": 23343157
+    },
+    {
+      "name": "Barry Allen",
       "position": "GK",
       "rating": 87,
-      "age": 31,
-      "value": 16850526
+      "age": 26,
+      "value": 20513684
     },
     {
-      "name": "Weston Grimes",
+      "name": "Diego Burke",
       "position": "GK",
       "rating": 63,
-      "age": 16,
-      "value": 20160000
+      "age": 29,
+      "value": 13263157
     },
     {
-      "name": "Amani Mann",
-      "position": "GK",
-      "rating": 74,
-      "age": 17,
-      "value": 23056842
+      "name": "Filip Pena",
+      "position": "DF",
+      "rating": 73,
+      "age": 28,
+      "value": 19978947
     },
     {
-      "name": "Tariq Gonzales",
+      "name": "Larry Nguyen",
       "position": "DF",
       "rating": 62,
       "age": 18,
       "value": 23494736
     },
     {
-      "name": "Andres Newman",
+      "name": "Soren Garc\u00eda",
       "position": "DF",
-      "rating": 60,
-      "age": 30,
-      "value": 15157894
-    },
-    {
-      "name": "Isak Rao",
-      "position": "DF",
-      "rating": 76,
+      "rating": 90,
       "age": 26,
-      "value": 22400000
+      "value": 26526315
     },
     {
-      "name": "Leonardo Perez",
+      "name": "Christian Berg",
       "position": "DF",
-      "rating": 72,
+      "rating": 71,
+      "age": 23,
+      "value": 23168421
+    },
+    {
+      "name": "Antonio Yoo",
+      "position": "DF",
+      "rating": 64,
+      "age": 17,
+      "value": 24926315
+    },
+    {
+      "name": "Jayden Barnett",
+      "position": "DF",
+      "rating": 85,
+      "age": 30,
+      "value": 21473684
+    },
+    {
+      "name": "Easton Fuller",
+      "position": "MF",
+      "rating": 60,
       "age": 31,
       "value": 17431578
     },
     {
-      "name": "Derek Ramirez",
-      "position": "DF",
-      "rating": 81,
-      "age": 17,
-      "value": 31547368
-    },
-    {
-      "name": "Brian Gonzales",
-      "position": "DF",
-      "rating": 86,
-      "age": 33,
-      "value": 19010526
-    },
-    {
-      "name": "Ezra Ciss\u00e9",
+      "name": "Raj Franklin",
       "position": "MF",
-      "rating": 68,
-      "age": 19,
+      "rating": 83,
+      "age": 21,
+      "value": 34597894
+    },
+    {
+      "name": "Carlos Brooks",
+      "position": "MF",
+      "rating": 74,
+      "age": 35,
+      "value": 17760000
+    },
+    {
+      "name": "Brock Dean",
+      "position": "MF",
+      "rating": 85,
+      "age": 26,
       "value": 30063157
     },
     {
-      "name": "Jermaine White",
+      "name": "Lamine Carter",
       "position": "MF",
-      "rating": 81,
+      "rating": 87,
       "age": 20,
-      "value": 34787368
+      "value": 37364210
     },
     {
-      "name": "Ravi Day",
+      "name": "Daniel Lee",
       "position": "MF",
-      "rating": 64,
-      "age": 22,
-      "value": 25869473
+      "rating": 62,
+      "age": 34,
+      "value": 15663157
     },
     {
-      "name": "Reese Ross",
-      "position": "MF",
-      "rating": 75,
-      "age": 27,
-      "value": 25578947
-    },
-    {
-      "name": "Shawn Parsons",
-      "position": "MF",
-      "rating": 66,
+      "name": "Austin Hansen",
+      "position": "FW",
+      "rating": 67,
       "age": 29,
-      "value": 20842105
+      "value": 26447368
     },
     {
-      "name": "Randy Park",
-      "position": "MF",
-      "rating": 73,
-      "age": 31,
-      "value": 21208421
-    },
-    {
-      "name": "Masashi Hamilton",
-      "position": "FW",
-      "rating": 62,
-      "age": 35,
-      "value": 18600000
-    },
-    {
-      "name": "Benny Little",
-      "position": "FW",
-      "rating": 62,
-      "age": 32,
-      "value": 21536842
-    },
-    {
-      "name": "Harry Hart",
+      "name": "Maximiliano Beck",
       "position": "FW",
       "rating": 72,
       "age": 21,
       "value": 37515789
     },
     {
-      "name": "Kayden Ortiz",
+      "name": "George Zhang",
       "position": "FW",
-      "rating": 64,
-      "age": 32,
-      "value": 22231578
+      "rating": 60,
+      "age": 16,
+      "value": 36000000
     },
     {
-      "name": "Liam Martin",
+      "name": "Magnus Harris",
       "position": "FW",
-      "rating": 77,
-      "age": 16,
-      "value": 40000000
+      "rating": 62,
+      "age": 30,
+      "value": 23494736
+    },
+    {
+      "name": "Roderick Brooks",
+      "position": "FW",
+      "rating": 71,
+      "age": 28,
+      "value": 29147368
     }
   ],
   "stadium": {
