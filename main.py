@@ -5,9 +5,13 @@ from game_simulation import play_week, simulate_season, simulate_game, simulate_
 from stats import stats
 from transfer_market import TransferMarket, transfer_market_menu, update_transfer_market
 from tactics import Tactics, tactics_menu, select_ai_formation
+from colorama import init, Fore, Style
 
 import random
 import codecs
+
+# Initialize colorama
+init(autoreset=True)
 
 def display_menu():
     print("\nFootball Manager Menu:")
@@ -187,70 +191,6 @@ def display_injured_players(teams):
         else:
             print(f"\n{team.name}: No injured players")
 
-def play_week(fixtures, table, current_week, player_team, transfer_market):
-    print(f"\nPreparing for Week {current_week}")
-    player_team.handle_injuries()
-    player_team.check_and_replace_unavailable_players()
-
-    if not player_team.selected_players:
-        print("You haven't selected your team yet. Please select your team now.")
-        select_team(player_team)
-    
-    # Check if the team has 11 players
-    while len(player_team.selected_players) < 11:
-        missing_position = player_team.get_missing_position()
-        if missing_position is None:
-            print("Error: Unable to determine missing position. Please select your entire team manually.")
-            select_team(player_team)
-            break
-        print(f"Your team is missing a {missing_position}. Please select a replacement.")
-        available_players = player_team.get_available_players(missing_position)
-        if not available_players:
-            print(f"No available {missing_position} players. You need to transfer in a new player or change your formation.")
-            return current_week  # Return without playing the match
-
-        print("\nCurrent team:")
-        for i, player in enumerate(player_team.selected_players, 1):
-            print(f"{i}. {player.name} - {player.position.name} - Rating: {player.rating}")
-        avg_rating = player_team.calculate_team_rating()
-        print(f"\nCurrent Team Average Rating: {avg_rating:.2f}")
-
-        player_team.replace_missing_player(missing_position)
-
-    print("Your team is ready for the match. Here's your current lineup:")
-    for i, player in enumerate(player_team.selected_players, 1):
-        print(f"{i}. {player.name} - {player.position.name} - Rating: {player.rating}")
-    avg_rating = player_team.calculate_team_rating()
-    print(f"\nTeam Average Rating: {avg_rating:.2f}")
-    
-    change = input("Do you want to make any changes to your lineup? (y/n): ")
-    if change.lower() == 'y':
-        select_team(player_team)
-
-    print(f"\nSimulating Week {current_week}")
-    week_fixtures = get_current_week_fixtures(fixtures, current_week)
-    for match in week_fixtures:
-        home_team = next(team for team in table.teams if team.name == match['home'])
-        away_team = next(team for team in table.teams if team.name == match['away'])
-        
-        if home_team != player_team:
-            home_team.auto_select_team()
-        if away_team != player_team:
-            away_team.auto_select_team()
-        
-        if home_team == player_team or away_team == player_team:
-            home_goals, away_goals, home_scorers, away_scorers = simulate_user_match(home_team, away_team)
-        else:
-            home_goals, away_goals, home_scorers, away_scorers = simulate_game(home_team, away_team)
-        
-        table.update(match['home'], match['away'], home_goals, away_goals)
-        stats.update_goal_scorers(home_scorers)
-        stats.update_goal_scorers(away_scorers)
-        stats.update_club_stats(match['home'], match['away'], home_goals, away_goals)
-
-    update_transfer_market(transfer_market, table.teams)
-    return current_week + 1
-
 def main():
     teams = create_teams()
     player_team = choose_team(teams)
@@ -279,7 +219,7 @@ def main():
     print("Goal times will be shown for each scorer.")
 
     while True:
-        print(f"\nCurrent Week: {current_week}/{total_weeks}")
+        print(f"\n{Fore.CYAN}Current Week: {current_week}/{total_weeks}{Style.RESET_ALL}")
         display_menu()
         choice = input("Enter your choice: ")
 
@@ -291,7 +231,7 @@ def main():
                 print("You need to select a new team that fits the new formation.")
                 select_team(player_team)
         elif choice == "3":
-            print(f"\nFixtures for Week {current_week}:")
+            print(f"\n{Fore.YELLOW}Fixtures for Week {current_week}:{Style.RESET_ALL}")
             week_fixtures = get_current_week_fixtures(fixtures, current_week)
             for match in week_fixtures:
                 print(f"{match['home']} vs {match['away']}")
@@ -299,7 +239,9 @@ def main():
             transfer_market_menu(player_team, transfer_market, teams)
         elif choice == "5":
             if current_week <= total_weeks:
-                current_week = play_week(fixtures, table, current_week, player_team, transfer_market)  # Pass transfer_market
+                print(f"\n{Fore.GREEN}Results of other matches:{Style.RESET_ALL}")
+                current_week = play_week(fixtures, table, current_week, player_team, transfer_market)
+                input(f"\n{Fore.YELLOW}Press Enter to continue...{Style.RESET_ALL}")
             else:
                 print("\nThe season has ended. No more games to play.")
         elif choice == "6":
@@ -316,7 +258,7 @@ def main():
         elif choice == "9":
             finances_menu(player_team)
         elif choice == "10":
-            display_injured_players(teams)  # New option
+            display_injured_players(teams)
         elif choice == "0":
             print("Thank you for playing. Goodbye!")
             break

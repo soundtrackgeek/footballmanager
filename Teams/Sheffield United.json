@@ -2,144 +2,144 @@
   "name": "Sheffield United",
   "squad": [
     {
-      "name": "Declan Fofana",
+      "name": "Isak Brooks",
       "position": "GK",
-      "rating": 65,
-      "age": 19,
-      "value": 19157894
+      "rating": 66,
+      "age": 23,
+      "value": 17229473
     },
     {
-      "name": "Casper Murray",
+      "name": "Taylor Kim",
       "position": "GK",
-      "rating": 89,
-      "age": 27,
-      "value": 20235789
+      "rating": 76,
+      "age": 29,
+      "value": 16000000
     },
     {
-      "name": "Sean S\u00f6derberg",
+      "name": "Luke Zamani",
       "position": "GK",
-      "rating": 83,
-      "age": 32,
-      "value": 15376842
+      "rating": 82,
+      "age": 18,
+      "value": 24858947
     },
     {
-      "name": "Simon Ramadhan",
+      "name": "Jayson Gray",
       "position": "DF",
-      "rating": 83,
-      "age": 17,
-      "value": 32326315
+      "rating": 79,
+      "age": 27,
+      "value": 22452631
     },
     {
-      "name": "Jean Palmer",
+      "name": "Jiro Franklin",
+      "position": "DF",
+      "rating": 89,
+      "age": 31,
+      "value": 21547368
+    },
+    {
+      "name": "Morgan Palmer",
       "position": "DF",
       "rating": 72,
-      "age": 19,
-      "value": 26526315
+      "age": 16,
+      "value": 28800000
     },
     {
-      "name": "Maxwell Holmes",
+      "name": "Jermaine Reid",
       "position": "DF",
-      "rating": 65,
-      "age": 34,
-      "value": 13684210
-    },
-    {
-      "name": "Xavier Bailey",
-      "position": "DF",
-      "rating": 90,
-      "age": 27,
-      "value": 25578947
-    },
-    {
-      "name": "Juan Rojas",
-      "position": "DF",
-      "rating": 68,
-      "age": 28,
-      "value": 18610526
-    },
-    {
-      "name": "Lawrence Bailey",
-      "position": "DF",
-      "rating": 83,
-      "age": 18,
-      "value": 31452631
-    },
-    {
-      "name": "Hiro Burke",
-      "position": "MF",
-      "rating": 87,
-      "age": 34,
-      "value": 21978947
-    },
-    {
-      "name": "Christian Rojas",
-      "position": "MF",
-      "rating": 61,
-      "age": 26,
-      "value": 21574736
-    },
-    {
-      "name": "Wesley Bowman",
-      "position": "MF",
-      "rating": 70,
-      "age": 22,
-      "value": 28294736
-    },
-    {
-      "name": "Femi Bates",
-      "position": "MF",
-      "rating": 69,
-      "age": 31,
-      "value": 20046315
-    },
-    {
-      "name": "Emil Bowman",
-      "position": "MF",
-      "rating": 67,
-      "age": 28,
-      "value": 22004210
-    },
-    {
-      "name": "Justin Ramos",
-      "position": "MF",
-      "rating": 77,
-      "age": 30,
-      "value": 23343157
-    },
-    {
-      "name": "Yusuf Ibrahim",
-      "position": "FW",
-      "rating": 65,
-      "age": 21,
-      "value": 33868421
-    },
-    {
-      "name": "Tanner Morales",
-      "position": "FW",
       "rating": 85,
-      "age": 31,
-      "value": 30868421
-    },
-    {
-      "name": "Dashiell Watkins",
-      "position": "FW",
-      "rating": 61,
       "age": 32,
-      "value": 21189473
+      "value": 19684210
     },
     {
-      "name": "Hugo Holm",
-      "position": "FW",
-      "rating": 67,
+      "name": "Johannes Black",
+      "position": "DF",
+      "rating": 76,
+      "age": 20,
+      "value": 27200000
+    },
+    {
+      "name": "Alfonso Ortega",
+      "position": "DF",
+      "rating": 62,
+      "age": 27,
+      "value": 17621052
+    },
+    {
+      "name": "Kenji Beck",
+      "position": "MF",
+      "rating": 65,
+      "age": 17,
+      "value": 30378947
+    },
+    {
+      "name": "Marco Palmer",
+      "position": "MF",
+      "rating": 62,
+      "age": 19,
+      "value": 27410526
+    },
+    {
+      "name": "Raymond Murray",
+      "position": "MF",
+      "rating": 71,
+      "age": 23,
+      "value": 27802105
+    },
+    {
+      "name": "Cooper Karlberg",
+      "position": "MF",
+      "rating": 62,
+      "age": 21,
+      "value": 25844210
+    },
+    {
+      "name": "Rowan Flores",
+      "position": "MF",
+      "rating": 64,
+      "age": 16,
+      "value": 30720000
+    },
+    {
+      "name": "Emmanuel Mikkelsen",
+      "position": "MF",
+      "rating": 73,
       "age": 22,
-      "value": 33852631
+      "value": 29507368
     },
     {
-      "name": "Vishal Molina",
+      "name": "Danny Black",
+      "position": "FW",
+      "rating": 73,
+      "age": 19,
+      "value": 40000000
+    },
+    {
+      "name": "Brantley Murphy",
+      "position": "FW",
+      "rating": 68,
+      "age": 34,
+      "value": 21473684
+    },
+    {
+      "name": "Ben Valdez",
+      "position": "FW",
+      "rating": 88,
+      "age": 19,
+      "value": 40000000
+    },
+    {
+      "name": "Agust\u00edn Coleman",
       "position": "FW",
       "rating": 90,
-      "age": 17,
+      "age": 22,
       "value": 40000000
+    },
+    {
+      "name": "Marcus Cruz",
+      "position": "FW",
+      "rating": 72,
+      "age": 22,
+      "value": 36378947
     }
   ],
   "stadium": {

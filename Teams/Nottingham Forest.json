@@ -2,144 +2,144 @@
   "name": "Nottingham Forest",
   "squad": [
     {
-      "name": "Barack S\u00f6derberg",
+      "name": "Brayden Cox",
       "position": "GK",
-      "rating": 74,
-      "age": 30,
-      "value": 14955789
-    },
-    {
-      "name": "Wei Benson",
-      "position": "GK",
-      "rating": 81,
-      "age": 16,
-      "value": 25920000
-    },
-    {
-      "name": "Dexter Price",
-      "position": "GK",
-      "rating": 67,
-      "age": 31,
-      "value": 12976842
-    },
-    {
-      "name": "Wayne Nkosi",
-      "position": "DF",
-      "rating": 61,
-      "age": 28,
-      "value": 16694736
-    },
-    {
-      "name": "Hiro Pepper",
-      "position": "DF",
-      "rating": 65,
-      "age": 29,
-      "value": 17105263
-    },
-    {
-      "name": "Hunter Karlberg",
-      "position": "DF",
-      "rating": 60,
-      "age": 29,
-      "value": 15789473
-    },
-    {
-      "name": "Tony Long",
-      "position": "DF",
-      "rating": 83,
-      "age": 20,
-      "value": 29705263
-    },
-    {
-      "name": "Dwayne Wheeler",
-      "position": "DF",
-      "rating": 86,
-      "age": 21,
-      "value": 29873684
-    },
-    {
-      "name": "Richard Rivera",
-      "position": "DF",
-      "rating": 66,
-      "age": 23,
-      "value": 21536842
-    },
-    {
-      "name": "Johan Hart",
-      "position": "MF",
-      "rating": 81,
-      "age": 32,
-      "value": 22509473
-    },
-    {
-      "name": "Sim\u00f3n Turner",
-      "position": "MF",
-      "rating": 66,
-      "age": 30,
-      "value": 20008421
-    },
-    {
-      "name": "Cecil Henderson",
-      "position": "MF",
-      "rating": 84,
+      "rating": 73,
       "age": 35,
-      "value": 20160000
+      "value": 11680000
     },
     {
-      "name": "Emiliano Olofsson",
-      "position": "MF",
+      "name": "Pablo Venter",
+      "position": "GK",
+      "rating": 82,
+      "age": 32,
+      "value": 15191578
+    },
+    {
+      "name": "Karl Cunningham",
+      "position": "GK",
+      "rating": 77,
+      "age": 19,
+      "value": 22694736
+    },
+    {
+      "name": "Adekunle Webster",
+      "position": "DF",
+      "rating": 72,
+      "age": 23,
+      "value": 23494736
+    },
+    {
+      "name": "Sam Phillips",
+      "position": "DF",
+      "rating": 73,
+      "age": 27,
+      "value": 20747368
+    },
+    {
+      "name": "Anthony Smith",
+      "position": "DF",
+      "rating": 90,
+      "age": 29,
+      "value": 23684210
+    },
+    {
+      "name": "Kenji Reddy",
+      "position": "DF",
       "rating": 70,
-      "age": 30,
-      "value": 21221052
+      "age": 25,
+      "value": 21368421
     },
     {
-      "name": "Bruce Ben\u00edtez",
-      "position": "MF",
+      "name": "Troy Ulfsson",
+      "position": "DF",
       "rating": 86,
-      "age": 30,
-      "value": 26071578
+      "age": 24,
+      "value": 27157894
     },
     {
-      "name": "Aaron Bradshaw",
+      "name": "Jason Moore",
+      "position": "DF",
+      "rating": 75,
+      "age": 22,
+      "value": 25263157
+    },
+    {
+      "name": "Bobby James",
+      "position": "MF",
+      "rating": 65,
+      "age": 28,
+      "value": 21347368
+    },
+    {
+      "name": "Duncan Rivera",
+      "position": "MF",
+      "rating": 81,
+      "age": 17,
+      "value": 37856842
+    },
+    {
+      "name": "Soren Stone",
+      "position": "MF",
+      "rating": 72,
+      "age": 30,
+      "value": 21827368
+    },
+    {
+      "name": "Jayden Abebe",
       "position": "MF",
       "rating": 77,
-      "age": 18,
-      "value": 35014736
+      "age": 32,
+      "value": 21397894
     },
     {
-      "name": "Nehemiah Richardson",
-      "position": "FW",
-      "rating": 71,
-      "age": 29,
-      "value": 28026315
+      "name": "Gabriel Butler",
+      "position": "MF",
+      "rating": 88,
+      "age": 32,
+      "value": 24454736
     },
     {
-      "name": "Erik Reyes",
-      "position": "FW",
-      "rating": 70,
-      "age": 34,
-      "value": 22105263
-    },
-    {
-      "name": "Uriah Williamson",
-      "position": "FW",
-      "rating": 85,
+      "name": "Asher Bryant",
+      "position": "MF",
+      "rating": 66,
       "age": 21,
+      "value": 27511578
+    },
+    {
+      "name": "Kyle Thomas",
+      "position": "FW",
+      "rating": 64,
+      "age": 28,
+      "value": 26273684
+    },
+    {
+      "name": "Rory Butler",
+      "position": "FW",
+      "rating": 82,
+      "age": 18,
       "value": 40000000
     },
     {
-      "name": "Barack Osei",
+      "name": "Carlos Mason",
       "position": "FW",
-      "rating": 64,
-      "age": 16,
-      "value": 38400000
+      "rating": 62,
+      "age": 18,
+      "value": 35242105
     },
     {
-      "name": "Sergio Holm",
+      "name": "Taylor Bennett",
       "position": "FW",
-      "rating": 86,
-      "age": 30,
-      "value": 32589473
+      "rating": 87,
+      "age": 33,
+      "value": 28847368
+    },
+    {
+      "name": "Spencer Morgan",
+      "position": "FW",
+      "rating": 89,
+      "age": 24,
+      "value": 40000000
     }
   ],
   "stadium": {

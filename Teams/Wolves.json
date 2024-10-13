@@ -2,144 +2,144 @@
   "name": "Wolves",
   "squad": [
     {
-      "name": "Noah Hamilton",
+      "name": "Bernard Phelps",
       "position": "GK",
-      "rating": 67,
-      "age": 21,
-      "value": 18618947
+      "rating": 62,
+      "age": 32,
+      "value": 11486315
     },
     {
-      "name": "River Patel",
+      "name": "Johan Ibrahim",
       "position": "GK",
-      "rating": 63,
-      "age": 26,
-      "value": 14854736
+      "rating": 72,
+      "age": 30,
+      "value": 14551578
     },
     {
-      "name": "Izaiah Hassan",
+      "name": "Warren Bennett",
       "position": "GK",
-      "rating": 75,
-      "age": 34,
-      "value": 12631578
-    },
-    {
-      "name": "Mitchell Butler",
-      "position": "DF",
       "rating": 86,
-      "age": 24,
-      "value": 27157894
+      "age": 17,
+      "value": 26795789
     },
     {
-      "name": "Benjam\u00edn Little",
+      "name": "Colin West",
       "position": "DF",
-      "rating": 77,
-      "age": 35,
-      "value": 15400000
+      "rating": 84,
+      "age": 27,
+      "value": 23873684
     },
     {
-      "name": "Viktor Fletcher",
+      "name": "Luis Manning",
+      "position": "DF",
+      "rating": 73,
+      "age": 20,
+      "value": 26126315
+    },
+    {
+      "name": "Tobias Wright",
       "position": "DF",
       "rating": 65,
-      "age": 28,
-      "value": 17789473
+      "age": 18,
+      "value": 24631578
     },
     {
-      "name": "Barney Cooper",
+      "name": "Chad Hughes",
       "position": "DF",
-      "rating": 74,
-      "age": 28,
-      "value": 20252631
+      "rating": 88,
+      "age": 19,
+      "value": 32421052
     },
     {
-      "name": "Abdul Watson",
+      "name": "Xavier Marshall",
       "position": "DF",
-      "rating": 62,
+      "rating": 72,
       "age": 33,
-      "value": 13705263
+      "value": 15915789
     },
     {
-      "name": "Raul Shaw",
+      "name": "Wesley Haynes",
       "position": "DF",
-      "rating": 86,
-      "age": 35,
-      "value": 17200000
+      "rating": 65,
+      "age": 16,
+      "value": 26000000
     },
     {
-      "name": "Alejandro Hart",
+      "name": "Andy Goodman",
       "position": "MF",
       "rating": 76,
-      "age": 20,
-      "value": 32640000
+      "age": 33,
+      "value": 20160000
     },
     {
-      "name": "Martin Eze",
+      "name": "Griffin Delgado",
       "position": "MF",
-      "rating": 88,
-      "age": 26,
-      "value": 31124210
+      "rating": 81,
+      "age": 28,
+      "value": 26602105
     },
     {
-      "name": "Bao Craig",
+      "name": "Isaac Sj\u00f6berg",
       "position": "MF",
-      "rating": 90,
-      "age": 27,
-      "value": 30694736
-    },
-    {
-      "name": "Sebasti\u00e1n Morgan",
-      "position": "MF",
-      "rating": 60,
-      "age": 20,
-      "value": 25768421
-    },
-    {
-      "name": "Tony Ross",
-      "position": "MF",
-      "rating": 87,
-      "age": 20,
-      "value": 37364210
-    },
-    {
-      "name": "Tristan Kim",
-      "position": "MF",
-      "rating": 60,
-      "age": 19,
-      "value": 26526315
-    },
-    {
-      "name": "Xavier Brown",
-      "position": "FW",
-      "rating": 66,
-      "age": 30,
-      "value": 25010526
-    },
-    {
-      "name": "Tony Olson",
-      "position": "FW",
-      "rating": 85,
+      "rating": 77,
       "age": 24,
+      "value": 29178947
+    },
+    {
+      "name": "Ethan Holmberg",
+      "position": "MF",
+      "rating": 74,
+      "age": 20,
+      "value": 31781052
+    },
+    {
+      "name": "Steven Baldwin",
+      "position": "MF",
+      "rating": 67,
+      "age": 19,
+      "value": 29621052
+    },
+    {
+      "name": "Javier Burke",
+      "position": "MF",
+      "rating": 63,
+      "age": 29,
+      "value": 19894736
+    },
+    {
+      "name": "Cooper Henriksen",
+      "position": "FW",
+      "rating": 79,
+      "age": 20,
       "value": 40000000
     },
     {
-      "name": "Juan Iyanda",
+      "name": "Zane Ray",
       "position": "FW",
-      "rating": 75,
-      "age": 22,
-      "value": 37894736
+      "rating": 69,
+      "age": 28,
+      "value": 28326315
     },
     {
-      "name": "Diego Zhu",
-      "position": "FW",
-      "rating": 67,
-      "age": 32,
-      "value": 23273684
-    },
-    {
-      "name": "Austin Rojas",
+      "name": "Trenton Oliver",
       "position": "FW",
       "rating": 61,
-      "age": 24,
-      "value": 28894736
+      "age": 30,
+      "value": 23115789
+    },
+    {
+      "name": "Tyler Fields",
+      "position": "FW",
+      "rating": 80,
+      "age": 21,
+      "value": 40000000
+    },
+    {
+      "name": "Joaquin Murphy",
+      "position": "FW",
+      "rating": 72,
+      "age": 34,
+      "value": 22736842
     }
   ],
   "stadium": {

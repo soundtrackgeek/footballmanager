@@ -4,6 +4,8 @@ from team_management import select_team, auto_select_team
 from stats import stats
 from player import Position
 from colorama import init, Fore, Back, Style
+from fixtures import get_current_week_fixtures  # Add this import
+from transfer_market import update_transfer_market  # Add this import as well
 
 # Initialize colorama
 init(autoreset=True)
@@ -162,98 +164,85 @@ def get_needed_position(selected_players):
     else:
         return Position.FW
 
-def play_week(fixtures, table, current_week, player_team):
-    week_fixtures = fixtures[current_week - 1]["matches"]
-    print(f"\nWeek {current_week} Results:")
-    weekly_financial_summary = {}
+def play_week(fixtures, table, current_week, player_team, transfer_market):
+    print(f"\n{Fore.CYAN}Preparing for Week {current_week}{Style.RESET_ALL}")
     
+    # Handle injuries and team selection for all teams
+    for team in table.teams:
+        team.handle_injuries()
+        if team != player_team:
+            team.auto_select_team()
+        else:
+            team.check_and_replace_unavailable_players()
+
+    if not player_team.selected_players:
+        print("You haven't selected your team yet. Please select your team now.")
+        select_team(player_team)
+    
+    # Check if the player's team has 11 players
+    while len(player_team.selected_players) < 11:
+        missing_position = player_team.get_missing_position()
+        if missing_position is None:
+            print("Error: Unable to determine missing position. Please select your entire team manually.")
+            select_team(player_team)
+            break
+        print(f"Your team is missing a {missing_position}. Please select a replacement.")
+        available_players = player_team.get_available_players(missing_position)
+        if not available_players:
+            print(f"No available {missing_position} players. You need to transfer in a new player or change your formation.")
+            return current_week  # Return without playing the match
+
+        print("\nCurrent team:")
+        for i, player in enumerate(player_team.selected_players, 1):
+            print(f"{i}. {player.name} - {player.position.name} - Rating: {player.rating}")
+        avg_rating = player_team.calculate_team_rating()
+        print(f"\nCurrent Team Average Rating: {avg_rating:.2f}")
+
+        player_team.replace_missing_player(missing_position)
+
+    print("Your team is ready for the match. Here's your current lineup:")
+    for i, player in enumerate(player_team.selected_players, 1):
+        print(f"{i}. {player.name} - {player.position.name} - Rating: {player.rating}")
+    avg_rating = player_team.calculate_team_rating()
+    print(f"\nTeam Average Rating: {avg_rating:.2f}")
+    
+    change = input("Do you want to make any changes to your lineup? (y/n): ")
+    if change.lower() == 'y':
+        select_team(player_team)
+
+    print(f"\n{Fore.YELLOW}Simulating Week {current_week}{Style.RESET_ALL}")
+    week_fixtures = get_current_week_fixtures(fixtures, current_week)
+    
+    # Simulate all matches
     for match in week_fixtures:
-        home_team_name = match["home"]
-        away_team_name = match["away"]
+        home_team = next(team for team in table.teams if team.name == match['home'])
+        away_team = next(team for team in table.teams if team.name == match['away'])
         
-        home_team = next(team for team in table.teams if team.name == home_team_name)
-        away_team = next(team for team in table.teams if team.name == away_team_name)
-
-        # Handle injuries for both teams
-        home_team.handle_injuries()
-        away_team.handle_injuries()
-
-        # Ensure full team for AI-controlled teams
-        if home_team != player_team:
-            auto_select_team(home_team)
-            ensure_full_team(home_team)
-        if away_team != player_team:
-            auto_select_team(away_team)
-            ensure_full_team(away_team)
-
-        # Handle player's team selection
         if home_team == player_team or away_team == player_team:
-            if not player_team.selected_players or len(player_team.selected_players) < 11:
-                print("You need to select a full team of 11 players.")
-                select_team(player_team)
-                ensure_full_team(player_team)
-
-        # Simulate the match
-        if home_team == player_team or away_team == player_team:
+            print(f"\n{Fore.CYAN}Your match:{Style.RESET_ALL}")
             home_goals, away_goals, home_scorers, away_scorers = simulate_user_match(home_team, away_team)
         else:
             home_goals, away_goals, home_scorers, away_scorers = simulate_game(home_team, away_team)
-
-        # Update table and statistics
-        table.update(home_team_name, away_team_name, home_goals, away_goals)
+            print(f"\n{Fore.GREEN}{home_team.name} {home_goals} - {away_goals} {away_team.name}{Style.RESET_ALL}")
+        
+        for scorer, minute in home_scorers:
+            print(f"{Fore.YELLOW}Goal! {scorer.name} scores for {home_team.name} ({minute}'){Style.RESET_ALL}")
+        for scorer, minute in away_scorers:
+            print(f"{Fore.YELLOW}Goal! {scorer.name} scores for {away_team.name} ({minute}'){Style.RESET_ALL}")
+        
+        # Display injuries
+        injuries = home_team.injured_players + away_team.injured_players
+        if injuries:
+            print(f"\n{Fore.RED}Injuries:{Style.RESET_ALL}")
+            for player in injuries:
+                print(f"{Fore.RED}{player.name} ({player.team.name}) - {player.injury_weeks_left} weeks{Style.RESET_ALL}")
+        
+        table.update(match['home'], match['away'], home_goals, away_goals)
         stats.update_goal_scorers(home_scorers)
         stats.update_goal_scorers(away_scorers)
-        stats.update_club_stats(home_team_name, away_team_name, home_goals, away_goals)
+        stats.update_club_stats(match['home'], match['away'], home_goals, away_goals)
 
-        # Handle injuries after the match
-        home_team.injure_players()
-        away_team.injure_players()
-
-        # Calculate attendance and ticket revenue
-        attendance = home_team.calculate_match_attendance()
-        ticket_revenue = calculate_ticket_revenue(home_team, attendance)
-        
-        # Update financial summary
-        if home_team_name not in weekly_financial_summary:
-            weekly_financial_summary[home_team_name] = {'ticket_revenue': 0, 'sponsorship': 0, 'loan_payment': 0}
-        weekly_financial_summary[home_team_name]['ticket_revenue'] += ticket_revenue
-        
-        if home_team != player_team and away_team != player_team:
-            print(f"\n{home_team_name} {home_goals} - {away_goals} {away_team_name}")
-            print(f"Attendance: {attendance:,}")
-            print(f"Ticket Revenue: £{ticket_revenue:,}")
-            if home_scorers:
-                print(f"{home_team_name} scorers:")
-                for scorer, minute in home_scorers:
-                    print(f"  {scorer.name} ({minute}')")
-            if away_scorers:
-                print(f"{away_team_name} scorers:")
-                for scorer, minute in away_scorers:
-                    print(f"  {scorer.name} ({minute}')")
-
-    # After simulating all matches, only show financial summary for player's team
-    if player_team.name in weekly_financial_summary:
-        finances = weekly_financial_summary[player_team.name]
-        print(f"\nFinancial Summary for {player_team.name}:")
-        print(f"  Ticket Revenue: £{finances['ticket_revenue']:,}")
-        print(f"  Sponsorship Income: £{finances['sponsorship']:,}")
-        print(f"  Loan Payment: £{finances['loan_payment']:,}")
-        net_income = finances['ticket_revenue'] + finances['sponsorship'] - finances['loan_payment']
-        print(f"  Net Income: £{net_income:,}")
-
-    # Update the player team's finances
-    if player_team.name in weekly_financial_summary:
-        finances = weekly_financial_summary[player_team.name]
-        player_team.finances['bank_balance'] += (finances['ticket_revenue'] + finances['sponsorship'] - finances['loan_payment'])
-        
-        # Update loan if exists
-        if player_team.finances['loan']:
-            player_team.finances['loan']['remaining'] -= finances['loan_payment']
-            player_team.finances['loan']['weeks_left'] -= 1
-            if player_team.finances['loan']['weeks_left'] <= 0:
-                player_team.finances['loan'] = None
-                print(f"\n{player_team.name} has fully repaid their loan!")
-
+    update_transfer_market(transfer_market, table.teams)
     return current_week + 1
 
 def update_team_finances(team, weekly_financial_summary):

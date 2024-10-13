@@ -2,144 +2,144 @@
   "name": "Brentford",
   "squad": [
     {
-      "name": "Wyatt Freeman",
+      "name": "Uriah Flores",
       "position": "GK",
-      "rating": 68,
-      "age": 32,
-      "value": 12597894
+      "rating": 63,
+      "age": 28,
+      "value": 13793684
     },
     {
-      "name": "Vishal Bishop",
+      "name": "Marcus Turner",
       "position": "GK",
-      "rating": 69,
-      "age": 34,
-      "value": 11621052
-    },
-    {
-      "name": "Vincent Dom\u00ednguez",
-      "position": "GK",
-      "rating": 83,
-      "age": 16,
-      "value": 26560000
-    },
-    {
-      "name": "Johan Flores",
-      "position": "DF",
       "rating": 70,
-      "age": 29,
-      "value": 18421052
+      "age": 20,
+      "value": 20042105
     },
     {
-      "name": "Ivan Newman",
+      "name": "Tao Nakamura",
+      "position": "GK",
+      "rating": 70,
+      "age": 22,
+      "value": 18863157
+    },
+    {
+      "name": "Timothy Bell",
+      "position": "DF",
+      "rating": 68,
+      "age": 17,
+      "value": 26484210
+    },
+    {
+      "name": "Kirk Knox",
       "position": "DF",
       "rating": 77,
-      "age": 26,
-      "value": 22694736
+      "age": 19,
+      "value": 28368421
     },
     {
-      "name": "Karl Shaw",
+      "name": "Kenji Boone",
       "position": "DF",
-      "rating": 86,
-      "age": 27,
-      "value": 24442105
+      "rating": 85,
+      "age": 17,
+      "value": 33105263
     },
     {
-      "name": "Pedro Burke",
+      "name": "Rodney Berg",
+      "position": "DF",
+      "rating": 79,
+      "age": 29,
+      "value": 20789473
+    },
+    {
+      "name": "Andreas Valdez",
       "position": "DF",
       "rating": 83,
-      "age": 24,
-      "value": 26210526
+      "age": 16,
+      "value": 33200000
     },
     {
-      "name": "Kwesi Watson",
+      "name": "Malcolm S\u00f6derberg",
       "position": "DF",
+      "rating": 70,
+      "age": 21,
+      "value": 24315789
+    },
+    {
+      "name": "Jesse Thomsen",
+      "position": "MF",
       "rating": 64,
-      "age": 23,
-      "value": 20884210
+      "age": 33,
+      "value": 16976842
     },
     {
-      "name": "Jack Benson",
-      "position": "DF",
-      "rating": 67,
-      "age": 35,
-      "value": 13400000
-    },
-    {
-      "name": "Cristian Onyango",
+      "name": "Abel Sandstr\u00f6m",
       "position": "MF",
-      "rating": 70,
+      "rating": 72,
+      "age": 27,
+      "value": 24555789
+    },
+    {
+      "name": "Brooks Pepper",
+      "position": "MF",
+      "rating": 66,
+      "age": 32,
+      "value": 18341052
+    },
+    {
+      "name": "Ross Reid",
+      "position": "MF",
+      "rating": 62,
+      "age": 28,
+      "value": 20362105
+    },
+    {
+      "name": "Konner Lee",
+      "position": "MF",
+      "rating": 89,
+      "age": 26,
+      "value": 31477894
+    },
+    {
+      "name": "Yuki Bryan",
+      "position": "MF",
+      "rating": 71,
+      "age": 29,
+      "value": 22421052
+    },
+    {
+      "name": "Diego Takahashi",
+      "position": "FW",
+      "rating": 61,
+      "age": 28,
+      "value": 25042105
+    },
+    {
+      "name": "Desmond Norberg",
+      "position": "FW",
+      "rating": 62,
+      "age": 19,
+      "value": 34263157
+    },
+    {
+      "name": "Sean Cabrera",
+      "position": "FW",
+      "rating": 83,
       "age": 18,
-      "value": 31831578
-    },
-    {
-      "name": "Jarrett Bryant",
-      "position": "MF",
-      "rating": 70,
-      "age": 35,
-      "value": 16800000
-    },
-    {
-      "name": "Stanley Thomsen",
-      "position": "MF",
-      "rating": 76,
-      "age": 20,
-      "value": 32640000
-    },
-    {
-      "name": "Hayden Mori",
-      "position": "MF",
-      "rating": 76,
-      "age": 24,
-      "value": 28800000
-    },
-    {
-      "name": "Raymond Seo",
-      "position": "MF",
-      "rating": 88,
-      "age": 17,
       "value": 40000000
     },
     {
-      "name": "Leonel Toure",
-      "position": "MF",
-      "rating": 61,
-      "age": 32,
-      "value": 16951578
+      "name": "Cody Dur\u00e1n",
+      "position": "FW",
+      "rating": 82,
+      "age": 29,
+      "value": 32368421
     },
     {
-      "name": "Javier Perez",
+      "name": "Juan Gonzalez",
       "position": "FW",
-      "rating": 87,
-      "age": 31,
-      "value": 31594736
-    },
-    {
-      "name": "Ezra Reid",
-      "position": "FW",
-      "rating": 62,
-      "age": 32,
-      "value": 21536842
-    },
-    {
-      "name": "Ben Mann",
-      "position": "FW",
-      "rating": 69,
-      "age": 30,
-      "value": 26147368
-    },
-    {
-      "name": "Roy Ciss\u00e9",
-      "position": "FW",
-      "rating": 73,
-      "age": 26,
-      "value": 32273684
-    },
-    {
-      "name": "Cian Coleman",
-      "position": "FW",
-      "rating": 62,
-      "age": 22,
-      "value": 31326315
+      "rating": 79,
+      "age": 34,
+      "value": 24947368
     }
   ],
   "stadium": {

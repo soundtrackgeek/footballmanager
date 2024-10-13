@@ -2,144 +2,144 @@
   "name": "Liverpool",
   "squad": [
     {
-      "name": "Ivan Flores",
+      "name": "Hector Mitchell",
       "position": "GK",
+      "rating": 77,
+      "age": 18,
+      "value": 23343157
+    },
+    {
+      "name": "Zola Reyes",
+      "position": "GK",
+      "rating": 67,
+      "age": 34,
+      "value": 11284210
+    },
+    {
+      "name": "William Hughes",
+      "position": "GK",
+      "rating": 71,
+      "age": 23,
+      "value": 18534736
+    },
+    {
+      "name": "Javier Olson",
+      "position": "DF",
+      "rating": 66,
+      "age": 30,
+      "value": 16673684
+    },
+    {
+      "name": "Owen Arnold",
+      "position": "DF",
+      "rating": 80,
+      "age": 35,
+      "value": 16000000
+    },
+    {
+      "name": "Kenneth Hansen",
+      "position": "DF",
+      "rating": 65,
+      "age": 23,
+      "value": 21210526
+    },
+    {
+      "name": "Oluwafemi Richardson",
+      "position": "DF",
+      "rating": 68,
+      "age": 32,
+      "value": 15747368
+    },
+    {
+      "name": "Ra\u00fal Day",
+      "position": "DF",
       "rating": 75,
-      "age": 16,
+      "age": 18,
+      "value": 28421052
+    },
+    {
+      "name": "Noah J\u00f8rgensen",
+      "position": "DF",
+      "rating": 81,
+      "age": 18,
+      "value": 30694736
+    },
+    {
+      "name": "Cody Marin",
+      "position": "MF",
+      "rating": 79,
+      "age": 19,
+      "value": 34926315
+    },
+    {
+      "name": "Charles Holland",
+      "position": "MF",
+      "rating": 76,
+      "age": 29,
       "value": 24000000
     },
     {
-      "name": "Vishal Baker",
-      "position": "GK",
-      "rating": 65,
-      "age": 28,
-      "value": 14231578
-    },
-    {
-      "name": "Masashi Duncan",
-      "position": "GK",
-      "rating": 64,
-      "age": 28,
-      "value": 14012631
-    },
-    {
-      "name": "Kevin Moore",
-      "position": "DF",
-      "rating": 85,
-      "age": 29,
-      "value": 22368421
-    },
-    {
-      "name": "Amir Russell",
-      "position": "DF",
-      "rating": 77,
-      "age": 25,
-      "value": 23505263
-    },
-    {
-      "name": "Ram\u00f3n Washington",
-      "position": "DF",
-      "rating": 66,
-      "age": 33,
-      "value": 14589473
-    },
-    {
-      "name": "Jorge Kareem",
-      "position": "DF",
-      "rating": 78,
-      "age": 23,
-      "value": 25452631
-    },
-    {
-      "name": "Giovanni Fofana",
-      "position": "DF",
-      "rating": 76,
-      "age": 30,
-      "value": 19200000
-    },
-    {
-      "name": "Ivan Barnett",
-      "position": "DF",
-      "rating": 78,
-      "age": 23,
-      "value": 25452631
-    },
-    {
-      "name": "Kwesi Owens",
+      "name": "Suraj Perry",
       "position": "MF",
-      "rating": 64,
-      "age": 27,
-      "value": 21827368
-    },
-    {
-      "name": "Richard West",
-      "position": "MF",
-      "rating": 78,
-      "age": 21,
-      "value": 32513684
-    },
-    {
-      "name": "Luis Benson",
-      "position": "MF",
-      "rating": 77,
-      "age": 23,
-      "value": 30151578
-    },
-    {
-      "name": "Noah Silva",
-      "position": "MF",
-      "rating": 70,
-      "age": 17,
-      "value": 32715789
-    },
-    {
-      "name": "Timothy Richardson",
-      "position": "MF",
-      "rating": 71,
-      "age": 22,
-      "value": 28698947
-    },
-    {
-      "name": "Kenny Stone",
-      "position": "MF",
-      "rating": 68,
-      "age": 28,
-      "value": 22332631
-    },
-    {
-      "name": "Adel Fuentes",
-      "position": "FW",
-      "rating": 74,
-      "age": 29,
-      "value": 29210526
-    },
-    {
-      "name": "Gustavo Wallace",
-      "position": "FW",
-      "rating": 80,
-      "age": 26,
-      "value": 35368421
-    },
-    {
-      "name": "Timothy Goodman",
-      "position": "FW",
       "rating": 89,
-      "age": 30,
+      "age": 24,
       "value": 33726315
     },
     {
-      "name": "Ismael Jabari",
+      "name": "Amir Valencia",
+      "position": "MF",
+      "rating": 63,
+      "age": 35,
+      "value": 15120000
+    },
+    {
+      "name": "Vidar Benson",
+      "position": "MF",
+      "rating": 62,
+      "age": 31,
+      "value": 18012631
+    },
+    {
+      "name": "George Parsons",
+      "position": "MF",
+      "rating": 60,
+      "age": 34,
+      "value": 15157894
+    },
+    {
+      "name": "Aedan Barrios",
+      "position": "FW",
+      "rating": 72,
+      "age": 19,
+      "value": 39789473
+    },
+    {
+      "name": "River Takahashi",
       "position": "FW",
       "rating": 77,
-      "age": 17,
+      "age": 18,
       "value": 40000000
     },
     {
-      "name": "Kyle Shaw",
+      "name": "Leo Berg",
       "position": "FW",
-      "rating": 73,
-      "age": 25,
-      "value": 33426315
+      "rating": 60,
+      "age": 16,
+      "value": 36000000
+    },
+    {
+      "name": "Cecil Butler",
+      "position": "FW",
+      "rating": 80,
+      "age": 32,
+      "value": 27789473
+    },
+    {
+      "name": "Isaac Bell",
+      "position": "FW",
+      "rating": 66,
+      "age": 16,
+      "value": 39600000
     }
   ],
   "stadium": {

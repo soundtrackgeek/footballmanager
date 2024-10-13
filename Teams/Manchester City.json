@@ -2,144 +2,144 @@
   "name": "Manchester City",
   "squad": [
     {
-      "name": "Israel Jordan",
+      "name": "Nkosinathi Karlberg",
       "position": "GK",
-      "rating": 84,
-      "age": 25,
-      "value": 20513684
+      "rating": 64,
+      "age": 33,
+      "value": 11317894
     },
     {
-      "name": "Rogelio Iyer",
+      "name": "Rajesh Freeman",
       "position": "GK",
+      "rating": 68,
+      "age": 18,
+      "value": 20614736
+    },
+    {
+      "name": "Cody Oliver",
+      "position": "GK",
+      "rating": 76,
+      "age": 20,
+      "value": 21760000
+    },
+    {
+      "name": "Quinn Su\u00e1rez",
+      "position": "DF",
+      "rating": 68,
+      "age": 27,
+      "value": 19326315
+    },
+    {
+      "name": "Leonel Dahl",
+      "position": "DF",
       "rating": 79,
-      "age": 20,
-      "value": 22618947
+      "age": 29,
+      "value": 20789473
     },
     {
-      "name": "Noah Zamani",
-      "position": "GK",
-      "rating": 87,
-      "age": 24,
-      "value": 21978947
-    },
-    {
-      "name": "Bradley Freeman",
-      "position": "DF",
-      "rating": 72,
-      "age": 20,
-      "value": 25768421
-    },
-    {
-      "name": "Andrew Olson",
-      "position": "DF",
-      "rating": 72,
-      "age": 26,
-      "value": 21221052
-    },
-    {
-      "name": "Adekunle Griffin",
+      "name": "Daryl Akinyele",
       "position": "DF",
       "rating": 82,
-      "age": 32,
-      "value": 18989473
-    },
-    {
-      "name": "Samuel Stone",
-      "position": "DF",
-      "rating": 66,
-      "age": 26,
-      "value": 19452631
-    },
-    {
-      "name": "Alex Flores",
-      "position": "DF",
-      "rating": 71,
       "age": 21,
-      "value": 24663157
+      "value": 28484210
     },
     {
-      "name": "Aditya Bates",
+      "name": "Adeola Sandstr\u00f6m",
       "position": "DF",
-      "rating": 89,
-      "age": 34,
-      "value": 18736842
-    },
-    {
-      "name": "Kenneth Fields",
-      "position": "MF",
-      "rating": 87,
-      "age": 30,
-      "value": 26374736
-    },
-    {
-      "name": "Connor Quartey",
-      "position": "MF",
-      "rating": 89,
-      "age": 26,
-      "value": 31477894
-    },
-    {
-      "name": "Rodney Gariba",
-      "position": "MF",
-      "rating": 62,
-      "age": 25,
-      "value": 22711578
-    },
-    {
-      "name": "Cooper Hart",
-      "position": "MF",
-      "rating": 76,
-      "age": 22,
-      "value": 30720000
-    },
-    {
-      "name": "Anton West",
-      "position": "MF",
-      "rating": 88,
-      "age": 34,
-      "value": 22231578
-    },
-    {
-      "name": "Curtis Liu",
-      "position": "MF",
-      "rating": 68,
-      "age": 21,
-      "value": 28345263
-    },
-    {
-      "name": "Jesse Day",
-      "position": "FW",
       "rating": 90,
-      "age": 25,
-      "value": 40000000
+      "age": 21,
+      "value": 31263157
     },
     {
-      "name": "Tanner Russell",
-      "position": "FW",
-      "rating": 62,
-      "age": 33,
-      "value": 20557894
-    },
-    {
-      "name": "Maximiliano Adams",
-      "position": "FW",
+      "name": "Roberto Powell",
+      "position": "DF",
       "rating": 79,
       "age": 18,
+      "value": 29936842
+    },
+    {
+      "name": "Brayden Coleman",
+      "position": "DF",
+      "rating": 69,
+      "age": 28,
+      "value": 18884210
+    },
+    {
+      "name": "Declan Farmer",
+      "position": "MF",
+      "rating": 76,
+      "age": 32,
+      "value": 21120000
+    },
+    {
+      "name": "Noel Spencer",
+      "position": "MF",
+      "rating": 81,
+      "age": 24,
+      "value": 30694736
+    },
+    {
+      "name": "Jiro Ramadhan",
+      "position": "MF",
+      "rating": 68,
+      "age": 19,
+      "value": 30063157
+    },
+    {
+      "name": "Toby Rowe",
+      "position": "MF",
+      "rating": 76,
+      "age": 33,
+      "value": 20160000
+    },
+    {
+      "name": "Wei Lee",
+      "position": "MF",
+      "rating": 86,
+      "age": 27,
+      "value": 29330526
+    },
+    {
+      "name": "Hassan Hicks",
+      "position": "MF",
+      "rating": 72,
+      "age": 20,
+      "value": 30922105
+    },
+    {
+      "name": "Karl Craig",
+      "position": "FW",
+      "rating": 89,
+      "age": 17,
       "value": 40000000
     },
     {
-      "name": "Simon Larsson",
+      "name": "Ali Brooks",
+      "position": "FW",
+      "rating": 67,
+      "age": 26,
+      "value": 29621052
+    },
+    {
+      "name": "Griffin Palmer",
+      "position": "FW",
+      "rating": 83,
+      "age": 16,
+      "value": 40000000
+    },
+    {
+      "name": "Benjamin Perez",
+      "position": "FW",
+      "rating": 63,
+      "age": 20,
+      "value": 33821052
+    },
+    {
+      "name": "Lucas Larsson",
       "position": "FW",
       "rating": 90,
-      "age": 22,
+      "age": 25,
       "value": 40000000
-    },
-    {
-      "name": "Noah Rodriguez",
-      "position": "FW",
-      "rating": 73,
-      "age": 22,
-      "value": 36884210
     }
   ],
   "stadium": {

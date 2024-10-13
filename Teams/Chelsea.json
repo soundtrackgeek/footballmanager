@@ -2,144 +2,144 @@
   "name": "Chelsea",
   "squad": [
     {
-      "name": "Albert Lee",
+      "name": "Julian Nilsen",
       "position": "GK",
-      "rating": 70,
-      "age": 21,
-      "value": 19452631
-    },
-    {
-      "name": "Lincoln Black",
-      "position": "GK",
-      "rating": 87,
-      "age": 31,
-      "value": 16850526
-    },
-    {
-      "name": "Mohamed Benson",
-      "position": "GK",
-      "rating": 65,
-      "age": 18,
-      "value": 19705263
-    },
-    {
-      "name": "Dumi Perez",
-      "position": "DF",
-      "rating": 79,
-      "age": 23,
-      "value": 25778947
-    },
-    {
-      "name": "Dennis Ferguson",
-      "position": "DF",
-      "rating": 79,
-      "age": 32,
-      "value": 18294736
-    },
-    {
-      "name": "Jeremy Duncan",
-      "position": "DF",
-      "rating": 68,
-      "age": 20,
-      "value": 24336842
-    },
-    {
-      "name": "Simba Watson",
-      "position": "DF",
-      "rating": 78,
-      "age": 26,
-      "value": 22989473
-    },
-    {
-      "name": "Chase Morrison",
-      "position": "DF",
       "rating": 83,
-      "age": 16,
-      "value": 33200000
+      "age": 28,
+      "value": 18172631
     },
     {
-      "name": "Orlando Sanchez",
-      "position": "DF",
-      "rating": 83,
+      "name": "Thomas Bowman",
+      "position": "GK",
+      "rating": 60,
       "age": 27,
-      "value": 23589473
+      "value": 13642105
     },
     {
-      "name": "Suraj Gray",
+      "name": "Rakesh Morris",
+      "position": "GK",
+      "rating": 80,
+      "age": 27,
+      "value": 18189473
+    },
+    {
+      "name": "Nnamdi Burke",
+      "position": "DF",
+      "rating": 77,
+      "age": 31,
+      "value": 18642105
+    },
+    {
+      "name": "John Hicks",
+      "position": "DF",
+      "rating": 74,
+      "age": 21,
+      "value": 25705263
+    },
+    {
+      "name": "Carl Seo",
+      "position": "DF",
+      "rating": 63,
+      "age": 18,
+      "value": 23873684
+    },
+    {
+      "name": "Jae Bell",
+      "position": "DF",
+      "rating": 63,
+      "age": 30,
+      "value": 15915789
+    },
+    {
+      "name": "Duncan Choi",
+      "position": "DF",
+      "rating": 89,
+      "age": 17,
+      "value": 34663157
+    },
+    {
+      "name": "Diego Morales",
+      "position": "DF",
+      "rating": 62,
+      "age": 32,
+      "value": 14357894
+    },
+    {
+      "name": "Yuki Silva",
+      "position": "MF",
+      "rating": 70,
+      "age": 19,
+      "value": 30947368
+    },
+    {
+      "name": "Marcus Iyer",
+      "position": "MF",
+      "rating": 63,
+      "age": 16,
+      "value": 30240000
+    },
+    {
+      "name": "Cecil Washington",
       "position": "MF",
       "rating": 68,
       "age": 18,
       "value": 30922105
     },
     {
-      "name": "Ken Diaz",
+      "name": "Ming Palmer",
+      "position": "MF",
+      "rating": 71,
+      "age": 24,
+      "value": 26905263
+    },
+    {
+      "name": "Russell Das",
       "position": "MF",
       "rating": 60,
-      "age": 20,
-      "value": 25768421
+      "age": 25,
+      "value": 21978947
     },
     {
-      "name": "Angelo Manning",
+      "name": "Drew Knox",
       "position": "MF",
       "rating": 90,
-      "age": 19,
-      "value": 39789473
-    },
-    {
-      "name": "Brandon Roberts",
-      "position": "MF",
-      "rating": 72,
-      "age": 29,
+      "age": 34,
       "value": 22736842
     },
     {
-      "name": "Tristan Long",
-      "position": "MF",
-      "rating": 76,
-      "age": 30,
-      "value": 23040000
-    },
-    {
-      "name": "Tristan Myers",
-      "position": "MF",
-      "rating": 64,
-      "age": 20,
-      "value": 27486315
-    },
-    {
-      "name": "Paul Griffin",
+      "name": "Dakota Ramos",
       "position": "FW",
-      "rating": 87,
-      "age": 22,
+      "rating": 82,
+      "age": 16,
       "value": 40000000
     },
     {
-      "name": "Xavier Henry",
+      "name": "Duncan Wood",
       "position": "FW",
-      "rating": 64,
-      "age": 34,
-      "value": 20210526
+      "rating": 75,
+      "age": 25,
+      "value": 34342105
     },
     {
-      "name": "Uriah Hayes",
+      "name": "Chike Cook",
       "position": "FW",
-      "rating": 82,
-      "age": 30,
-      "value": 31073684
+      "rating": 70,
+      "age": 28,
+      "value": 28736842
     },
     {
-      "name": "Conor Olson",
+      "name": "Kody Han",
       "position": "FW",
-      "rating": 68,
+      "rating": 62,
       "age": 18,
-      "value": 38652631
+      "value": 35242105
     },
     {
-      "name": "Kwabena Pepper",
+      "name": "Chidi Manning",
       "position": "FW",
-      "rating": 73,
-      "age": 31,
-      "value": 26510526
+      "rating": 60,
+      "age": 25,
+      "value": 27473684
     }
   ],
   "stadium": {

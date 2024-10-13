@@ -2,144 +2,144 @@
   "name": "Luton",
   "squad": [
     {
-      "name": "Aditya Reid",
+      "name": "Adan Seo",
       "position": "GK",
-      "rating": 87,
-      "age": 27,
-      "value": 19781052
+      "rating": 79,
+      "age": 24,
+      "value": 19957894
     },
     {
-      "name": "Leon Zamani",
+      "name": "Alex Peters",
       "position": "GK",
-      "rating": 77,
-      "age": 33,
-      "value": 13616842
-    },
-    {
-      "name": "Guillermo Ramirez",
-      "position": "GK",
-      "rating": 69,
-      "age": 18,
-      "value": 20917894
-    },
-    {
-      "name": "Ulises Rodr\u00edguez",
-      "position": "DF",
-      "rating": 63,
-      "age": 16,
-      "value": 25200000
-    },
-    {
-      "name": "Roman West",
-      "position": "DF",
-      "rating": 65,
-      "age": 32,
-      "value": 15052631
-    },
-    {
-      "name": "Malcolm Ellis",
-      "position": "DF",
-      "rating": 83,
-      "age": 30,
-      "value": 20968421
-    },
-    {
-      "name": "Vince Svensson",
-      "position": "DF",
-      "rating": 62,
-      "age": 22,
+      "rating": 80,
+      "age": 23,
       "value": 20884210
     },
     {
-      "name": "Shawn Russell",
+      "name": "Kolby Franklin",
+      "position": "GK",
+      "rating": 80,
+      "age": 34,
+      "value": 13473684
+    },
+    {
+      "name": "Travis Boone",
+      "position": "DF",
+      "rating": 90,
+      "age": 32,
+      "value": 20842105
+    },
+    {
+      "name": "Alonso Bishop",
       "position": "DF",
       "rating": 61,
-      "age": 31,
-      "value": 14768421
-    },
-    {
-      "name": "Zachary Chen",
-      "position": "DF",
-      "rating": 67,
-      "age": 27,
-      "value": 19042105
-    },
-    {
-      "name": "Samuel Manning",
-      "position": "MF",
-      "rating": 72,
       "age": 34,
-      "value": 18189473
+      "value": 12842105
     },
     {
-      "name": "Nikhil Mills",
-      "position": "MF",
-      "rating": 68,
-      "age": 26,
-      "value": 24050526
-    },
-    {
-      "name": "Manuel Hassan",
-      "position": "MF",
-      "rating": 79,
-      "age": 28,
-      "value": 25945263
-    },
-    {
-      "name": "Francisco Ortega",
-      "position": "MF",
-      "rating": 66,
-      "age": 26,
-      "value": 23343157
-    },
-    {
-      "name": "Richard Ramirez",
-      "position": "MF",
-      "rating": 70,
-      "age": 26,
-      "value": 24757894
-    },
-    {
-      "name": "Noah Bailey",
-      "position": "MF",
-      "rating": 85,
-      "age": 20,
-      "value": 36505263
-    },
-    {
-      "name": "Sage Murray",
-      "position": "FW",
-      "rating": 65,
-      "age": 30,
-      "value": 24631578
-    },
-    {
-      "name": "Kameron Castillo",
-      "position": "FW",
-      "rating": 75,
-      "age": 33,
-      "value": 24868421
-    },
-    {
-      "name": "Desmond Hayes",
-      "position": "FW",
-      "rating": 68,
+      "name": "Adrian Bell",
+      "position": "DF",
+      "rating": 83,
       "age": 25,
-      "value": 31136842
+      "value": 25336842
     },
     {
-      "name": "Aedan Mori",
-      "position": "FW",
-      "rating": 79,
+      "name": "Pedro \u00c5kesson",
+      "position": "DF",
+      "rating": 60,
+      "age": 26,
+      "value": 17684210
+    },
+    {
+      "name": "Carl Palmer",
+      "position": "DF",
+      "rating": 64,
+      "age": 33,
+      "value": 14147368
+    },
+    {
+      "name": "Quentin Jansson",
+      "position": "DF",
+      "rating": 71,
+      "age": 16,
+      "value": 28400000
+    },
+    {
+      "name": "Daisuke Richards",
+      "position": "MF",
+      "rating": 83,
+      "age": 34,
+      "value": 20968421
+    },
+    {
+      "name": "Filip Andrews",
+      "position": "MF",
+      "rating": 74,
       "age": 20,
+      "value": 31781052
+    },
+    {
+      "name": "Edwin Black",
+      "position": "MF",
+      "rating": 64,
+      "age": 31,
+      "value": 18593684
+    },
+    {
+      "name": "Will Green",
+      "position": "MF",
+      "rating": 87,
+      "age": 16,
       "value": 40000000
     },
     {
-      "name": "Pranav Vestergaard",
+      "name": "Lyle Rodriguez",
+      "position": "MF",
+      "rating": 71,
+      "age": 35,
+      "value": 17040000
+    },
+    {
+      "name": "Quincy Torbj\u00f6rnsson",
+      "position": "MF",
+      "rating": 71,
+      "age": 22,
+      "value": 28698947
+    },
+    {
+      "name": "Aaron Espinoza",
+      "position": "FW",
+      "rating": 81,
+      "age": 32,
+      "value": 28136842
+    },
+    {
+      "name": "Zane Lubega",
+      "position": "FW",
+      "rating": 73,
+      "age": 19,
+      "value": 40000000
+    },
+    {
+      "name": "Orlando Kim",
       "position": "FW",
       "rating": 65,
-      "age": 27,
-      "value": 27710526
+      "age": 23,
+      "value": 31815789
+    },
+    {
+      "name": "Curtis Pepper",
+      "position": "FW",
+      "rating": 62,
+      "age": 26,
+      "value": 27410526
+    },
+    {
+      "name": "Chike Solberg",
+      "position": "FW",
+      "rating": 61,
+      "age": 17,
+      "value": 35636842
     }
   ],
   "stadium": {

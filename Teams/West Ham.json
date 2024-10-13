@@ -2,144 +2,144 @@
   "name": "West Ham",
   "squad": [
     {
-      "name": "Suraj Mcdonald",
+      "name": "Kendall Das",
       "position": "GK",
-      "rating": 65,
-      "age": 22,
-      "value": 17515789
+      "rating": 79,
+      "age": 19,
+      "value": 23284210
     },
     {
-      "name": "Leslie Lindgren",
+      "name": "Edwin Patel",
       "position": "GK",
-      "rating": 67,
-      "age": 34,
-      "value": 11284210
+      "rating": 84,
+      "age": 18,
+      "value": 25465263
     },
     {
-      "name": "Pranav Guerrero",
+      "name": "Marshall Harrison",
       "position": "GK",
-      "rating": 78,
-      "age": 23,
-      "value": 20362105
+      "rating": 71,
+      "age": 29,
+      "value": 14947368
     },
     {
-      "name": "Isaiah Bishop",
-      "position": "DF",
-      "rating": 81,
-      "age": 25,
-      "value": 24726315
-    },
-    {
-      "name": "Sebasti\u00e1n Richardson",
-      "position": "DF",
-      "rating": 75,
-      "age": 23,
-      "value": 24473684
-    },
-    {
-      "name": "Nikhil Ramos",
+      "name": "Barney Barnett",
       "position": "DF",
       "rating": 79,
-      "age": 29,
-      "value": 20789473
+      "age": 28,
+      "value": 21621052
     },
     {
-      "name": "Lawrence Ellison",
+      "name": "Sam Burke",
       "position": "DF",
-      "rating": 76,
-      "age": 35,
-      "value": 15200000
+      "rating": 71,
+      "age": 30,
+      "value": 17936842
     },
     {
-      "name": "Samuel Franklin",
+      "name": "Cooper Flores",
+      "position": "DF",
+      "rating": 87,
+      "age": 29,
+      "value": 22894736
+    },
+    {
+      "name": "Derrick Olson",
       "position": "DF",
       "rating": 84,
-      "age": 20,
-      "value": 30063157
+      "age": 21,
+      "value": 29178947
     },
     {
-      "name": "Rene Pepper",
+      "name": "Paul Adams",
       "position": "DF",
-      "rating": 77,
-      "age": 17,
-      "value": 29989473
+      "rating": 64,
+      "age": 31,
+      "value": 15494736
     },
     {
-      "name": "Ezra Mills",
-      "position": "MF",
-      "rating": 63,
-      "age": 19,
-      "value": 27852631
+      "name": "Bhekizizwe Osei",
+      "position": "DF",
+      "rating": 70,
+      "age": 22,
+      "value": 23578947
     },
     {
-      "name": "Izaiah Kang",
+      "name": "Ben Bates",
       "position": "MF",
-      "rating": 85,
-      "age": 25,
-      "value": 31136842
-    },
-    {
-      "name": "Brantley Farmer",
-      "position": "MF",
-      "rating": 80,
-      "age": 34,
-      "value": 20210526
-    },
-    {
-      "name": "Daisuke Schmidt",
-      "position": "MF",
-      "rating": 69,
-      "age": 33,
-      "value": 18303157
-    },
-    {
-      "name": "Rowan Eriksson",
-      "position": "MF",
-      "rating": 60,
-      "age": 19,
+      "rating": 84,
+      "age": 29,
       "value": 26526315
     },
     {
-      "name": "Patrick Morales",
+      "name": "Kevin Qureshi",
       "position": "MF",
-      "rating": 64,
-      "age": 18,
-      "value": 29103157
+      "rating": 66,
+      "age": 16,
+      "value": 31680000
     },
     {
-      "name": "Sebasti\u00e1n Gray",
+      "name": "Sim\u00f3n West",
+      "position": "MF",
+      "rating": 75,
+      "age": 33,
+      "value": 19894736
+    },
+    {
+      "name": "Wayne Patterson",
+      "position": "MF",
+      "rating": 74,
+      "age": 34,
+      "value": 18694736
+    },
+    {
+      "name": "Alexander Lee",
+      "position": "MF",
+      "rating": 70,
+      "age": 27,
+      "value": 23873684
+    },
+    {
+      "name": "Oluwafemi Castro",
+      "position": "MF",
+      "rating": 70,
+      "age": 29,
+      "value": 22105263
+    },
+    {
+      "name": "Kobe Diaz",
       "position": "FW",
       "rating": 86,
-      "age": 28,
-      "value": 35305263
+      "age": 30,
+      "value": 32589473
     },
     {
-      "name": "Andre Marshall",
+      "name": "Aiden Bryan",
       "position": "FW",
-      "rating": 78,
-      "age": 33,
-      "value": 25863157
-    },
-    {
-      "name": "Min-jun Rivera",
-      "position": "FW",
-      "rating": 66,
-      "age": 24,
-      "value": 31263157
-    },
-    {
-      "name": "Ignacio Ito",
-      "position": "FW",
-      "rating": 88,
+      "rating": 79,
       "age": 34,
-      "value": 27789473
+      "value": 24947368
     },
     {
-      "name": "Ra\u00fal Fisher",
+      "name": "Curtis Hughes",
       "position": "FW",
       "rating": 85,
-      "age": 25,
-      "value": 38921052
+      "age": 20,
+      "value": 40000000
+    },
+    {
+      "name": "Angelo Blake",
+      "position": "FW",
+      "rating": 80,
+      "age": 34,
+      "value": 25263157
+    },
+    {
+      "name": "Santiago Eriksson",
+      "position": "FW",
+      "rating": 67,
+      "age": 24,
+      "value": 31736842
     }
   ],
   "stadium": {

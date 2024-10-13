@@ -2,144 +2,144 @@
   "name": "Arsenal",
   "squad": [
     {
-      "name": "Trevor Suzuki",
+      "name": "Will Cohen",
       "position": "GK",
-      "rating": 63,
-      "age": 33,
-      "value": 11141052
+      "rating": 85,
+      "age": 30,
+      "value": 17178947
     },
     {
-      "name": "Cian Henderson",
+      "name": "Colin Rom\u00e1n",
       "position": "GK",
-      "rating": 73,
-      "age": 25,
-      "value": 17827368
+      "rating": 72,
+      "age": 34,
+      "value": 12126315
     },
     {
-      "name": "Joseph Hart",
+      "name": "Pablo Franklin",
       "position": "GK",
       "rating": 90,
-      "age": 25,
-      "value": 21978947
+      "age": 16,
+      "value": 28800000
     },
     {
-      "name": "Casper Sangare",
+      "name": "Damien Campbell",
       "position": "DF",
-      "rating": 80,
-      "age": 29,
-      "value": 21052631
+      "rating": 81,
+      "age": 24,
+      "value": 25578947
     },
     {
-      "name": "Graham Rowe",
+      "name": "Dashiell Mcdonald",
       "position": "DF",
-      "rating": 79,
-      "age": 26,
-      "value": 23284210
+      "rating": 85,
+      "age": 19,
+      "value": 31315789
     },
     {
-      "name": "Bruno Green",
-      "position": "DF",
-      "rating": 62,
-      "age": 30,
-      "value": 15663157
-    },
-    {
-      "name": "Cael Morris",
-      "position": "DF",
-      "rating": 86,
-      "age": 27,
-      "value": 24442105
-    },
-    {
-      "name": "Keegan Day",
-      "position": "DF",
-      "rating": 82,
-      "age": 23,
-      "value": 26757894
-    },
-    {
-      "name": "Agust\u00edn Olson",
+      "name": "Joel Ramadhan",
       "position": "DF",
       "rating": 89,
-      "age": 27,
-      "value": 25294736
+      "age": 19,
+      "value": 32789473
     },
     {
-      "name": "Sim\u00f3n Fields",
+      "name": "Pablo Reid",
+      "position": "DF",
+      "rating": 64,
+      "age": 21,
+      "value": 22231578
+    },
+    {
+      "name": "Zion Freeman",
+      "position": "DF",
+      "rating": 79,
+      "age": 35,
+      "value": 15800000
+    },
+    {
+      "name": "Damon Hicks",
+      "position": "DF",
+      "rating": 65,
+      "age": 16,
+      "value": 26000000
+    },
+    {
+      "name": "Rune Rao",
+      "position": "MF",
+      "rating": 62,
+      "age": 29,
+      "value": 19578947
+    },
+    {
+      "name": "Min-jun Butler",
       "position": "MF",
       "rating": 72,
-      "age": 33,
-      "value": 19098947
-    },
-    {
-      "name": "Rajesh Payne",
-      "position": "MF",
-      "rating": 64,
-      "age": 31,
-      "value": 18593684
-    },
-    {
-      "name": "Robert Rivera",
-      "position": "MF",
-      "rating": 88,
-      "age": 31,
-      "value": 25566315
-    },
-    {
-      "name": "Derrick Boone",
-      "position": "MF",
-      "rating": 90,
-      "age": 30,
+      "age": 24,
       "value": 27284210
     },
     {
-      "name": "Nehemiah Hughes",
+      "name": "Patrick Patel",
       "position": "MF",
       "rating": 90,
-      "age": 28,
-      "value": 29557894
-    },
-    {
-      "name": "Magnus Burke",
-      "position": "MF",
-      "rating": 84,
-      "age": 19,
-      "value": 37136842
-    },
-    {
-      "name": "Josiah Marshall",
-      "position": "FW",
-      "rating": 77,
-      "age": 22,
-      "value": 38905263
-    },
-    {
-      "name": "Vince Stone",
-      "position": "FW",
-      "rating": 88,
-      "age": 28,
-      "value": 36126315
-    },
-    {
-      "name": "Douglas Shaw",
-      "position": "FW",
-      "rating": 75,
-      "age": 19,
+      "age": 18,
       "value": 40000000
     },
     {
-      "name": "Donovan Stone",
-      "position": "FW",
-      "rating": 67,
+      "name": "Elliot Hernandez",
+      "position": "MF",
+      "rating": 87,
       "age": 23,
-      "value": 32794736
+      "value": 34067368
     },
     {
-      "name": "Stephen Castillo",
+      "name": "Jonah Hassan",
+      "position": "MF",
+      "rating": 78,
+      "age": 22,
+      "value": 31528421
+    },
+    {
+      "name": "Nicolas James",
+      "position": "MF",
+      "rating": 64,
+      "age": 24,
+      "value": 24252631
+    },
+    {
+      "name": "Sven Wood",
       "position": "FW",
-      "rating": 66,
-      "age": 27,
-      "value": 28136842
+      "rating": 77,
+      "age": 21,
+      "value": 40000000
+    },
+    {
+      "name": "Clinton Wood",
+      "position": "FW",
+      "rating": 74,
+      "age": 17,
+      "value": 40000000
+    },
+    {
+      "name": "Justin Venter",
+      "position": "FW",
+      "rating": 64,
+      "age": 18,
+      "value": 36378947
+    },
+    {
+      "name": "Adeyemi Svensson",
+      "position": "FW",
+      "rating": 81,
+      "age": 18,
+      "value": 40000000
+    },
+    {
+      "name": "Adel Baker",
+      "position": "FW",
+      "rating": 73,
+      "age": 18,
+      "value": 40000000
     }
   ],
   "stadium": {

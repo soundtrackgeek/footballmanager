@@ -2,144 +2,144 @@
   "name": "Newcastle",
   "squad": [
     {
-      "name": "Kelly Silva",
+      "name": "Hugo Andrews",
       "position": "GK",
-      "rating": 60,
-      "age": 24,
-      "value": 15157894
-    },
-    {
-      "name": "Harry Kim",
-      "position": "GK",
-      "rating": 76,
-      "age": 32,
-      "value": 14080000
-    },
-    {
-      "name": "Karl Spencer",
-      "position": "GK",
-      "rating": 67,
-      "age": 35,
-      "value": 10720000
-    },
-    {
-      "name": "Ping Martin",
-      "position": "DF",
-      "rating": 73,
-      "age": 19,
-      "value": 26894736
-    },
-    {
-      "name": "Johan Bennett",
-      "position": "DF",
-      "rating": 82,
-      "age": 30,
-      "value": 20715789
-    },
-    {
-      "name": "Toshiro Nguyen",
-      "position": "DF",
-      "rating": 70,
-      "age": 18,
-      "value": 26526315
-    },
-    {
-      "name": "Yahir Bhatia",
-      "position": "DF",
-      "rating": 74,
+      "rating": 72,
       "age": 34,
-      "value": 15578947
+      "value": 12126315
     },
     {
-      "name": "Ayden Bailey",
+      "name": "Casper Richards",
+      "position": "GK",
+      "rating": 70,
+      "age": 33,
+      "value": 12378947
+    },
+    {
+      "name": "Raj Kim",
+      "position": "GK",
+      "rating": 89,
+      "age": 17,
+      "value": 27730526
+    },
+    {
+      "name": "Beau Shin",
       "position": "DF",
-      "rating": 69,
-      "age": 24,
-      "value": 21789473
+      "rating": 79,
+      "age": 20,
+      "value": 28273684
     },
     {
-      "name": "Bryson Ferguson",
+      "name": "Lucas Alexander",
+      "position": "DF",
+      "rating": 65,
+      "age": 23,
+      "value": 21210526
+    },
+    {
+      "name": "Clark Jordan",
+      "position": "DF",
+      "rating": 60,
+      "age": 34,
+      "value": 12631578
+    },
+    {
+      "name": "Lars Peters",
+      "position": "DF",
+      "rating": 90,
+      "age": 33,
+      "value": 19894736
+    },
+    {
+      "name": "Maurice Cabrera",
       "position": "DF",
       "rating": 82,
-      "age": 26,
-      "value": 24168421
+      "age": 33,
+      "value": 18126315
     },
     {
-      "name": "Kellen Gariba",
-      "position": "MF",
-      "rating": 68,
-      "age": 35,
-      "value": 16320000
-    },
-    {
-      "name": "Jamie Larsen",
-      "position": "MF",
-      "rating": 90,
-      "age": 31,
-      "value": 26147368
-    },
-    {
-      "name": "Kofi Knox",
-      "position": "MF",
-      "rating": 78,
-      "age": 24,
-      "value": 29557894
-    },
-    {
-      "name": "Ekon Hart",
-      "position": "MF",
-      "rating": 71,
-      "age": 24,
-      "value": 26905263
-    },
-    {
-      "name": "Miles Hart",
-      "position": "MF",
-      "rating": 66,
-      "age": 25,
-      "value": 24176842
-    },
-    {
-      "name": "Antonio Green",
-      "position": "MF",
-      "rating": 62,
-      "age": 30,
-      "value": 18795789
-    },
-    {
-      "name": "Keegan Castillo",
-      "position": "FW",
+      "name": "Leonardo Marshall",
+      "position": "DF",
       "rating": 67,
-      "age": 17,
-      "value": 39142105
+      "age": 33,
+      "value": 14810526
     },
     {
-      "name": "Henrik Wheeler",
-      "position": "FW",
+      "name": "Jonathan Perry",
+      "position": "MF",
       "rating": 80,
       "age": 30,
-      "value": 30315789
+      "value": 24252631
     },
     {
-      "name": "Santiago Scott",
-      "position": "FW",
-      "rating": 61,
-      "age": 30,
-      "value": 23115789
+      "name": "Veer Zamani",
+      "position": "MF",
+      "rating": 65,
+      "age": 22,
+      "value": 26273684
     },
     {
-      "name": "Oscar Nielsen",
-      "position": "FW",
-      "rating": 84,
-      "age": 35,
-      "value": 25200000
+      "name": "Rowan Holt",
+      "position": "MF",
+      "rating": 83,
+      "age": 32,
+      "value": 23065263
     },
     {
-      "name": "Bruce Bates",
-      "position": "FW",
+      "name": "Jabari Fitzgerald",
+      "position": "MF",
+      "rating": 79,
+      "age": 29,
+      "value": 24947368
+    },
+    {
+      "name": "Musa Collins",
+      "position": "MF",
       "rating": 82,
+      "age": 32,
+      "value": 22787368
+    },
+    {
+      "name": "Sven Perry",
+      "position": "MF",
+      "rating": 90,
+      "age": 29,
+      "value": 28421052
+    },
+    {
+      "name": "Aaron Flores",
+      "position": "FW",
+      "rating": 69,
       "age": 28,
-      "value": 33663157
+      "value": 28326315
+    },
+    {
+      "name": "Noel Evans",
+      "position": "FW",
+      "rating": 62,
+      "age": 29,
+      "value": 24473684
+    },
+    {
+      "name": "Juan Nguyen",
+      "position": "FW",
+      "rating": 85,
+      "age": 19,
+      "value": 40000000
+    },
+    {
+      "name": "Kwame Garc\u00eda",
+      "position": "FW",
+      "rating": 88,
+      "age": 31,
+      "value": 31957894
+    },
+    {
+      "name": "Henry Tanaka",
+      "position": "FW",
+      "rating": 87,
+      "age": 32,
+      "value": 30221052
     }
   ],
   "stadium": {

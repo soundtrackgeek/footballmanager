@@ -2,144 +2,144 @@
   "name": "Crystal Palace",
   "squad": [
     {
-      "name": "Grant Morgan",
+      "name": "Axel Fuller",
       "position": "GK",
-      "rating": 85,
-      "age": 17,
-      "value": 26484210
-    },
-    {
-      "name": "Noah Watkins",
-      "position": "GK",
-      "rating": 81,
-      "age": 23,
-      "value": 21145263
-    },
-    {
-      "name": "Cooper Lee",
-      "position": "GK",
-      "rating": 72,
-      "age": 17,
-      "value": 22433684
-    },
-    {
-      "name": "Nicol\u00e1s Stokes",
-      "position": "DF",
-      "rating": 82,
-      "age": 22,
-      "value": 27621052
-    },
-    {
-      "name": "Shane Howard",
-      "position": "DF",
-      "rating": 73,
-      "age": 28,
-      "value": 19978947
-    },
-    {
-      "name": "Mauricio Fletcher",
-      "position": "DF",
-      "rating": 86,
-      "age": 29,
-      "value": 22631578
-    },
-    {
-      "name": "Ethan Palmer",
-      "position": "DF",
-      "rating": 64,
-      "age": 26,
-      "value": 18863157
-    },
-    {
-      "name": "Thiago Hart",
-      "position": "DF",
-      "rating": 84,
+      "rating": 83,
       "age": 35,
-      "value": 16800000
+      "value": 13280000
     },
     {
-      "name": "Roy Ellis",
+      "name": "Warren Watanabe",
+      "position": "GK",
+      "rating": 61,
+      "age": 30,
+      "value": 12328421
+    },
+    {
+      "name": "Dennis Day",
+      "position": "GK",
+      "rating": 68,
+      "age": 18,
+      "value": 20614736
+    },
+    {
+      "name": "Derrick Whitaker",
       "position": "DF",
-      "rating": 73,
-      "age": 21,
-      "value": 25357894
+      "rating": 78,
+      "age": 33,
+      "value": 17242105
     },
     {
-      "name": "Martin Wang",
+      "name": "Konner Morris",
+      "position": "DF",
+      "rating": 62,
+      "age": 25,
+      "value": 18926315
+    },
+    {
+      "name": "Landon Ibrahim",
+      "position": "DF",
+      "rating": 63,
+      "age": 33,
+      "value": 13926315
+    },
+    {
+      "name": "Adrian Larsen",
+      "position": "DF",
+      "rating": 90,
+      "age": 30,
+      "value": 22736842
+    },
+    {
+      "name": "Daniel Romero",
+      "position": "DF",
+      "rating": 85,
+      "age": 20,
+      "value": 30421052
+    },
+    {
+      "name": "Jackson Farmer",
+      "position": "DF",
+      "rating": 76,
+      "age": 22,
+      "value": 25600000
+    },
+    {
+      "name": "Preston Dias",
       "position": "MF",
-      "rating": 82,
+      "rating": 81,
+      "age": 19,
+      "value": 35810526
+    },
+    {
+      "name": "Harley Ellis",
+      "position": "MF",
+      "rating": 90,
       "age": 27,
-      "value": 27966315
+      "value": 30694736
     },
     {
-      "name": "Malachi Navarro",
+      "name": "Eric Watkins",
       "position": "MF",
+      "rating": 85,
+      "age": 23,
+      "value": 33284210
+    },
+    {
+      "name": "Darren Wheeler",
+      "position": "MF",
+      "rating": 71,
+      "age": 28,
+      "value": 23317894
+    },
+    {
+      "name": "Amir Richardson",
+      "position": "MF",
+      "rating": 79,
+      "age": 18,
+      "value": 35924210
+    },
+    {
+      "name": "Russell Griffin",
+      "position": "MF",
+      "rating": 67,
+      "age": 19,
+      "value": 29621052
+    },
+    {
+      "name": "Sunil Barnes",
+      "position": "FW",
+      "rating": 85,
+      "age": 28,
+      "value": 34894736
+    },
+    {
+      "name": "Andr\u00e9s Pena",
+      "position": "FW",
+      "rating": 70,
+      "age": 28,
+      "value": 28736842
+    },
+    {
+      "name": "Lewis Owens",
+      "position": "FW",
       "rating": 76,
       "age": 20,
-      "value": 32640000
+      "value": 40000000
     },
     {
-      "name": "Mathew Mcdonald",
-      "position": "MF",
-      "rating": 88,
-      "age": 32,
-      "value": 24454736
+      "name": "Allan Ortega",
+      "position": "FW",
+      "rating": 61,
+      "age": 33,
+      "value": 20226315
     },
     {
-      "name": "Ulises Hart",
-      "position": "MF",
+      "name": "Keith Richards",
+      "position": "FW",
       "rating": 83,
       "age": 33,
-      "value": 22016842
-    },
-    {
-      "name": "Benjamin Oliver",
-      "position": "MF",
-      "rating": 90,
-      "age": 19,
-      "value": 39789473
-    },
-    {
-      "name": "Arthur Murphy",
-      "position": "MF",
-      "rating": 90,
-      "age": 29,
-      "value": 28421052
-    },
-    {
-      "name": "Reed Wilson",
-      "position": "FW",
-      "rating": 82,
-      "age": 20,
-      "value": 40000000
-    },
-    {
-      "name": "Hiro Reid",
-      "position": "FW",
-      "rating": 83,
-      "age": 32,
-      "value": 28831578
-    },
-    {
-      "name": "Kameron Kim",
-      "position": "FW",
-      "rating": 77,
-      "age": 19,
-      "value": 40000000
-    },
-    {
-      "name": "Roland Fisher",
-      "position": "FW",
-      "rating": 87,
-      "age": 35,
-      "value": 26100000
-    },
-    {
-      "name": "Adrian Mehta",
-      "position": "FW",
-      "rating": 68,
-      "age": 22,
-      "value": 34357894
+      "value": 27521052
     }
   ],
   "stadium": {
