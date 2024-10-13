@@ -2,144 +2,144 @@
   "name": "Sheffield United",
   "squad": [
     {
-      "name": "Kameron Benson",
+      "name": "Zane Torres",
       "position": "GK",
-      "rating": 78,
-      "age": 29,
-      "value": 16421052
+      "rating": 60,
+      "age": 21,
+      "value": 16673684
     },
     {
-      "name": "Hassan Mori",
+      "name": "Clifford Gray",
       "position": "GK",
-      "rating": 65,
-      "age": 29,
-      "value": 13684210
-    },
-    {
-      "name": "Xavier Palmer",
-      "position": "GK",
-      "rating": 61,
-      "age": 16,
-      "value": 19520000
-    },
-    {
-      "name": "Morgan Bennett",
-      "position": "DF",
-      "rating": 63,
-      "age": 33,
-      "value": 13926315
-    },
-    {
-      "name": "Rowan Foster",
-      "position": "DF",
-      "rating": 71,
-      "age": 27,
-      "value": 20178947
-    },
-    {
-      "name": "Reese Olson",
-      "position": "DF",
       "rating": 80,
-      "age": 29,
-      "value": 21052631
+      "age": 26,
+      "value": 18863157
     },
     {
-      "name": "Damon Fletcher",
+      "name": "Hiro Gray",
+      "position": "GK",
+      "rating": 83,
+      "age": 18,
+      "value": 25162105
+    },
+    {
+      "name": "Arjun Bennett",
       "position": "DF",
-      "rating": 78,
-      "age": 34,
+      "rating": 74,
+      "age": 21,
+      "value": 25705263
+    },
+    {
+      "name": "Cian Mori",
+      "position": "DF",
+      "rating": 90,
+      "age": 27,
+      "value": 25578947
+    },
+    {
+      "name": "Anders Bryant",
+      "position": "DF",
+      "rating": 60,
+      "age": 28,
       "value": 16421052
     },
     {
-      "name": "Dustin Nilsen",
+      "name": "Blake Joseph",
       "position": "DF",
-      "rating": 71,
-      "age": 17,
-      "value": 27652631
+      "rating": 88,
+      "age": 24,
+      "value": 27789473
     },
     {
-      "name": "Viktor Marshall",
+      "name": "Matt Peterson",
       "position": "DF",
-      "rating": 67,
-      "age": 17,
-      "value": 26094736
+      "rating": 72,
+      "age": 21,
+      "value": 25010526
     },
     {
-      "name": "River Pepper",
-      "position": "MF",
-      "rating": 61,
-      "age": 28,
-      "value": 20033684
-    },
-    {
-      "name": "Benjamin Long",
-      "position": "MF",
-      "rating": 83,
-      "age": 27,
-      "value": 28307368
-    },
-    {
-      "name": "Andrew Perez",
-      "position": "MF",
+      "name": "Izaiah Rojas",
+      "position": "DF",
       "rating": 69,
-      "age": 35,
-      "value": 16560000
+      "age": 16,
+      "value": 27600000
     },
     {
-      "name": "Spencer Fox",
+      "name": "Baojun Schneider",
       "position": "MF",
-      "rating": 76,
-      "age": 30,
-      "value": 23040000
+      "rating": 89,
+      "age": 34,
+      "value": 22484210
     },
     {
-      "name": "Clifford Holt",
+      "name": "Manuel Coleman",
       "position": "MF",
       "rating": 62,
-      "age": 17,
-      "value": 28976842
+      "age": 23,
+      "value": 24277894
     },
     {
-      "name": "Kabelo Black",
+      "name": "Reuben Lee",
       "position": "MF",
       "rating": 72,
-      "age": 23,
-      "value": 28193684
+      "age": 22,
+      "value": 29103157
     },
     {
-      "name": "Ayden Brown",
-      "position": "FW",
-      "rating": 69,
-      "age": 25,
-      "value": 31594736
-    },
-    {
-      "name": "Morten Shaw",
-      "position": "FW",
-      "rating": 71,
-      "age": 18,
-      "value": 40000000
-    },
-    {
-      "name": "Rafael Kim",
-      "position": "FW",
-      "rating": 60,
+      "name": "Zachary Duncan",
+      "position": "MF",
+      "rating": 84,
       "age": 32,
-      "value": 20842105
+      "value": 23343157
     },
     {
-      "name": "Nathaniel Holm",
+      "name": "Kyan Webster",
+      "position": "MF",
+      "rating": 79,
+      "age": 30,
+      "value": 23949473
+    },
+    {
+      "name": "Walter Das",
+      "position": "MF",
+      "rating": 71,
+      "age": 28,
+      "value": 23317894
+    },
+    {
+      "name": "Simon Sato",
+      "position": "FW",
+      "rating": 81,
+      "age": 35,
+      "value": 24300000
+    },
+    {
+      "name": "Theodore Hart",
+      "position": "FW",
+      "rating": 65,
+      "age": 20,
+      "value": 34894736
+    },
+    {
+      "name": "Jarrett Powell",
       "position": "FW",
       "rating": 68,
-      "age": 16,
-      "value": 40000000
+      "age": 30,
+      "value": 25768421
     },
     {
-      "name": "Wei Burke",
+      "name": "Jackson Guerrero",
       "position": "FW",
-      "rating": 78,
-      "age": 31,
-      "value": 28326315
+      "rating": 90,
+      "age": 32,
+      "value": 31263157
+    },
+    {
+      "name": "Cameron Russell",
+      "position": "FW",
+      "rating": 86,
+      "age": 20,
+      "value": 40000000
     }
   ],
   "stadium": {

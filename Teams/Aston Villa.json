@@ -2,144 +2,144 @@
   "name": "Aston Villa",
   "squad": [
     {
-      "name": "Martin Cohen",
+      "name": "Cameron Meadows",
       "position": "GK",
-      "rating": 75,
+      "rating": 81,
+      "age": 30,
+      "value": 16370526
+    },
+    {
+      "name": "Kaleb Grimes",
+      "position": "GK",
+      "rating": 78,
+      "age": 35,
+      "value": 12480000
+    },
+    {
+      "name": "Rodney Solberg",
+      "position": "GK",
+      "rating": 62,
+      "age": 33,
+      "value": 10964210
+    },
+    {
+      "name": "Hugo Cook",
+      "position": "DF",
+      "rating": 74,
+      "age": 31,
+      "value": 17915789
+    },
+    {
+      "name": "Babatunde Holmes",
+      "position": "DF",
+      "rating": 83,
       "age": 34,
-      "value": 12631578
+      "value": 17473684
     },
     {
-      "name": "Gustav Bryant",
-      "position": "GK",
-      "rating": 79,
-      "age": 18,
-      "value": 23949473
-    },
-    {
-      "name": "Griffin Lin",
-      "position": "GK",
-      "rating": 82,
-      "age": 33,
-      "value": 14501052
-    },
-    {
-      "name": "Roy Bates",
-      "position": "DF",
-      "rating": 84,
-      "age": 17,
-      "value": 32715789
-    },
-    {
-      "name": "Nuru Brooks",
-      "position": "DF",
-      "rating": 72,
-      "age": 19,
-      "value": 26526315
-    },
-    {
-      "name": "Aditya Torbj\u00f6rnsson",
-      "position": "DF",
-      "rating": 89,
-      "age": 33,
-      "value": 19673684
-    },
-    {
-      "name": "Mohamed Hamilton",
-      "position": "DF",
-      "rating": 85,
-      "age": 21,
-      "value": 29526315
-    },
-    {
-      "name": "Tariq Rivera",
+      "name": "Miles Alexander",
       "position": "DF",
       "rating": 73,
-      "age": 29,
-      "value": 19210526
+      "age": 22,
+      "value": 24589473
     },
     {
-      "name": "Keita Barnett",
+      "name": "Xavier Burke",
       "position": "DF",
-      "rating": 67,
+      "rating": 64,
       "age": 24,
-      "value": 21157894
+      "value": 20210526
     },
     {
-      "name": "Kendall Oliver",
+      "name": "Patrick Dean",
+      "position": "DF",
+      "rating": 88,
+      "age": 26,
+      "value": 25936842
+    },
+    {
+      "name": "Mathias Brooks",
+      "position": "DF",
+      "rating": 71,
+      "age": 16,
+      "value": 28400000
+    },
+    {
+      "name": "Nikhil Franklin",
       "position": "MF",
-      "rating": 70,
+      "rating": 77,
+      "age": 21,
+      "value": 32096842
+    },
+    {
+      "name": "Garrett Njoroge",
+      "position": "MF",
+      "rating": 79,
+      "age": 31,
+      "value": 22951578
+    },
+    {
+      "name": "Jonathan Long",
+      "position": "MF",
+      "rating": 63,
+      "age": 27,
+      "value": 21486315
+    },
+    {
+      "name": "Rene Rodriguez",
+      "position": "MF",
+      "rating": 77,
+      "age": 19,
+      "value": 34042105
+    },
+    {
+      "name": "Martin Mcdonald",
+      "position": "MF",
+      "rating": 69,
+      "age": 28,
+      "value": 22661052
+    },
+    {
+      "name": "Logan Blake",
+      "position": "MF",
+      "rating": 75,
       "age": 32,
-      "value": 19452631
+      "value": 20842105
     },
     {
-      "name": "Mat\u00edas Lund",
-      "position": "MF",
-      "rating": 89,
-      "age": 29,
-      "value": 28105263
+      "name": "Brian Webb",
+      "position": "FW",
+      "rating": 68,
+      "age": 17,
+      "value": 39726315
     },
     {
-      "name": "Jayson Valdez",
-      "position": "MF",
-      "rating": 81,
-      "age": 20,
-      "value": 34787368
+      "name": "Benjam\u00edn Ward",
+      "position": "FW",
+      "rating": 90,
+      "age": 25,
+      "value": 40000000
     },
     {
-      "name": "Patrick Hill",
-      "position": "MF",
+      "name": "Patrick Adams",
+      "position": "FW",
+      "rating": 83,
+      "age": 28,
+      "value": 34073684
+    },
+    {
+      "name": "Kamau Han",
+      "position": "FW",
       "rating": 73,
       "age": 26,
-      "value": 25818947
+      "value": 32273684
     },
     {
-      "name": "Ralph Owens",
-      "position": "MF",
-      "rating": 66,
-      "age": 16,
-      "value": 31680000
-    },
-    {
-      "name": "Hayden Rivera",
-      "position": "MF",
-      "rating": 70,
-      "age": 29,
-      "value": 22105263
-    },
-    {
-      "name": "Edmund Richardson",
+      "name": "Darren Griffin",
       "position": "FW",
-      "rating": 63,
-      "age": 29,
-      "value": 24868421
-    },
-    {
-      "name": "Chase Holmberg",
-      "position": "FW",
-      "rating": 76,
-      "age": 31,
-      "value": 27600000
-    },
-    {
-      "name": "Izaiah Barnett",
-      "position": "FW",
-      "rating": 63,
-      "age": 23,
-      "value": 30836842
-    },
-    {
-      "name": "Myles Brooks",
-      "position": "FW",
-      "rating": 75,
-      "age": 27,
-      "value": 31973684
-    },
-    {
-      "name": "Mark Kim",
-      "position": "FW",
-      "rating": 84,
-      "age": 29,
-      "value": 33157894
+      "rating": 86,
+      "age": 17,
+      "value": 40000000
     }
   ],
   "stadium": {

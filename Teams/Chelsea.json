@@ -2,144 +2,144 @@
   "name": "Chelsea",
   "squad": [
     {
-      "name": "Jett Green",
-      "position": "GK",
-      "rating": 71,
-      "age": 19,
-      "value": 20926315
-    },
-    {
-      "name": "Thabo Gonz\u00e1lez",
-      "position": "GK",
-      "rating": 88,
-      "age": 32,
-      "value": 16303157
-    },
-    {
-      "name": "Lukas Bennett",
+      "name": "Derek Silva",
       "position": "GK",
       "rating": 67,
-      "age": 34,
-      "value": 11284210
-    },
-    {
-      "name": "Haruki Diaz",
-      "position": "DF",
-      "rating": 86,
-      "age": 35,
-      "value": 17200000
-    },
-    {
-      "name": "Adekunle Green",
-      "position": "DF",
-      "rating": 61,
       "age": 17,
-      "value": 23757894
+      "value": 20875789
     },
     {
-      "name": "Kwesi Lindberg",
+      "name": "Kyan Higgins",
+      "position": "GK",
+      "rating": 72,
+      "age": 20,
+      "value": 20614736
+    },
+    {
+      "name": "Heath Bates",
+      "position": "GK",
+      "rating": 87,
+      "age": 28,
+      "value": 19048421
+    },
+    {
+      "name": "Uriel West",
       "position": "DF",
-      "rating": 67,
-      "age": 19,
-      "value": 24684210
-    },
-    {
-      "name": "Erik Mendoza",
-      "position": "DF",
-      "rating": 88,
-      "age": 31,
-      "value": 21305263
-    },
-    {
-      "name": "Konner Dahl",
-      "position": "DF",
-      "rating": 64,
-      "age": 29,
-      "value": 16842105
-    },
-    {
-      "name": "Harold Hansen",
-      "position": "DF",
-      "rating": 64,
-      "age": 18,
-      "value": 24252631
-    },
-    {
-      "name": "Musa Xu",
-      "position": "MF",
-      "rating": 83,
-      "age": 35,
-      "value": 19920000
-    },
-    {
-      "name": "Mandla Venter",
-      "position": "MF",
-      "rating": 83,
-      "age": 21,
-      "value": 34597894
-    },
-    {
-      "name": "Casey Romero",
-      "position": "MF",
-      "rating": 61,
-      "age": 24,
-      "value": 23115789
-    },
-    {
-      "name": "Douglas Ulfsson",
-      "position": "MF",
-      "rating": 63,
-      "age": 16,
-      "value": 30240000
-    },
-    {
-      "name": "Noel Bennett",
-      "position": "MF",
-      "rating": 76,
-      "age": 19,
-      "value": 33600000
-    },
-    {
-      "name": "Rakesh Kim",
-      "position": "MF",
-      "rating": 71,
-      "age": 31,
-      "value": 20627368
-    },
-    {
-      "name": "Min-jun Gonzalez",
-      "position": "FW",
-      "rating": 70,
-      "age": 34,
-      "value": 22105263
-    },
-    {
-      "name": "Jared Palmer",
-      "position": "FW",
       "rating": 90,
-      "age": 30,
-      "value": 34105263
+      "age": 20,
+      "value": 32210526
     },
     {
-      "name": "Renato Biko",
-      "position": "FW",
+      "name": "Simba Coleman",
+      "position": "DF",
+      "rating": 77,
+      "age": 34,
+      "value": 16210526
+    },
+    {
+      "name": "Brantley  Taylor",
+      "position": "DF",
+      "rating": 80,
+      "age": 20,
+      "value": 28631578
+    },
+    {
+      "name": "Juan Pablo Webster",
+      "position": "DF",
+      "rating": 74,
+      "age": 26,
+      "value": 21810526
+    },
+    {
+      "name": "Femi Cox",
+      "position": "DF",
+      "rating": 83,
+      "age": 26,
+      "value": 24463157
+    },
+    {
+      "name": "Nehemiah Badu",
+      "position": "DF",
+      "rating": 80,
+      "age": 17,
+      "value": 31157894
+    },
+    {
+      "name": "George Russell",
+      "position": "MF",
+      "rating": 68,
+      "age": 28,
+      "value": 22332631
+    },
+    {
+      "name": "Jeremy Eklund",
+      "position": "MF",
+      "rating": 72,
+      "age": 19,
+      "value": 31831578
+    },
+    {
+      "name": "Dylan Collins",
+      "position": "MF",
+      "rating": 83,
+      "age": 18,
+      "value": 37743157
+    },
+    {
+      "name": "Luis Graham",
+      "position": "MF",
       "rating": 86,
+      "age": 29,
+      "value": 27157894
+    },
+    {
+      "name": "Cameron Lee",
+      "position": "MF",
+      "rating": 86,
+      "age": 23,
+      "value": 33675789
+    },
+    {
+      "name": "Brooks Howard",
+      "position": "MF",
+      "rating": 62,
+      "age": 27,
+      "value": 21145263
+    },
+    {
+      "name": "Sim\u00f3n Dlamini",
+      "position": "FW",
+      "rating": 61,
+      "age": 18,
+      "value": 34673684
+    },
+    {
+      "name": "Marvin Whitaker",
+      "position": "FW",
+      "rating": 84,
       "age": 22,
       "value": 40000000
     },
     {
-      "name": "Wayne Morris",
+      "name": "Harley Molina",
       "position": "FW",
-      "rating": 74,
-      "age": 33,
-      "value": 24536842
+      "rating": 85,
+      "age": 31,
+      "value": 30868421
     },
     {
-      "name": "Pranav Wheeler",
+      "name": "Adrian Bailey",
       "position": "FW",
-      "rating": 71,
-      "age": 29,
-      "value": 28026315
+      "rating": 81,
+      "age": 19,
+      "value": 40000000
+    },
+    {
+      "name": "Matt Fisher",
+      "position": "FW",
+      "rating": 70,
+      "age": 23,
+      "value": 34263157
     }
   ],
   "stadium": {

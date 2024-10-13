@@ -2,144 +2,144 @@
   "name": "Crystal Palace",
   "squad": [
     {
-      "name": "Kris Manning",
+      "name": "Christopher Knox",
       "position": "GK",
-      "rating": 82,
-      "age": 29,
-      "value": 17263157
+      "rating": 65,
+      "age": 22,
+      "value": 17515789
     },
     {
-      "name": "Santiago Kim",
+      "name": "Carlos Webb",
       "position": "GK",
-      "rating": 62,
-      "age": 18,
-      "value": 18795789
+      "rating": 78,
+      "age": 16,
+      "value": 24960000
     },
     {
-      "name": "Landon Martin",
+      "name": "Beau Fields",
       "position": "GK",
-      "rating": 61,
+      "rating": 67,
       "age": 25,
-      "value": 14896842
+      "value": 16362105
     },
     {
-      "name": "Joshua Palmer",
+      "name": "Reed Molina",
       "position": "DF",
-      "rating": 84,
-      "age": 28,
-      "value": 22989473
+      "rating": 70,
+      "age": 32,
+      "value": 16210526
     },
     {
-      "name": "Bhekizizwe Webster",
+      "name": "Daniel Xolani",
+      "position": "DF",
+      "rating": 63,
+      "age": 33,
+      "value": 13926315
+    },
+    {
+      "name": "Kwabena Zamani",
       "position": "DF",
       "rating": 68,
       "age": 21,
       "value": 23621052
     },
     {
-      "name": "Juan Pablo Flores",
+      "name": "Clark Hansen",
       "position": "DF",
-      "rating": 60,
-      "age": 29,
-      "value": 15789473
+      "rating": 86,
+      "age": 28,
+      "value": 23536842
     },
     {
-      "name": "Jos\u00e9 Cabrera",
+      "name": "Leon Mabena",
+      "position": "DF",
+      "rating": 62,
+      "age": 22,
+      "value": 20884210
+    },
+    {
+      "name": "Gabriel Spencer",
       "position": "DF",
       "rating": 89,
-      "age": 29,
-      "value": 23421052
+      "age": 26,
+      "value": 26231578
     },
     {
-      "name": "Samuel Bergstrom",
-      "position": "DF",
-      "rating": 67,
-      "age": 31,
-      "value": 16221052
-    },
-    {
-      "name": "Masashi Evans",
-      "position": "DF",
-      "rating": 67,
-      "age": 27,
-      "value": 19042105
-    },
-    {
-      "name": "Adel Lee",
+      "name": "Satoshi Hamilton",
       "position": "MF",
       "rating": 88,
-      "age": 21,
-      "value": 36682105
-    },
-    {
-      "name": "Edgar Hernandez",
-      "position": "MF",
-      "rating": 63,
-      "age": 16,
-      "value": 30240000
-    },
-    {
-      "name": "Kelly Wang",
-      "position": "MF",
-      "rating": 83,
-      "age": 23,
-      "value": 32501052
-    },
-    {
-      "name": "Carlos Murray",
-      "position": "MF",
-      "rating": 76,
       "age": 24,
-      "value": 28800000
+      "value": 33347368
     },
     {
-      "name": "Devin Shin",
+      "name": "Zane Fox",
       "position": "MF",
-      "rating": 79,
+      "rating": 90,
       "age": 21,
-      "value": 32930526
+      "value": 37515789
     },
     {
-      "name": "Zion Lee",
+      "name": "Ricardo Quartey",
       "position": "MF",
-      "rating": 76,
-      "age": 32,
-      "value": 21120000
+      "rating": 88,
+      "age": 22,
+      "value": 35570526
     },
     {
-      "name": "Graham Long",
+      "name": "Dylan Newman",
+      "position": "MF",
+      "rating": 74,
+      "age": 34,
+      "value": 18694736
+    },
+    {
+      "name": "Steve Edwards",
+      "position": "MF",
+      "rating": 85,
+      "age": 34,
+      "value": 21473684
+    },
+    {
+      "name": "James Nguyen",
+      "position": "MF",
+      "rating": 81,
+      "age": 35,
+      "value": 19440000
+    },
+    {
+      "name": "Kwasi Fletcher",
       "position": "FW",
-      "rating": 67,
-      "age": 21,
-      "value": 34910526
+      "rating": 86,
+      "age": 18,
+      "value": 40000000
     },
     {
-      "name": "Asher Rom\u00e1n",
+      "name": "Thiago \u00c5str\u00f6m",
       "position": "FW",
-      "rating": 69,
-      "age": 31,
-      "value": 25057894
+      "rating": 65,
+      "age": 17,
+      "value": 37973684
     },
     {
-      "name": "Chris Garc\u00eda",
+      "name": "Beau Manning",
       "position": "FW",
-      "rating": 66,
-      "age": 25,
-      "value": 30221052
+      "rating": 73,
+      "age": 28,
+      "value": 29968421
     },
     {
-      "name": "Myles Stewart",
+      "name": "Keegan Duncan",
+      "position": "FW",
+      "rating": 81,
+      "age": 34,
+      "value": 25578947
+    },
+    {
+      "name": "David Gustavsson",
       "position": "FW",
       "rating": 89,
-      "age": 33,
-      "value": 29510526
-    },
-    {
-      "name": "Aditya Dur\u00e1n",
-      "position": "FW",
-      "rating": 64,
-      "age": 26,
-      "value": 28294736
+      "age": 25,
+      "value": 40000000
     }
   ],
   "stadium": {

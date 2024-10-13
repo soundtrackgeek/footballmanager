@@ -2,144 +2,144 @@
   "name": "Manchester United",
   "squad": [
     {
-      "name": "Stephen Williamson",
+      "name": "Ibrahim Hansen",
+      "position": "GK",
+      "rating": 66,
+      "age": 18,
+      "value": 20008421
+    },
+    {
+      "name": "Sulaiman Bailey",
       "position": "GK",
       "rating": 87,
-      "age": 29,
-      "value": 18315789
-    },
-    {
-      "name": "Ricardo Watts",
-      "position": "GK",
-      "rating": 89,
       "age": 19,
-      "value": 26231578
+      "value": 25642105
     },
     {
-      "name": "Alex Hansen",
+      "name": "Jerome Bryant",
       "position": "GK",
-      "rating": 80,
-      "age": 28,
-      "value": 17515789
+      "rating": 78,
+      "age": 23,
+      "value": 20362105
     },
     {
-      "name": "Stephen Hayes",
+      "name": "Mikkel Long",
       "position": "DF",
-      "rating": 64,
-      "age": 18,
-      "value": 24252631
+      "rating": 73,
+      "age": 20,
+      "value": 26126315
     },
     {
-      "name": "Tony Young",
+      "name": "Tanner Perry",
+      "position": "DF",
+      "rating": 73,
+      "age": 19,
+      "value": 26894736
+    },
+    {
+      "name": "Guillermo Hicks",
+      "position": "DF",
+      "rating": 87,
+      "age": 29,
+      "value": 22894736
+    },
+    {
+      "name": "Femi Benson",
+      "position": "DF",
+      "rating": 61,
+      "age": 20,
+      "value": 21831578
+    },
+    {
+      "name": "Tyler Abebe",
       "position": "DF",
       "rating": 81,
-      "age": 30,
-      "value": 20463157
+      "age": 22,
+      "value": 27284210
     },
     {
-      "name": "Jorge Nilsson",
+      "name": "Tyler Marshall",
       "position": "DF",
-      "rating": 85,
-      "age": 35,
-      "value": 17000000
+      "rating": 69,
+      "age": 19,
+      "value": 25421052
     },
     {
-      "name": "Anthony Mills",
-      "position": "DF",
-      "rating": 83,
-      "age": 33,
-      "value": 18347368
-    },
-    {
-      "name": "Vincent Bauer",
-      "position": "DF",
-      "rating": 60,
+      "name": "Juan Pablo Lopez",
+      "position": "MF",
+      "rating": 66,
       "age": 17,
-      "value": 23368421
+      "value": 30846315
     },
     {
-      "name": "Leo Manning",
-      "position": "DF",
-      "rating": 63,
+      "name": "Jesse Adams",
+      "position": "MF",
+      "rating": 77,
+      "age": 25,
+      "value": 28206315
+    },
+    {
+      "name": "Kris Bryant",
+      "position": "MF",
+      "rating": 78,
+      "age": 35,
+      "value": 18720000
+    },
+    {
+      "name": "Ayaan Reid",
+      "position": "MF",
+      "rating": 72,
       "age": 29,
-      "value": 16578947
+      "value": 22736842
     },
     {
-      "name": "Alexander Green",
-      "position": "MF",
-      "rating": 63,
-      "age": 30,
-      "value": 19098947
-    },
-    {
-      "name": "Cristian Franco",
-      "position": "MF",
-      "rating": 63,
-      "age": 24,
-      "value": 23873684
-    },
-    {
-      "name": "Elias Stewart",
+      "name": "Tao Reddy",
       "position": "MF",
       "rating": 64,
-      "age": 17,
-      "value": 29911578
+      "age": 35,
+      "value": 15360000
     },
     {
-      "name": "Miguel Diaz",
+      "name": "Zuberi Reed",
       "position": "MF",
+      "rating": 62,
+      "age": 23,
+      "value": 24277894
+    },
+    {
+      "name": "Derek Spencer",
+      "position": "FW",
       "rating": 67,
-      "age": 19,
+      "age": 26,
       "value": 29621052
     },
     {
-      "name": "Aedan Hassan",
-      "position": "MF",
-      "rating": 83,
-      "age": 27,
-      "value": 28307368
-    },
-    {
-      "name": "Stewart Young",
-      "position": "MF",
-      "rating": 63,
-      "age": 33,
-      "value": 16711578
-    },
-    {
-      "name": "Clayton Ellis",
+      "name": "Daniel Franklin",
       "position": "FW",
-      "rating": 79,
-      "age": 34,
-      "value": 24947368
+      "rating": 70,
+      "age": 23,
+      "value": 34263157
     },
     {
-      "name": "Martin Freeman",
+      "name": "Kingston Venter",
       "position": "FW",
-      "rating": 66,
-      "age": 17,
-      "value": 38557894
+      "rating": 80,
+      "age": 30,
+      "value": 30315789
     },
     {
-      "name": "Harley Ramadhan",
+      "name": "Einar Fields",
       "position": "FW",
-      "rating": 61,
-      "age": 24,
-      "value": 28894736
+      "rating": 67,
+      "age": 28,
+      "value": 27505263
     },
     {
-      "name": "Marshall Reid",
+      "name": "Kwasi Fern\u00e1ndez",
       "position": "FW",
       "rating": 72,
-      "age": 21,
-      "value": 37515789
-    },
-    {
-      "name": "Victor Nilsen",
-      "position": "FW",
-      "rating": 85,
-      "age": 16,
-      "value": 40000000
+      "age": 19,
+      "value": 39789473
     }
   ],
   "stadium": {

@@ -2,144 +2,144 @@
   "name": "Luton",
   "squad": [
     {
-      "name": "Sebastian Reyes",
+      "name": "Cameron Johansen",
       "position": "GK",
-      "rating": 70,
-      "age": 34,
-      "value": 11789473
+      "rating": 78,
+      "age": 33,
+      "value": 13793684
     },
     {
-      "name": "Adan Oliver",
+      "name": "Louis Hayes",
       "position": "GK",
-      "rating": 83,
-      "age": 19,
-      "value": 24463157
+      "rating": 78,
+      "age": 28,
+      "value": 17077894
     },
     {
-      "name": "Charles Badu",
+      "name": "Richard Ortega",
       "position": "GK",
-      "rating": 81,
-      "age": 31,
-      "value": 15688421
+      "rating": 86,
+      "age": 27,
+      "value": 19553684
     },
     {
-      "name": "Eric Woods",
-      "position": "DF",
-      "rating": 89,
-      "age": 25,
-      "value": 27168421
-    },
-    {
-      "name": "Sven Nakamura",
-      "position": "DF",
-      "rating": 83,
-      "age": 29,
-      "value": 21842105
-    },
-    {
-      "name": "Gunnar Griffin",
-      "position": "DF",
-      "rating": 84,
-      "age": 21,
-      "value": 29178947
-    },
-    {
-      "name": "Larry Peterson",
+      "name": "Douglas Clark",
       "position": "DF",
       "rating": 69,
+      "age": 20,
+      "value": 24694736
+    },
+    {
+      "name": "Nikhil Green",
+      "position": "DF",
+      "rating": 60,
       "age": 32,
-      "value": 15978947
+      "value": 13894736
     },
     {
-      "name": "Damian Lambert",
+      "name": "Brayden Cook",
       "position": "DF",
-      "rating": 89,
-      "age": 18,
-      "value": 33726315
-    },
-    {
-      "name": "Quinn Pineda",
-      "position": "DF",
-      "rating": 88,
-      "age": 16,
-      "value": 35200000
-    },
-    {
-      "name": "Francisco Palmer",
-      "position": "MF",
-      "rating": 79,
-      "age": 21,
-      "value": 32930526
-    },
-    {
-      "name": "Gavin Umar",
-      "position": "MF",
-      "rating": 74,
-      "age": 26,
-      "value": 26172631
-    },
-    {
-      "name": "Samuel Oliver",
-      "position": "MF",
       "rating": 78,
+      "age": 23,
+      "value": 25452631
+    },
+    {
+      "name": "Mauricio Hill",
+      "position": "DF",
+      "rating": 75,
       "age": 32,
-      "value": 21675789
+      "value": 17368421
     },
     {
-      "name": "Jengo Lee",
+      "name": "Jengo Lund",
+      "position": "DF",
+      "rating": 60,
+      "age": 30,
+      "value": 15157894
+    },
+    {
+      "name": "Chidi Mikkelsen",
+      "position": "DF",
+      "rating": 85,
+      "age": 21,
+      "value": 29526315
+    },
+    {
+      "name": "Angel Thomas",
       "position": "MF",
-      "rating": 88,
-      "age": 25,
-      "value": 32235789
+      "rating": 75,
+      "age": 32,
+      "value": 20842105
     },
     {
-      "name": "Miguel Bryant",
+      "name": "Pablo Huang",
       "position": "MF",
-      "rating": 89,
-      "age": 22,
-      "value": 35974736
+      "rating": 81,
+      "age": 27,
+      "value": 27625263
     },
     {
-      "name": "Brian Woods",
+      "name": "Konner Sangare",
       "position": "MF",
       "rating": 84,
-      "age": 16,
-      "value": 40000000
+      "age": 27,
+      "value": 28648421
     },
     {
-      "name": "Malcolm Fletcher",
+      "name": "Ross Guerrero",
+      "position": "MF",
+      "rating": 64,
+      "age": 34,
+      "value": 16168421
+    },
+    {
+      "name": "Levi Green",
+      "position": "MF",
+      "rating": 63,
+      "age": 32,
+      "value": 17507368
+    },
+    {
+      "name": "Rakesh Tanaka",
+      "position": "MF",
+      "rating": 65,
+      "age": 35,
+      "value": 15600000
+    },
+    {
+      "name": "Tunde Lee",
+      "position": "FW",
+      "rating": 64,
+      "age": 26,
+      "value": 28294736
+    },
+    {
+      "name": "Tony Watts",
       "position": "FW",
       "rating": 68,
-      "age": 23,
-      "value": 33284210
+      "age": 35,
+      "value": 20400000
     },
     {
-      "name": "Bryson Hayes",
+      "name": "Keita Tanaka",
       "position": "FW",
-      "rating": 77,
-      "age": 23,
-      "value": 37689473
+      "rating": 66,
+      "age": 18,
+      "value": 37515789
     },
     {
-      "name": "Clark Bergstrom",
+      "name": "Victor Green",
       "position": "FW",
       "rating": 82,
-      "age": 20,
-      "value": 40000000
+      "age": 26,
+      "value": 36252631
     },
     {
-      "name": "Giovanni Warah",
+      "name": "Jerome Hayes",
       "position": "FW",
-      "rating": 89,
-      "age": 22,
-      "value": 40000000
-    },
-    {
-      "name": "Wesley Thomas",
-      "position": "FW",
-      "rating": 68,
-      "age": 16,
-      "value": 40000000
+      "rating": 85,
+      "age": 34,
+      "value": 26842105
     }
   ],
   "stadium": {

@@ -2,144 +2,144 @@
   "name": "Fulham",
   "squad": [
     {
-      "name": "Hugo Washington",
+      "name": "Alexander Pena",
       "position": "GK",
-      "rating": 72,
-      "age": 24,
-      "value": 18189473
-    },
-    {
-      "name": "Suraj Day",
-      "position": "GK",
-      "rating": 68,
-      "age": 31,
-      "value": 13170526
-    },
-    {
-      "name": "Tom\u00e1s Fuentes",
-      "position": "GK",
-      "rating": 82,
-      "age": 20,
-      "value": 23477894
-    },
-    {
-      "name": "Nathaniel Zamani",
-      "position": "DF",
       "rating": 61,
-      "age": 32,
-      "value": 14126315
+      "age": 30,
+      "value": 12328421
     },
     {
-      "name": "Ryker Scott",
+      "name": "Jiro Stone",
+      "position": "GK",
+      "rating": 63,
+      "age": 27,
+      "value": 14324210
+    },
+    {
+      "name": "Kenny Xolani",
+      "position": "GK",
+      "rating": 67,
+      "age": 26,
+      "value": 15797894
+    },
+    {
+      "name": "Brooks Morgan",
+      "position": "DF",
+      "rating": 86,
+      "age": 16,
+      "value": 34400000
+    },
+    {
+      "name": "Martin Berg",
+      "position": "DF",
+      "rating": 78,
+      "age": 21,
+      "value": 27094736
+    },
+    {
+      "name": "Zuberi Singh",
+      "position": "DF",
+      "rating": 86,
+      "age": 24,
+      "value": 27157894
+    },
+    {
+      "name": "Dorian Hart",
+      "position": "DF",
+      "rating": 89,
+      "age": 26,
+      "value": 26231578
+    },
+    {
+      "name": "Ekon Parker",
       "position": "DF",
       "rating": 60,
-      "age": 19,
-      "value": 22105263
+      "age": 22,
+      "value": 20210526
     },
     {
-      "name": "Casey Flores",
+      "name": "Toby Mills",
       "position": "DF",
-      "rating": 83,
+      "rating": 81,
+      "age": 34,
+      "value": 17052631
+    },
+    {
+      "name": "Cory Joseph",
+      "position": "MF",
+      "rating": 76,
+      "age": 20,
+      "value": 32640000
+    },
+    {
+      "name": "Connor Nelson",
+      "position": "MF",
+      "rating": 80,
+      "age": 31,
+      "value": 23242105
+    },
+    {
+      "name": "Casper Lopez",
+      "position": "MF",
+      "rating": 77,
+      "age": 33,
+      "value": 20425263
+    },
+    {
+      "name": "Steven Hayes",
+      "position": "MF",
+      "rating": 78,
       "age": 18,
+      "value": 35469473
+    },
+    {
+      "name": "Dakota Jansen",
+      "position": "MF",
+      "rating": 89,
+      "age": 28,
+      "value": 29229473
+    },
+    {
+      "name": "Abraham Cook",
+      "position": "MF",
+      "rating": 81,
+      "age": 35,
+      "value": 19440000
+    },
+    {
+      "name": "Jake Hoover",
+      "position": "FW",
+      "rating": 72,
+      "age": 27,
+      "value": 30694736
+    },
+    {
+      "name": "Larry Manning",
+      "position": "FW",
+      "rating": 83,
+      "age": 30,
       "value": 31452631
     },
     {
-      "name": "Raymond Sandstr\u00f6m",
-      "position": "DF",
-      "rating": 81,
+      "name": "Douglas Marshall",
+      "position": "FW",
+      "rating": 70,
       "age": 33,
-      "value": 17905263
+      "value": 23210526
     },
     {
-      "name": "Angelo Andersen",
-      "position": "DF",
-      "rating": 79,
-      "age": 29,
-      "value": 20789473
-    },
-    {
-      "name": "Noel Warah",
-      "position": "DF",
-      "rating": 62,
-      "age": 25,
-      "value": 18926315
-    },
-    {
-      "name": "Larry Guo",
-      "position": "MF",
-      "rating": 71,
-      "age": 35,
-      "value": 17040000
-    },
-    {
-      "name": "Satoshi Espinoza",
-      "position": "MF",
-      "rating": 68,
-      "age": 31,
-      "value": 19755789
-    },
-    {
-      "name": "Abel Marshall",
-      "position": "MF",
-      "rating": 84,
-      "age": 25,
-      "value": 30770526
-    },
-    {
-      "name": "Nikhil Wallace",
-      "position": "MF",
-      "rating": 69,
-      "age": 30,
-      "value": 20917894
-    },
-    {
-      "name": "Felix Gomez",
-      "position": "MF",
-      "rating": 61,
+      "name": "Einar Hamilton",
+      "position": "FW",
+      "rating": 85,
       "age": 26,
-      "value": 21574736
+      "value": 37578947
     },
     {
-      "name": "Hayden Ortiz",
-      "position": "MF",
+      "name": "Terry \u00c5str\u00f6m",
+      "position": "FW",
       "rating": 60,
-      "age": 20,
-      "value": 25768421
-    },
-    {
-      "name": "Brooks Bradley",
-      "position": "FW",
-      "rating": 73,
-      "age": 29,
-      "value": 28815789
-    },
-    {
-      "name": "Lukas Bates",
-      "position": "FW",
-      "rating": 87,
-      "age": 16,
-      "value": 40000000
-    },
-    {
-      "name": "Filip James",
-      "position": "FW",
-      "rating": 89,
-      "age": 26,
-      "value": 39347368
-    },
-    {
-      "name": "Arjun Flores",
-      "position": "FW",
-      "rating": 65,
-      "age": 25,
-      "value": 29763157
-    },
-    {
-      "name": "Johannes Hill",
-      "position": "FW",
-      "rating": 68,
-      "age": 18,
-      "value": 38652631
+      "age": 24,
+      "value": 28421052
     }
   ],
   "stadium": {

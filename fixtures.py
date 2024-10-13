@@ -1,37 +1,41 @@
 import random
 import json
+from itertools import combinations
 
 def generate_fixture_list(teams):
     team_names = [team.name for team in teams]
+    if len(team_names) % 2 != 0:
+        team_names.append("BYE")  # Handle odd number of teams
+
     n = len(team_names)
     fixtures = []
-    
-    for _ in range(2):  # Two rounds (home and away)
-        for i in range(n - 1):
-            round_fixtures = []
-            for j in range(n // 2):
-                if _ == 0:  # First round
-                    match = {
-                        "home": team_names[j],
-                        "away": team_names[n - 1 - j]
-                    }
-                else:  # Second round (reverse fixtures)
-                    match = {
-                        "home": team_names[n - 1 - j],
-                        "away": team_names[j]
-                    }
-                round_fixtures.append(match)
-            fixtures.append(round_fixtures)
-            
-            # Rotate the list, keeping the first team fixed
-            team_names = [team_names[0]] + [team_names[-1]] + team_names[1:-1]
-    
-    # Randomize the order of rounds while keeping week pairs together
-    week_pairs = list(zip(fixtures[:19], fixtures[19:]))
-    random.shuffle(week_pairs)
-    shuffled_fixtures = [round for pair in week_pairs for round in pair]
-    
-    return [{"week": i+1, "matches": round_fixtures} for i, round_fixtures in enumerate(shuffled_fixtures)]
+
+    # Generate first half of the season
+    for week in range(n - 1):
+        week_matches = []
+        for i in range(n // 2):
+            home = team_names[i]
+            away = team_names[n - 1 - i]
+            if home != "BYE" and away != "BYE":
+                # Randomly assign home and away
+                if random.choice([True, False]):
+                    match = {"home": home, "away": away}
+                else:
+                    match = {"home": away, "away": home}
+                week_matches.append(match)
+        fixtures.append({"week": week + 1, "matches": week_matches})
+        # Rotate teams (except the first team)
+        team_names = [team_names[0]] + [team_names[-1]] + team_names[1:-1]
+
+    # Generate second half by reversing home and away
+    second_half = []
+    for week in fixtures:
+        reversed_matches = [{"home": match["away"], "away": match["home"]} for match in week["matches"]]
+        second_half.append({"week": week["week"] + (n - 1), "matches": reversed_matches})
+
+    full_season = fixtures + second_half
+
+    return full_season
 
 def save_fixture_list(fixtures):
     with open("fixture_list.json", "w") as f:

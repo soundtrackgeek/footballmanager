@@ -2,144 +2,144 @@
   "name": "West Ham",
   "squad": [
     {
-      "name": "Elias James",
+      "name": "Soren Barton",
       "position": "GK",
-      "rating": 80,
-      "age": 20,
-      "value": 22905263
+      "rating": 77,
+      "age": 23,
+      "value": 20101052
     },
     {
-      "name": "Austin Oliver",
+      "name": "Manuel Newman",
       "position": "GK",
-      "rating": 65,
-      "age": 31,
-      "value": 12589473
+      "rating": 78,
+      "age": 19,
+      "value": 22989473
     },
     {
-      "name": "Adel Romero",
+      "name": "Levi Feng",
       "position": "GK",
-      "rating": 81,
-      "age": 35,
-      "value": 12960000
+      "rating": 90,
+      "age": 27,
+      "value": 20463157
     },
     {
-      "name": "Agust\u00edn Anderson",
+      "name": "Tony Nguyen",
       "position": "DF",
-      "rating": 87,
-      "age": 21,
-      "value": 30221052
+      "rating": 66,
+      "age": 25,
+      "value": 20147368
     },
     {
-      "name": "Kamau Rasmussen",
+      "name": "Huy Hayes",
       "position": "DF",
       "rating": 68,
       "age": 24,
       "value": 21473684
     },
     {
-      "name": "Rene Marshall",
+      "name": "Kwasi Hill",
       "position": "DF",
-      "rating": 78,
-      "age": 31,
-      "value": 18884210
-    },
-    {
-      "name": "Oliver Edwards",
-      "position": "DF",
-      "rating": 74,
-      "age": 19,
-      "value": 27263157
-    },
-    {
-      "name": "Carl Morales",
-      "position": "DF",
-      "rating": 87,
-      "age": 31,
-      "value": 21063157
-    },
-    {
-      "name": "Alejandro French",
-      "position": "DF",
-      "rating": 80,
-      "age": 27,
-      "value": 22736842
-    },
-    {
-      "name": "Oscar Long",
-      "position": "MF",
-      "rating": 70,
-      "age": 22,
-      "value": 28294736
-    },
-    {
-      "name": "Roberto Barnett",
-      "position": "MF",
-      "rating": 62,
-      "age": 20,
-      "value": 26627368
-    },
-    {
-      "name": "Victor Matsumoto",
-      "position": "MF",
-      "rating": 82,
-      "age": 34,
-      "value": 20715789
-    },
-    {
-      "name": "Yuto Verma",
-      "position": "MF",
-      "rating": 88,
-      "age": 24,
-      "value": 33347368
-    },
-    {
-      "name": "Hassan Holt",
-      "position": "MF",
-      "rating": 69,
-      "age": 30,
-      "value": 20917894
-    },
-    {
-      "name": "Arjun Rodriguez",
-      "position": "MF",
-      "rating": 70,
-      "age": 32,
-      "value": 19452631
-    },
-    {
-      "name": "Danny Williamson",
-      "position": "FW",
-      "rating": 65,
-      "age": 29,
-      "value": 25657894
-    },
-    {
-      "name": "Kody Sandberg",
-      "position": "FW",
-      "rating": 80,
-      "age": 21,
-      "value": 40000000
-    },
-    {
-      "name": "Mohamed Hughes",
-      "position": "FW",
-      "rating": 86,
-      "age": 35,
-      "value": 25800000
-    },
-    {
-      "name": "Quinn S\u00f6derberg",
-      "position": "FW",
       "rating": 90,
       "age": 24,
+      "value": 28421052
+    },
+    {
+      "name": "Jorge Gonzales",
+      "position": "DF",
+      "rating": 72,
+      "age": 29,
+      "value": 18947368
+    },
+    {
+      "name": "Cecil Silva",
+      "position": "DF",
+      "rating": 71,
+      "age": 24,
+      "value": 22421052
+    },
+    {
+      "name": "Henry Garza",
+      "position": "DF",
+      "rating": 63,
+      "age": 21,
+      "value": 21884210
+    },
+    {
+      "name": "Keita Holland",
+      "position": "MF",
+      "rating": 70,
+      "age": 24,
+      "value": 26526315
+    },
+    {
+      "name": "Josiah Nelson",
+      "position": "MF",
+      "rating": 82,
+      "age": 24,
+      "value": 31073684
+    },
+    {
+      "name": "Derrick Morgan",
+      "position": "MF",
+      "rating": 81,
+      "age": 25,
+      "value": 29671578
+    },
+    {
+      "name": "Adekunle Fisher",
+      "position": "MF",
+      "rating": 85,
+      "age": 21,
+      "value": 35431578
+    },
+    {
+      "name": "Juan Pablo Stephens",
+      "position": "MF",
+      "rating": 62,
+      "age": 29,
+      "value": 19578947
+    },
+    {
+      "name": "Kwame Sanchez",
+      "position": "MF",
+      "rating": 63,
+      "age": 24,
+      "value": 23873684
+    },
+    {
+      "name": "Daniel Bradley",
+      "position": "FW",
+      "rating": 82,
+      "age": 30,
+      "value": 31073684
+    },
+    {
+      "name": "Devin Umar",
+      "position": "FW",
+      "rating": 86,
+      "age": 28,
+      "value": 35305263
+    },
+    {
+      "name": "Heath Coleman",
+      "position": "FW",
+      "rating": 82,
+      "age": 32,
+      "value": 28484210
+    },
+    {
+      "name": "Harley Baker",
+      "position": "FW",
+      "rating": 83,
+      "age": 22,
       "value": 40000000
     },
     {
-      "name": "Will Fowler",
+      "name": "Tyson Bradshaw",
       "position": "FW",
-      "rating": 76,
-      "age": 17,
-      "value": 40000000
+      "rating": 89,
+      "age": 35,
+      "value": 26700000
     }
   ],
   "stadium": {

@@ -2,144 +2,144 @@
   "name": "Newcastle",
   "squad": [
     {
-      "name": "Owen Fuentes",
+      "name": "Femi Dean",
       "position": "GK",
-      "rating": 75,
-      "age": 17,
-      "value": 23368421
+      "rating": 83,
+      "age": 26,
+      "value": 19570526
     },
     {
-      "name": "Jerome Palmer",
+      "name": "Marcos Larsen",
       "position": "GK",
-      "rating": 87,
-      "age": 21,
-      "value": 24176842
-    },
-    {
-      "name": "Leonel Williamson",
-      "position": "GK",
-      "rating": 70,
-      "age": 30,
-      "value": 14147368
-    },
-    {
-      "name": "Eric Fox",
-      "position": "DF",
-      "rating": 71,
-      "age": 28,
-      "value": 19431578
-    },
-    {
-      "name": "Marvin Franks",
-      "position": "DF",
-      "rating": 89,
-      "age": 21,
-      "value": 30915789
-    },
-    {
-      "name": "Mat\u00edas Rose",
-      "position": "DF",
-      "rating": 68,
-      "age": 34,
-      "value": 14315789
-    },
-    {
-      "name": "Musa Mann",
-      "position": "DF",
-      "rating": 70,
-      "age": 25,
-      "value": 21368421
-    },
-    {
-      "name": "Francisco Nakamura",
-      "position": "DF",
-      "rating": 86,
-      "age": 29,
-      "value": 22631578
-    },
-    {
-      "name": "Ping Abebe",
-      "position": "DF",
-      "rating": 82,
-      "age": 20,
-      "value": 29347368
-    },
-    {
-      "name": "Evan Holt",
-      "position": "MF",
       "rating": 69,
       "age": 28,
-      "value": 22661052
+      "value": 15107368
     },
     {
-      "name": "Hank Choi",
-      "position": "MF",
-      "rating": 72,
-      "age": 33,
-      "value": 19098947
+      "name": "Gregory Liu",
+      "position": "GK",
+      "rating": 61,
+      "age": 27,
+      "value": 13869473
     },
     {
-      "name": "Samuel Sanchez",
-      "position": "MF",
+      "name": "Roy Ferguson",
+      "position": "DF",
+      "rating": 70,
+      "age": 31,
+      "value": 16947368
+    },
+    {
+      "name": "Robert Murphy",
+      "position": "DF",
+      "rating": 82,
+      "age": 24,
+      "value": 25894736
+    },
+    {
+      "name": "Theodore Dixon",
+      "position": "DF",
+      "rating": 88,
+      "age": 27,
+      "value": 25010526
+    },
+    {
+      "name": "Salvador Fuller",
+      "position": "DF",
       "rating": 74,
       "age": 18,
-      "value": 33650526
+      "value": 28042105
     },
     {
-      "name": "Paul Su\u00e1rez",
-      "position": "MF",
-      "rating": 74,
-      "age": 33,
-      "value": 19629473
-    },
-    {
-      "name": "Allen Morgan",
-      "position": "MF",
-      "rating": 77,
+      "name": "David Marsh",
+      "position": "DF",
+      "rating": 73,
       "age": 16,
-      "value": 36960000
+      "value": 29200000
     },
     {
-      "name": "Marvin Joseph",
+      "name": "Caleb Fields",
+      "position": "DF",
+      "rating": 68,
+      "age": 19,
+      "value": 25052631
+    },
+    {
+      "name": "Ekon Reddy",
+      "position": "MF",
+      "rating": 62,
+      "age": 27,
+      "value": 21145263
+    },
+    {
+      "name": "Allen Reed",
+      "position": "MF",
+      "rating": 68,
+      "age": 22,
+      "value": 27486315
+    },
+    {
+      "name": "Steven Mikkelsen",
+      "position": "MF",
+      "rating": 61,
+      "age": 28,
+      "value": 20033684
+    },
+    {
+      "name": "Carl Franklin",
+      "position": "MF",
+      "rating": 63,
+      "age": 28,
+      "value": 20690526
+    },
+    {
+      "name": "Lee French",
       "position": "MF",
       "rating": 83,
-      "age": 25,
-      "value": 30404210
+      "age": 33,
+      "value": 22016842
     },
     {
-      "name": "Anil Olsen",
-      "position": "FW",
+      "name": "Easton Iyanda",
+      "position": "MF",
       "rating": 86,
-      "age": 28,
-      "value": 35305263
+      "age": 27,
+      "value": 29330526
     },
     {
-      "name": "Alonzo Hoover",
+      "name": "Easton Long",
+      "position": "FW",
+      "rating": 77,
+      "age": 16,
+      "value": 40000000
+    },
+    {
+      "name": "Tumelo Castro",
+      "position": "FW",
+      "rating": 82,
+      "age": 34,
+      "value": 25894736
+    },
+    {
+      "name": "Jason Guo",
+      "position": "FW",
+      "rating": 81,
+      "age": 25,
+      "value": 37089473
+    },
+    {
+      "name": "Brian Ellison",
       "position": "FW",
       "rating": 73,
       "age": 33,
       "value": 24205263
     },
     {
-      "name": "Javier Bryan",
+      "name": "Noah Hughes",
       "position": "FW",
-      "rating": 87,
-      "age": 23,
-      "value": 40000000
-    },
-    {
-      "name": "Timothy Webster",
-      "position": "FW",
-      "rating": 80,
-      "age": 18,
-      "value": 40000000
-    },
-    {
-      "name": "Raj Edwards",
-      "position": "FW",
-      "rating": 80,
-      "age": 32,
-      "value": 27789473
+      "rating": 67,
+      "age": 24,
+      "value": 31736842
     }
   ],
   "stadium": {

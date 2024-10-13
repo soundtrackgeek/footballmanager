@@ -2,144 +2,144 @@
   "name": "Liverpool",
   "squad": [
     {
-      "name": "Tyrone Gordon",
+      "name": "Charles Kim",
+      "position": "GK",
+      "rating": 67,
+      "age": 18,
+      "value": 20311578
+    },
+    {
+      "name": "Lucas Rasmussen",
       "position": "GK",
       "rating": 64,
-      "age": 28,
-      "value": 14012631
-    },
-    {
-      "name": "Stefan Rivera",
-      "position": "GK",
-      "rating": 89,
-      "age": 20,
-      "value": 25482105
-    },
-    {
-      "name": "Chidi Chukwu",
-      "position": "GK",
-      "rating": 84,
       "age": 18,
-      "value": 25465263
+      "value": 19402105
     },
     {
-      "name": "Leonardo Young",
-      "position": "DF",
-      "rating": 60,
-      "age": 16,
-      "value": 24000000
-    },
-    {
-      "name": "Preston Solberg",
-      "position": "DF",
-      "rating": 89,
-      "age": 30,
-      "value": 22484210
-    },
-    {
-      "name": "Adeyemi Morrison",
-      "position": "DF",
+      "name": "Magnus Pena",
+      "position": "GK",
       "rating": 63,
-      "age": 18,
+      "age": 17,
+      "value": 19629473
+    },
+    {
+      "name": "Rakesh Fuentes",
+      "position": "DF",
+      "rating": 61,
+      "age": 19,
+      "value": 22473684
+    },
+    {
+      "name": "Musa Ramirez",
+      "position": "DF",
+      "rating": 73,
+      "age": 27,
+      "value": 20747368
+    },
+    {
+      "name": "Jin Garcia",
+      "position": "DF",
+      "rating": 64,
+      "age": 16,
+      "value": 25600000
+    },
+    {
+      "name": "Marlon Dixon",
+      "position": "DF",
+      "rating": 66,
+      "age": 22,
+      "value": 22231578
+    },
+    {
+      "name": "Simon Parker",
+      "position": "DF",
+      "rating": 72,
+      "age": 22,
+      "value": 24252631
+    },
+    {
+      "name": "Roland Njoroge",
+      "position": "DF",
+      "rating": 75,
+      "age": 24,
+      "value": 23684210
+    },
+    {
+      "name": "Isak Wood",
+      "position": "MF",
+      "rating": 83,
+      "age": 31,
+      "value": 24113684
+    },
+    {
+      "name": "Adel Holland",
+      "position": "MF",
+      "rating": 60,
+      "age": 31,
+      "value": 17431578
+    },
+    {
+      "name": "Ismael Hansen",
+      "position": "MF",
+      "rating": 82,
+      "age": 21,
+      "value": 34181052
+    },
+    {
+      "name": "Bradley Payne",
+      "position": "MF",
+      "rating": 79,
+      "age": 28,
+      "value": 25945263
+    },
+    {
+      "name": "Sulaiman Lin",
+      "position": "MF",
+      "rating": 88,
+      "age": 32,
+      "value": 24454736
+    },
+    {
+      "name": "Mohammad Marsh",
+      "position": "MF",
+      "rating": 90,
+      "age": 33,
       "value": 23873684
     },
     {
-      "name": "James Kim",
-      "position": "DF",
-      "rating": 80,
-      "age": 22,
-      "value": 26947368
-    },
-    {
-      "name": "Hugo Robinson",
-      "position": "DF",
-      "rating": 90,
-      "age": 33,
-      "value": 19894736
-    },
-    {
-      "name": "Joshua Gonzalez",
-      "position": "DF",
-      "rating": 71,
-      "age": 21,
-      "value": 24663157
-    },
-    {
-      "name": "Oluwafemi Rice",
-      "position": "MF",
-      "rating": 88,
-      "age": 26,
-      "value": 31124210
-    },
-    {
-      "name": "Cameron Young",
-      "position": "MF",
-      "rating": 76,
-      "age": 18,
-      "value": 34560000
-    },
-    {
-      "name": "Logan Washington",
-      "position": "MF",
-      "rating": 71,
-      "age": 29,
-      "value": 22421052
-    },
-    {
-      "name": "Thabo Gordon",
-      "position": "MF",
-      "rating": 90,
-      "age": 26,
-      "value": 31831578
-    },
-    {
-      "name": "Adeyemi Bailey",
-      "position": "MF",
-      "rating": 63,
-      "age": 20,
-      "value": 27056842
-    },
-    {
-      "name": "Allen Fields",
-      "position": "MF",
-      "rating": 73,
-      "age": 31,
-      "value": 21208421
-    },
-    {
-      "name": "Uriah Osei",
+      "name": "Benjamin Patel",
       "position": "FW",
-      "rating": 60,
+      "rating": 64,
       "age": 17,
-      "value": 35052631
+      "value": 37389473
     },
     {
-      "name": "Marc Ciss\u00e9",
+      "name": "Cecil Nguyen",
       "position": "FW",
-      "rating": 75,
-      "age": 31,
-      "value": 27236842
+      "rating": 66,
+      "age": 26,
+      "value": 29178947
     },
     {
-      "name": "Franklin Williamson",
+      "name": "Ayaan \u00c5kesson",
       "position": "FW",
-      "rating": 70,
+      "rating": 67,
+      "age": 26,
+      "value": 29621052
+    },
+    {
+      "name": "Kenta Mikkelsen",
+      "position": "FW",
+      "rating": 61,
       "age": 27,
-      "value": 29842105
+      "value": 26005263
     },
     {
-      "name": "Quincy Ulfsson",
+      "name": "Thiago Gray",
       "position": "FW",
-      "rating": 82,
-      "age": 27,
-      "value": 34957894
-    },
-    {
-      "name": "Bruno Nguyen",
-      "position": "FW",
-      "rating": 75,
-      "age": 34,
-      "value": 23684210
+      "rating": 83,
+      "age": 22,
+      "value": 40000000
     }
   ],
   "stadium": {

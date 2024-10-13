@@ -2,144 +2,144 @@
   "name": "Brentford",
   "squad": [
     {
-      "name": "Beau Stewart",
+      "name": "Abraham Dean",
       "position": "GK",
-      "rating": 66,
-      "age": 21,
-      "value": 18341052
+      "rating": 65,
+      "age": 17,
+      "value": 20252631
     },
     {
-      "name": "Clement Peterson",
+      "name": "Tariq Griffin",
       "position": "GK",
-      "rating": 71,
-      "age": 21,
-      "value": 19730526
+      "rating": 90,
+      "age": 18,
+      "value": 27284210
     },
     {
-      "name": "Casey Kim",
+      "name": "Leon Mcdonald",
       "position": "GK",
-      "rating": 70,
-      "age": 20,
-      "value": 20042105
+      "rating": 77,
+      "age": 29,
+      "value": 16210526
     },
     {
-      "name": "Kwesi Howard",
+      "name": "Paul Espinoza",
       "position": "DF",
-      "rating": 71,
-      "age": 23,
-      "value": 23168421
-    },
-    {
-      "name": "Maurice Roberts",
-      "position": "DF",
-      "rating": 63,
-      "age": 31,
-      "value": 15252631
-    },
-    {
-      "name": "Ignacio Banks",
-      "position": "DF",
-      "rating": 66,
-      "age": 31,
-      "value": 15978947
-    },
-    {
-      "name": "Zayden Jordan",
-      "position": "DF",
-      "rating": 80,
-      "age": 27,
-      "value": 22736842
-    },
-    {
-      "name": "Ricardo Dahl",
-      "position": "DF",
-      "rating": 85,
-      "age": 24,
-      "value": 26842105
-    },
-    {
-      "name": "Ibrahim Rivera",
-      "position": "DF",
-      "rating": 71,
-      "age": 19,
-      "value": 26157894
-    },
-    {
-      "name": "Keita Flores",
-      "position": "MF",
       "rating": 87,
-      "age": 23,
-      "value": 34067368
+      "age": 17,
+      "value": 33884210
     },
     {
-      "name": "David Palmer",
-      "position": "MF",
+      "name": "Jeremiah Lambert",
+      "position": "DF",
       "rating": 64,
-      "age": 24,
-      "value": 24252631
+      "age": 29,
+      "value": 16842105
     },
     {
-      "name": "Ade Murphy",
-      "position": "MF",
-      "rating": 63,
+      "name": "Barney Le\u00f3n",
+      "position": "DF",
+      "rating": 78,
+      "age": 17,
+      "value": 30378947
+    },
+    {
+      "name": "Johnny Hamilton",
+      "position": "DF",
+      "rating": 60,
       "age": 22,
-      "value": 25465263
+      "value": 20210526
     },
     {
-      "name": "Andrew Lambert",
+      "name": "Miguel Salazar",
+      "position": "DF",
+      "rating": 82,
+      "age": 22,
+      "value": 27621052
+    },
+    {
+      "name": "Mat\u00edas Joshi",
+      "position": "DF",
+      "rating": 75,
+      "age": 28,
+      "value": 20526315
+    },
+    {
+      "name": "Jake Freeman",
       "position": "MF",
-      "rating": 68,
-      "age": 16,
-      "value": 32640000
+      "rating": 90,
+      "age": 32,
+      "value": 25010526
     },
     {
-      "name": "Amani Webster",
+      "name": "Luke Nilsson",
+      "position": "MF",
+      "rating": 70,
+      "age": 28,
+      "value": 22989473
+    },
+    {
+      "name": "Marlon Bowman",
+      "position": "MF",
+      "rating": 72,
+      "age": 16,
+      "value": 34560000
+    },
+    {
+      "name": "Glen Barnes",
+      "position": "MF",
+      "rating": 62,
+      "age": 31,
+      "value": 18012631
+    },
+    {
+      "name": "Sergio Wood",
       "position": "MF",
       "rating": 69,
-      "age": 20,
-      "value": 29633684
+      "age": 25,
+      "value": 25275789
     },
     {
-      "name": "Andreas Gomez",
+      "name": "Benjam\u00edn Andrews",
       "position": "MF",
-      "rating": 71,
+      "rating": 69,
+      "age": 35,
+      "value": 16560000
+    },
+    {
+      "name": "Lee Murray",
+      "position": "FW",
+      "rating": 63,
       "age": 20,
-      "value": 30492631
+      "value": 33821052
     },
     {
-      "name": "Nils Barnes",
+      "name": "Rogelio Long",
       "position": "FW",
-      "rating": 76,
-      "age": 26,
-      "value": 33600000
+      "rating": 89,
+      "age": 33,
+      "value": 29510526
     },
     {
-      "name": "Kingston West",
+      "name": "Antonio Reed",
       "position": "FW",
-      "rating": 73,
-      "age": 17,
+      "rating": 86,
+      "age": 21,
       "value": 40000000
     },
     {
-      "name": "Clark Richardson",
+      "name": "Emiliano Bennett",
       "position": "FW",
-      "rating": 82,
-      "age": 32,
-      "value": 28484210
+      "rating": 73,
+      "age": 30,
+      "value": 27663157
     },
     {
-      "name": "Edmund Shaw",
+      "name": "Jelani Marin",
       "position": "FW",
-      "rating": 87,
-      "age": 29,
-      "value": 34342105
-    },
-    {
-      "name": "Dakota Huang",
-      "position": "FW",
-      "rating": 67,
-      "age": 23,
-      "value": 32794736
+      "rating": 66,
+      "age": 21,
+      "value": 34389473
     }
   ],
   "stadium": {

@@ -2,144 +2,144 @@
   "name": "Nottingham Forest",
   "squad": [
     {
-      "name": "August Ortega",
+      "name": "Rory Cunningham",
       "position": "GK",
-      "rating": 66,
-      "age": 32,
-      "value": 12227368
-    },
-    {
-      "name": "Aiden Hicks",
-      "position": "GK",
-      "rating": 67,
-      "age": 26,
-      "value": 15797894
-    },
-    {
-      "name": "Mitchell Ramirez",
-      "position": "GK",
-      "rating": 62,
-      "age": 26,
-      "value": 14618947
-    },
-    {
-      "name": "Israel West",
-      "position": "DF",
-      "rating": 85,
+      "rating": 74,
       "age": 23,
-      "value": 27736842
+      "value": 19317894
     },
     {
-      "name": "Alonso Nakamura",
+      "name": "Hayden Phillips",
+      "position": "GK",
+      "rating": 60,
+      "age": 35,
+      "value": 9600000
+    },
+    {
+      "name": "Jorge Barnes",
+      "position": "GK",
+      "rating": 88,
+      "age": 19,
+      "value": 25936842
+    },
+    {
+      "name": "Stanley Bauer",
       "position": "DF",
-      "rating": 78,
-      "age": 32,
-      "value": 18063157
-    },
-    {
-      "name": "Matt Johansen",
-      "position": "DF",
-      "rating": 87,
-      "age": 31,
-      "value": 21063157
-    },
-    {
-      "name": "Brooks  Taylor",
-      "position": "DF",
-      "rating": 62,
-      "age": 29,
-      "value": 16315789
-    },
-    {
-      "name": "Shane Owens",
-      "position": "DF",
-      "rating": 83,
-      "age": 28,
-      "value": 22715789
-    },
-    {
-      "name": "Jason Kobayashi",
-      "position": "DF",
-      "rating": 80,
-      "age": 31,
-      "value": 19368421
-    },
-    {
-      "name": "Soren Stewart",
-      "position": "MF",
-      "rating": 70,
-      "age": 30,
-      "value": 21221052
-    },
-    {
-      "name": "Kwabena Mabena",
-      "position": "MF",
       "rating": 86,
-      "age": 17,
-      "value": 40000000
-    },
-    {
-      "name": "Joel Howard",
-      "position": "MF",
-      "rating": 89,
       "age": 20,
-      "value": 38223157
+      "value": 30778947
     },
     {
-      "name": "Angel Parker",
-      "position": "MF",
-      "rating": 73,
-      "age": 19,
-      "value": 32273684
+      "name": "Bryan Jansson",
+      "position": "DF",
+      "rating": 61,
+      "age": 24,
+      "value": 19263157
     },
     {
-      "name": "Kofi West",
-      "position": "MF",
-      "rating": 82,
-      "age": 19,
-      "value": 36252631
-    },
-    {
-      "name": "Morgan Chukwu",
-      "position": "MF",
-      "rating": 80,
-      "age": 34,
-      "value": 20210526
-    },
-    {
-      "name": "Shane Harrison",
-      "position": "FW",
-      "rating": 70,
-      "age": 30,
+      "name": "Felipe Cox",
+      "position": "DF",
+      "rating": 90,
+      "age": 26,
       "value": 26526315
     },
     {
-      "name": "Troy Jordan",
-      "position": "FW",
-      "rating": 68,
-      "age": 22,
-      "value": 34357894
-    },
-    {
-      "name": "Adrian Thomas",
-      "position": "FW",
-      "rating": 72,
-      "age": 28,
-      "value": 29557894
-    },
-    {
-      "name": "Kyle Magnusson",
-      "position": "FW",
+      "name": "Amir Das",
+      "position": "DF",
       "rating": 79,
-      "age": 26,
-      "value": 34926315
+      "age": 31,
+      "value": 19126315
     },
     {
-      "name": "Quentin Gray",
-      "position": "FW",
-      "rating": 70,
+      "name": "Easton Morgan",
+      "position": "DF",
+      "rating": 79,
+      "age": 17,
+      "value": 30768421
+    },
+    {
+      "name": "Agust\u00edn Ciss\u00e9",
+      "position": "DF",
+      "rating": 60,
+      "age": 30,
+      "value": 15157894
+    },
+    {
+      "name": "Paul J\u00f8rgensen",
+      "position": "MF",
+      "rating": 68,
+      "age": 20,
+      "value": 29204210
+    },
+    {
+      "name": "Kato Richardson",
+      "position": "MF",
+      "rating": 88,
       "age": 16,
       "value": 40000000
+    },
+    {
+      "name": "Brayden Hughes",
+      "position": "MF",
+      "rating": 87,
+      "age": 31,
+      "value": 25275789
+    },
+    {
+      "name": "Obi Allen",
+      "position": "MF",
+      "rating": 66,
+      "age": 27,
+      "value": 22509473
+    },
+    {
+      "name": "Thabo Manning",
+      "position": "MF",
+      "rating": 62,
+      "age": 28,
+      "value": 20362105
+    },
+    {
+      "name": "Kaden Webster",
+      "position": "MF",
+      "rating": 61,
+      "age": 31,
+      "value": 17722105
+    },
+    {
+      "name": "Clark Marin",
+      "position": "FW",
+      "rating": 62,
+      "age": 26,
+      "value": 27410526
+    },
+    {
+      "name": "Lawrence Richards",
+      "position": "FW",
+      "rating": 60,
+      "age": 34,
+      "value": 18947368
+    },
+    {
+      "name": "Joel Lubega",
+      "position": "FW",
+      "rating": 84,
+      "age": 34,
+      "value": 26526315
+    },
+    {
+      "name": "Adam Castro",
+      "position": "FW",
+      "rating": 75,
+      "age": 27,
+      "value": 31973684
+    },
+    {
+      "name": "Keita Desai",
+      "position": "FW",
+      "rating": 61,
+      "age": 23,
+      "value": 29857894
     }
   ],
   "stadium": {
