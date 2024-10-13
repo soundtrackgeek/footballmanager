@@ -2,144 +2,144 @@
   "name": "Bournemouth",
   "squad": [
     {
-      "name": "Ben Baldwin",
+      "name": "Reid West",
+      "position": "GK",
+      "rating": 72,
+      "age": 28,
+      "value": 15764210
+    },
+    {
+      "name": "Lukas Castillo",
       "position": "GK",
       "rating": 61,
-      "age": 31,
-      "value": 11814736
+      "age": 23,
+      "value": 15924210
     },
     {
-      "name": "Quinn Hart",
+      "name": "Christian Webster",
       "position": "GK",
-      "rating": 62,
-      "age": 20,
-      "value": 17751578
+      "rating": 79,
+      "age": 18,
+      "value": 23949473
     },
     {
-      "name": "Tony Reed",
-      "position": "GK",
-      "rating": 69,
-      "age": 31,
-      "value": 13364210
+      "name": "Victor \u00c5kesson",
+      "position": "DF",
+      "rating": 70,
+      "age": 30,
+      "value": 17684210
     },
     {
-      "name": "Ra\u00fal Bergstrom",
+      "name": "Simba Olsen",
       "position": "DF",
       "rating": 71,
-      "age": 22,
-      "value": 23915789
+      "age": 33,
+      "value": 15694736
     },
     {
-      "name": "Jiro Yoo",
+      "name": "Antonio Yamamoto",
       "position": "DF",
+      "rating": 75,
+      "age": 20,
+      "value": 26842105
+    },
+    {
+      "name": "Liang Reid",
+      "position": "DF",
+      "rating": 71,
+      "age": 26,
+      "value": 20926315
+    },
+    {
+      "name": "Tony Gariba",
+      "position": "DF",
+      "rating": 81,
+      "age": 33,
+      "value": 17905263
+    },
+    {
+      "name": "Roman Long",
+      "position": "DF",
+      "rating": 78,
+      "age": 28,
+      "value": 21347368
+    },
+    {
+      "name": "Caleb Webb",
+      "position": "MF",
+      "rating": 88,
+      "age": 19,
+      "value": 38905263
+    },
+    {
+      "name": "Samuel Ellis",
+      "position": "MF",
+      "rating": 67,
+      "age": 23,
+      "value": 26235789
+    },
+    {
+      "name": "Matt Williamson",
+      "position": "MF",
+      "rating": 89,
+      "age": 21,
+      "value": 37098947
+    },
+    {
+      "name": "Juan Patel",
+      "position": "MF",
       "rating": 87,
       "age": 21,
-      "value": 30221052
+      "value": 36265263
     },
     {
-      "name": "Santiago West",
-      "position": "DF",
-      "rating": 72,
-      "age": 30,
-      "value": 18189473
-    },
-    {
-      "name": "Musa Watts",
-      "position": "DF",
-      "rating": 68,
-      "age": 30,
-      "value": 17178947
-    },
-    {
-      "name": "Mandla Perry",
-      "position": "DF",
-      "rating": 63,
-      "age": 16,
-      "value": 25200000
-    },
-    {
-      "name": "Abdul Stone",
-      "position": "DF",
-      "rating": 60,
-      "age": 34,
-      "value": 12631578
-    },
-    {
-      "name": "Jermaine Kim",
+      "name": "Zion Ellis",
       "position": "MF",
-      "rating": 83,
-      "age": 32,
-      "value": 23065263
+      "rating": 88,
+      "age": 24,
+      "value": 33347368
     },
     {
-      "name": "Rafael Shaw",
+      "name": "Chester Kwamena",
       "position": "MF",
-      "rating": 75,
-      "age": 28,
-      "value": 24631578
+      "rating": 88,
+      "age": 17,
+      "value": 40000000
     },
     {
-      "name": "Mathias Ramsey",
-      "position": "MF",
-      "rating": 69,
-      "age": 19,
-      "value": 30505263
+      "name": "Gustavo Stewart",
+      "position": "FW",
+      "rating": 64,
+      "age": 33,
+      "value": 21221052
     },
     {
-      "name": "Emiliano Yeboah",
-      "position": "MF",
-      "rating": 87,
-      "age": 25,
-      "value": 31869473
-    },
-    {
-      "name": "Travis Lindgren",
-      "position": "MF",
+      "name": "Jamie Ramadhan",
+      "position": "FW",
       "rating": 80,
-      "age": 27,
-      "value": 27284210
+      "age": 21,
+      "value": 40000000
     },
     {
-      "name": "Elijah Olson",
-      "position": "MF",
-      "rating": 82,
-      "age": 23,
-      "value": 32109473
+      "name": "Reed Hart",
+      "position": "FW",
+      "rating": 69,
+      "age": 31,
+      "value": 25057894
     },
     {
-      "name": "Hugo Howard",
+      "name": "Rodney Bennett",
+      "position": "FW",
+      "rating": 77,
+      "age": 25,
+      "value": 35257894
+    },
+    {
+      "name": "William Dom\u00ednguez",
       "position": "FW",
       "rating": 89,
-      "age": 26,
-      "value": 39347368
-    },
-    {
-      "name": "Charlie Jimenez",
-      "position": "FW",
-      "rating": 82,
-      "age": 30,
-      "value": 31073684
-    },
-    {
-      "name": "Ram\u00f3n Edwards",
-      "position": "FW",
-      "rating": 79,
-      "age": 30,
-      "value": 29936842
-    },
-    {
-      "name": "Christopher Manning",
-      "position": "FW",
-      "rating": 74,
-      "age": 27,
-      "value": 31547368
-    },
-    {
-      "name": "Hayden Hassan",
-      "position": "FW",
-      "rating": 78,
-      "age": 25,
-      "value": 35715789
+      "age": 24,
+      "value": 40000000
     }
   ],
   "stadium": {

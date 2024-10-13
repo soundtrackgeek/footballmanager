@@ -10,7 +10,7 @@ class TransferMarket:
 
     def update_transfer_list(self, teams, player_team):
         for team in teams:
-            if team != player_team and random.random() < 0.1:  # 10% chance, exclude player's team
+            if team.name != player_team.name and random.random() < 0.1:  # 10% chance, exclude player's team by name
                 if team.squad:
                     player = random.choice(team.squad)
                     if not any(p == player for p, _ in self.transfer_list):
@@ -42,7 +42,7 @@ class TransferMarket:
                     return False
                 if 0 <= choice < len(self.transfer_list):
                     player, selling_team = self.transfer_list[choice]
-                    if buying_team == selling_team:
+                    if buying_team.name == selling_team.name:
                         print("You can't buy a player from your own team.")
                         return False
                     if buying_team.finances['bank_balance'] >= player.value:
@@ -91,7 +91,7 @@ class TransferMarket:
                     return False
                 if 0 <= choice < len(self.loan_list):
                     player, team, loan_fee, duration = self.loan_list[choice]
-                    if loaning_team == team:
+                    if loaning_team.name == team.name:
                         print("You can't loan a player from your own team.")
                         return False
                     total_loan_cost = loan_fee * duration
@@ -113,7 +113,7 @@ class TransferMarket:
                 action = random.choice(['buy', 'sell', 'loan'])
                 if action == 'buy' and self.transfer_list:
                     player, selling_team = random.choice(self.transfer_list)
-                    if team != selling_team and team.finances['bank_balance'] >= player.value:
+                    if team.name != selling_team.name and team.finances['bank_balance'] >= player.value:
                         if player not in self.bids:
                             self.bids[player] = []
                         self.bids[player].append((team, player.value))
@@ -125,7 +125,7 @@ class TransferMarket:
                         print(f"AI: {team.name} has put {player.name} on the transfer list")
                 elif action == 'loan' and self.loan_list:
                     player, loaning_team, loan_fee, duration = random.choice(self.loan_list)
-                    if team != loaning_team:
+                    if team.name != loaning_team.name:
                         total_loan_cost = loan_fee * duration
                         if team.finances['bank_balance'] >= total_loan_cost:
                             self.pending_transfers.append(('loan', team, loaning_team, player, loan_fee, duration))
@@ -137,9 +137,9 @@ class TransferMarket:
             if bids:
                 winning_bid = random.choice(bids)
                 buying_team, value = winning_bid
-                selling_team = next(team for p, team in self.transfer_list if p == player)
-                
-                if player in selling_team.squad:
+                selling_team = next((team for p, team in self.transfer_list if p == player), None)
+
+                if selling_team and player in selling_team.squad:
                     buying_team.finances['bank_balance'] -= value
                     selling_team.finances['bank_balance'] += value
                     buying_team.squad.append(player)
@@ -168,7 +168,7 @@ class TransferMarket:
                     print(f"{player.name} has been loaned to {loaning_team.name} from {team.name} for {duration} weeks at £{loan_fee}/week")
                 else:
                     print(f"Loan of {player.name} to {loaning_team.name} failed: Player not in {team.name}'s squad.")
-        
+
         self.pending_transfers = []
 
 def transfer_market_menu(player_team, transfer_market, teams):
@@ -193,7 +193,7 @@ def transfer_market_menu(player_team, transfer_market, teams):
             print("Invalid choice. Please try again.")
 
         # AI teams perform transfer actions
-        transfer_market.ai_transfer_actions([team for team in teams if team != player_team])
+        transfer_market.ai_transfer_actions([team for team in teams if team.name != player_team.name])
 
 # This function should be called every week in the main game loop
 def update_transfer_market(transfer_market, teams, player_team):

@@ -2,144 +2,144 @@
   "name": "Tottenham",
   "squad": [
     {
-      "name": "Samuel Hayes",
+      "name": "Joel Cox",
       "position": "GK",
-      "rating": 68,
-      "age": 19,
-      "value": 20042105
+      "rating": 72,
+      "age": 31,
+      "value": 13945263
     },
     {
-      "name": "Jamie Boone",
+      "name": "Felix Ortiz",
       "position": "GK",
+      "rating": 80,
+      "age": 30,
+      "value": 16168421
+    },
+    {
+      "name": "Ignacio Mann",
+      "position": "GK",
+      "rating": 63,
+      "age": 33,
+      "value": 11141052
+    },
+    {
+      "name": "Andrew Franco",
+      "position": "DF",
+      "rating": 73,
+      "age": 31,
+      "value": 17673684
+    },
+    {
+      "name": "Shin Tanaka",
+      "position": "DF",
+      "rating": 61,
+      "age": 16,
+      "value": 24400000
+    },
+    {
+      "name": "Isak Reid",
+      "position": "DF",
+      "rating": 80,
+      "age": 20,
+      "value": 28631578
+    },
+    {
+      "name": "Clayton Matsumoto",
+      "position": "DF",
+      "rating": 60,
+      "age": 22,
+      "value": 20210526
+    },
+    {
+      "name": "Sebasti\u00e1n Franco",
+      "position": "DF",
+      "rating": 71,
+      "age": 19,
+      "value": 26157894
+    },
+    {
+      "name": "Walter Benjumea",
+      "position": "DF",
       "rating": 76,
       "age": 16,
-      "value": 24320000
+      "value": 30400000
     },
     {
-      "name": "Tunde Romero",
-      "position": "GK",
-      "rating": 74,
-      "age": 34,
-      "value": 12463157
-    },
-    {
-      "name": "Oscar Dias",
-      "position": "DF",
-      "rating": 65,
-      "age": 26,
-      "value": 19157894
-    },
-    {
-      "name": "Dominic Holt",
-      "position": "DF",
-      "rating": 76,
+      "name": "Levi Collins",
+      "position": "MF",
+      "rating": 88,
       "age": 22,
-      "value": 25600000
+      "value": 35570526
     },
     {
-      "name": "Derek Hamilton",
-      "position": "DF",
-      "rating": 83,
-      "age": 23,
-      "value": 27084210
-    },
-    {
-      "name": "Max Lopez",
-      "position": "DF",
-      "rating": 75,
-      "age": 35,
-      "value": 15000000
-    },
-    {
-      "name": "Antonio Lindgren",
-      "position": "DF",
-      "rating": 65,
-      "age": 19,
-      "value": 23947368
-    },
-    {
-      "name": "Marco Adams",
-      "position": "DF",
-      "rating": 62,
+      "name": "Tunde Andrews",
+      "position": "MF",
+      "rating": 72,
       "age": 18,
-      "value": 23494736
+      "value": 32741052
     },
     {
-      "name": "Raymond Feng",
+      "name": "Asher Hayes",
       "position": "MF",
-      "rating": 82,
-      "age": 24,
-      "value": 31073684
-    },
-    {
-      "name": "Pablo King",
-      "position": "MF",
-      "rating": 74,
-      "age": 20,
-      "value": 31781052
-    },
-    {
-      "name": "Devin Hughes",
-      "position": "MF",
-      "rating": 71,
-      "age": 23,
-      "value": 27802105
-    },
-    {
-      "name": "Benny Gustavsson",
-      "position": "MF",
-      "rating": 84,
-      "age": 19,
-      "value": 37136842
-    },
-    {
-      "name": "Amir Olson",
-      "position": "MF",
-      "rating": 84,
-      "age": 30,
-      "value": 25465263
-    },
-    {
-      "name": "Finn Suzuki",
-      "position": "MF",
-      "rating": 71,
-      "age": 28,
-      "value": 23317894
-    },
-    {
-      "name": "Kobe Bergstrom",
-      "position": "FW",
       "rating": 72,
       "age": 22,
-      "value": 36378947
+      "value": 29103157
     },
     {
-      "name": "Aiden Xu",
-      "position": "FW",
-      "rating": 65,
-      "age": 16,
-      "value": 39000000
+      "name": "Ekon Howard",
+      "position": "MF",
+      "rating": 83,
+      "age": 27,
+      "value": 28307368
     },
     {
-      "name": "Ricardo Lee",
+      "name": "Miguel Palmer",
+      "position": "MF",
+      "rating": 85,
+      "age": 30,
+      "value": 25768421
+    },
+    {
+      "name": "Satoshi Watson",
+      "position": "MF",
+      "rating": 81,
+      "age": 27,
+      "value": 27625263
+    },
+    {
+      "name": "Travis Andersen",
       "position": "FW",
-      "rating": 78,
-      "age": 21,
+      "rating": 75,
+      "age": 33,
+      "value": 24868421
+    },
+    {
+      "name": "Tom\u00e1s Nielsen",
+      "position": "FW",
+      "rating": 82,
+      "age": 28,
+      "value": 33663157
+    },
+    {
+      "name": "Samuel Richards",
+      "position": "FW",
+      "rating": 90,
+      "age": 25,
       "value": 40000000
     },
     {
-      "name": "Tobias Olson",
+      "name": "Brooks Shaw",
       "position": "FW",
-      "rating": 70,
-      "age": 19,
-      "value": 38684210
+      "rating": 73,
+      "age": 24,
+      "value": 34578947
     },
     {
-      "name": "Adri\u00e1n Nguyen",
+      "name": "Travis Turner",
       "position": "FW",
-      "rating": 77,
-      "age": 30,
-      "value": 29178947
+      "rating": 72,
+      "age": 23,
+      "value": 35242105
     }
   ],
   "stadium": {

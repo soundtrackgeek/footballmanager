@@ -2,144 +2,144 @@
   "name": "Sheffield United",
   "squad": [
     {
-      "name": "Rory Silva",
+      "name": "Kameron Benson",
       "position": "GK",
-      "rating": 84,
-      "age": 21,
-      "value": 23343157
+      "rating": 78,
+      "age": 29,
+      "value": 16421052
     },
     {
-      "name": "Daniel Hamilton",
+      "name": "Hassan Mori",
       "position": "GK",
-      "rating": 75,
+      "rating": 65,
+      "age": 29,
+      "value": 13684210
+    },
+    {
+      "name": "Xavier Palmer",
+      "position": "GK",
+      "rating": 61,
+      "age": 16,
+      "value": 19520000
+    },
+    {
+      "name": "Morgan Bennett",
+      "position": "DF",
+      "rating": 63,
+      "age": 33,
+      "value": 13926315
+    },
+    {
+      "name": "Rowan Foster",
+      "position": "DF",
+      "rating": 71,
       "age": 27,
-      "value": 17052631
+      "value": 20178947
     },
     {
-      "name": "Aziz Warah",
-      "position": "GK",
-      "rating": 70,
-      "age": 20,
-      "value": 20042105
-    },
-    {
-      "name": "Brandon Reyes",
+      "name": "Reese Olson",
       "position": "DF",
-      "rating": 84,
-      "age": 20,
-      "value": 30063157
+      "rating": 80,
+      "age": 29,
+      "value": 21052631
     },
     {
-      "name": "Fernando Bates",
+      "name": "Damon Fletcher",
       "position": "DF",
-      "rating": 81,
-      "age": 26,
-      "value": 23873684
+      "rating": 78,
+      "age": 34,
+      "value": 16421052
     },
     {
-      "name": "Julian Parker",
+      "name": "Dustin Nilsen",
       "position": "DF",
       "rating": 71,
       "age": 17,
       "value": 27652631
     },
     {
-      "name": "Femi Powell",
+      "name": "Viktor Marshall",
       "position": "DF",
-      "rating": 64,
-      "age": 26,
-      "value": 18863157
+      "rating": 67,
+      "age": 17,
+      "value": 26094736
     },
     {
-      "name": "Vince Wallace",
-      "position": "DF",
-      "rating": 84,
-      "age": 21,
-      "value": 29178947
-    },
-    {
-      "name": "Ayaan Campbell",
-      "position": "DF",
-      "rating": 60,
-      "age": 23,
-      "value": 19578947
-    },
-    {
-      "name": "Richard French",
+      "name": "River Pepper",
       "position": "MF",
       "rating": 61,
-      "age": 18,
-      "value": 27738947
+      "age": 28,
+      "value": 20033684
     },
     {
-      "name": "Nnamdi Bradshaw",
+      "name": "Benjamin Long",
       "position": "MF",
-      "rating": 72,
-      "age": 17,
-      "value": 33650526
+      "rating": 83,
+      "age": 27,
+      "value": 28307368
     },
     {
-      "name": "Malcolm Lin",
-      "position": "MF",
-      "rating": 79,
-      "age": 33,
-      "value": 20955789
-    },
-    {
-      "name": "Alejandro Silva",
-      "position": "MF",
-      "rating": 81,
-      "age": 17,
-      "value": 37856842
-    },
-    {
-      "name": "Stephen Phillips",
-      "position": "MF",
-      "rating": 65,
-      "age": 18,
-      "value": 29557894
-    },
-    {
-      "name": "Jason White",
+      "name": "Andrew Perez",
       "position": "MF",
       "rating": 69,
-      "age": 33,
-      "value": 18303157
+      "age": 35,
+      "value": 16560000
     },
     {
-      "name": "Thabo Reid",
+      "name": "Spencer Fox",
+      "position": "MF",
+      "rating": 76,
+      "age": 30,
+      "value": 23040000
+    },
+    {
+      "name": "Clifford Holt",
+      "position": "MF",
+      "rating": 62,
+      "age": 17,
+      "value": 28976842
+    },
+    {
+      "name": "Kabelo Black",
+      "position": "MF",
+      "rating": 72,
+      "age": 23,
+      "value": 28193684
+    },
+    {
+      "name": "Ayden Brown",
       "position": "FW",
-      "rating": 86,
-      "age": 19,
+      "rating": 69,
+      "age": 25,
+      "value": 31594736
+    },
+    {
+      "name": "Morten Shaw",
+      "position": "FW",
+      "rating": 71,
+      "age": 18,
       "value": 40000000
     },
     {
-      "name": "Kody Wallace",
+      "name": "Rafael Kim",
       "position": "FW",
-      "rating": 65,
-      "age": 27,
-      "value": 27710526
+      "rating": 60,
+      "age": 32,
+      "value": 20842105
     },
     {
-      "name": "Bobby Russell",
+      "name": "Nathaniel Holm",
       "position": "FW",
-      "rating": 65,
-      "age": 26,
-      "value": 28736842
+      "rating": 68,
+      "age": 16,
+      "value": 40000000
     },
     {
-      "name": "Dakota Matsumoto",
+      "name": "Wei Burke",
       "position": "FW",
-      "rating": 69,
+      "rating": 78,
       "age": 31,
-      "value": 25057894
-    },
-    {
-      "name": "Douglas Page",
-      "position": "FW",
-      "rating": 69,
-      "age": 24,
-      "value": 32684210
+      "value": 28326315
     }
   ],
   "stadium": {

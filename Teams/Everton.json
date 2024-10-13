@@ -2,144 +2,144 @@
   "name": "Everton",
   "squad": [
     {
-      "name": "Allan Bailey",
+      "name": "Mauricio Berry",
       "position": "GK",
-      "rating": 68,
+      "rating": 64,
+      "age": 17,
+      "value": 19941052
+    },
+    {
+      "name": "Milton Diaz",
+      "position": "GK",
+      "rating": 63,
+      "age": 17,
+      "value": 19629473
+    },
+    {
+      "name": "David Ibrahim",
+      "position": "GK",
+      "rating": 85,
+      "age": 20,
+      "value": 24336842
+    },
+    {
+      "name": "Thabo Iyer",
+      "position": "DF",
+      "rating": 62,
+      "age": 31,
+      "value": 15010526
+    },
+    {
+      "name": "Fredrik Solberg",
+      "position": "DF",
+      "rating": 67,
       "age": 23,
-      "value": 17751578
+      "value": 21863157
     },
     {
-      "name": "Kingston Jacobsen",
-      "position": "GK",
-      "rating": 80,
-      "age": 24,
-      "value": 20210526
-    },
-    {
-      "name": "Kofi Watkins",
-      "position": "GK",
-      "rating": 61,
+      "name": "Aiden Holt",
+      "position": "DF",
+      "rating": 65,
       "age": 35,
-      "value": 9760000
+      "value": 13000000
     },
     {
-      "name": "Zuberi Fernandes",
+      "name": "Graham Schneider",
       "position": "DF",
       "rating": 86,
       "age": 18,
       "value": 32589473
     },
     {
-      "name": "Tristan Holmberg",
+      "name": "Samuel Dixon",
       "position": "DF",
-      "rating": 83,
-      "age": 20,
-      "value": 29705263
+      "rating": 66,
+      "age": 29,
+      "value": 17368421
     },
     {
-      "name": "Warren Navarro",
+      "name": "Kwasi Guo",
       "position": "DF",
-      "rating": 83,
-      "age": 27,
-      "value": 23589473
-    },
-    {
-      "name": "Danny Farmer",
-      "position": "DF",
-      "rating": 90,
-      "age": 16,
-      "value": 36000000
-    },
-    {
-      "name": "Jelani Das",
-      "position": "DF",
-      "rating": 79,
-      "age": 22,
-      "value": 26610526
-    },
-    {
-      "name": "Ji-hoon Xu",
-      "position": "DF",
-      "rating": 69,
-      "age": 33,
-      "value": 15252631
-    },
-    {
-      "name": "Barry Barnett",
-      "position": "MF",
-      "rating": 68,
-      "age": 20,
-      "value": 29204210
-    },
-    {
-      "name": "Gunnar Owens",
-      "position": "MF",
-      "rating": 62,
-      "age": 24,
-      "value": 23494736
-    },
-    {
-      "name": "Liang Hill",
-      "position": "MF",
-      "rating": 70,
-      "age": 35,
-      "value": 16800000
-    },
-    {
-      "name": "Joshua Jackson",
-      "position": "MF",
-      "rating": 78,
-      "age": 25,
-      "value": 28572631
-    },
-    {
-      "name": "Reuben Larsen",
-      "position": "MF",
-      "rating": 68,
+      "rating": 71,
       "age": 31,
-      "value": 19755789
+      "value": 17189473
     },
     {
-      "name": "Ayden Hughes",
+      "name": "Pranav Fofana",
       "position": "MF",
-      "rating": 89,
-      "age": 20,
-      "value": 38223157
+      "rating": 76,
+      "age": 16,
+      "value": 36480000
     },
     {
-      "name": "Dakota Choi",
-      "position": "FW",
-      "rating": 77,
-      "age": 17,
-      "value": 40000000
-    },
-    {
-      "name": "Colin Jimenez",
-      "position": "FW",
-      "rating": 85,
-      "age": 19,
-      "value": 40000000
-    },
-    {
-      "name": "Amari Dias",
-      "position": "FW",
+      "name": "Jayson Rowe",
+      "position": "MF",
       "rating": 62,
-      "age": 26,
-      "value": 27410526
+      "age": 21,
+      "value": 25844210
     },
     {
-      "name": "Jasper Eriksson",
-      "position": "FW",
-      "rating": 68,
+      "name": "Austin Carter",
+      "position": "MF",
+      "rating": 86,
+      "age": 30,
+      "value": 26071578
+    },
+    {
+      "name": "Edwin Nguyen",
+      "position": "MF",
+      "rating": 61,
+      "age": 30,
+      "value": 18492631
+    },
+    {
+      "name": "Ross Seo",
+      "position": "MF",
+      "rating": 80,
       "age": 27,
-      "value": 28989473
+      "value": 27284210
     },
     {
-      "name": "Rogelio Murphy",
+      "name": "Andres Brown",
+      "position": "MF",
+      "rating": 72,
+      "age": 19,
+      "value": 31831578
+    },
+    {
+      "name": "Roberto Newman",
       "position": "FW",
-      "rating": 75,
-      "age": 18,
+      "rating": 72,
+      "age": 28,
+      "value": 29557894
+    },
+    {
+      "name": "Conor Yeboah",
+      "position": "FW",
+      "rating": 72,
+      "age": 29,
+      "value": 28421052
+    },
+    {
+      "name": "Nils Cook",
+      "position": "FW",
+      "rating": 84,
+      "age": 26,
+      "value": 37136842
+    },
+    {
+      "name": "Russell S\u00f6derberg",
+      "position": "FW",
+      "rating": 84,
+      "age": 21,
       "value": 40000000
+    },
+    {
+      "name": "Josiah James",
+      "position": "FW",
+      "rating": 71,
+      "age": 19,
+      "value": 39236842
     }
   ],
   "stadium": {

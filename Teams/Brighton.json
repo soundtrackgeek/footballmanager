@@ -2,144 +2,144 @@
   "name": "Brighton",
   "squad": [
     {
-      "name": "Andrew Shaw",
+      "name": "Kevin Morris",
       "position": "GK",
-      "rating": 77,
-      "age": 18,
-      "value": 23343157
-    },
-    {
-      "name": "Barry Allen",
-      "position": "GK",
-      "rating": 87,
-      "age": 26,
-      "value": 20513684
-    },
-    {
-      "name": "Diego Burke",
-      "position": "GK",
-      "rating": 63,
-      "age": 29,
-      "value": 13263157
-    },
-    {
-      "name": "Filip Pena",
-      "position": "DF",
       "rating": 73,
-      "age": 28,
-      "value": 19978947
-    },
-    {
-      "name": "Larry Nguyen",
-      "position": "DF",
-      "rating": 62,
-      "age": 18,
-      "value": 23494736
-    },
-    {
-      "name": "Soren Garc\u00eda",
-      "position": "DF",
-      "rating": 90,
       "age": 26,
-      "value": 26526315
+      "value": 17212631
     },
     {
-      "name": "Christian Berg",
-      "position": "DF",
-      "rating": 71,
-      "age": 23,
-      "value": 23168421
+      "name": "Joshua Valencia",
+      "position": "GK",
+      "rating": 66,
+      "age": 25,
+      "value": 16117894
     },
     {
-      "name": "Antonio Yoo",
-      "position": "DF",
-      "rating": 64,
-      "age": 17,
-      "value": 24926315
-    },
-    {
-      "name": "Jayden Barnett",
-      "position": "DF",
-      "rating": 85,
-      "age": 30,
-      "value": 21473684
-    },
-    {
-      "name": "Easton Fuller",
-      "position": "MF",
+      "name": "Samuel Reyes",
+      "position": "GK",
       "rating": 60,
-      "age": 31,
-      "value": 17431578
+      "age": 34,
+      "value": 10105263
     },
     {
-      "name": "Raj Franklin",
+      "name": "Blake Crawford",
+      "position": "DF",
+      "rating": 75,
+      "age": 27,
+      "value": 21315789
+    },
+    {
+      "name": "Mat\u00edas Rodriguez",
+      "position": "DF",
+      "rating": 66,
+      "age": 34,
+      "value": 13894736
+    },
+    {
+      "name": "Jayson Holmberg",
+      "position": "DF",
+      "rating": 67,
+      "age": 17,
+      "value": 26094736
+    },
+    {
+      "name": "Tyrone Baker",
+      "position": "DF",
+      "rating": 84,
+      "age": 28,
+      "value": 22989473
+    },
+    {
+      "name": "Alan Karlsson",
+      "position": "DF",
+      "rating": 82,
+      "age": 23,
+      "value": 26757894
+    },
+    {
+      "name": "Samuel Rowe",
+      "position": "DF",
+      "rating": 68,
+      "age": 32,
+      "value": 15747368
+    },
+    {
+      "name": "Henry Berry",
       "position": "MF",
-      "rating": 83,
-      "age": 21,
-      "value": 34597894
+      "rating": 78,
+      "age": 33,
+      "value": 20690526
     },
     {
-      "name": "Carlos Brooks",
+      "name": "Sebastian Bennett",
       "position": "MF",
-      "rating": 74,
-      "age": 35,
-      "value": 17760000
+      "rating": 84,
+      "age": 19,
+      "value": 37136842
     },
     {
-      "name": "Brock Dean",
-      "position": "MF",
-      "rating": 85,
-      "age": 26,
-      "value": 30063157
-    },
-    {
-      "name": "Lamine Carter",
-      "position": "MF",
-      "rating": 87,
-      "age": 20,
-      "value": 37364210
-    },
-    {
-      "name": "Daniel Lee",
+      "name": "Asher Fernandes",
       "position": "MF",
       "rating": 62,
       "age": 34,
       "value": 15663157
     },
     {
-      "name": "Austin Hansen",
-      "position": "FW",
-      "rating": 67,
-      "age": 29,
-      "value": 26447368
+      "name": "Tunde Howard",
+      "position": "MF",
+      "rating": 72,
+      "age": 18,
+      "value": 32741052
     },
     {
-      "name": "Maximiliano Beck",
+      "name": "Chidi Silva",
+      "position": "MF",
+      "rating": 72,
+      "age": 17,
+      "value": 33650526
+    },
+    {
+      "name": "Kwasi Pepper",
+      "position": "MF",
+      "rating": 89,
+      "age": 34,
+      "value": 22484210
+    },
+    {
+      "name": "Mauricio Palmer",
+      "position": "FW",
+      "rating": 65,
+      "age": 28,
+      "value": 26684210
+    },
+    {
+      "name": "Damien Barnes",
+      "position": "FW",
+      "rating": 83,
+      "age": 30,
+      "value": 31452631
+    },
+    {
+      "name": "Maurice Kwamena",
+      "position": "FW",
+      "rating": 85,
+      "age": 32,
+      "value": 29526315
+    },
+    {
+      "name": "Jaden Nilsson",
       "position": "FW",
       "rating": 72,
-      "age": 21,
-      "value": 37515789
-    },
-    {
-      "name": "George Zhang",
-      "position": "FW",
-      "rating": 60,
       "age": 16,
-      "value": 36000000
+      "value": 40000000
     },
     {
-      "name": "Magnus Harris",
+      "name": "Toshiro Long",
       "position": "FW",
-      "rating": 62,
-      "age": 30,
-      "value": 23494736
-    },
-    {
-      "name": "Roderick Brooks",
-      "position": "FW",
-      "rating": 71,
-      "age": 28,
-      "value": 29147368
+      "rating": 69,
+      "age": 34,
+      "value": 21789473
     }
   ],
   "stadium": {

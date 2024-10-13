@@ -2,143 +2,143 @@
   "name": "Luton",
   "squad": [
     {
-      "name": "Stephen Butler",
+      "name": "Sebastian Reyes",
       "position": "GK",
-      "rating": 79,
+      "rating": 70,
       "age": 34,
-      "value": 13305263
+      "value": 11789473
     },
     {
-      "name": "Elias Castillo",
+      "name": "Adan Oliver",
       "position": "GK",
-      "rating": 87,
+      "rating": 83,
+      "age": 19,
+      "value": 24463157
+    },
+    {
+      "name": "Charles Badu",
+      "position": "GK",
+      "rating": 81,
+      "age": 31,
+      "value": 15688421
+    },
+    {
+      "name": "Eric Woods",
+      "position": "DF",
+      "rating": 89,
       "age": 25,
-      "value": 21246315
+      "value": 27168421
     },
     {
-      "name": "Cristian Quartey",
-      "position": "GK",
-      "rating": 60,
-      "age": 17,
-      "value": 18694736
-    },
-    {
-      "name": "Andy Nguyen",
+      "name": "Sven Nakamura",
       "position": "DF",
-      "rating": 74,
-      "age": 35,
-      "value": 14800000
+      "rating": 83,
+      "age": 29,
+      "value": 21842105
     },
     {
-      "name": "Daniel Murphy",
+      "name": "Gunnar Griffin",
       "position": "DF",
-      "rating": 75,
-      "age": 24,
-      "value": 23684210
+      "rating": 84,
+      "age": 21,
+      "value": 29178947
     },
     {
-      "name": "Blake Simmons",
+      "name": "Larry Peterson",
       "position": "DF",
-      "rating": 63,
-      "age": 17,
-      "value": 24536842
-    },
-    {
-      "name": "Felipe Guo",
-      "position": "DF",
-      "rating": 64,
-      "age": 34,
-      "value": 13473684
-    },
-    {
-      "name": "Sam Hicks",
-      "position": "DF",
-      "rating": 66,
-      "age": 20,
-      "value": 23621052
-    },
-    {
-      "name": "Luis Murphy",
-      "position": "DF",
-      "rating": 75,
+      "rating": 69,
       "age": 32,
-      "value": 17368421
+      "value": 15978947
     },
     {
-      "name": "Andy Bryant",
+      "name": "Damian Lambert",
+      "position": "DF",
+      "rating": 89,
+      "age": 18,
+      "value": 33726315
+    },
+    {
+      "name": "Quinn Pineda",
+      "position": "DF",
+      "rating": 88,
+      "age": 16,
+      "value": 35200000
+    },
+    {
+      "name": "Francisco Palmer",
       "position": "MF",
-      "rating": 72,
-      "age": 23,
-      "value": 28193684
+      "rating": 79,
+      "age": 21,
+      "value": 32930526
     },
     {
-      "name": "Gage Ramsey",
+      "name": "Gavin Umar",
       "position": "MF",
-      "rating": 87,
-      "age": 35,
-      "value": 20880000
+      "rating": 74,
+      "age": 26,
+      "value": 26172631
     },
     {
-      "name": "Kyan Pepper",
+      "name": "Samuel Oliver",
+      "position": "MF",
+      "rating": 78,
+      "age": 32,
+      "value": 21675789
+    },
+    {
+      "name": "Jengo Lee",
+      "position": "MF",
+      "rating": 88,
+      "age": 25,
+      "value": 32235789
+    },
+    {
+      "name": "Miguel Bryant",
       "position": "MF",
       "rating": 89,
-      "age": 20,
-      "value": 38223157
-    },
-    {
-      "name": "Ronald Reid",
-      "position": "MF",
-      "rating": 80,
-      "age": 32,
-      "value": 22231578
-    },
-    {
-      "name": "Alonzo Crawford",
-      "position": "MF",
-      "rating": 75,
-      "age": 26,
-      "value": 26526315
-    },
-    {
-      "name": "Rakesh Warah",
-      "position": "MF",
-      "rating": 67,
-      "age": 19,
-      "value": 29621052
-    },
-    {
-      "name": "Orlando James",
-      "position": "FW",
-      "rating": 60,
-      "age": 21,
-      "value": 31263157
-    },
-    {
-      "name": "Frank Freeman",
-      "position": "FW",
-      "rating": 87,
-      "age": 19,
-      "value": 40000000
-    },
-    {
-      "name": "Drew Moore",
-      "position": "FW",
-      "rating": 86,
-      "age": 21,
-      "value": 40000000
-    },
-    {
-      "name": "Kofi Khan",
-      "position": "FW",
-      "rating": 60,
-      "age": 35,
-      "value": 18000000
-    },
-    {
-      "name": "Soren Banks",
-      "position": "FW",
-      "rating": 88,
       "age": 22,
+      "value": 35974736
+    },
+    {
+      "name": "Brian Woods",
+      "position": "MF",
+      "rating": 84,
+      "age": 16,
+      "value": 40000000
+    },
+    {
+      "name": "Malcolm Fletcher",
+      "position": "FW",
+      "rating": 68,
+      "age": 23,
+      "value": 33284210
+    },
+    {
+      "name": "Bryson Hayes",
+      "position": "FW",
+      "rating": 77,
+      "age": 23,
+      "value": 37689473
+    },
+    {
+      "name": "Clark Bergstrom",
+      "position": "FW",
+      "rating": 82,
+      "age": 20,
+      "value": 40000000
+    },
+    {
+      "name": "Giovanni Warah",
+      "position": "FW",
+      "rating": 89,
+      "age": 22,
+      "value": 40000000
+    },
+    {
+      "name": "Wesley Thomas",
+      "position": "FW",
+      "rating": 68,
+      "age": 16,
       "value": 40000000
     }
   ],

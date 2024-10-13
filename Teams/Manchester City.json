@@ -2,144 +2,144 @@
   "name": "Manchester City",
   "squad": [
     {
-      "name": "Nils Carter",
+      "name": "Amir Collins",
       "position": "GK",
-      "rating": 83,
-      "age": 23,
-      "value": 21667368
-    },
-    {
-      "name": "James Bradley",
-      "position": "GK",
-      "rating": 90,
-      "age": 25,
-      "value": 21978947
-    },
-    {
-      "name": "Luke Silva",
-      "position": "GK",
-      "rating": 81,
-      "age": 31,
-      "value": 15688421
-    },
-    {
-      "name": "Ping Graham",
-      "position": "DF",
-      "rating": 62,
-      "age": 20,
-      "value": 22189473
-    },
-    {
-      "name": "Johannes Reyes",
-      "position": "DF",
-      "rating": 74,
-      "age": 16,
-      "value": 29600000
-    },
-    {
-      "name": "Donovan Guo",
-      "position": "DF",
-      "rating": 62,
-      "age": 33,
-      "value": 13705263
-    },
-    {
-      "name": "Allan Patel",
-      "position": "DF",
       "rating": 87,
-      "age": 29,
-      "value": 22894736
+      "age": 35,
+      "value": 13920000
     },
     {
-      "name": "Edmund Clark",
+      "name": "Samuel Reyes",
+      "position": "GK",
+      "rating": 78,
+      "age": 18,
+      "value": 23646315
+    },
+    {
+      "name": "Ignacio Mendoza",
+      "position": "GK",
+      "rating": 61,
+      "age": 30,
+      "value": 12328421
+    },
+    {
+      "name": "Remington Ferguson",
       "position": "DF",
-      "rating": 89,
-      "age": 25,
-      "value": 27168421
+      "rating": 84,
+      "age": 32,
+      "value": 19452631
     },
     {
-      "name": "Edward Berry",
+      "name": "Xavier Newman",
       "position": "DF",
       "rating": 78,
-      "age": 19,
-      "value": 28736842
+      "age": 33,
+      "value": 17242105
     },
     {
-      "name": "Jos\u00e9 Fitzgerald",
+      "name": "Jett Pedersen",
+      "position": "DF",
+      "rating": 85,
+      "age": 17,
+      "value": 33105263
+    },
+    {
+      "name": "Mohammad Gomez",
+      "position": "DF",
+      "rating": 60,
+      "age": 24,
+      "value": 18947368
+    },
+    {
+      "name": "Rasmus Palmer",
+      "position": "DF",
+      "rating": 79,
+      "age": 28,
+      "value": 21621052
+    },
+    {
+      "name": "Weston West",
+      "position": "DF",
+      "rating": 71,
+      "age": 28,
+      "value": 19431578
+    },
+    {
+      "name": "Ryan Jordan",
+      "position": "MF",
+      "rating": 62,
+      "age": 35,
+      "value": 14880000
+    },
+    {
+      "name": "Emmett Russell",
+      "position": "MF",
+      "rating": 63,
+      "age": 33,
+      "value": 16711578
+    },
+    {
+      "name": "Weston Ekwueme",
+      "position": "MF",
+      "rating": 64,
+      "age": 34,
+      "value": 16168421
+    },
+    {
+      "name": "Kayden Black",
       "position": "MF",
       "rating": 67,
-      "age": 31,
-      "value": 19465263
+      "age": 34,
+      "value": 16926315
     },
     {
-      "name": "Matthew Pena",
-      "position": "MF",
-      "rating": 66,
-      "age": 30,
-      "value": 20008421
-    },
-    {
-      "name": "Giovanni Fitzgerald",
-      "position": "MF",
-      "rating": 90,
-      "age": 17,
-      "value": 40000000
-    },
-    {
-      "name": "Emil Ross",
-      "position": "MF",
-      "rating": 79,
-      "age": 25,
-      "value": 28938947
-    },
-    {
-      "name": "Chike Green",
-      "position": "MF",
-      "rating": 86,
-      "age": 27,
-      "value": 29330526
-    },
-    {
-      "name": "Karl Fox",
+      "name": "Kamau Beck",
       "position": "MF",
       "rating": 85,
       "age": 21,
       "value": 35431578
     },
     {
-      "name": "Vidar Bates",
-      "position": "FW",
-      "rating": 89,
-      "age": 30,
-      "value": 33726315
+      "name": "Lincoln Ben\u00edtez",
+      "position": "MF",
+      "rating": 62,
+      "age": 16,
+      "value": 29760000
     },
     {
-      "name": "Oscar Barton",
+      "name": "Riley Marin",
       "position": "FW",
-      "rating": 74,
+      "rating": 81,
+      "age": 33,
+      "value": 26857894
+    },
+    {
+      "name": "Clement Fuller",
+      "position": "FW",
+      "rating": 62,
       "age": 24,
-      "value": 35052631
+      "value": 29368421
     },
     {
-      "name": "Morgan Long",
+      "name": "Isaiah Palmer",
       "position": "FW",
-      "rating": 87,
-      "age": 30,
-      "value": 32968421
+      "rating": 71,
+      "age": 31,
+      "value": 25784210
     },
     {
-      "name": "Lars Njoroge",
+      "name": "Shawn Griffin",
       "position": "FW",
-      "rating": 70,
-      "age": 25,
-      "value": 32052631
-    },
-    {
-      "name": "William Lubega",
-      "position": "FW",
-      "rating": 83,
+      "rating": 77,
       "age": 27,
-      "value": 35384210
+      "value": 32826315
+    },
+    {
+      "name": "Declan Shin",
+      "position": "FW",
+      "rating": 78,
+      "age": 27,
+      "value": 33252631
     }
   ],
   "stadium": {

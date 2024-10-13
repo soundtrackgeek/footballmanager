@@ -2,144 +2,144 @@
   "name": "Burnley",
   "squad": [
     {
-      "name": "Johan Moore",
+      "name": "Kofi Barnett",
+      "position": "GK",
+      "rating": 67,
+      "age": 28,
+      "value": 14669473
+    },
+    {
+      "name": "Malachi Diaz",
+      "position": "GK",
+      "rating": 84,
+      "age": 23,
+      "value": 21928421
+    },
+    {
+      "name": "Mario Turner",
       "position": "GK",
       "rating": 81,
-      "age": 34,
-      "value": 13642105
-    },
-    {
-      "name": "Ricardo French",
-      "position": "GK",
-      "rating": 65,
-      "age": 28,
-      "value": 14231578
-    },
-    {
-      "name": "Marcos Whitaker",
-      "position": "GK",
-      "rating": 68,
-      "age": 16,
-      "value": 21760000
-    },
-    {
-      "name": "Adel Hughes",
-      "position": "DF",
-      "rating": 78,
-      "age": 24,
-      "value": 24631578
-    },
-    {
-      "name": "Weston Garc\u00eda",
-      "position": "DF",
-      "rating": 72,
-      "age": 32,
-      "value": 16673684
-    },
-    {
-      "name": "Erik Grant",
-      "position": "DF",
-      "rating": 69,
       "age": 19,
-      "value": 25421052
+      "value": 23873684
     },
     {
-      "name": "Izaiah Njoroge",
+      "name": "Paul Farmer",
       "position": "DF",
-      "rating": 65,
+      "rating": 83,
+      "age": 24,
+      "value": 26210526
+    },
+    {
+      "name": "Arjun Alexander",
+      "position": "DF",
+      "rating": 86,
+      "age": 32,
+      "value": 19915789
+    },
+    {
+      "name": "Wayne Richards",
+      "position": "DF",
+      "rating": 67,
+      "age": 31,
+      "value": 16221052
+    },
+    {
+      "name": "Rafael Walker",
+      "position": "DF",
+      "rating": 64,
       "age": 27,
-      "value": 18473684
+      "value": 18189473
     },
     {
-      "name": "Shin Olson",
+      "name": "Jengo Long",
+      "position": "DF",
+      "rating": 81,
+      "age": 21,
+      "value": 28136842
+    },
+    {
+      "name": "Ade Gray",
       "position": "DF",
       "rating": 65,
-      "age": 16,
-      "value": 26000000
+      "age": 22,
+      "value": 21894736
     },
     {
-      "name": "Brooks Collins",
-      "position": "DF",
-      "rating": 61,
-      "age": 21,
-      "value": 21189473
-    },
-    {
-      "name": "Ricardo Powell",
+      "name": "Zane Castillo",
       "position": "MF",
-      "rating": 90,
-      "age": 30,
+      "rating": 67,
+      "age": 31,
+      "value": 19465263
+    },
+    {
+      "name": "Obi Webb",
+      "position": "MF",
+      "rating": 79,
+      "age": 33,
+      "value": 20955789
+    },
+    {
+      "name": "Kofi Hicks",
+      "position": "MF",
+      "rating": 76,
+      "age": 20,
+      "value": 32640000
+    },
+    {
+      "name": "Morten West",
+      "position": "MF",
+      "rating": 70,
+      "age": 29,
+      "value": 22105263
+    },
+    {
+      "name": "Marshall Ramsey",
+      "position": "MF",
+      "rating": 70,
+      "age": 27,
+      "value": 23873684
+    },
+    {
+      "name": "Nathan Ben\u00edtez",
+      "position": "MF",
+      "rating": 82,
+      "age": 27,
+      "value": 27966315
+    },
+    {
+      "name": "Bjorn Mills",
+      "position": "FW",
+      "rating": 64,
+      "age": 27,
       "value": 27284210
     },
     {
-      "name": "Preston Woods",
-      "position": "MF",
-      "rating": 89,
-      "age": 32,
-      "value": 24732631
-    },
-    {
-      "name": "Yuto Bryant",
-      "position": "MF",
-      "rating": 90,
-      "age": 26,
-      "value": 31831578
-    },
-    {
-      "name": "Desmond Bryant",
-      "position": "MF",
-      "rating": 70,
-      "age": 28,
-      "value": 22989473
-    },
-    {
-      "name": "Hugo Norberg",
-      "position": "MF",
+      "name": "Bradley Butler",
+      "position": "FW",
       "rating": 86,
-      "age": 30,
-      "value": 26071578
+      "age": 28,
+      "value": 35305263
     },
     {
-      "name": "Mathew Patterson",
-      "position": "MF",
-      "rating": 66,
-      "age": 19,
-      "value": 29178947
-    },
-    {
-      "name": "Wei-Lun Higgins",
+      "name": "Roland Nguyen",
       "position": "FW",
-      "rating": 84,
-      "age": 19,
-      "value": 40000000
+      "rating": 61,
+      "age": 35,
+      "value": 18300000
     },
     {
-      "name": "Wilson Day",
+      "name": "Sanjay West",
       "position": "FW",
-      "rating": 89,
-      "age": 21,
-      "value": 40000000
+      "rating": 80,
+      "age": 32,
+      "value": 27789473
     },
     {
-      "name": "Steve Henry",
+      "name": "Brandon Bennett",
       "position": "FW",
       "rating": 70,
-      "age": 29,
-      "value": 27631578
-    },
-    {
-      "name": "Alfonso Marsh",
-      "position": "FW",
-      "rating": 80,
-      "age": 32,
-      "value": 27789473
-    },
-    {
-      "name": "Barack Hayes",
-      "position": "FW",
-      "rating": 80,
-      "age": 32,
-      "value": 27789473
+      "age": 18,
+      "value": 39789473
     }
   ],
   "stadium": {

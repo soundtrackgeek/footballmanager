@@ -2,144 +2,144 @@
   "name": "Nottingham Forest",
   "squad": [
     {
-      "name": "Troy Hadj",
+      "name": "August Ortega",
       "position": "GK",
-      "rating": 72,
-      "age": 21,
-      "value": 20008421
+      "rating": 66,
+      "age": 32,
+      "value": 12227368
     },
     {
-      "name": "Clark Moore",
+      "name": "Aiden Hicks",
       "position": "GK",
-      "rating": 90,
+      "rating": 67,
+      "age": 26,
+      "value": 15797894
+    },
+    {
+      "name": "Mitchell Ramirez",
+      "position": "GK",
+      "rating": 62,
+      "age": 26,
+      "value": 14618947
+    },
+    {
+      "name": "Israel West",
+      "position": "DF",
+      "rating": 85,
+      "age": 23,
+      "value": 27736842
+    },
+    {
+      "name": "Alonso Nakamura",
+      "position": "DF",
+      "rating": 78,
+      "age": 32,
+      "value": 18063157
+    },
+    {
+      "name": "Matt Johansen",
+      "position": "DF",
+      "rating": 87,
+      "age": 31,
+      "value": 21063157
+    },
+    {
+      "name": "Brooks  Taylor",
+      "position": "DF",
+      "rating": 62,
+      "age": 29,
+      "value": 16315789
+    },
+    {
+      "name": "Shane Owens",
+      "position": "DF",
+      "rating": 83,
+      "age": 28,
+      "value": 22715789
+    },
+    {
+      "name": "Jason Kobayashi",
+      "position": "DF",
+      "rating": 80,
+      "age": 31,
+      "value": 19368421
+    },
+    {
+      "name": "Soren Stewart",
+      "position": "MF",
+      "rating": 70,
+      "age": 30,
+      "value": 21221052
+    },
+    {
+      "name": "Kwabena Mabena",
+      "position": "MF",
+      "rating": 86,
+      "age": 17,
+      "value": 40000000
+    },
+    {
+      "name": "Joel Howard",
+      "position": "MF",
+      "rating": 89,
+      "age": 20,
+      "value": 38223157
+    },
+    {
+      "name": "Angel Parker",
+      "position": "MF",
+      "rating": 73,
       "age": 19,
+      "value": 32273684
+    },
+    {
+      "name": "Kofi West",
+      "position": "MF",
+      "rating": 82,
+      "age": 19,
+      "value": 36252631
+    },
+    {
+      "name": "Morgan Chukwu",
+      "position": "MF",
+      "rating": 80,
+      "age": 34,
+      "value": 20210526
+    },
+    {
+      "name": "Shane Harrison",
+      "position": "FW",
+      "rating": 70,
+      "age": 30,
       "value": 26526315
     },
     {
-      "name": "Ram\u00f3n Bates",
-      "position": "GK",
-      "rating": 88,
-      "age": 31,
-      "value": 17044210
+      "name": "Troy Jordan",
+      "position": "FW",
+      "rating": 68,
+      "age": 22,
+      "value": 34357894
     },
     {
-      "name": "Pablo Scott",
-      "position": "DF",
-      "rating": 79,
-      "age": 25,
-      "value": 24115789
-    },
-    {
-      "name": "Ulises Nielsen",
-      "position": "DF",
-      "rating": 80,
+      "name": "Adrian Thomas",
+      "position": "FW",
+      "rating": 72,
       "age": 28,
-      "value": 21894736
+      "value": 29557894
     },
     {
-      "name": "Bernard Bergstrom",
-      "position": "DF",
-      "rating": 61,
-      "age": 34,
-      "value": 12842105
-    },
-    {
-      "name": "Nicholas Ramirez",
-      "position": "DF",
-      "rating": 71,
-      "age": 19,
-      "value": 26157894
-    },
-    {
-      "name": "George Navarro",
-      "position": "DF",
-      "rating": 83,
-      "age": 34,
-      "value": 17473684
-    },
-    {
-      "name": "Sebastian Marshall",
-      "position": "DF",
-      "rating": 77,
-      "age": 24,
-      "value": 24315789
-    },
-    {
-      "name": "Glen Dom\u00ednguez",
-      "position": "MF",
+      "name": "Kyle Magnusson",
+      "position": "FW",
       "rating": 79,
-      "age": 28,
-      "value": 25945263
+      "age": 26,
+      "value": 34926315
     },
     {
-      "name": "Ken West",
-      "position": "MF",
-      "rating": 78,
-      "age": 25,
-      "value": 28572631
-    },
-    {
-      "name": "Lamine Thomas",
-      "position": "MF",
-      "rating": 83,
-      "age": 21,
-      "value": 34597894
-    },
-    {
-      "name": "Roland Cox",
-      "position": "MF",
-      "rating": 62,
-      "age": 24,
-      "value": 23494736
-    },
-    {
-      "name": "Ken Hicks",
-      "position": "MF",
-      "rating": 76,
-      "age": 27,
-      "value": 25920000
-    },
-    {
-      "name": "Zayden Kim",
-      "position": "MF",
-      "rating": 88,
-      "age": 34,
-      "value": 22231578
-    },
-    {
-      "name": "Kenta Henderson",
+      "name": "Quentin Gray",
       "position": "FW",
-      "rating": 86,
-      "age": 21,
+      "rating": 70,
+      "age": 16,
       "value": 40000000
-    },
-    {
-      "name": "Cory Murray",
-      "position": "FW",
-      "rating": 60,
-      "age": 21,
-      "value": 31263157
-    },
-    {
-      "name": "Desmond Watanabe",
-      "position": "FW",
-      "rating": 78,
-      "age": 20,
-      "value": 40000000
-    },
-    {
-      "name": "Daichi Hicks",
-      "position": "FW",
-      "rating": 73,
-      "age": 34,
-      "value": 23052631
-    },
-    {
-      "name": "Ignacio Morgan",
-      "position": "FW",
-      "rating": 65,
-      "age": 30,
-      "value": 24631578
     }
   ],
   "stadium": {

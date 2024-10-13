@@ -2,144 +2,144 @@
   "name": "West Ham",
   "squad": [
     {
-      "name": "Noah Hart",
+      "name": "Elias James",
       "position": "GK",
-      "rating": 90,
-      "age": 28,
-      "value": 19705263
+      "rating": 80,
+      "age": 20,
+      "value": 22905263
     },
     {
-      "name": "Emmanuel Bishop",
+      "name": "Austin Oliver",
       "position": "GK",
-      "rating": 66,
-      "age": 24,
-      "value": 16673684
+      "rating": 65,
+      "age": 31,
+      "value": 12589473
     },
     {
-      "name": "Mat\u00edas Harris",
+      "name": "Adel Romero",
       "position": "GK",
-      "rating": 66,
-      "age": 22,
-      "value": 17785263
-    },
-    {
-      "name": "Santiago Romero",
-      "position": "DF",
-      "rating": 88,
-      "age": 23,
-      "value": 28715789
-    },
-    {
-      "name": "Tyler Hart",
-      "position": "DF",
-      "rating": 68,
+      "rating": 81,
       "age": 35,
-      "value": 13600000
+      "value": 12960000
     },
     {
-      "name": "Tristan Abiola",
+      "name": "Agust\u00edn Anderson",
       "position": "DF",
       "rating": 87,
-      "age": 35,
-      "value": 17400000
+      "age": 21,
+      "value": 30221052
     },
     {
-      "name": "Chad Palmer",
-      "position": "DF",
-      "rating": 90,
-      "age": 34,
-      "value": 18947368
-    },
-    {
-      "name": "Jengo Gonz\u00e1lez",
-      "position": "DF",
-      "rating": 71,
-      "age": 35,
-      "value": 14200000
-    },
-    {
-      "name": "Barney Saye",
+      "name": "Kamau Rasmussen",
       "position": "DF",
       "rating": 68,
-      "age": 16,
-      "value": 27200000
+      "age": 24,
+      "value": 21473684
     },
     {
-      "name": "Duncan Verma",
-      "position": "MF",
-      "rating": 64,
-      "age": 17,
-      "value": 29911578
+      "name": "Rene Marshall",
+      "position": "DF",
+      "rating": 78,
+      "age": 31,
+      "value": 18884210
     },
     {
-      "name": "Ricardo Ortega",
-      "position": "MF",
-      "rating": 80,
-      "age": 25,
-      "value": 29305263
-    },
-    {
-      "name": "Bernard Abebe",
-      "position": "MF",
-      "rating": 66,
-      "age": 28,
-      "value": 21675789
-    },
-    {
-      "name": "Jacob Kwamena",
-      "position": "MF",
-      "rating": 60,
-      "age": 33,
-      "value": 15915789
-    },
-    {
-      "name": "Esteban Craig",
-      "position": "MF",
-      "rating": 72,
-      "age": 22,
-      "value": 29103157
-    },
-    {
-      "name": "Marshall Bhatia",
-      "position": "MF",
-      "rating": 60,
+      "name": "Oliver Edwards",
+      "position": "DF",
+      "rating": 74,
       "age": 19,
-      "value": 26526315
+      "value": 27263157
     },
     {
-      "name": "Diego Peterson",
-      "position": "FW",
-      "rating": 82,
-      "age": 30,
-      "value": 31073684
-    },
-    {
-      "name": "Nicholas Myers",
-      "position": "FW",
+      "name": "Carl Morales",
+      "position": "DF",
       "rating": 87,
       "age": 31,
-      "value": 31594736
+      "value": 21063157
     },
     {
-      "name": "Marvin Rodr\u00edguez",
+      "name": "Alejandro French",
+      "position": "DF",
+      "rating": 80,
+      "age": 27,
+      "value": 22736842
+    },
+    {
+      "name": "Oscar Long",
+      "position": "MF",
+      "rating": 70,
+      "age": 22,
+      "value": 28294736
+    },
+    {
+      "name": "Roberto Barnett",
+      "position": "MF",
+      "rating": 62,
+      "age": 20,
+      "value": 26627368
+    },
+    {
+      "name": "Victor Matsumoto",
+      "position": "MF",
+      "rating": 82,
+      "age": 34,
+      "value": 20715789
+    },
+    {
+      "name": "Yuto Verma",
+      "position": "MF",
+      "rating": 88,
+      "age": 24,
+      "value": 33347368
+    },
+    {
+      "name": "Hassan Holt",
+      "position": "MF",
+      "rating": 69,
+      "age": 30,
+      "value": 20917894
+    },
+    {
+      "name": "Arjun Rodriguez",
+      "position": "MF",
+      "rating": 70,
+      "age": 32,
+      "value": 19452631
+    },
+    {
+      "name": "Danny Williamson",
       "position": "FW",
-      "rating": 84,
-      "age": 17,
+      "rating": 65,
+      "age": 29,
+      "value": 25657894
+    },
+    {
+      "name": "Kody Sandberg",
+      "position": "FW",
+      "rating": 80,
+      "age": 21,
       "value": 40000000
     },
     {
-      "name": "Jacob Brooks",
+      "name": "Mohamed Hughes",
       "position": "FW",
-      "rating": 75,
-      "age": 31,
-      "value": 27236842
+      "rating": 86,
+      "age": 35,
+      "value": 25800000
     },
     {
-      "name": "Carter Diaz",
+      "name": "Quinn S\u00f6derberg",
       "position": "FW",
-      "rating": 65,
-      "age": 30,
-      "value": 24631578
+      "rating": 90,
+      "age": 24,
+      "value": 40000000
+    },
+    {
+      "name": "Will Fowler",
+      "position": "FW",
+      "rating": 76,
+      "age": 17,
+      "value": 40000000
     }
   ],
   "stadium": {
