@@ -40,6 +40,7 @@ class Team:
         }
         self.stadium = STADIUMS[name]
         self.injured_players = []
+        self.unavailable_players = []  # New attribute to track unavailable players
 
     def add_player(self, player):
         self.squad.append(player)
@@ -103,6 +104,85 @@ class Team:
         attendance_percentage = random.uniform(0.75, 0.99)  # Between 75% and 99% capacity
         return int(capacity * attendance_percentage)
 
+    def update_unavailable_players(self):
+        self.unavailable_players = self.injured_players + [p for p in self.squad if p not in self.selected_players and p.injured]
+
+    def get_available_players(self, position):
+        return [p for p in self.squad if p.position.name == position and p not in self.unavailable_players]
+
+    def replace_unavailable_player(self, unavailable_player):
+        position = unavailable_player.position.name
+        available_players = self.get_available_players(position)
+        
+        print(f"\nChoose a replacement for {unavailable_player.name} ({position}):")
+        for i, player in enumerate(available_players, 1):
+            print(f"{i}. {player.name} - Rating: {player.rating} - Age: {player.age} - Value: £{player.value:,}")
+        
+        while True:
+            try:
+                choice = int(input("Enter the number of the replacement player: ")) - 1
+                if 0 <= choice < len(available_players):
+                    replacement = available_players[choice]
+                    self.selected_players[self.selected_players.index(unavailable_player)] = replacement
+                    print(f"{replacement.name} has replaced {unavailable_player.name} in the starting lineup.")
+                    break
+                else:
+                    print("Invalid choice. Please try again.")
+            except ValueError:
+                print("Please enter a valid number.")
+
+    def check_and_replace_unavailable_players(self):
+        self.update_unavailable_players()
+        for player in self.selected_players:
+            if player in self.unavailable_players:
+                self.replace_unavailable_player(player)
+
+    def get_missing_position(self):
+        required_positions = self.tactics.get_formation_requirements()
+        required_positions['GK'] = 1  # Ensure we always require one goalkeeper
+        current_positions = {p.position.name: 0 for p in self.selected_players}
+        for player in self.selected_players:
+            current_positions[player.position.name] += 1
+        
+        for position, count in required_positions.items():
+            if current_positions.get(position, 0) < count:
+                return position
+        return None  # This should now only happen if the team is complete
+
+    def replace_missing_player(self, position):
+        available_players = [p for p in self.squad if p.position.name == position and p not in self.selected_players and not p.injured]
+        
+        if not available_players:
+            print(f"No available {position} players. Please change your formation or transfer in a new player.")
+            return
+
+        print(f"\nAvailable {position} players:")
+        for i, player in enumerate(available_players, 1):
+            print(f"{i}. {player.name} - Rating: {player.rating} - Age: {player.age} - Value: £{player.value:,}")
+        
+        while True:
+            try:
+                choice = int(input(f"Select a {position} player: ")) - 1
+                if 0 <= choice < len(available_players):
+                    new_player = available_players[choice]
+                    
+                    # Find the correct position to insert the new player
+                    insert_index = 0
+                    for i, player in enumerate(self.selected_players):
+                        if player.position.name == position:
+                            insert_index = i + 1
+                        elif player.position.name != position and insert_index > 0:
+                            break
+                    
+                    # Insert the new player in the correct position
+                    self.selected_players.insert(insert_index, new_player)
+                    print(f"{new_player.name} has been added to the starting lineup in position {insert_index + 1}.")
+                    break
+                else:
+                    print("Invalid choice. Please try again.")
+            except ValueError:
+                print("Please enter a valid number.")
+
 def create_teams():
     team_names = list(STADIUMS.keys())  # Use the keys from the STADIUMS dictionary
     teams = [Team(name) for name in team_names]
@@ -159,6 +239,9 @@ def display_squad(team):
         print("\nSelected Starting XI:")
         for i, player in enumerate(team.selected_players, 1):
             print(f"{i}. {player.name} - {player.position.name} - Rating: {player.rating} - Age: {player.age} - Value: £{player.value:,}")
+        
+        avg_rating = team.calculate_team_rating()
+        print(f"\nTeam Average Rating: {avg_rating:.2f}")
     
     # Display unselected players
     print("\nOther Squad Players:")

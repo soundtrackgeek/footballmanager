@@ -2,144 +2,144 @@
   "name": "Manchester United",
   "squad": [
     {
-      "name": "Beau Perry",
+      "name": "Bhekizizwe S\u00f6derberg",
       "position": "GK",
-      "rating": 74,
-      "age": 31,
-      "value": 14332631
+      "rating": 85,
+      "age": 24,
+      "value": 21473684
     },
     {
-      "name": "Russell Espinoza",
+      "name": "Bradley Curtis",
       "position": "GK",
+      "rating": 78,
+      "age": 34,
+      "value": 13136842
+    },
+    {
+      "name": "Daniel French",
+      "position": "GK",
+      "rating": 70,
+      "age": 24,
+      "value": 17684210
+    },
+    {
+      "name": "Ralph Oliver",
+      "position": "DF",
+      "rating": 88,
+      "age": 24,
+      "value": 27789473
+    },
+    {
+      "name": "Xavier Curtis",
+      "position": "DF",
+      "rating": 81,
+      "age": 27,
+      "value": 23021052
+    },
+    {
+      "name": "Beau Osei",
+      "position": "DF",
       "rating": 68,
-      "age": 18,
-      "value": 20614736
+      "age": 28,
+      "value": 18610526
     },
     {
-      "name": "Amir Burke",
-      "position": "GK",
-      "rating": 90,
-      "age": 17,
-      "value": 28042105
-    },
-    {
-      "name": "Austin Mills",
+      "name": "Jett Shin",
       "position": "DF",
       "rating": 89,
-      "age": 16,
-      "value": 35600000
+      "age": 35,
+      "value": 17800000
     },
     {
-      "name": "Clark Pepper",
+      "name": "Andrew Bryant",
       "position": "DF",
-      "rating": 78,
+      "rating": 83,
       "age": 31,
-      "value": 18884210
+      "value": 20094736
     },
     {
-      "name": "Mathias Marsh",
+      "name": "Frederick Butler",
       "position": "DF",
-      "rating": 80,
-      "age": 26,
-      "value": 23578947
+      "rating": 75,
+      "age": 16,
+      "value": 30000000
     },
     {
-      "name": "Tumelo Hadj",
-      "position": "DF",
-      "rating": 71,
-      "age": 32,
-      "value": 16442105
-    },
-    {
-      "name": "Dennis Lindgren",
-      "position": "DF",
-      "rating": 86,
-      "age": 25,
-      "value": 26252631
-    },
-    {
-      "name": "Cyrus Guo",
-      "position": "DF",
-      "rating": 74,
-      "age": 32,
-      "value": 17136842
-    },
-    {
-      "name": "Cory Bowman",
+      "name": "Maurice Schmidt",
       "position": "MF",
-      "rating": 78,
-      "age": 26,
-      "value": 27587368
-    },
-    {
-      "name": "Cecil Gray",
-      "position": "MF",
-      "rating": 73,
-      "age": 34,
-      "value": 18442105
-    },
-    {
-      "name": "Liam White",
-      "position": "MF",
-      "rating": 63,
-      "age": 25,
-      "value": 23077894
-    },
-    {
-      "name": "Kwesi Murray",
-      "position": "MF",
-      "rating": 87,
+      "rating": 88,
       "age": 16,
       "value": 40000000
     },
     {
-      "name": "Mathias Page",
+      "name": "Jerome Day",
+      "position": "MF",
+      "rating": 66,
+      "age": 21,
+      "value": 27511578
+    },
+    {
+      "name": "Roderick Fowler",
       "position": "MF",
       "rating": 64,
-      "age": 35,
-      "value": 15360000
+      "age": 26,
+      "value": 22635789
     },
     {
-      "name": "Glen Craig",
+      "name": "Alexander Wheeler",
       "position": "MF",
-      "rating": 87,
-      "age": 17,
+      "rating": 76,
+      "age": 21,
+      "value": 31680000
+    },
+    {
+      "name": "Tunde Pena",
+      "position": "MF",
+      "rating": 63,
+      "age": 33,
+      "value": 16711578
+    },
+    {
+      "name": "Brock Long",
+      "position": "MF",
+      "rating": 66,
+      "age": 19,
+      "value": 29178947
+    },
+    {
+      "name": "Rene Blake",
+      "position": "FW",
+      "rating": 86,
+      "age": 24,
       "value": 40000000
     },
     {
-      "name": "Uriel Ben\u00edtez",
+      "name": "Miguel Bennett",
       "position": "FW",
-      "rating": 76,
-      "age": 25,
-      "value": 34799999
+      "rating": 63,
+      "age": 21,
+      "value": 32826315
     },
     {
-      "name": "Walter Chen",
+      "name": "Erik Fletcher",
       "position": "FW",
       "rating": 77,
-      "age": 28,
-      "value": 31610526
+      "age": 34,
+      "value": 24315789
     },
     {
-      "name": "Jengo Watts",
+      "name": "Johan Zhang",
       "position": "FW",
-      "rating": 65,
-      "age": 17,
-      "value": 37973684
+      "rating": 67,
+      "age": 18,
+      "value": 38084210
     },
     {
-      "name": "William Balogun",
+      "name": "Joshua Henderson",
       "position": "FW",
-      "rating": 79,
-      "age": 31,
-      "value": 28689473
-    },
-    {
-      "name": "Damian Ellis",
-      "position": "FW",
-      "rating": 62,
-      "age": 31,
-      "value": 22515789
+      "rating": 70,
+      "age": 25,
+      "value": 32052631
     }
   ],
   "stadium": {

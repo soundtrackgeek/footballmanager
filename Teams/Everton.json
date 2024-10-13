@@ -2,144 +2,144 @@
   "name": "Everton",
   "squad": [
     {
-      "name": "Carlos Mehta",
+      "name": "Clayton Joseph",
       "position": "GK",
-      "rating": 63,
+      "rating": 69,
+      "age": 16,
+      "value": 22080000
+    },
+    {
+      "name": "William Iyanda",
+      "position": "GK",
+      "rating": 78,
+      "age": 18,
+      "value": 23646315
+    },
+    {
+      "name": "Oscar Park",
+      "position": "GK",
+      "rating": 65,
+      "age": 20,
+      "value": 18610526
+    },
+    {
+      "name": "Benjamin Hanson",
+      "position": "DF",
+      "rating": 79,
       "age": 30,
-      "value": 12732631
+      "value": 19957894
     },
     {
-      "name": "Luke Park",
-      "position": "GK",
-      "rating": 83,
-      "age": 26,
-      "value": 19570526
-    },
-    {
-      "name": "Carl Gonzales",
-      "position": "GK",
-      "rating": 77,
-      "age": 24,
-      "value": 19452631
-    },
-    {
-      "name": "Julian Hunt",
+      "name": "Tobias Olson",
       "position": "DF",
-      "rating": 73,
-      "age": 19,
-      "value": 26894736
-    },
-    {
-      "name": "Ade Gustavsson",
-      "position": "DF",
-      "rating": 64,
-      "age": 35,
-      "value": 12800000
-    },
-    {
-      "name": "Quinn Stone",
-      "position": "DF",
-      "rating": 74,
-      "age": 35,
-      "value": 14800000
-    },
-    {
-      "name": "Drew Hamilton",
-      "position": "DF",
-      "rating": 81,
-      "age": 25,
-      "value": 24726315
-    },
-    {
-      "name": "Andrew Eze",
-      "position": "DF",
-      "rating": 90,
-      "age": 17,
-      "value": 35052631
-    },
-    {
-      "name": "Desmond Watkins",
-      "position": "DF",
-      "rating": 83,
-      "age": 27,
-      "value": 23589473
-    },
-    {
-      "name": "Malachi Watanabe",
-      "position": "MF",
-      "rating": 87,
-      "age": 26,
-      "value": 30770526
-    },
-    {
-      "name": "Emiliano Gomes",
-      "position": "MF",
-      "rating": 82,
+      "rating": 76,
       "age": 28,
-      "value": 26930526
+      "value": 20800000
     },
     {
-      "name": "Jean Holmberg",
-      "position": "MF",
-      "rating": 74,
-      "age": 34,
-      "value": 18694736
-    },
-    {
-      "name": "Alejandro Nkosi",
-      "position": "MF",
+      "name": "Kobe Henderson",
+      "position": "DF",
       "rating": 67,
-      "age": 24,
+      "age": 18,
       "value": 25389473
     },
     {
-      "name": "Quentin Larsen",
+      "name": "Uriah Cruz",
+      "position": "DF",
+      "rating": 83,
+      "age": 29,
+      "value": 21842105
+    },
+    {
+      "name": "Riley Fredriksson",
+      "position": "DF",
+      "rating": 79,
+      "age": 16,
+      "value": 31600000
+    },
+    {
+      "name": "Adeyemi Stewart",
+      "position": "DF",
+      "rating": 75,
+      "age": 17,
+      "value": 29210526
+    },
+    {
+      "name": "Paige Kim",
+      "position": "MF",
+      "rating": 86,
+      "age": 24,
+      "value": 32589473
+    },
+    {
+      "name": "Matthew Iversen",
+      "position": "MF",
+      "rating": 88,
+      "age": 32,
+      "value": 24454736
+    },
+    {
+      "name": "Colin Gao",
       "position": "MF",
       "rating": 72,
-      "age": 35,
-      "value": 17280000
+      "age": 27,
+      "value": 24555789
     },
     {
-      "name": "Tyler Ross",
+      "name": "Johnny Iyanda",
       "position": "MF",
-      "rating": 90,
-      "age": 22,
-      "value": 36378947
-    },
-    {
-      "name": "Pablo Castillo",
-      "position": "FW",
-      "rating": 74,
-      "age": 26,
-      "value": 32715789
-    },
-    {
-      "name": "Cyrus Cunningham",
-      "position": "FW",
-      "rating": 73,
-      "age": 35,
-      "value": 21900000
-    },
-    {
-      "name": "Ryan Turner",
-      "position": "FW",
-      "rating": 80,
-      "age": 17,
-      "value": 40000000
-    },
-    {
-      "name": "Tyson Chukwu",
-      "position": "FW",
-      "rating": 81,
+      "rating": 60,
       "age": 18,
+      "value": 27284210
+    },
+    {
+      "name": "Caden Cooper",
+      "position": "MF",
+      "rating": 74,
+      "age": 25,
+      "value": 27107368
+    },
+    {
+      "name": "Dexter Watson",
+      "position": "MF",
+      "rating": 72,
+      "age": 28,
+      "value": 23646315
+    },
+    {
+      "name": "Kyle Sharp",
+      "position": "FW",
+      "rating": 79,
+      "age": 26,
+      "value": 34926315
+    },
+    {
+      "name": "Obi West",
+      "position": "FW",
+      "rating": 88,
+      "age": 33,
+      "value": 29178947
+    },
+    {
+      "name": "Vincent Zhang",
+      "position": "FW",
+      "rating": 77,
+      "age": 34,
+      "value": 24315789
+    },
+    {
+      "name": "Xavier Berry",
+      "position": "FW",
+      "rating": 86,
+      "age": 19,
       "value": 40000000
     },
     {
-      "name": "Lincoln Mills",
+      "name": "Amir Mart\u00ednez",
       "position": "FW",
-      "rating": 69,
-      "age": 30,
-      "value": 26147368
+      "rating": 79,
+      "age": 34,
+      "value": 24947368
     }
   ],
   "stadium": {

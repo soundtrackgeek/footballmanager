@@ -2,144 +2,144 @@
   "name": "Crystal Palace",
   "squad": [
     {
-      "name": "Leonel Little",
+      "name": "Grant Morgan",
       "position": "GK",
-      "rating": 65,
-      "age": 19,
-      "value": 19157894
+      "rating": 85,
+      "age": 17,
+      "value": 26484210
     },
     {
-      "name": "Johannes Kim",
+      "name": "Noah Watkins",
       "position": "GK",
-      "rating": 86,
-      "age": 32,
-      "value": 15932631
+      "rating": 81,
+      "age": 23,
+      "value": 21145263
     },
     {
-      "name": "Timothy Bhatia",
+      "name": "Cooper Lee",
       "position": "GK",
-      "rating": 75,
-      "age": 19,
-      "value": 22105263
+      "rating": 72,
+      "age": 17,
+      "value": 22433684
     },
     {
-      "name": "Frank Garcia",
+      "name": "Nicol\u00e1s Stokes",
+      "position": "DF",
+      "rating": 82,
+      "age": 22,
+      "value": 27621052
+    },
+    {
+      "name": "Shane Howard",
       "position": "DF",
       "rating": 73,
-      "age": 34,
-      "value": 15368421
+      "age": 28,
+      "value": 19978947
     },
     {
-      "name": "Leonel Ramsey",
+      "name": "Mauricio Fletcher",
       "position": "DF",
-      "rating": 69,
-      "age": 17,
-      "value": 26873684
+      "rating": 86,
+      "age": 29,
+      "value": 22631578
     },
     {
-      "name": "Adan White",
+      "name": "Ethan Palmer",
       "position": "DF",
-      "rating": 80,
-      "age": 34,
-      "value": 16842105
+      "rating": 64,
+      "age": 26,
+      "value": 18863157
     },
     {
-      "name": "Rogelio Sharma",
+      "name": "Thiago Hart",
       "position": "DF",
-      "rating": 66,
-      "age": 19,
-      "value": 24315789
+      "rating": 84,
+      "age": 35,
+      "value": 16800000
     },
     {
-      "name": "Nils Parker",
+      "name": "Roy Ellis",
       "position": "DF",
-      "rating": 80,
-      "age": 31,
-      "value": 19368421
+      "rating": 73,
+      "age": 21,
+      "value": 25357894
     },
     {
-      "name": "Francisco Hassan",
-      "position": "DF",
-      "rating": 90,
-      "age": 34,
-      "value": 18947368
-    },
-    {
-      "name": "Barack Kang",
+      "name": "Martin Wang",
       "position": "MF",
-      "rating": 69,
-      "age": 19,
-      "value": 30505263
+      "rating": 82,
+      "age": 27,
+      "value": 27966315
     },
     {
-      "name": "Emiliano Owens",
-      "position": "MF",
-      "rating": 90,
-      "age": 23,
-      "value": 35242105
-    },
-    {
-      "name": "Vincent Ellis",
-      "position": "MF",
-      "rating": 60,
-      "age": 30,
-      "value": 18189473
-    },
-    {
-      "name": "Miles Reid",
-      "position": "MF",
-      "rating": 61,
-      "age": 34,
-      "value": 15410526
-    },
-    {
-      "name": "Bo Peterson",
+      "name": "Malachi Navarro",
       "position": "MF",
       "rating": 76,
-      "age": 25,
-      "value": 27840000
+      "age": 20,
+      "value": 32640000
     },
     {
-      "name": "Manuel Bennett",
+      "name": "Mathew Mcdonald",
       "position": "MF",
-      "rating": 87,
-      "age": 34,
-      "value": 21978947
+      "rating": 88,
+      "age": 32,
+      "value": 24454736
     },
     {
-      "name": "Jamie Dixon",
-      "position": "FW",
-      "rating": 61,
-      "age": 29,
-      "value": 24078947
+      "name": "Ulises Hart",
+      "position": "MF",
+      "rating": 83,
+      "age": 33,
+      "value": 22016842
     },
     {
-      "name": "Kwesi Han",
-      "position": "FW",
-      "rating": 84,
-      "age": 24,
+      "name": "Benjamin Oliver",
+      "position": "MF",
+      "rating": 90,
+      "age": 19,
       "value": 39789473
     },
     {
-      "name": "Fredrik Mabena",
-      "position": "FW",
-      "rating": 73,
-      "age": 31,
-      "value": 26510526
+      "name": "Arthur Murphy",
+      "position": "MF",
+      "rating": 90,
+      "age": 29,
+      "value": 28421052
     },
     {
-      "name": "Rajesh Wheeler",
+      "name": "Reed Wilson",
       "position": "FW",
-      "rating": 60,
+      "rating": 82,
+      "age": 20,
+      "value": 40000000
+    },
+    {
+      "name": "Hiro Reid",
+      "position": "FW",
+      "rating": 83,
       "age": 32,
-      "value": 20842105
+      "value": 28831578
     },
     {
-      "name": "Aziz S\u00f6derberg",
+      "name": "Kameron Kim",
       "position": "FW",
-      "rating": 60,
-      "age": 26,
-      "value": 26526315
+      "rating": 77,
+      "age": 19,
+      "value": 40000000
+    },
+    {
+      "name": "Roland Fisher",
+      "position": "FW",
+      "rating": 87,
+      "age": 35,
+      "value": 26100000
+    },
+    {
+      "name": "Adrian Mehta",
+      "position": "FW",
+      "rating": 68,
+      "age": 22,
+      "value": 34357894
     }
   ],
   "stadium": {

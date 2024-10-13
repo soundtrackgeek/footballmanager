@@ -2,144 +2,144 @@
   "name": "Manchester City",
   "squad": [
     {
-      "name": "Luis Andersen",
+      "name": "Israel Jordan",
       "position": "GK",
-      "rating": 68,
-      "age": 18,
-      "value": 20614736
+      "rating": 84,
+      "age": 25,
+      "value": 20513684
     },
     {
-      "name": "Oliver Magnusson",
+      "name": "Rogelio Iyer",
       "position": "GK",
-      "rating": 63,
-      "age": 19,
-      "value": 18568421
+      "rating": 79,
+      "age": 20,
+      "value": 22618947
     },
     {
-      "name": "Alejandro Lewis",
+      "name": "Noah Zamani",
       "position": "GK",
-      "rating": 70,
-      "age": 23,
-      "value": 18273684
+      "rating": 87,
+      "age": 24,
+      "value": 21978947
     },
     {
-      "name": "Haruto Parsons",
+      "name": "Bradley Freeman",
       "position": "DF",
-      "rating": 67,
-      "age": 27,
-      "value": 19042105
+      "rating": 72,
+      "age": 20,
+      "value": 25768421
     },
     {
-      "name": "Malachi Franklin",
+      "name": "Andrew Olson",
       "position": "DF",
-      "rating": 75,
-      "age": 18,
-      "value": 28421052
+      "rating": 72,
+      "age": 26,
+      "value": 21221052
     },
     {
-      "name": "Thomas Bailey",
+      "name": "Adekunle Griffin",
+      "position": "DF",
+      "rating": 82,
+      "age": 32,
+      "value": 18989473
+    },
+    {
+      "name": "Samuel Stone",
+      "position": "DF",
+      "rating": 66,
+      "age": 26,
+      "value": 19452631
+    },
+    {
+      "name": "Alex Flores",
+      "position": "DF",
+      "rating": 71,
+      "age": 21,
+      "value": 24663157
+    },
+    {
+      "name": "Aditya Bates",
       "position": "DF",
       "rating": 89,
-      "age": 33,
-      "value": 19673684
+      "age": 34,
+      "value": 18736842
     },
     {
-      "name": "Dexter Webb",
-      "position": "DF",
+      "name": "Kenneth Fields",
+      "position": "MF",
+      "rating": 87,
+      "age": 30,
+      "value": 26374736
+    },
+    {
+      "name": "Connor Quartey",
+      "position": "MF",
+      "rating": 89,
+      "age": 26,
+      "value": 31477894
+    },
+    {
+      "name": "Rodney Gariba",
+      "position": "MF",
+      "rating": 62,
+      "age": 25,
+      "value": 22711578
+    },
+    {
+      "name": "Cooper Hart",
+      "position": "MF",
       "rating": 76,
-      "age": 24,
-      "value": 24000000
+      "age": 22,
+      "value": 30720000
     },
     {
-      "name": "Roy Coleman",
-      "position": "DF",
-      "rating": 75,
-      "age": 24,
-      "value": 23684210
-    },
-    {
-      "name": "Ralph Watkins",
-      "position": "DF",
-      "rating": 69,
-      "age": 35,
-      "value": 13800000
-    },
-    {
-      "name": "Stephen Lindgren",
+      "name": "Anton West",
       "position": "MF",
-      "rating": 65,
-      "age": 23,
-      "value": 25452631
-    },
-    {
-      "name": "Finn Evans",
-      "position": "MF",
-      "rating": 78,
-      "age": 20,
-      "value": 33498947
-    },
-    {
-      "name": "Jack Russell",
-      "position": "MF",
-      "rating": 80,
-      "age": 32,
+      "rating": 88,
+      "age": 34,
       "value": 22231578
     },
     {
-      "name": "Mark Grant",
+      "name": "Curtis Liu",
       "position": "MF",
-      "rating": 67,
-      "age": 22,
-      "value": 27082105
+      "rating": 68,
+      "age": 21,
+      "value": 28345263
     },
     {
-      "name": "Daisuke Freeman",
-      "position": "MF",
-      "rating": 89,
-      "age": 16,
+      "name": "Jesse Day",
+      "position": "FW",
+      "rating": 90,
+      "age": 25,
       "value": 40000000
     },
     {
-      "name": "Dylan Brooks",
-      "position": "MF",
-      "rating": 90,
+      "name": "Tanner Russell",
+      "position": "FW",
+      "rating": 62,
       "age": 33,
-      "value": 23873684
+      "value": 20557894
     },
     {
-      "name": "Tom\u00e1s Grant",
+      "name": "Maximiliano Adams",
       "position": "FW",
-      "rating": 86,
-      "age": 28,
-      "value": 35305263
+      "rating": 79,
+      "age": 18,
+      "value": 40000000
     },
     {
-      "name": "Ethan Hanson",
+      "name": "Simon Larsson",
       "position": "FW",
-      "rating": 60,
-      "age": 29,
-      "value": 23684210
+      "rating": 90,
+      "age": 22,
+      "value": 40000000
     },
     {
-      "name": "Anthony Edwards",
-      "position": "FW",
-      "rating": 78,
-      "age": 23,
-      "value": 38178947
-    },
-    {
-      "name": "Drew Barnett",
-      "position": "FW",
-      "rating": 87,
-      "age": 35,
-      "value": 26100000
-    },
-    {
-      "name": "Patrick Yamamoto",
+      "name": "Noah Rodriguez",
       "position": "FW",
       "rating": 73,
-      "age": 32,
-      "value": 25357894
+      "age": 22,
+      "value": 36884210
     }
   ],
   "stadium": {

@@ -2,144 +2,144 @@
   "name": "Burnley",
   "squad": [
     {
-      "name": "Bryan Blake",
+      "name": "Amari Wang",
       "position": "GK",
-      "rating": 63,
-      "age": 16,
-      "value": 20160000
-    },
-    {
-      "name": "Nicol\u00e1s Baker",
-      "position": "GK",
-      "rating": 63,
-      "age": 27,
-      "value": 14324210
-    },
-    {
-      "name": "Hugo Hansen",
-      "position": "GK",
-      "rating": 60,
-      "age": 17,
-      "value": 18694736
-    },
-    {
-      "name": "Shiro Rojas",
-      "position": "DF",
-      "rating": 65,
-      "age": 34,
-      "value": 13684210
-    },
-    {
-      "name": "Wesley James",
-      "position": "DF",
-      "rating": 77,
-      "age": 28,
-      "value": 21073684
-    },
-    {
-      "name": "Cael Yoo",
-      "position": "DF",
-      "rating": 77,
-      "age": 26,
-      "value": 22694736
-    },
-    {
-      "name": "Jos\u00e9 Zhu",
-      "position": "DF",
-      "rating": 64,
-      "age": 29,
-      "value": 16842105
-    },
-    {
-      "name": "Charles Morris",
-      "position": "DF",
-      "rating": 85,
-      "age": 17,
-      "value": 33105263
-    },
-    {
-      "name": "Raymond Barrios",
-      "position": "DF",
-      "rating": 60,
-      "age": 17,
-      "value": 23368421
-    },
-    {
-      "name": "Noel Gomez",
-      "position": "MF",
-      "rating": 64,
-      "age": 28,
-      "value": 21018947
-    },
-    {
-      "name": "Jonah Abebe",
-      "position": "MF",
-      "rating": 88,
-      "age": 30,
-      "value": 26677894
-    },
-    {
-      "name": "Josiah Khan",
-      "position": "MF",
-      "rating": 74,
-      "age": 22,
-      "value": 29911578
-    },
-    {
-      "name": "Jordan Flores",
-      "position": "MF",
-      "rating": 82,
-      "age": 25,
-      "value": 30037894
-    },
-    {
-      "name": "Francisco Romero",
-      "position": "MF",
-      "rating": 66,
-      "age": 30,
-      "value": 20008421
-    },
-    {
-      "name": "Noah Bhatia",
-      "position": "MF",
-      "rating": 67,
-      "age": 23,
-      "value": 26235789
-    },
-    {
-      "name": "Joseph \u00c5kesson",
-      "position": "FW",
-      "rating": 64,
-      "age": 16,
-      "value": 38400000
-    },
-    {
-      "name": "Cecil Torres",
-      "position": "FW",
-      "rating": 86,
-      "age": 16,
-      "value": 40000000
-    },
-    {
-      "name": "Isak Brooks",
-      "position": "FW",
-      "rating": 88,
-      "age": 22,
-      "value": 40000000
-    },
-    {
-      "name": "Albert Karlberg",
-      "position": "FW",
       "rating": 73,
-      "age": 32,
-      "value": 25357894
+      "age": 26,
+      "value": 17212631
     },
     {
-      "name": "Jorge Peterson",
-      "position": "FW",
+      "name": "Nils Venter",
+      "position": "GK",
+      "rating": 69,
+      "age": 30,
+      "value": 13945263
+    },
+    {
+      "name": "Erik Ramirez",
+      "position": "GK",
+      "rating": 74,
+      "age": 35,
+      "value": 11840000
+    },
+    {
+      "name": "Taylor Little",
+      "position": "DF",
+      "rating": 74,
+      "age": 17,
+      "value": 28821052
+    },
+    {
+      "name": "Nicholas Bell",
+      "position": "DF",
       "rating": 65,
+      "age": 24,
+      "value": 20526315
+    },
+    {
+      "name": "Matt Schmidt",
+      "position": "DF",
+      "rating": 82,
+      "age": 21,
+      "value": 28484210
+    },
+    {
+      "name": "Kenji Williamson",
+      "position": "DF",
+      "rating": 71,
+      "age": 23,
+      "value": 23168421
+    },
+    {
+      "name": "Danny Murray",
+      "position": "DF",
+      "rating": 60,
+      "age": 30,
+      "value": 15157894
+    },
+    {
+      "name": "Tanner White",
+      "position": "DF",
+      "rating": 83,
+      "age": 22,
+      "value": 27957894
+    },
+    {
+      "name": "Mateo Larsson",
+      "position": "MF",
+      "rating": 83,
+      "age": 32,
+      "value": 23065263
+    },
+    {
+      "name": "Ling Russell",
+      "position": "MF",
+      "rating": 80,
+      "age": 17,
+      "value": 37389473
+    },
+    {
+      "name": "Clayton Butler",
+      "position": "MF",
+      "rating": 90,
+      "age": 18,
+      "value": 40000000
+    },
+    {
+      "name": "Benjamin Flores",
+      "position": "MF",
+      "rating": 61,
+      "age": 16,
+      "value": 29280000
+    },
+    {
+      "name": "Cody Nakajima",
+      "position": "MF",
+      "rating": 76,
+      "age": 23,
+      "value": 29760000
+    },
+    {
+      "name": "Isak Edwards",
+      "position": "MF",
+      "rating": 81,
+      "age": 30,
+      "value": 24555789
+    },
+    {
+      "name": "Albert Saye",
+      "position": "FW",
+      "rating": 62,
+      "age": 24,
+      "value": 29368421
+    },
+    {
+      "name": "Ethan Dean",
+      "position": "FW",
+      "rating": 72,
+      "age": 31,
+      "value": 26147368
+    },
+    {
+      "name": "Glen \u00c5str\u00f6m",
+      "position": "FW",
+      "rating": 64,
       "age": 25,
-      "value": 29763157
+      "value": 29305263
+    },
+    {
+      "name": "Kaden Richards",
+      "position": "FW",
+      "rating": 68,
+      "age": 16,
+      "value": 40000000
+    },
+    {
+      "name": "Renato Scott",
+      "position": "FW",
+      "rating": 89,
+      "age": 29,
+      "value": 35131578
     }
   ],
   "stadium": {

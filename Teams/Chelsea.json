@@ -2,144 +2,144 @@
   "name": "Chelsea",
   "squad": [
     {
-      "name": "Ping Kwon",
+      "name": "Albert Lee",
       "position": "GK",
-      "rating": 64,
+      "rating": 70,
       "age": 21,
-      "value": 17785263
+      "value": 19452631
     },
     {
-      "name": "Grant Ferguson",
+      "name": "Lincoln Black",
       "position": "GK",
-      "rating": 72,
+      "rating": 87,
+      "age": 31,
+      "value": 16850526
+    },
+    {
+      "name": "Mohamed Benson",
+      "position": "GK",
+      "rating": 65,
+      "age": 18,
+      "value": 19705263
+    },
+    {
+      "name": "Dumi Perez",
+      "position": "DF",
+      "rating": 79,
+      "age": 23,
+      "value": 25778947
+    },
+    {
+      "name": "Dennis Ferguson",
+      "position": "DF",
+      "rating": 79,
+      "age": 32,
+      "value": 18294736
+    },
+    {
+      "name": "Jeremy Duncan",
+      "position": "DF",
+      "rating": 68,
+      "age": 20,
+      "value": 24336842
+    },
+    {
+      "name": "Simba Watson",
+      "position": "DF",
+      "rating": 78,
+      "age": 26,
+      "value": 22989473
+    },
+    {
+      "name": "Chase Morrison",
+      "position": "DF",
+      "rating": 83,
       "age": 16,
+      "value": 33200000
+    },
+    {
+      "name": "Orlando Sanchez",
+      "position": "DF",
+      "rating": 83,
+      "age": 27,
+      "value": 23589473
+    },
+    {
+      "name": "Suraj Gray",
+      "position": "MF",
+      "rating": 68,
+      "age": 18,
+      "value": 30922105
+    },
+    {
+      "name": "Ken Diaz",
+      "position": "MF",
+      "rating": 60,
+      "age": 20,
+      "value": 25768421
+    },
+    {
+      "name": "Angelo Manning",
+      "position": "MF",
+      "rating": 90,
+      "age": 19,
+      "value": 39789473
+    },
+    {
+      "name": "Brandon Roberts",
+      "position": "MF",
+      "rating": 72,
+      "age": 29,
+      "value": 22736842
+    },
+    {
+      "name": "Tristan Long",
+      "position": "MF",
+      "rating": 76,
+      "age": 30,
       "value": 23040000
     },
     {
-      "name": "Declan Garc\u00eda",
-      "position": "GK",
-      "rating": 86,
-      "age": 32,
-      "value": 15932631
-    },
-    {
-      "name": "Adeyemi Bishop",
-      "position": "DF",
-      "rating": 73,
+      "name": "Tristan Myers",
+      "position": "MF",
+      "rating": 64,
       "age": 20,
-      "value": 26126315
+      "value": 27486315
     },
     {
-      "name": "Roderick Ortega",
-      "position": "DF",
-      "rating": 70,
-      "age": 33,
-      "value": 15473684
-    },
-    {
-      "name": "Pranav Nkosi",
-      "position": "DF",
-      "rating": 71,
-      "age": 33,
-      "value": 15694736
-    },
-    {
-      "name": "Preston Cunningham",
-      "position": "DF",
-      "rating": 82,
-      "age": 26,
-      "value": 24168421
-    },
-    {
-      "name": "Lee Watts",
-      "position": "DF",
-      "rating": 76,
-      "age": 27,
-      "value": 21600000
-    },
-    {
-      "name": "Rafael Gray",
-      "position": "DF",
-      "rating": 82,
-      "age": 26,
-      "value": 24168421
-    },
-    {
-      "name": "Pablo Ray",
-      "position": "MF",
-      "rating": 74,
+      "name": "Paul Griffin",
+      "position": "FW",
+      "rating": 87,
       "age": 22,
-      "value": 29911578
-    },
-    {
-      "name": "Anthony Cook",
-      "position": "MF",
-      "rating": 79,
-      "age": 23,
-      "value": 30934736
-    },
-    {
-      "name": "Wyatt Webster",
-      "position": "MF",
-      "rating": 84,
-      "age": 28,
-      "value": 27587368
-    },
-    {
-      "name": "Sebasti\u00e1n Henderson",
-      "position": "MF",
-      "rating": 71,
-      "age": 31,
-      "value": 20627368
-    },
-    {
-      "name": "Samuel \u00c5kesson",
-      "position": "MF",
-      "rating": 89,
-      "age": 17,
       "value": 40000000
     },
     {
-      "name": "Elias Onyango",
-      "position": "MF",
-      "rating": 66,
-      "age": 35,
-      "value": 15840000
+      "name": "Xavier Henry",
+      "position": "FW",
+      "rating": 64,
+      "age": 34,
+      "value": 20210526
     },
     {
-      "name": "Pablo Manning",
+      "name": "Uriah Hayes",
+      "position": "FW",
+      "rating": 82,
+      "age": 30,
+      "value": 31073684
+    },
+    {
+      "name": "Conor Olson",
+      "position": "FW",
+      "rating": 68,
+      "age": 18,
+      "value": 38652631
+    },
+    {
+      "name": "Kwabena Pepper",
       "position": "FW",
       "rating": 73,
-      "age": 28,
-      "value": 29968421
-    },
-    {
-      "name": "Alexander Kobayashi",
-      "position": "FW",
-      "rating": 63,
-      "age": 19,
-      "value": 34815789
-    },
-    {
-      "name": "Wilson Stokes",
-      "position": "FW",
-      "rating": 89,
-      "age": 27,
-      "value": 37942105
-    },
-    {
-      "name": "Jin Curtis",
-      "position": "FW",
-      "rating": 62,
-      "age": 27,
-      "value": 26431578
-    },
-    {
-      "name": "Sefu Seo",
-      "position": "FW",
-      "rating": 82,
-      "age": 21,
-      "value": 40000000
+      "age": 31,
+      "value": 26510526
     }
   ],
   "stadium": {

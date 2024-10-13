@@ -2,144 +2,144 @@
   "name": "Wolves",
   "squad": [
     {
-      "name": "Chidi Myers",
+      "name": "Noah Hamilton",
       "position": "GK",
-      "rating": 62,
-      "age": 23,
-      "value": 16185263
+      "rating": 67,
+      "age": 21,
+      "value": 18618947
     },
     {
-      "name": "Adrian Robinson",
+      "name": "River Patel",
       "position": "GK",
       "rating": 63,
-      "age": 28,
-      "value": 13793684
+      "age": 26,
+      "value": 14854736
     },
     {
-      "name": "Ricardo Verma",
+      "name": "Izaiah Hassan",
       "position": "GK",
-      "rating": 80,
-      "age": 20,
-      "value": 22905263
-    },
-    {
-      "name": "Carlos Peterson",
-      "position": "DF",
-      "rating": 90,
-      "age": 24,
-      "value": 28421052
-    },
-    {
-      "name": "Will Pena",
-      "position": "DF",
-      "rating": 68,
-      "age": 24,
-      "value": 21473684
-    },
-    {
-      "name": "Gabriel Ibrahim",
-      "position": "DF",
-      "rating": 81,
+      "rating": 75,
       "age": 34,
-      "value": 17052631
+      "value": 12631578
     },
     {
-      "name": "Sulaiman Joshi",
+      "name": "Mitchell Butler",
       "position": "DF",
-      "rating": 90,
-      "age": 22,
-      "value": 30315789
+      "rating": 86,
+      "age": 24,
+      "value": 27157894
     },
     {
-      "name": "Huy Bryant",
-      "position": "DF",
-      "rating": 65,
-      "age": 18,
-      "value": 24631578
-    },
-    {
-      "name": "Samuel Hicks",
+      "name": "Benjam\u00edn Little",
       "position": "DF",
       "rating": 77,
-      "age": 25,
-      "value": 23505263
+      "age": 35,
+      "value": 15400000
     },
     {
-      "name": "Reed Desai",
-      "position": "MF",
-      "rating": 81,
-      "age": 32,
-      "value": 22509473
+      "name": "Viktor Fletcher",
+      "position": "DF",
+      "rating": 65,
+      "age": 28,
+      "value": 17789473
     },
     {
-      "name": "Francisco Fox",
-      "position": "MF",
-      "rating": 69,
-      "age": 23,
-      "value": 27018947
+      "name": "Barney Cooper",
+      "position": "DF",
+      "rating": 74,
+      "age": 28,
+      "value": 20252631
     },
     {
-      "name": "Uriah Bates",
-      "position": "MF",
-      "rating": 75,
-      "age": 21,
-      "value": 31263157
-    },
-    {
-      "name": "Ibrahim Curtis",
-      "position": "MF",
+      "name": "Abdul Watson",
+      "position": "DF",
       "rating": 62,
       "age": 33,
-      "value": 16446315
+      "value": 13705263
     },
     {
-      "name": "Paul Garza",
+      "name": "Raul Shaw",
+      "position": "DF",
+      "rating": 86,
+      "age": 35,
+      "value": 17200000
+    },
+    {
+      "name": "Alejandro Hart",
       "position": "MF",
-      "rating": 89,
-      "age": 21,
-      "value": 37098947
+      "rating": 76,
+      "age": 20,
+      "value": 32640000
     },
     {
-      "name": "Kwasi Reyes",
+      "name": "Martin Eze",
       "position": "MF",
-      "rating": 62,
-      "age": 31,
-      "value": 18012631
-    },
-    {
-      "name": "Yusuf Campbell",
-      "position": "FW",
-      "rating": 82,
-      "age": 29,
-      "value": 32368421
-    },
-    {
-      "name": "Brooks Freeman",
-      "position": "FW",
-      "rating": 61,
-      "age": 18,
-      "value": 34673684
-    },
-    {
-      "name": "Ronald Ben\u00edtez",
-      "position": "FW",
-      "rating": 62,
+      "rating": 88,
       "age": 26,
-      "value": 27410526
+      "value": 31124210
     },
     {
-      "name": "Sven Sanchez",
+      "name": "Bao Craig",
+      "position": "MF",
+      "rating": 90,
+      "age": 27,
+      "value": 30694736
+    },
+    {
+      "name": "Sebasti\u00e1n Morgan",
+      "position": "MF",
+      "rating": 60,
+      "age": 20,
+      "value": 25768421
+    },
+    {
+      "name": "Tony Ross",
+      "position": "MF",
+      "rating": 87,
+      "age": 20,
+      "value": 37364210
+    },
+    {
+      "name": "Tristan Kim",
+      "position": "MF",
+      "rating": 60,
+      "age": 19,
+      "value": 26526315
+    },
+    {
+      "name": "Xavier Brown",
       "position": "FW",
-      "rating": 70,
-      "age": 25,
-      "value": 32052631
+      "rating": 66,
+      "age": 30,
+      "value": 25010526
     },
     {
-      "name": "Toshiro Green",
+      "name": "Tony Olson",
+      "position": "FW",
+      "rating": 85,
+      "age": 24,
+      "value": 40000000
+    },
+    {
+      "name": "Juan Iyanda",
+      "position": "FW",
+      "rating": 75,
+      "age": 22,
+      "value": 37894736
+    },
+    {
+      "name": "Diego Zhu",
       "position": "FW",
       "rating": 67,
       "age": 32,
       "value": 23273684
+    },
+    {
+      "name": "Austin Rojas",
+      "position": "FW",
+      "rating": 61,
+      "age": 24,
+      "value": 28894736
     }
   ],
   "stadium": {

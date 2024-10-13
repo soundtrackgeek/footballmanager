@@ -2,144 +2,144 @@
   "name": "Tottenham",
   "squad": [
     {
-      "name": "Jae Henry",
+      "name": "Guillermo Franklin",
       "position": "GK",
       "rating": 82,
-      "age": 35,
-      "value": 13120000
+      "age": 21,
+      "value": 22787368
     },
     {
-      "name": "Daichi Marin",
+      "name": "Remington Holmes",
       "position": "GK",
       "rating": 88,
-      "age": 28,
-      "value": 19267368
-    },
-    {
-      "name": "Allan Bryant",
-      "position": "GK",
-      "rating": 75,
-      "age": 20,
-      "value": 21473684
-    },
-    {
-      "name": "Nkosinathi Gao",
-      "position": "DF",
-      "rating": 73,
-      "age": 30,
-      "value": 18442105
-    },
-    {
-      "name": "Leon Sanchez",
-      "position": "DF",
-      "rating": 78,
       "age": 17,
-      "value": 30378947
+      "value": 27418947
     },
     {
-      "name": "Marlon Cabrera",
+      "name": "Adrian Perry",
+      "position": "GK",
+      "rating": 81,
+      "age": 33,
+      "value": 14324210
+    },
+    {
+      "name": "Luis Richardson",
       "position": "DF",
-      "rating": 90,
-      "age": 21,
-      "value": 31263157
+      "rating": 70,
+      "age": 18,
+      "value": 26526315
     },
     {
-      "name": "Danny Butler",
+      "name": "Isaac Sandstr\u00f6m",
       "position": "DF",
-      "rating": 82,
-      "age": 16,
-      "value": 32800000
+      "rating": 81,
+      "age": 26,
+      "value": 23873684
     },
     {
-      "name": "Casper Xu",
+      "name": "Ade Guerrero",
       "position": "DF",
-      "rating": 76,
-      "age": 20,
-      "value": 27200000
+      "rating": 71,
+      "age": 28,
+      "value": 19431578
     },
     {
-      "name": "Jean Anderson",
+      "name": "Wei Sj\u00f6berg",
       "position": "DF",
       "rating": 84,
-      "age": 16,
-      "value": 33600000
+      "age": 20,
+      "value": 30063157
     },
     {
-      "name": "Hiro Rodr\u00edguez",
+      "name": "Damon Russell",
+      "position": "DF",
+      "rating": 82,
+      "age": 24,
+      "value": 25894736
+    },
+    {
+      "name": "Stephen Mills",
+      "position": "DF",
+      "rating": 86,
+      "age": 20,
+      "value": 30778947
+    },
+    {
+      "name": "Gage Xu",
       "position": "MF",
-      "rating": 79,
-      "age": 31,
-      "value": 22951578
+      "rating": 89,
+      "age": 20,
+      "value": 38223157
     },
     {
-      "name": "Maurice Turner",
+      "name": "Colin Dahl",
       "position": "MF",
       "rating": 74,
-      "age": 20,
-      "value": 31781052
-    },
-    {
-      "name": "Johannes Jenkins",
-      "position": "MF",
-      "rating": 88,
-      "age": 18,
-      "value": 40000000
-    },
-    {
-      "name": "Kody Gomez",
-      "position": "MF",
-      "rating": 64,
-      "age": 17,
+      "age": 22,
       "value": 29911578
     },
     {
-      "name": "Soren Bailey",
+      "name": "Zachary Mills",
       "position": "MF",
       "rating": 61,
-      "age": 31,
-      "value": 17722105
+      "age": 30,
+      "value": 18492631
     },
     {
-      "name": "Alan Hansen",
+      "name": "Diego Green",
       "position": "MF",
-      "rating": 76,
-      "age": 31,
-      "value": 22080000
+      "rating": 82,
+      "age": 32,
+      "value": 22787368
     },
     {
-      "name": "Clark Richardson",
+      "name": "Terry Mehta",
+      "position": "MF",
+      "rating": 85,
+      "age": 30,
+      "value": 25768421
+    },
+    {
+      "name": "Patrick Long",
+      "position": "MF",
+      "rating": 74,
+      "age": 23,
+      "value": 28976842
+    },
+    {
+      "name": "Mitchell Barnes",
       "position": "FW",
-      "rating": 87,
-      "age": 31,
-      "value": 31594736
+      "rating": 64,
+      "age": 35,
+      "value": 19200000
     },
     {
-      "name": "Russell Castillo",
+      "name": "Hector Bennett",
+      "position": "FW",
+      "rating": 60,
+      "age": 26,
+      "value": 26526315
+    },
+    {
+      "name": "Milton Pineda",
       "position": "FW",
       "rating": 61,
-      "age": 34,
-      "value": 19263157
+      "age": 21,
+      "value": 31784210
     },
     {
-      "name": "Diego Palmer",
+      "name": "Vincent Westerlund",
       "position": "FW",
       "rating": 88,
-      "age": 18,
+      "age": 16,
       "value": 40000000
     },
     {
-      "name": "Liang Sandberg",
-      "position": "FW",
-      "rating": 66,
-      "age": 30,
-      "value": 25010526
-    },
-    {
-      "name": "Damon Pedersen",
+      "name": "Sven Espinoza",
       "position": "FW",
       "rating": 78,
-      "age": 32,
-      "value": 27094736
+      "age": 17,
+      "value": 40000000
     }
   ],
   "stadium": {

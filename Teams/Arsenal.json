@@ -2,144 +2,144 @@
   "name": "Arsenal",
   "squad": [
     {
-      "name": "Grant Dixon",
+      "name": "Trevor Suzuki",
       "position": "GK",
       "rating": 63,
-      "age": 35,
-      "value": 10080000
+      "age": 33,
+      "value": 11141052
     },
     {
-      "name": "Jengo Feng",
+      "name": "Cian Henderson",
       "position": "GK",
-      "rating": 65,
-      "age": 29,
-      "value": 13684210
+      "rating": 73,
+      "age": 25,
+      "value": 17827368
     },
     {
-      "name": "Amani Bates",
+      "name": "Joseph Hart",
       "position": "GK",
-      "rating": 72,
-      "age": 16,
-      "value": 23040000
+      "rating": 90,
+      "age": 25,
+      "value": 21978947
     },
     {
-      "name": "Shin Griffin",
+      "name": "Casper Sangare",
       "position": "DF",
       "rating": 80,
-      "age": 32,
-      "value": 18526315
+      "age": 29,
+      "value": 21052631
     },
     {
-      "name": "Craig Manning",
+      "name": "Graham Rowe",
       "position": "DF",
-      "rating": 85,
-      "age": 30,
-      "value": 21473684
-    },
-    {
-      "name": "Lawrence Yamamoto",
-      "position": "DF",
-      "rating": 88,
-      "age": 23,
-      "value": 28715789
-    },
-    {
-      "name": "Adan Bennett",
-      "position": "DF",
-      "rating": 88,
-      "age": 27,
-      "value": 25010526
-    },
-    {
-      "name": "Joaquin Alvarez",
-      "position": "DF",
-      "rating": 90,
-      "age": 16,
-      "value": 36000000
-    },
-    {
-      "name": "Isaiah Rice",
-      "position": "DF",
-      "rating": 69,
-      "age": 32,
-      "value": 15978947
-    },
-    {
-      "name": "Filip Harrison",
-      "position": "MF",
-      "rating": 78,
-      "age": 17,
-      "value": 36454736
-    },
-    {
-      "name": "Johan Rodriguez",
-      "position": "MF",
-      "rating": 70,
-      "age": 19,
-      "value": 30947368
-    },
-    {
-      "name": "Hank Cunningham",
-      "position": "MF",
-      "rating": 89,
-      "age": 16,
-      "value": 40000000
-    },
-    {
-      "name": "Kyle Griffin",
-      "position": "MF",
-      "rating": 65,
-      "age": 20,
-      "value": 27915789
-    },
-    {
-      "name": "Kwabena Murray",
-      "position": "MF",
-      "rating": 71,
-      "age": 32,
-      "value": 19730526
-    },
-    {
-      "name": "Roberto Nilsen",
-      "position": "MF",
-      "rating": 68,
+      "rating": 79,
       "age": 26,
-      "value": 24050526
+      "value": 23284210
     },
     {
-      "name": "Rasmus Fernandes",
-      "position": "FW",
-      "rating": 69,
-      "age": 21,
-      "value": 35952631
+      "name": "Bruno Green",
+      "position": "DF",
+      "rating": 62,
+      "age": 30,
+      "value": 15663157
     },
     {
-      "name": "Quentin Rivera",
-      "position": "FW",
-      "rating": 65,
+      "name": "Cael Morris",
+      "position": "DF",
+      "rating": 86,
+      "age": 27,
+      "value": 24442105
+    },
+    {
+      "name": "Keegan Day",
+      "position": "DF",
+      "rating": 82,
+      "age": 23,
+      "value": 26757894
+    },
+    {
+      "name": "Agust\u00edn Olson",
+      "position": "DF",
+      "rating": 89,
+      "age": 27,
+      "value": 25294736
+    },
+    {
+      "name": "Sim\u00f3n Fields",
+      "position": "MF",
+      "rating": 72,
+      "age": 33,
+      "value": 19098947
+    },
+    {
+      "name": "Rajesh Payne",
+      "position": "MF",
+      "rating": 64,
+      "age": 31,
+      "value": 18593684
+    },
+    {
+      "name": "Robert Rivera",
+      "position": "MF",
+      "rating": 88,
+      "age": 31,
+      "value": 25566315
+    },
+    {
+      "name": "Derrick Boone",
+      "position": "MF",
+      "rating": 90,
+      "age": 30,
+      "value": 27284210
+    },
+    {
+      "name": "Nehemiah Hughes",
+      "position": "MF",
+      "rating": 90,
       "age": 28,
-      "value": 26684210
+      "value": 29557894
     },
     {
-      "name": "Steven Hart",
+      "name": "Magnus Burke",
+      "position": "MF",
+      "rating": 84,
+      "age": 19,
+      "value": 37136842
+    },
+    {
+      "name": "Josiah Marshall",
       "position": "FW",
-      "rating": 81,
-      "age": 18,
+      "rating": 77,
+      "age": 22,
+      "value": 38905263
+    },
+    {
+      "name": "Vince Stone",
+      "position": "FW",
+      "rating": 88,
+      "age": 28,
+      "value": 36126315
+    },
+    {
+      "name": "Douglas Shaw",
+      "position": "FW",
+      "rating": 75,
+      "age": 19,
       "value": 40000000
     },
     {
-      "name": "Leslie Bell",
+      "name": "Donovan Stone",
       "position": "FW",
-      "rating": 84,
-      "age": 33,
-      "value": 27852631
+      "rating": 67,
+      "age": 23,
+      "value": 32794736
     },
     {
-      "name": "Johan Barnett",
+      "name": "Stephen Castillo",
       "position": "FW",
-      "rating": 71,
-      "age": 30,
-      "value": 26905263
+      "rating": 66,
+      "age": 27,
+      "value": 28136842
     }
   ],
   "stadium": {

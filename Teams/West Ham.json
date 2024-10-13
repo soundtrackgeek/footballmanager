@@ -2,144 +2,144 @@
   "name": "West Ham",
   "squad": [
     {
-      "name": "Paige Morris",
+      "name": "Suraj Mcdonald",
+      "position": "GK",
+      "rating": 65,
+      "age": 22,
+      "value": 17515789
+    },
+    {
+      "name": "Leslie Lindgren",
       "position": "GK",
       "rating": 67,
-      "age": 29,
-      "value": 14105263
+      "age": 34,
+      "value": 11284210
     },
     {
-      "name": "Keita Parker",
+      "name": "Pranav Guerrero",
       "position": "GK",
-      "rating": 80,
-      "age": 16,
-      "value": 25600000
-    },
-    {
-      "name": "Steve Hayes",
-      "position": "GK",
-      "rating": 69,
-      "age": 32,
-      "value": 12783157
-    },
-    {
-      "name": "Francisco Howard",
-      "position": "DF",
       "rating": 78,
-      "age": 28,
-      "value": 21347368
+      "age": 23,
+      "value": 20362105
     },
     {
-      "name": "Keegan Woods",
+      "name": "Isaiah Bishop",
       "position": "DF",
-      "rating": 71,
-      "age": 28,
-      "value": 19431578
+      "rating": 81,
+      "age": 25,
+      "value": 24726315
     },
     {
-      "name": "Bradley Morales",
+      "name": "Sebasti\u00e1n Richardson",
       "position": "DF",
-      "rating": 68,
-      "age": 31,
-      "value": 16463157
+      "rating": 75,
+      "age": 23,
+      "value": 24473684
     },
     {
-      "name": "Omar Dahl",
+      "name": "Nikhil Ramos",
       "position": "DF",
-      "rating": 69,
-      "age": 24,
-      "value": 21789473
+      "rating": 79,
+      "age": 29,
+      "value": 20789473
     },
     {
-      "name": "Dominic Morales",
+      "name": "Lawrence Ellison",
       "position": "DF",
-      "rating": 85,
-      "age": 16,
-      "value": 34000000
+      "rating": 76,
+      "age": 35,
+      "value": 15200000
     },
     {
-      "name": "Paul Njoroge",
+      "name": "Samuel Franklin",
       "position": "DF",
-      "rating": 64,
-      "age": 33,
-      "value": 14147368
-    },
-    {
-      "name": "Ruben Marsh",
-      "position": "MF",
-      "rating": 85,
-      "age": 16,
-      "value": 40000000
-    },
-    {
-      "name": "Carlos Ross",
-      "position": "MF",
-      "rating": 83,
+      "rating": 84,
       "age": 20,
-      "value": 35646315
+      "value": 30063157
     },
     {
-      "name": "Ezequiel Roberts",
+      "name": "Rene Pepper",
+      "position": "DF",
+      "rating": 77,
+      "age": 17,
+      "value": 29989473
+    },
+    {
+      "name": "Ezra Mills",
       "position": "MF",
-      "rating": 90,
-      "age": 18,
-      "value": 40000000
+      "rating": 63,
+      "age": 19,
+      "value": 27852631
     },
     {
-      "name": "Mark Palmer",
+      "name": "Izaiah Kang",
       "position": "MF",
-      "rating": 68,
-      "age": 24,
-      "value": 25768421
+      "rating": 85,
+      "age": 25,
+      "value": 31136842
     },
     {
-      "name": "Jean Bell",
+      "name": "Brantley Farmer",
       "position": "MF",
       "rating": 80,
-      "age": 16,
-      "value": 38400000
+      "age": 34,
+      "value": 20210526
     },
     {
-      "name": "Shin Griffin",
+      "name": "Daisuke Schmidt",
       "position": "MF",
-      "rating": 85,
-      "age": 19,
-      "value": 37578947
-    },
-    {
-      "name": "Tyler Long",
-      "position": "FW",
-      "rating": 88,
+      "rating": 69,
       "age": 33,
-      "value": 29178947
+      "value": 18303157
     },
     {
-      "name": "Edgar Coleman",
+      "name": "Rowan Eriksson",
+      "position": "MF",
+      "rating": 60,
+      "age": 19,
+      "value": 26526315
+    },
+    {
+      "name": "Patrick Morales",
+      "position": "MF",
+      "rating": 64,
+      "age": 18,
+      "value": 29103157
+    },
+    {
+      "name": "Sebasti\u00e1n Gray",
       "position": "FW",
-      "rating": 68,
-      "age": 24,
-      "value": 32210526
+      "rating": 86,
+      "age": 28,
+      "value": 35305263
     },
     {
-      "name": "Matt Spencer",
+      "name": "Andre Marshall",
+      "position": "FW",
+      "rating": 78,
+      "age": 33,
+      "value": 25863157
+    },
+    {
+      "name": "Min-jun Rivera",
+      "position": "FW",
+      "rating": 66,
+      "age": 24,
+      "value": 31263157
+    },
+    {
+      "name": "Ignacio Ito",
       "position": "FW",
       "rating": 88,
-      "age": 20,
-      "value": 40000000
+      "age": 34,
+      "value": 27789473
     },
     {
-      "name": "Thiago Fitzgerald",
+      "name": "Ra\u00fal Fisher",
       "position": "FW",
-      "rating": 68,
-      "age": 16,
-      "value": 40000000
-    },
-    {
-      "name": "Antonio Ciss\u00e9",
-      "position": "FW",
-      "rating": 70,
-      "age": 18,
-      "value": 39789473
+      "rating": 85,
+      "age": 25,
+      "value": 38921052
     }
   ],
   "stadium": {

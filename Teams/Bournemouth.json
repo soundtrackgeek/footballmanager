@@ -2,144 +2,144 @@
   "name": "Bournemouth",
   "squad": [
     {
-      "name": "Haruto Reid",
+      "name": "Erik Khan",
       "position": "GK",
-      "rating": 63,
-      "age": 35,
-      "value": 10080000
-    },
-    {
-      "name": "Leon Bradley",
-      "position": "GK",
-      "rating": 90,
-      "age": 21,
-      "value": 25010526
-    },
-    {
-      "name": "Axel Sato",
-      "position": "GK",
-      "rating": 90,
-      "age": 20,
-      "value": 25768421
-    },
-    {
-      "name": "Isaac Hamilton",
-      "position": "DF",
-      "rating": 64,
-      "age": 21,
-      "value": 22231578
-    },
-    {
-      "name": "Wayne Hughes",
-      "position": "DF",
-      "rating": 75,
-      "age": 25,
-      "value": 22894736
-    },
-    {
-      "name": "Emiliano Liu",
-      "position": "DF",
-      "rating": 83,
-      "age": 21,
-      "value": 28831578
-    },
-    {
-      "name": "Obi Williamson",
-      "position": "DF",
-      "rating": 67,
-      "age": 20,
-      "value": 23978947
-    },
-    {
-      "name": "Derek Diaz",
-      "position": "DF",
-      "rating": 70,
-      "age": 20,
-      "value": 25052631
-    },
-    {
-      "name": "Owen Ramos",
-      "position": "DF",
-      "rating": 62,
-      "age": 31,
-      "value": 15010526
-    },
-    {
-      "name": "Jeremy Toure",
-      "position": "MF",
-      "rating": 85,
-      "age": 16,
-      "value": 40000000
-    },
-    {
-      "name": "Evan Bryan",
-      "position": "MF",
-      "rating": 85,
-      "age": 23,
-      "value": 33284210
-    },
-    {
-      "name": "David Howard",
-      "position": "MF",
-      "rating": 89,
-      "age": 31,
-      "value": 25856842
-    },
-    {
-      "name": "Thabo Eklund",
-      "position": "MF",
-      "rating": 69,
-      "age": 32,
-      "value": 19174736
-    },
-    {
-      "name": "Jean Rivera",
-      "position": "MF",
-      "rating": 76,
-      "age": 26,
-      "value": 26880000
-    },
-    {
-      "name": "Guy Bennett",
-      "position": "MF",
-      "rating": 64,
-      "age": 30,
-      "value": 19402105
-    },
-    {
-      "name": "Cameron Reid",
-      "position": "FW",
-      "rating": 76,
-      "age": 22,
-      "value": 38400000
-    },
-    {
-      "name": "Bjorn Harmon",
-      "position": "FW",
-      "rating": 75,
+      "rating": 68,
       "age": 18,
-      "value": 40000000
+      "value": 20614736
     },
     {
-      "name": "Noah Mcdonald",
-      "position": "FW",
-      "rating": 81,
+      "name": "Max Reid",
+      "position": "GK",
+      "rating": 75,
+      "age": 23,
+      "value": 19578947
+    },
+    {
+      "name": "Cameron Cooper",
+      "position": "GK",
+      "rating": 60,
+      "age": 27,
+      "value": 13642105
+    },
+    {
+      "name": "Mohammad Hansen",
+      "position": "DF",
+      "rating": 82,
       "age": 35,
-      "value": 24300000
+      "value": 16400000
     },
     {
-      "name": "Terry Robinson",
-      "position": "FW",
+      "name": "Tobias Rose",
+      "position": "DF",
+      "rating": 81,
+      "age": 29,
+      "value": 21315789
+    },
+    {
+      "name": "Tom\u00e1s Oliver",
+      "position": "DF",
+      "rating": 74,
+      "age": 26,
+      "value": 21810526
+    },
+    {
+      "name": "Wilson Reyes",
+      "position": "DF",
+      "rating": 81,
+      "age": 28,
+      "value": 22168421
+    },
+    {
+      "name": "Diego Olsen",
+      "position": "DF",
+      "rating": 71,
+      "age": 33,
+      "value": 15694736
+    },
+    {
+      "name": "Alfonso Pepper",
+      "position": "DF",
+      "rating": 85,
+      "age": 35,
+      "value": 17000000
+    },
+    {
+      "name": "Anil Evans",
+      "position": "MF",
+      "rating": 66,
+      "age": 17,
+      "value": 30846315
+    },
+    {
+      "name": "Bo Pineda",
+      "position": "MF",
+      "rating": 77,
+      "age": 23,
+      "value": 30151578
+    },
+    {
+      "name": "Rajesh Russell",
+      "position": "MF",
+      "rating": 82,
+      "age": 29,
+      "value": 25894736
+    },
+    {
+      "name": "Angel Fletcher",
+      "position": "MF",
+      "rating": 60,
+      "age": 32,
+      "value": 16673684
+    },
+    {
+      "name": "Masashi Ward",
+      "position": "MF",
       "rating": 64,
-      "age": 31,
-      "value": 23242105
+      "age": 35,
+      "value": 15360000
     },
     {
-      "name": "Dennis Nguyen",
+      "name": "Ibrahim Brooks",
+      "position": "MF",
+      "rating": 78,
+      "age": 20,
+      "value": 33498947
+    },
+    {
+      "name": "Baojun Spencer",
       "position": "FW",
-      "rating": 90,
-      "age": 30,
-      "value": 34105263
+      "rating": 88,
+      "age": 26,
+      "value": 38905263
+    },
+    {
+      "name": "Roy Perry",
+      "position": "FW",
+      "rating": 80,
+      "age": 28,
+      "value": 32842105
+    },
+    {
+      "name": "Christopher Harmon",
+      "position": "FW",
+      "rating": 82,
+      "age": 26,
+      "value": 36252631
+    },
+    {
+      "name": "Gregory Walker",
+      "position": "FW",
+      "rating": 60,
+      "age": 25,
+      "value": 27473684
+    },
+    {
+      "name": "Noel Han",
+      "position": "FW",
+      "rating": 61,
+      "age": 35,
+      "value": 18300000
     }
   ],
   "stadium": {

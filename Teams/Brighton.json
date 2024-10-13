@@ -2,144 +2,144 @@
   "name": "Brighton",
   "squad": [
     {
-      "name": "Sven Little",
+      "name": "Mohammad Mori",
       "position": "GK",
-      "rating": 74,
-      "age": 24,
-      "value": 18694736
+      "rating": 62,
+      "age": 33,
+      "value": 10964210
     },
     {
-      "name": "Franklin Umar",
+      "name": "Chad Hart",
       "position": "GK",
-      "rating": 77,
-      "age": 25,
-      "value": 18804210
+      "rating": 80,
+      "age": 31,
+      "value": 15494736
     },
     {
-      "name": "Ezra Oliver",
+      "name": "Timothy Robinson",
       "position": "GK",
-      "rating": 90,
-      "age": 34,
-      "value": 15157894
-    },
-    {
-      "name": "Joseph Butler",
-      "position": "DF",
-      "rating": 63,
-      "age": 25,
-      "value": 19231578
-    },
-    {
-      "name": "Stewart Jackson",
-      "position": "DF",
       "rating": 79,
-      "age": 30,
-      "value": 19957894
-    },
-    {
-      "name": "Noel Sharp",
-      "position": "DF",
-      "rating": 71,
-      "age": 18,
-      "value": 26905263
-    },
-    {
-      "name": "Arthur Olson",
-      "position": "DF",
-      "rating": 83,
-      "age": 26,
-      "value": 24463157
-    },
-    {
-      "name": "Renato Green",
-      "position": "DF",
-      "rating": 73,
-      "age": 29,
-      "value": 19210526
-    },
-    {
-      "name": "Samuel Espinoza",
-      "position": "DF",
-      "rating": 71,
-      "age": 35,
-      "value": 14200000
-    },
-    {
-      "name": "Oliver Ramsey",
-      "position": "MF",
-      "rating": 71,
-      "age": 18,
-      "value": 32286315
-    },
-    {
-      "name": "Johnny Phillips",
-      "position": "MF",
-      "rating": 74,
       "age": 28,
-      "value": 24303157
+      "value": 17296842
     },
     {
-      "name": "Harley Ramsey",
-      "position": "MF",
-      "rating": 65,
-      "age": 19,
-      "value": 28736842
+      "name": "Stefan \u00c5kesson",
+      "position": "DF",
+      "rating": 61,
+      "age": 27,
+      "value": 17336842
     },
     {
-      "name": "Duncan Yeboah",
-      "position": "MF",
-      "rating": 72,
-      "age": 23,
-      "value": 28193684
-    },
-    {
-      "name": "Mandla Salazar",
-      "position": "MF",
+      "name": "Carl Diaz",
+      "position": "DF",
       "rating": 88,
-      "age": 32,
-      "value": 24454736
+      "age": 35,
+      "value": 17600000
     },
     {
-      "name": "Miguel Hughes",
-      "position": "MF",
-      "rating": 65,
+      "name": "Daryl Smith",
+      "position": "DF",
+      "rating": 60,
+      "age": 18,
+      "value": 22736842
+    },
+    {
+      "name": "Bao Kobayashi",
+      "position": "DF",
+      "rating": 85,
+      "age": 24,
+      "value": 26842105
+    },
+    {
+      "name": "Ayaan Stewart",
+      "position": "DF",
+      "rating": 81,
       "age": 28,
-      "value": 21347368
+      "value": 22168421
     },
     {
-      "name": "Gabriel Walker",
+      "name": "Tobias Gray",
+      "position": "DF",
+      "rating": 69,
+      "age": 33,
+      "value": 15252631
+    },
+    {
+      "name": "Morten Hernandez",
+      "position": "MF",
+      "rating": 90,
+      "age": 16,
+      "value": 40000000
+    },
+    {
+      "name": "Alan Kobayashi",
+      "position": "MF",
+      "rating": 71,
+      "age": 19,
+      "value": 31389473
+    },
+    {
+      "name": "Karter Flores",
+      "position": "MF",
+      "rating": 83,
+      "age": 22,
+      "value": 33549473
+    },
+    {
+      "name": "Kody Parker",
+      "position": "MF",
+      "rating": 61,
+      "age": 25,
+      "value": 22345263
+    },
+    {
+      "name": "Tanner Gonzalez",
+      "position": "MF",
+      "rating": 87,
+      "age": 24,
+      "value": 32968421
+    },
+    {
+      "name": "Jonah Barnett",
+      "position": "MF",
+      "rating": 86,
+      "age": 18,
+      "value": 39107368
+    },
+    {
+      "name": "Obi Williamson",
+      "position": "FW",
+      "rating": 62,
+      "age": 29,
+      "value": 24473684
+    },
+    {
+      "name": "Charlie Choi",
+      "position": "FW",
+      "rating": 88,
+      "age": 16,
+      "value": 40000000
+    },
+    {
+      "name": "Nathan Wang",
+      "position": "FW",
+      "rating": 61,
+      "age": 24,
+      "value": 28894736
+    },
+    {
+      "name": "Ra\u00fal Day",
+      "position": "FW",
+      "rating": 64,
+      "age": 30,
+      "value": 24252631
+    },
+    {
+      "name": "George Hart",
       "position": "FW",
       "rating": 82,
-      "age": 21,
-      "value": 40000000
-    },
-    {
-      "name": "Israel Oliver",
-      "position": "FW",
-      "rating": 83,
-      "age": 30,
-      "value": 31452631
-    },
-    {
-      "name": "Mauricio Washington",
-      "position": "FW",
-      "rating": 71,
-      "age": 24,
-      "value": 33631578
-    },
-    {
-      "name": "Nathan Gordon",
-      "position": "FW",
-      "rating": 81,
-      "age": 23,
-      "value": 39647368
-    },
-    {
-      "name": "Izaiah Kim",
-      "position": "FW",
-      "rating": 81,
-      "age": 18,
-      "value": 40000000
+      "age": 26,
+      "value": 36252631
     }
   ],
   "stadium": {

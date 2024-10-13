@@ -2,144 +2,144 @@
   "name": "Liverpool",
   "squad": [
     {
-      "name": "Quincy Bennett",
+      "name": "Ivan Flores",
       "position": "GK",
-      "rating": 77,
+      "rating": 75,
+      "age": 16,
+      "value": 24000000
+    },
+    {
+      "name": "Vishal Baker",
+      "position": "GK",
+      "rating": 65,
       "age": 28,
-      "value": 16858947
+      "value": 14231578
     },
     {
-      "name": "Wei-Lun Garcia",
+      "name": "Masashi Duncan",
       "position": "GK",
-      "rating": 86,
-      "age": 35,
-      "value": 13760000
+      "rating": 64,
+      "age": 28,
+      "value": 14012631
     },
     {
-      "name": "Zuberi Olson",
-      "position": "GK",
-      "rating": 70,
-      "age": 18,
-      "value": 21221052
-    },
-    {
-      "name": "Maximiliano Abiola",
-      "position": "DF",
-      "rating": 61,
-      "age": 30,
-      "value": 15410526
-    },
-    {
-      "name": "Damien Patel",
-      "position": "DF",
-      "rating": 68,
-      "age": 34,
-      "value": 14315789
-    },
-    {
-      "name": "Ekon Long",
-      "position": "DF",
-      "rating": 79,
-      "age": 33,
-      "value": 17463157
-    },
-    {
-      "name": "Kellen Fisher",
-      "position": "DF",
-      "rating": 69,
-      "age": 34,
-      "value": 14526315
-    },
-    {
-      "name": "Andreas Toure",
+      "name": "Kevin Moore",
       "position": "DF",
       "rating": 85,
-      "age": 17,
-      "value": 33105263
+      "age": 29,
+      "value": 22368421
     },
     {
-      "name": "Colin Wood",
+      "name": "Amir Russell",
       "position": "DF",
-      "rating": 74,
-      "age": 19,
-      "value": 27263157
-    },
-    {
-      "name": "Roderick Reid",
-      "position": "MF",
-      "rating": 66,
-      "age": 22,
-      "value": 26677894
-    },
-    {
-      "name": "Alejandro Day",
-      "position": "MF",
       "rating": 77,
       "age": 25,
-      "value": 28206315
+      "value": 23505263
     },
     {
-      "name": "Nicolas Black",
+      "name": "Ram\u00f3n Washington",
+      "position": "DF",
+      "rating": 66,
+      "age": 33,
+      "value": 14589473
+    },
+    {
+      "name": "Jorge Kareem",
+      "position": "DF",
+      "rating": 78,
+      "age": 23,
+      "value": 25452631
+    },
+    {
+      "name": "Giovanni Fofana",
+      "position": "DF",
+      "rating": 76,
+      "age": 30,
+      "value": 19200000
+    },
+    {
+      "name": "Ivan Barnett",
+      "position": "DF",
+      "rating": 78,
+      "age": 23,
+      "value": 25452631
+    },
+    {
+      "name": "Kwesi Owens",
       "position": "MF",
-      "rating": 68,
-      "age": 17,
-      "value": 31781052
+      "rating": 64,
+      "age": 27,
+      "value": 21827368
     },
     {
-      "name": "Ryan Ward",
-      "position": "MF",
-      "rating": 89,
-      "age": 16,
-      "value": 40000000
-    },
-    {
-      "name": "Derrick Stewart",
-      "position": "MF",
-      "rating": 80,
-      "age": 18,
-      "value": 36378947
-    },
-    {
-      "name": "Raul West",
+      "name": "Richard West",
       "position": "MF",
       "rating": 78,
-      "age": 26,
-      "value": 27587368
+      "age": 21,
+      "value": 32513684
     },
     {
-      "name": "Finn Lee",
-      "position": "FW",
-      "rating": 88,
-      "age": 31,
-      "value": 31957894
+      "name": "Luis Benson",
+      "position": "MF",
+      "rating": 77,
+      "age": 23,
+      "value": 30151578
     },
     {
-      "name": "Kato Richardson",
-      "position": "FW",
-      "rating": 83,
+      "name": "Noah Silva",
+      "position": "MF",
+      "rating": 70,
+      "age": 17,
+      "value": 32715789
+    },
+    {
+      "name": "Timothy Richardson",
+      "position": "MF",
+      "rating": 71,
+      "age": 22,
+      "value": 28698947
+    },
+    {
+      "name": "Kenny Stone",
+      "position": "MF",
+      "rating": 68,
       "age": 28,
-      "value": 34073684
+      "value": 22332631
     },
     {
-      "name": "Maxwell Young",
+      "name": "Adel Fuentes",
       "position": "FW",
       "rating": 74,
-      "age": 18,
+      "age": 29,
+      "value": 29210526
+    },
+    {
+      "name": "Gustavo Wallace",
+      "position": "FW",
+      "rating": 80,
+      "age": 26,
+      "value": 35368421
+    },
+    {
+      "name": "Timothy Goodman",
+      "position": "FW",
+      "rating": 89,
+      "age": 30,
+      "value": 33726315
+    },
+    {
+      "name": "Ismael Jabari",
+      "position": "FW",
+      "rating": 77,
+      "age": 17,
       "value": 40000000
     },
     {
-      "name": "Jonathan Kwon",
+      "name": "Kyle Shaw",
       "position": "FW",
-      "rating": 86,
-      "age": 32,
-      "value": 29873684
-    },
-    {
-      "name": "William Nakamura",
-      "position": "FW",
-      "rating": 79,
-      "age": 31,
-      "value": 28689473
+      "rating": 73,
+      "age": 25,
+      "value": 33426315
     }
   ],
   "stadium": {

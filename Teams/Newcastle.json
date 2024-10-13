@@ -2,144 +2,144 @@
   "name": "Newcastle",
   "squad": [
     {
-      "name": "Santiago Ramirez",
+      "name": "Kelly Silva",
       "position": "GK",
-      "rating": 69,
-      "age": 21,
-      "value": 19174736
+      "rating": 60,
+      "age": 24,
+      "value": 15157894
     },
     {
-      "name": "Min-jun Sandstr\u00f6m",
+      "name": "Harry Kim",
       "position": "GK",
-      "rating": 71,
-      "age": 16,
-      "value": 22720000
+      "rating": 76,
+      "age": 32,
+      "value": 14080000
     },
     {
-      "name": "Remington Lee",
+      "name": "Karl Spencer",
       "position": "GK",
-      "rating": 83,
-      "age": 22,
-      "value": 22366315
+      "rating": 67,
+      "age": 35,
+      "value": 10720000
     },
     {
-      "name": "Carl Russell",
+      "name": "Ping Martin",
       "position": "DF",
       "rating": 73,
-      "age": 34,
-      "value": 15368421
+      "age": 19,
+      "value": 26894736
     },
     {
-      "name": "Adekunle Torbj\u00f6rnsson",
-      "position": "DF",
-      "rating": 64,
-      "age": 35,
-      "value": 12800000
-    },
-    {
-      "name": "Tumelo Barnett",
+      "name": "Johan Bennett",
       "position": "DF",
       "rating": 82,
-      "age": 21,
-      "value": 28484210
+      "age": 30,
+      "value": 20715789
     },
     {
-      "name": "Frederick Lund",
+      "name": "Toshiro Nguyen",
       "position": "DF",
-      "rating": 71,
-      "age": 25,
-      "value": 21673684
+      "rating": 70,
+      "age": 18,
+      "value": 26526315
     },
     {
-      "name": "Marc Dlamini",
+      "name": "Yahir Bhatia",
       "position": "DF",
-      "rating": 71,
-      "age": 19,
-      "value": 26157894
+      "rating": 74,
+      "age": 34,
+      "value": 15578947
     },
     {
-      "name": "Cody Hamilton",
+      "name": "Ayden Bailey",
       "position": "DF",
-      "rating": 62,
+      "rating": 69,
       "age": 24,
-      "value": 19578947
+      "value": 21789473
     },
     {
-      "name": "Tuan Perez",
+      "name": "Bryson Ferguson",
+      "position": "DF",
+      "rating": 82,
+      "age": 26,
+      "value": 24168421
+    },
+    {
+      "name": "Kellen Gariba",
+      "position": "MF",
+      "rating": 68,
+      "age": 35,
+      "value": 16320000
+    },
+    {
+      "name": "Jamie Larsen",
+      "position": "MF",
+      "rating": 90,
+      "age": 31,
+      "value": 26147368
+    },
+    {
+      "name": "Kofi Knox",
+      "position": "MF",
+      "rating": 78,
+      "age": 24,
+      "value": 29557894
+    },
+    {
+      "name": "Ekon Hart",
+      "position": "MF",
+      "rating": 71,
+      "age": 24,
+      "value": 26905263
+    },
+    {
+      "name": "Miles Hart",
       "position": "MF",
       "rating": 66,
-      "age": 23,
-      "value": 25844210
+      "age": 25,
+      "value": 24176842
     },
     {
-      "name": "Ezra Stone",
-      "position": "MF",
-      "rating": 84,
-      "age": 27,
-      "value": 28648421
-    },
-    {
-      "name": "Lucas Bailey",
+      "name": "Antonio Green",
       "position": "MF",
       "rating": 62,
-      "age": 25,
-      "value": 22711578
-    },
-    {
-      "name": "Cooper Hamilton",
-      "position": "MF",
-      "rating": 81,
-      "age": 17,
-      "value": 37856842
-    },
-    {
-      "name": "Asher Fox",
-      "position": "MF",
-      "rating": 90,
-      "age": 17,
-      "value": 40000000
-    },
-    {
-      "name": "Maxwell Spencer",
-      "position": "MF",
-      "rating": 90,
-      "age": 23,
-      "value": 35242105
-    },
-    {
-      "name": "Marshall West",
-      "position": "FW",
-      "rating": 64,
-      "age": 33,
-      "value": 21221052
-    },
-    {
-      "name": "Leonel Roberts",
-      "position": "FW",
-      "rating": 63,
-      "age": 34,
-      "value": 19894736
-    },
-    {
-      "name": "Jelani Sanchez",
-      "position": "FW",
-      "rating": 74,
       "age": 30,
-      "value": 28042105
+      "value": 18795789
     },
     {
-      "name": "Tunde Butler",
+      "name": "Keegan Castillo",
       "position": "FW",
-      "rating": 65,
+      "rating": 67,
+      "age": 17,
+      "value": 39142105
+    },
+    {
+      "name": "Henrik Wheeler",
+      "position": "FW",
+      "rating": 80,
+      "age": 30,
+      "value": 30315789
+    },
+    {
+      "name": "Santiago Scott",
+      "position": "FW",
+      "rating": 61,
+      "age": 30,
+      "value": 23115789
+    },
+    {
+      "name": "Oscar Nielsen",
+      "position": "FW",
+      "rating": 84,
+      "age": 35,
+      "value": 25200000
+    },
+    {
+      "name": "Bruce Bates",
+      "position": "FW",
+      "rating": 82,
       "age": 28,
-      "value": 26684210
-    },
-    {
-      "name": "Zachary Palmer",
-      "position": "FW",
-      "rating": 77,
-      "age": 18,
-      "value": 40000000
+      "value": 33663157
     }
   ],
   "stadium": {
