@@ -2,144 +2,144 @@
   "name": "Aston Villa",
   "squad": [
     {
-      "name": "Cameron Meadows",
+      "name": "Angelo Norberg",
       "position": "GK",
-      "rating": 81,
-      "age": 30,
-      "value": 16370526
-    },
-    {
-      "name": "Kaleb Grimes",
-      "position": "GK",
-      "rating": 78,
-      "age": 35,
-      "value": 12480000
-    },
-    {
-      "name": "Rodney Solberg",
-      "position": "GK",
-      "rating": 62,
-      "age": 33,
-      "value": 10964210
-    },
-    {
-      "name": "Hugo Cook",
-      "position": "DF",
-      "rating": 74,
-      "age": 31,
-      "value": 17915789
-    },
-    {
-      "name": "Babatunde Holmes",
-      "position": "DF",
-      "rating": 83,
-      "age": 34,
-      "value": 17473684
-    },
-    {
-      "name": "Miles Alexander",
-      "position": "DF",
-      "rating": 73,
-      "age": 22,
-      "value": 24589473
-    },
-    {
-      "name": "Xavier Burke",
-      "position": "DF",
-      "rating": 64,
-      "age": 24,
-      "value": 20210526
-    },
-    {
-      "name": "Patrick Dean",
-      "position": "DF",
-      "rating": 88,
-      "age": 26,
-      "value": 25936842
-    },
-    {
-      "name": "Mathias Brooks",
-      "position": "DF",
       "rating": 71,
-      "age": 16,
-      "value": 28400000
+      "age": 18,
+      "value": 21524210
     },
     {
-      "name": "Nikhil Franklin",
-      "position": "MF",
-      "rating": 77,
-      "age": 21,
-      "value": 32096842
+      "name": "Noel Brooks",
+      "position": "GK",
+      "rating": 67,
+      "age": 35,
+      "value": 10720000
     },
     {
-      "name": "Garrett Njoroge",
-      "position": "MF",
-      "rating": 79,
-      "age": 31,
-      "value": 22951578
+      "name": "Danny Bryant",
+      "position": "GK",
+      "rating": 67,
+      "age": 20,
+      "value": 19183157
     },
     {
-      "name": "Jonathan Long",
-      "position": "MF",
-      "rating": 63,
-      "age": 27,
-      "value": 21486315
-    },
-    {
-      "name": "Rene Rodriguez",
-      "position": "MF",
-      "rating": 77,
+      "name": "Chad Bergstrom",
+      "position": "DF",
+      "rating": 67,
       "age": 19,
-      "value": 34042105
+      "value": 24684210
     },
     {
-      "name": "Martin Mcdonald",
-      "position": "MF",
+      "name": "Thiago Mwangi",
+      "position": "DF",
+      "rating": 61,
+      "age": 24,
+      "value": 19263157
+    },
+    {
+      "name": "Rajesh Rivera",
+      "position": "DF",
       "rating": 69,
-      "age": 28,
-      "value": 22661052
+      "age": 26,
+      "value": 20336842
     },
     {
-      "name": "Logan Blake",
-      "position": "MF",
-      "rating": 75,
+      "name": "Larry Evans",
+      "position": "DF",
+      "rating": 89,
+      "age": 27,
+      "value": 25294736
+    },
+    {
+      "name": "Chase Patel",
+      "position": "DF",
+      "rating": 90,
       "age": 32,
       "value": 20842105
     },
     {
-      "name": "Brian Webb",
-      "position": "FW",
-      "rating": 68,
-      "age": 17,
-      "value": 39726315
-    },
-    {
-      "name": "Benjam\u00edn Ward",
-      "position": "FW",
-      "rating": 90,
-      "age": 25,
-      "value": 40000000
-    },
-    {
-      "name": "Patrick Adams",
-      "position": "FW",
+      "name": "Bryce Lin",
+      "position": "DF",
       "rating": 83,
-      "age": 28,
-      "value": 34073684
+      "age": 18,
+      "value": 31452631
     },
     {
-      "name": "Kamau Han",
+      "name": "Maurice Kwon",
+      "position": "MF",
+      "rating": 61,
+      "age": 35,
+      "value": 14640000
+    },
+    {
+      "name": "Larry Reed",
+      "position": "MF",
+      "rating": 88,
+      "age": 30,
+      "value": 26677894
+    },
+    {
+      "name": "Hank Nakajima",
+      "position": "MF",
+      "rating": 69,
+      "age": 32,
+      "value": 19174736
+    },
+    {
+      "name": "Matt Rice",
+      "position": "MF",
+      "rating": 68,
+      "age": 16,
+      "value": 32640000
+    },
+    {
+      "name": "Christopher Nakajima",
+      "position": "MF",
+      "rating": 71,
+      "age": 16,
+      "value": 34080000
+    },
+    {
+      "name": "Landon Moore",
+      "position": "MF",
+      "rating": 90,
+      "age": 21,
+      "value": 37515789
+    },
+    {
+      "name": "Carl Fuller",
       "position": "FW",
       "rating": 73,
-      "age": 26,
-      "value": 32273684
+      "age": 16,
+      "value": 40000000
     },
     {
-      "name": "Darren Griffin",
+      "name": "Leon Lee",
       "position": "FW",
-      "rating": 86,
-      "age": 17,
+      "rating": 85,
+      "age": 30,
+      "value": 32210526
+    },
+    {
+      "name": "Bhekizizwe Diaz",
+      "position": "FW",
+      "rating": 69,
+      "age": 20,
+      "value": 37042105
+    },
+    {
+      "name": "Dean Venter",
+      "position": "FW",
+      "rating": 90,
+      "age": 22,
       "value": 40000000
+    },
+    {
+      "name": "Theodore Grimes",
+      "position": "FW",
+      "rating": 74,
+      "age": 23,
+      "value": 36221052
     }
   ],
   "stadium": {

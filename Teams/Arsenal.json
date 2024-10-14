@@ -2,144 +2,144 @@
   "name": "Arsenal",
   "squad": [
     {
-      "name": "Cian  Taylor",
+      "name": "Angelo Butler",
       "position": "GK",
-      "rating": 66,
-      "age": 25,
-      "value": 16117894
+      "rating": 75,
+      "age": 20,
+      "value": 21473684
     },
     {
-      "name": "Chad Cooper",
+      "name": "Zane Freeman",
       "position": "GK",
+      "rating": 74,
+      "age": 21,
+      "value": 20564210
+    },
+    {
+      "name": "Simon Collins",
+      "position": "GK",
+      "rating": 79,
+      "age": 24,
+      "value": 19957894
+    },
+    {
+      "name": "Hayden \u00c5kesson",
+      "position": "DF",
+      "rating": 70,
+      "age": 31,
+      "value": 16947368
+    },
+    {
+      "name": "Vince Li",
+      "position": "DF",
+      "rating": 90,
+      "age": 29,
+      "value": 23684210
+    },
+    {
+      "name": "Johannes Peterson",
+      "position": "DF",
+      "rating": 63,
+      "age": 20,
+      "value": 22547368
+    },
+    {
+      "name": "Stephen Black",
+      "position": "DF",
+      "rating": 70,
+      "age": 31,
+      "value": 16947368
+    },
+    {
+      "name": "Israel Berglund",
+      "position": "DF",
+      "rating": 80,
+      "age": 28,
+      "value": 21894736
+    },
+    {
+      "name": "Anurak Beck",
+      "position": "DF",
+      "rating": 67,
+      "age": 19,
+      "value": 24684210
+    },
+    {
+      "name": "Daichi Crawford",
+      "position": "MF",
+      "rating": 70,
+      "age": 31,
+      "value": 20336842
+    },
+    {
+      "name": "Wyatt Abebe",
+      "position": "MF",
+      "rating": 90,
+      "age": 31,
+      "value": 26147368
+    },
+    {
+      "name": "Kaden Mwangi",
+      "position": "MF",
+      "rating": 81,
+      "age": 22,
+      "value": 32741052
+    },
+    {
+      "name": "Ben Torbj\u00f6rnsson",
+      "position": "MF",
       "rating": 76,
-      "age": 16,
-      "value": 24320000
-    },
-    {
-      "name": "Emmett Fletcher",
-      "position": "GK",
-      "rating": 60,
-      "age": 16,
+      "age": 34,
       "value": 19200000
     },
     {
-      "name": "Bryan Hayes",
-      "position": "DF",
-      "rating": 60,
-      "age": 34,
-      "value": 12631578
-    },
-    {
-      "name": "Masashi Larsson",
-      "position": "DF",
-      "rating": 73,
-      "age": 28,
-      "value": 19978947
-    },
-    {
-      "name": "Noel Ciss\u00e9",
-      "position": "DF",
-      "rating": 69,
-      "age": 24,
-      "value": 21789473
-    },
-    {
-      "name": "Miles Butler",
-      "position": "DF",
-      "rating": 83,
-      "age": 30,
-      "value": 20968421
-    },
-    {
-      "name": "Keegan Jabari",
-      "position": "DF",
-      "rating": 81,
-      "age": 31,
-      "value": 19610526
-    },
-    {
-      "name": "Ricardo Verma",
-      "position": "DF",
-      "rating": 87,
-      "age": 33,
-      "value": 19231578
-    },
-    {
-      "name": "Craig Brooks",
-      "position": "MF",
-      "rating": 63,
-      "age": 27,
-      "value": 21486315
-    },
-    {
-      "name": "Arjun Bates",
-      "position": "MF",
-      "rating": 60,
-      "age": 20,
-      "value": 25768421
-    },
-    {
-      "name": "George Reed",
+      "name": "Toshiro Phelps",
       "position": "MF",
       "rating": 76,
-      "age": 33,
-      "value": 20160000
+      "age": 26,
+      "value": 26880000
     },
     {
-      "name": "Noel Kim",
+      "name": "Desmond Reyes",
       "position": "MF",
-      "rating": 63,
-      "age": 22,
-      "value": 25465263
+      "rating": 66,
+      "age": 27,
+      "value": 22509473
     },
     {
-      "name": "Casey Watson",
-      "position": "MF",
+      "name": "Benjamin Choi",
+      "position": "FW",
       "rating": 73,
-      "age": 21,
-      "value": 30429473
-    },
-    {
-      "name": "Kolby Hayes",
-      "position": "MF",
-      "rating": 72,
-      "age": 25,
-      "value": 26374736
-    },
-    {
-      "name": "Clark Joseph",
-      "position": "FW",
-      "rating": 64,
-      "age": 23,
-      "value": 31326315
-    },
-    {
-      "name": "Victor Baldwin",
-      "position": "FW",
-      "rating": 90,
       "age": 31,
-      "value": 32684210
+      "value": 26510526
     },
     {
-      "name": "Pablo Gustavsson",
+      "name": "Noel Long",
       "position": "FW",
-      "rating": 79,
-      "age": 33,
-      "value": 26194736
+      "rating": 65,
+      "age": 30,
+      "value": 24631578
     },
     {
-      "name": "Tao-Jun Palmer",
+      "name": "Pranav Sangare",
       "position": "FW",
-      "rating": 71,
-      "age": 29,
-      "value": 28026315
+      "rating": 61,
+      "age": 32,
+      "value": 21189473
     },
     {
-      "name": "Conor Joshi",
+      "name": "Wayne Sato",
       "position": "FW",
       "rating": 68,
-      "age": 30,
-      "value": 25768421
+      "age": 28,
+      "value": 27915789
+    },
+    {
+      "name": "Jonah Peterson",
+      "position": "FW",
+      "rating": 85,
+      "age": 16,
+      "value": 40000000
     }
   ],
   "stadium": {

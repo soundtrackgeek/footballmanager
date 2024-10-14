@@ -2,144 +2,144 @@
   "name": "West Ham",
   "squad": [
     {
-      "name": "Soren Barton",
+      "name": "Grant Balogun",
       "position": "GK",
-      "rating": 77,
-      "age": 23,
-      "value": 20101052
-    },
-    {
-      "name": "Manuel Newman",
-      "position": "GK",
-      "rating": 78,
-      "age": 19,
-      "value": 22989473
-    },
-    {
-      "name": "Levi Feng",
-      "position": "GK",
-      "rating": 90,
-      "age": 27,
-      "value": 20463157
-    },
-    {
-      "name": "Tony Nguyen",
-      "position": "DF",
-      "rating": 66,
-      "age": 25,
-      "value": 20147368
-    },
-    {
-      "name": "Huy Hayes",
-      "position": "DF",
-      "rating": 68,
-      "age": 24,
-      "value": 21473684
-    },
-    {
-      "name": "Kwasi Hill",
-      "position": "DF",
-      "rating": 90,
-      "age": 24,
-      "value": 28421052
-    },
-    {
-      "name": "Jorge Gonzales",
-      "position": "DF",
-      "rating": 72,
-      "age": 29,
-      "value": 18947368
-    },
-    {
-      "name": "Cecil Silva",
-      "position": "DF",
-      "rating": 71,
-      "age": 24,
-      "value": 22421052
-    },
-    {
-      "name": "Henry Garza",
-      "position": "DF",
-      "rating": 63,
-      "age": 21,
-      "value": 21884210
-    },
-    {
-      "name": "Keita Holland",
-      "position": "MF",
-      "rating": 70,
-      "age": 24,
-      "value": 26526315
-    },
-    {
-      "name": "Josiah Nelson",
-      "position": "MF",
-      "rating": 82,
-      "age": 24,
-      "value": 31073684
-    },
-    {
-      "name": "Derrick Morgan",
-      "position": "MF",
-      "rating": 81,
-      "age": 25,
-      "value": 29671578
-    },
-    {
-      "name": "Adekunle Fisher",
-      "position": "MF",
-      "rating": 85,
-      "age": 21,
-      "value": 35431578
-    },
-    {
-      "name": "Juan Pablo Stephens",
-      "position": "MF",
-      "rating": 62,
-      "age": 29,
-      "value": 19578947
-    },
-    {
-      "name": "Kwame Sanchez",
-      "position": "MF",
-      "rating": 63,
-      "age": 24,
-      "value": 23873684
-    },
-    {
-      "name": "Daniel Bradley",
-      "position": "FW",
-      "rating": 82,
-      "age": 30,
-      "value": 31073684
-    },
-    {
-      "name": "Devin Umar",
-      "position": "FW",
-      "rating": 86,
+      "rating": 80,
       "age": 28,
-      "value": 35305263
+      "value": 17515789
     },
     {
-      "name": "Heath Coleman",
-      "position": "FW",
-      "rating": 82,
+      "name": "Filip Meadows",
+      "position": "GK",
+      "rating": 75,
+      "age": 27,
+      "value": 17052631
+    },
+    {
+      "name": "Kenneth Rice",
+      "position": "GK",
+      "rating": 65,
+      "age": 30,
+      "value": 13136842
+    },
+    {
+      "name": "Henrik Bell",
+      "position": "DF",
+      "rating": 62,
+      "age": 28,
+      "value": 16968421
+    },
+    {
+      "name": "Troy Whitaker",
+      "position": "DF",
+      "rating": 84,
+      "age": 34,
+      "value": 17684210
+    },
+    {
+      "name": "Dylan Bryant",
+      "position": "DF",
+      "rating": 62,
+      "age": 20,
+      "value": 22189473
+    },
+    {
+      "name": "Hugo Karlberg",
+      "position": "DF",
+      "rating": 76,
+      "age": 18,
+      "value": 28800000
+    },
+    {
+      "name": "Sim\u00f3n Rogers",
+      "position": "DF",
+      "rating": 60,
+      "age": 17,
+      "value": 23368421
+    },
+    {
+      "name": "Diego Payne",
+      "position": "DF",
+      "rating": 79,
       "age": 32,
-      "value": 28484210
+      "value": 18294736
     },
     {
-      "name": "Harley Baker",
+      "name": "Bobby Brooks",
+      "position": "MF",
+      "rating": 76,
+      "age": 32,
+      "value": 21120000
+    },
+    {
+      "name": "Amir Jung",
+      "position": "MF",
+      "rating": 69,
+      "age": 34,
+      "value": 17431578
+    },
+    {
+      "name": "Haruki West",
+      "position": "MF",
+      "rating": 78,
+      "age": 32,
+      "value": 21675789
+    },
+    {
+      "name": "Jaden Washington",
+      "position": "MF",
+      "rating": 73,
+      "age": 32,
+      "value": 20286315
+    },
+    {
+      "name": "Kwesi Richardson",
+      "position": "MF",
+      "rating": 78,
+      "age": 18,
+      "value": 35469473
+    },
+    {
+      "name": "Theodore Newman",
+      "position": "MF",
+      "rating": 64,
+      "age": 26,
+      "value": 22635789
+    },
+    {
+      "name": "Bart Butler",
       "position": "FW",
-      "rating": 83,
-      "age": 22,
+      "rating": 76,
+      "age": 20,
       "value": 40000000
     },
     {
-      "name": "Tyson Bradshaw",
+      "name": "Omar Lee",
       "position": "FW",
-      "rating": 89,
+      "rating": 82,
+      "age": 25,
+      "value": 37547368
+    },
+    {
+      "name": "Ade Barnett",
+      "position": "FW",
+      "rating": 79,
       "age": 35,
-      "value": 26700000
+      "value": 23700000
+    },
+    {
+      "name": "Amani Molina",
+      "position": "FW",
+      "rating": 73,
+      "age": 20,
+      "value": 39189473
+    },
+    {
+      "name": "Danny Morgan",
+      "position": "FW",
+      "rating": 73,
+      "age": 31,
+      "value": 26510526
     }
   ],
   "stadium": {

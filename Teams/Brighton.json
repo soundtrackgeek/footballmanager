@@ -2,144 +2,144 @@
   "name": "Brighton",
   "squad": [
     {
-      "name": "Marlon Nguyen",
+      "name": "Ethan Silva",
       "position": "GK",
-      "rating": 85,
-      "age": 27,
-      "value": 19326315
-    },
-    {
-      "name": "Ibrahim Murray",
-      "position": "GK",
-      "rating": 86,
-      "age": 32,
-      "value": 15932631
-    },
-    {
-      "name": "Bruno Little",
-      "position": "GK",
-      "rating": 84,
-      "age": 29,
-      "value": 17684210
-    },
-    {
-      "name": "Randy Zhang",
-      "position": "DF",
-      "rating": 83,
-      "age": 34,
-      "value": 17473684
-    },
-    {
-      "name": "Erik Campbell",
-      "position": "DF",
-      "rating": 60,
-      "age": 32,
-      "value": 13894736
-    },
-    {
-      "name": "Will Silva",
-      "position": "DF",
-      "rating": 90,
-      "age": 17,
-      "value": 35052631
-    },
-    {
-      "name": "Diego Torres",
-      "position": "DF",
       "rating": 61,
-      "age": 27,
-      "value": 17336842
+      "age": 31,
+      "value": 11814736
     },
     {
-      "name": "Elias Collins",
-      "position": "DF",
-      "rating": 88,
-      "age": 28,
-      "value": 24084210
+      "name": "Arthur Mendoza",
+      "position": "GK",
+      "rating": 61,
+      "age": 31,
+      "value": 11814736
     },
     {
-      "name": "Rakesh Larsson",
-      "position": "DF",
-      "rating": 71,
-      "age": 32,
-      "value": 16442105
-    },
-    {
-      "name": "Franklin Bates",
-      "position": "MF",
-      "rating": 88,
-      "age": 16,
-      "value": 40000000
-    },
-    {
-      "name": "Dexter Beck",
-      "position": "MF",
-      "rating": 63,
-      "age": 28,
-      "value": 20690526
-    },
-    {
-      "name": "Russell Eriksson",
-      "position": "MF",
-      "rating": 64,
-      "age": 29,
+      "name": "Andr\u00e9s Fofana",
+      "position": "GK",
+      "rating": 75,
+      "age": 22,
       "value": 20210526
     },
     {
-      "name": "Kyan Allen",
-      "position": "MF",
-      "rating": 65,
-      "age": 23,
-      "value": 25452631
+      "name": "Mikkel Johansen",
+      "position": "DF",
+      "rating": 67,
+      "age": 32,
+      "value": 15515789
     },
     {
-      "name": "Dorian Mann",
-      "position": "MF",
-      "rating": 63,
-      "age": 18,
-      "value": 28648421
+      "name": "Vince Warah",
+      "position": "DF",
+      "rating": 89,
+      "age": 31,
+      "value": 21547368
     },
     {
-      "name": "Esteban Olson",
-      "position": "MF",
-      "rating": 63,
+      "name": "Femi Nguyen",
+      "position": "DF",
+      "rating": 61,
       "age": 34,
-      "value": 15915789
+      "value": 12842105
     },
     {
-      "name": "Dennis Reyes",
+      "name": "Ade Franks",
+      "position": "DF",
+      "rating": 63,
+      "age": 24,
+      "value": 19894736
+    },
+    {
+      "name": "Francisco Onyango",
+      "position": "DF",
+      "rating": 78,
+      "age": 24,
+      "value": 24631578
+    },
+    {
+      "name": "Liam Dlamini",
+      "position": "DF",
+      "rating": 71,
+      "age": 18,
+      "value": 26905263
+    },
+    {
+      "name": "Masashi Manning",
+      "position": "MF",
+      "rating": 68,
+      "age": 21,
+      "value": 28345263
+    },
+    {
+      "name": "Glen Payne",
+      "position": "MF",
+      "rating": 68,
+      "age": 25,
+      "value": 24909473
+    },
+    {
+      "name": "Ben Russell",
+      "position": "MF",
+      "rating": 73,
+      "age": 23,
+      "value": 28585263
+    },
+    {
+      "name": "Conor Barnes",
+      "position": "MF",
+      "rating": 62,
+      "age": 18,
+      "value": 28193684
+    },
+    {
+      "name": "Isaac Svensson",
+      "position": "MF",
+      "rating": 67,
+      "age": 24,
+      "value": 25389473
+    },
+    {
+      "name": "Brian Kobayashi",
+      "position": "MF",
+      "rating": 90,
+      "age": 26,
+      "value": 31831578
+    },
+    {
+      "name": "Oliver Arnold",
       "position": "FW",
       "rating": 86,
-      "age": 30,
-      "value": 32589473
+      "age": 35,
+      "value": 25800000
     },
     {
-      "name": "Ignacio Ferguson",
+      "name": "Kyan Gustavsson",
       "position": "FW",
-      "rating": 63,
-      "age": 16,
-      "value": 37800000
-    },
-    {
-      "name": "Carlos Holland",
-      "position": "FW",
-      "rating": 87,
-      "age": 16,
+      "rating": 81,
+      "age": 20,
       "value": 40000000
     },
     {
-      "name": "Charles Olofsson",
+      "name": "Bao Peters",
       "position": "FW",
-      "rating": 82,
-      "age": 22,
+      "rating": 77,
+      "age": 18,
       "value": 40000000
     },
     {
-      "name": "Brantley Ramos",
+      "name": "Wei Young",
       "position": "FW",
-      "rating": 74,
-      "age": 30,
-      "value": 28042105
+      "rating": 80,
+      "age": 31,
+      "value": 29052631
+    },
+    {
+      "name": "Bradley Freeman",
+      "position": "FW",
+      "rating": 84,
+      "age": 29,
+      "value": 33157894
     }
   ],
   "stadium": {

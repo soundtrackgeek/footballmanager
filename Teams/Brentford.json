@@ -2,144 +2,144 @@
   "name": "Brentford",
   "squad": [
     {
-      "name": "Abraham Dean",
+      "name": "Henry Fisher",
       "position": "GK",
-      "rating": 65,
-      "age": 17,
-      "value": 20252631
+      "rating": 83,
+      "age": 21,
+      "value": 23065263
     },
     {
-      "name": "Tariq Griffin",
+      "name": "Leonardo Fuller",
       "position": "GK",
-      "rating": 90,
-      "age": 18,
-      "value": 27284210
+      "rating": 67,
+      "age": 33,
+      "value": 11848421
     },
     {
-      "name": "Leon Mcdonald",
+      "name": "Vishal Stone",
       "position": "GK",
-      "rating": 77,
-      "age": 29,
-      "value": 16210526
+      "rating": 73,
+      "age": 20,
+      "value": 20901052
     },
     {
-      "name": "Paul Espinoza",
+      "name": "Clinton Gordon",
       "position": "DF",
-      "rating": 87,
-      "age": 17,
-      "value": 33884210
+      "rating": 86,
+      "age": 34,
+      "value": 18105263
     },
     {
-      "name": "Jeremiah Lambert",
+      "name": "Jeffrey Singh",
       "position": "DF",
-      "rating": 64,
-      "age": 29,
-      "value": 16842105
+      "rating": 63,
+      "age": 26,
+      "value": 18568421
     },
     {
-      "name": "Barney Le\u00f3n",
-      "position": "DF",
-      "rating": 78,
-      "age": 17,
-      "value": 30378947
-    },
-    {
-      "name": "Johnny Hamilton",
-      "position": "DF",
-      "rating": 60,
-      "age": 22,
-      "value": 20210526
-    },
-    {
-      "name": "Miguel Salazar",
+      "name": "Alonso Ortiz",
       "position": "DF",
       "rating": 82,
-      "age": 22,
-      "value": 27621052
-    },
-    {
-      "name": "Mat\u00edas Joshi",
-      "position": "DF",
-      "rating": 75,
-      "age": 28,
-      "value": 20526315
-    },
-    {
-      "name": "Jake Freeman",
-      "position": "MF",
-      "rating": 90,
-      "age": 32,
-      "value": 25010526
-    },
-    {
-      "name": "Luke Nilsson",
-      "position": "MF",
-      "rating": 70,
-      "age": 28,
-      "value": 22989473
-    },
-    {
-      "name": "Marlon Bowman",
-      "position": "MF",
-      "rating": 72,
-      "age": 16,
-      "value": 34560000
-    },
-    {
-      "name": "Glen Barnes",
-      "position": "MF",
-      "rating": 62,
       "age": 31,
-      "value": 18012631
+      "value": 19852631
     },
     {
-      "name": "Sergio Wood",
-      "position": "MF",
-      "rating": 69,
-      "age": 25,
-      "value": 25275789
+      "name": "Femi Hamilton",
+      "position": "DF",
+      "rating": 70,
+      "age": 23,
+      "value": 22842105
     },
     {
-      "name": "Benjam\u00edn Andrews",
-      "position": "MF",
-      "rating": 69,
-      "age": 35,
-      "value": 16560000
-    },
-    {
-      "name": "Lee Murray",
-      "position": "FW",
-      "rating": 63,
-      "age": 20,
-      "value": 33821052
-    },
-    {
-      "name": "Rogelio Long",
-      "position": "FW",
-      "rating": 89,
-      "age": 33,
-      "value": 29510526
-    },
-    {
-      "name": "Antonio Reed",
-      "position": "FW",
+      "name": "Quincy Franklin",
+      "position": "DF",
       "rating": 86,
-      "age": 21,
+      "age": 27,
+      "value": 24442105
+    },
+    {
+      "name": "Edmund Price",
+      "position": "DF",
+      "rating": 83,
+      "age": 22,
+      "value": 27957894
+    },
+    {
+      "name": "Damian Patterson",
+      "position": "MF",
+      "rating": 79,
+      "age": 35,
+      "value": 18960000
+    },
+    {
+      "name": "Mat\u00edas Qureshi",
+      "position": "MF",
+      "rating": 88,
+      "age": 31,
+      "value": 25566315
+    },
+    {
+      "name": "Declan Shaw",
+      "position": "MF",
+      "rating": 88,
+      "age": 35,
+      "value": 21120000
+    },
+    {
+      "name": "Chad Patel",
+      "position": "MF",
+      "rating": 74,
+      "age": 20,
+      "value": 31781052
+    },
+    {
+      "name": "Marc Baldwin",
+      "position": "MF",
+      "rating": 60,
+      "age": 31,
+      "value": 17431578
+    },
+    {
+      "name": "Declan Zamani",
+      "position": "MF",
+      "rating": 82,
+      "age": 27,
+      "value": 27966315
+    },
+    {
+      "name": "Santiago Kwamena",
+      "position": "FW",
+      "rating": 62,
+      "age": 29,
+      "value": 24473684
+    },
+    {
+      "name": "Lewis Fernandes",
+      "position": "FW",
+      "rating": 76,
+      "age": 20,
       "value": 40000000
     },
     {
-      "name": "Emiliano Bennett",
+      "name": "Noel Ibrahim",
       "position": "FW",
-      "rating": 73,
-      "age": 30,
-      "value": 27663157
+      "rating": 80,
+      "age": 23,
+      "value": 39157894
     },
     {
-      "name": "Jelani Marin",
+      "name": "Rasmus Ulfsson",
       "position": "FW",
-      "rating": 66,
-      "age": 21,
-      "value": 34389473
+      "rating": 73,
+      "age": 32,
+      "value": 25357894
+    },
+    {
+      "name": "Tumelo Freeman",
+      "position": "FW",
+      "rating": 65,
+      "age": 28,
+      "value": 26684210
     }
   ],
   "stadium": {

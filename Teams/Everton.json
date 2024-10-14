@@ -2,144 +2,144 @@
   "name": "Everton",
   "squad": [
     {
-      "name": "Dwayne Adams",
+      "name": "Rowan Wilson",
       "position": "GK",
-      "rating": 80,
-      "age": 33,
-      "value": 14147368
-    },
-    {
-      "name": "Jayson Torres",
-      "position": "GK",
-      "rating": 70,
-      "age": 33,
-      "value": 12378947
-    },
-    {
-      "name": "Thabo Verma",
-      "position": "GK",
-      "rating": 75,
-      "age": 16,
-      "value": 24000000
-    },
-    {
-      "name": "Leonardo Barnes",
-      "position": "DF",
-      "rating": 82,
-      "age": 21,
-      "value": 28484210
-    },
-    {
-      "name": "Jorge Anderson",
-      "position": "DF",
-      "rating": 81,
-      "age": 24,
-      "value": 25578947
-    },
-    {
-      "name": "Casper Gray",
-      "position": "DF",
-      "rating": 77,
-      "age": 18,
-      "value": 29178947
-    },
-    {
-      "name": "Charles Brooks",
-      "position": "DF",
-      "rating": 72,
-      "age": 21,
-      "value": 25010526
-    },
-    {
-      "name": "Larry Ramsey",
-      "position": "DF",
-      "rating": 82,
-      "age": 19,
-      "value": 30210526
-    },
-    {
-      "name": "Clark Svensson",
-      "position": "DF",
-      "rating": 76,
-      "age": 22,
-      "value": 25600000
-    },
-    {
-      "name": "Damian Westerlund",
-      "position": "MF",
-      "rating": 67,
-      "age": 31,
-      "value": 19465263
-    },
-    {
-      "name": "Cecil Hernandez",
-      "position": "MF",
-      "rating": 74,
-      "age": 17,
-      "value": 34585263
-    },
-    {
-      "name": "Marcus Yeboah",
-      "position": "MF",
-      "rating": 65,
-      "age": 24,
-      "value": 24631578
-    },
-    {
-      "name": "Axel Badu",
-      "position": "MF",
-      "rating": 71,
-      "age": 34,
-      "value": 17936842
-    },
-    {
-      "name": "Allen Hansen",
-      "position": "MF",
-      "rating": 65,
-      "age": 32,
-      "value": 18063157
-    },
-    {
-      "name": "Danny Flores",
-      "position": "MF",
-      "rating": 60,
-      "age": 34,
-      "value": 15157894
-    },
-    {
-      "name": "Jarrett Joshi",
-      "position": "FW",
-      "rating": 88,
-      "age": 30,
-      "value": 33347368
-    },
-    {
-      "name": "Bryson Coleman",
-      "position": "FW",
-      "rating": 90,
-      "age": 27,
-      "value": 38368421
-    },
-    {
-      "name": "Arjun Dias",
-      "position": "FW",
       "rating": 69,
-      "age": 18,
-      "value": 39221052
+      "age": 16,
+      "value": 22080000
     },
     {
-      "name": "Oscar Ulfsson",
-      "position": "FW",
-      "rating": 86,
+      "name": "Myles Jung",
+      "position": "GK",
+      "rating": 90,
+      "age": 22,
+      "value": 24252631
+    },
+    {
+      "name": "Adeola Iyanda",
+      "position": "GK",
+      "rating": 71,
+      "age": 28,
+      "value": 15545263
+    },
+    {
+      "name": "Sergio Washington",
+      "position": "DF",
+      "rating": 74,
       "age": 23,
+      "value": 24147368
+    },
+    {
+      "name": "Jamie Mann",
+      "position": "DF",
+      "rating": 75,
+      "age": 33,
+      "value": 16578947
+    },
+    {
+      "name": "Ignacio Desai",
+      "position": "DF",
+      "rating": 83,
+      "age": 24,
+      "value": 26210526
+    },
+    {
+      "name": "Shin Gomes",
+      "position": "DF",
+      "rating": 63,
+      "age": 28,
+      "value": 17242105
+    },
+    {
+      "name": "Pranav Reed",
+      "position": "DF",
+      "rating": 86,
+      "age": 27,
+      "value": 24442105
+    },
+    {
+      "name": "Nikhil Lin",
+      "position": "DF",
+      "rating": 67,
+      "age": 27,
+      "value": 19042105
+    },
+    {
+      "name": "Nicolas Russell",
+      "position": "MF",
+      "rating": 84,
+      "age": 16,
       "value": 40000000
     },
     {
-      "name": "Harold Fuller",
+      "name": "Barry Palmer",
+      "position": "MF",
+      "rating": 80,
+      "age": 24,
+      "value": 30315789
+    },
+    {
+      "name": "Zion Morgan",
+      "position": "MF",
+      "rating": 70,
+      "age": 29,
+      "value": 22105263
+    },
+    {
+      "name": "Masashi Ciss\u00e9",
+      "position": "MF",
+      "rating": 65,
+      "age": 20,
+      "value": 27915789
+    },
+    {
+      "name": "Sulaiman Edwards",
+      "position": "MF",
+      "rating": 61,
+      "age": 22,
+      "value": 24656842
+    },
+    {
+      "name": "Fredrik Perez",
+      "position": "MF",
+      "rating": 87,
+      "age": 24,
+      "value": 32968421
+    },
+    {
+      "name": "Clinton Barnett",
       "position": "FW",
       "rating": 76,
-      "age": 27,
-      "value": 32400000
+      "age": 24,
+      "value": 36000000
+    },
+    {
+      "name": "Isaiah Ortiz",
+      "position": "FW",
+      "rating": 71,
+      "age": 33,
+      "value": 23542105
+    },
+    {
+      "name": "Yusuf Richards",
+      "position": "FW",
+      "rating": 73,
+      "age": 34,
+      "value": 23052631
+    },
+    {
+      "name": "Vincent Franco",
+      "position": "FW",
+      "rating": 63,
+      "age": 16,
+      "value": 37800000
+    },
+    {
+      "name": "Reed Huang",
+      "position": "FW",
+      "rating": 90,
+      "age": 35,
+      "value": 27000000
     }
   ],
   "stadium": {

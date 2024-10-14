@@ -2,144 +2,144 @@
   "name": "Sheffield United",
   "squad": [
     {
-      "name": "Zane Torres",
+      "name": "Kato Eklund",
       "position": "GK",
-      "rating": 60,
-      "age": 21,
-      "value": 16673684
-    },
-    {
-      "name": "Clifford Gray",
-      "position": "GK",
-      "rating": 80,
-      "age": 26,
-      "value": 18863157
-    },
-    {
-      "name": "Hiro Gray",
-      "position": "GK",
-      "rating": 83,
-      "age": 18,
-      "value": 25162105
-    },
-    {
-      "name": "Arjun Bennett",
-      "position": "DF",
-      "rating": 74,
-      "age": 21,
-      "value": 25705263
-    },
-    {
-      "name": "Cian Mori",
-      "position": "DF",
-      "rating": 90,
+      "rating": 81,
       "age": 27,
-      "value": 25578947
+      "value": 18416842
     },
     {
-      "name": "Anders Bryant",
-      "position": "DF",
-      "rating": 60,
-      "age": 28,
-      "value": 16421052
-    },
-    {
-      "name": "Blake Joseph",
-      "position": "DF",
+      "name": "Vance Palmer",
+      "position": "GK",
       "rating": 88,
+      "age": 35,
+      "value": 14080000
+    },
+    {
+      "name": "Hassan Umar",
+      "position": "GK",
+      "rating": 70,
       "age": 24,
-      "value": 27789473
+      "value": 17684210
     },
     {
-      "name": "Matt Peterson",
+      "name": "Austin Richardson",
+      "position": "DF",
+      "rating": 83,
+      "age": 27,
+      "value": 23589473
+    },
+    {
+      "name": "Marcos Rivera",
+      "position": "DF",
+      "rating": 85,
+      "age": 20,
+      "value": 30421052
+    },
+    {
+      "name": "Preston Balogun",
+      "position": "DF",
+      "rating": 73,
+      "age": 20,
+      "value": 26126315
+    },
+    {
+      "name": "Kyle Campbell",
+      "position": "DF",
+      "rating": 65,
+      "age": 18,
+      "value": 24631578
+    },
+    {
+      "name": "Nnamdi Anderson",
       "position": "DF",
       "rating": 72,
-      "age": 21,
-      "value": 25010526
+      "age": 25,
+      "value": 21978947
     },
     {
-      "name": "Izaiah Rojas",
+      "name": "Wesley Lambert",
       "position": "DF",
-      "rating": 69,
-      "age": 16,
-      "value": 27600000
+      "rating": 66,
+      "age": 19,
+      "value": 24315789
     },
     {
-      "name": "Baojun Schneider",
+      "name": "Jengo Bennett",
       "position": "MF",
-      "rating": 89,
-      "age": 34,
-      "value": 22484210
+      "rating": 61,
+      "age": 27,
+      "value": 20804210
     },
     {
-      "name": "Manuel Coleman",
+      "name": "Alonzo Medina",
       "position": "MF",
-      "rating": 62,
+      "rating": 63,
+      "age": 31,
+      "value": 18303157
+    },
+    {
+      "name": "Kwame Morales",
+      "position": "MF",
+      "rating": 68,
       "age": 23,
-      "value": 24277894
+      "value": 26627368
     },
     {
-      "name": "Reuben Lee",
-      "position": "MF",
-      "rating": 72,
-      "age": 22,
-      "value": 29103157
-    },
-    {
-      "name": "Zachary Duncan",
+      "name": "Tony Cabrera",
       "position": "MF",
       "rating": 84,
-      "age": 32,
-      "value": 23343157
+      "age": 20,
+      "value": 36075789
     },
     {
-      "name": "Kyan Webster",
+      "name": "Rakesh Cruz",
+      "position": "MF",
+      "rating": 66,
+      "age": 32,
+      "value": 18341052
+    },
+    {
+      "name": "Trenton Mart\u00ednez",
       "position": "MF",
       "rating": 79,
-      "age": 30,
-      "value": 23949473
+      "age": 20,
+      "value": 33928421
     },
     {
-      "name": "Walter Das",
-      "position": "MF",
-      "rating": 71,
+      "name": "Timothy Henderson",
+      "position": "FW",
+      "rating": 79,
+      "age": 25,
+      "value": 36173684
+    },
+    {
+      "name": "Juan Kim",
+      "position": "FW",
+      "rating": 63,
+      "age": 34,
+      "value": 19894736
+    },
+    {
+      "name": "Marco Long",
+      "position": "FW",
+      "rating": 67,
       "age": 28,
-      "value": 23317894
+      "value": 27505263
     },
     {
-      "name": "Simon Sato",
+      "name": "Diego Hamilton",
+      "position": "FW",
+      "rating": 75,
+      "age": 33,
+      "value": 24868421
+    },
+    {
+      "name": "Pedro Hansen",
       "position": "FW",
       "rating": 81,
-      "age": 35,
-      "value": 24300000
-    },
-    {
-      "name": "Theodore Hart",
-      "position": "FW",
-      "rating": 65,
-      "age": 20,
-      "value": 34894736
-    },
-    {
-      "name": "Jarrett Powell",
-      "position": "FW",
-      "rating": 68,
-      "age": 30,
-      "value": 25768421
-    },
-    {
-      "name": "Jackson Guerrero",
-      "position": "FW",
-      "rating": 90,
-      "age": 32,
-      "value": 31263157
-    },
-    {
-      "name": "Cameron Russell",
-      "position": "FW",
-      "rating": 86,
-      "age": 20,
-      "value": 40000000
+      "age": 23,
+      "value": 39647368
     }
   ],
   "stadium": {

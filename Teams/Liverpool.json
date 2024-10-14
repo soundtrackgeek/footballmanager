@@ -2,144 +2,144 @@
   "name": "Liverpool",
   "squad": [
     {
-      "name": "Charles Kim",
+      "name": "Haruto Cook",
       "position": "GK",
-      "rating": 67,
-      "age": 18,
-      "value": 20311578
+      "rating": 89,
+      "age": 33,
+      "value": 15738947
     },
     {
-      "name": "Lucas Rasmussen",
+      "name": "Wesley Stone",
       "position": "GK",
-      "rating": 64,
-      "age": 18,
-      "value": 19402105
+      "rating": 72,
+      "age": 20,
+      "value": 20614736
     },
     {
-      "name": "Magnus Pena",
+      "name": "Bernard Hansen",
       "position": "GK",
-      "rating": 63,
-      "age": 17,
-      "value": 19629473
+      "rating": 83,
+      "age": 28,
+      "value": 18172631
     },
     {
-      "name": "Rakesh Fuentes",
+      "name": "Chris Biko",
+      "position": "DF",
+      "rating": 60,
+      "age": 24,
+      "value": 18947368
+    },
+    {
+      "name": "Luis Andrews",
+      "position": "DF",
+      "rating": 87,
+      "age": 34,
+      "value": 18315789
+    },
+    {
+      "name": "Nathaniel Richards",
+      "position": "DF",
+      "rating": 87,
+      "age": 28,
+      "value": 23810526
+    },
+    {
+      "name": "Daniel Gordon",
+      "position": "DF",
+      "rating": 74,
+      "age": 30,
+      "value": 18694736
+    },
+    {
+      "name": "Kaden Gomes",
+      "position": "DF",
+      "rating": 76,
+      "age": 23,
+      "value": 24800000
+    },
+    {
+      "name": "Shane Farmer",
       "position": "DF",
       "rating": 61,
-      "age": 19,
-      "value": 22473684
+      "age": 33,
+      "value": 13484210
     },
     {
-      "name": "Musa Ramirez",
-      "position": "DF",
-      "rating": 73,
-      "age": 27,
-      "value": 20747368
-    },
-    {
-      "name": "Jin Garcia",
-      "position": "DF",
-      "rating": 64,
-      "age": 16,
-      "value": 25600000
-    },
-    {
-      "name": "Marlon Dixon",
-      "position": "DF",
-      "rating": 66,
-      "age": 22,
-      "value": 22231578
-    },
-    {
-      "name": "Simon Parker",
-      "position": "DF",
-      "rating": 72,
-      "age": 22,
-      "value": 24252631
-    },
-    {
-      "name": "Roland Njoroge",
-      "position": "DF",
-      "rating": 75,
-      "age": 24,
-      "value": 23684210
-    },
-    {
-      "name": "Isak Wood",
+      "name": "Nehemiah Chukwu",
       "position": "MF",
-      "rating": 83,
-      "age": 31,
-      "value": 24113684
+      "rating": 86,
+      "age": 22,
+      "value": 34762105
     },
     {
-      "name": "Adel Holland",
-      "position": "MF",
-      "rating": 60,
-      "age": 31,
-      "value": 17431578
-    },
-    {
-      "name": "Ismael Hansen",
+      "name": "Ram\u00f3n Williamson",
       "position": "MF",
       "rating": 82,
-      "age": 21,
-      "value": 34181052
+      "age": 16,
+      "value": 39360000
     },
     {
-      "name": "Bradley Payne",
+      "name": "Aedan Collins",
       "position": "MF",
-      "rating": 79,
-      "age": 28,
-      "value": 25945263
-    },
-    {
-      "name": "Sulaiman Lin",
-      "position": "MF",
-      "rating": 88,
-      "age": 32,
-      "value": 24454736
-    },
-    {
-      "name": "Mohammad Marsh",
-      "position": "MF",
-      "rating": 90,
-      "age": 33,
-      "value": 23873684
-    },
-    {
-      "name": "Benjamin Patel",
-      "position": "FW",
-      "rating": 64,
+      "rating": 80,
       "age": 17,
       "value": 37389473
     },
     {
-      "name": "Cecil Nguyen",
-      "position": "FW",
-      "rating": 66,
-      "age": 26,
-      "value": 29178947
+      "name": "Kevin Rose",
+      "position": "MF",
+      "rating": 79,
+      "age": 23,
+      "value": 30934736
     },
     {
-      "name": "Ayaan \u00c5kesson",
-      "position": "FW",
-      "rating": 67,
-      "age": 26,
-      "value": 29621052
+      "name": "Jasper Russell",
+      "position": "MF",
+      "rating": 60,
+      "age": 24,
+      "value": 22736842
     },
     {
-      "name": "Kenta Mikkelsen",
-      "position": "FW",
-      "rating": 61,
+      "name": "Brody Turner",
+      "position": "MF",
+      "rating": 72,
       "age": 27,
-      "value": 26005263
+      "value": 24555789
     },
     {
-      "name": "Thiago Gray",
+      "name": "Trenton Dixon",
       "position": "FW",
-      "rating": 83,
+      "rating": 81,
+      "age": 34,
+      "value": 25578947
+    },
+    {
+      "name": "Barney Hart",
+      "position": "FW",
+      "rating": 68,
       "age": 22,
-      "value": 40000000
+      "value": 34357894
+    },
+    {
+      "name": "James Palmer",
+      "position": "FW",
+      "rating": 60,
+      "age": 32,
+      "value": 20842105
+    },
+    {
+      "name": "Stanley Murphy",
+      "position": "FW",
+      "rating": 73,
+      "age": 24,
+      "value": 34578947
+    },
+    {
+      "name": "Henrik Peters",
+      "position": "FW",
+      "rating": 75,
+      "age": 28,
+      "value": 30789473
     }
   ],
   "stadium": {

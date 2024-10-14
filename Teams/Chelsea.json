@@ -2,144 +2,144 @@
   "name": "Chelsea",
   "squad": [
     {
-      "name": "Derek Silva",
+      "name": "Brooks Fisher",
+      "position": "GK",
+      "rating": 64,
+      "age": 22,
+      "value": 17246315
+    },
+    {
+      "name": "Brock Eze",
       "position": "GK",
       "rating": 67,
-      "age": 17,
-      "value": 20875789
+      "age": 35,
+      "value": 10720000
     },
     {
-      "name": "Kyan Higgins",
+      "name": "Caleb Cook",
       "position": "GK",
-      "rating": 72,
-      "age": 20,
-      "value": 20614736
+      "rating": 84,
+      "age": 27,
+      "value": 19098947
     },
     {
-      "name": "Heath Bates",
-      "position": "GK",
-      "rating": 87,
-      "age": 28,
-      "value": 19048421
-    },
-    {
-      "name": "Uriel West",
-      "position": "DF",
-      "rating": 90,
-      "age": 20,
-      "value": 32210526
-    },
-    {
-      "name": "Simba Coleman",
-      "position": "DF",
-      "rating": 77,
-      "age": 34,
-      "value": 16210526
-    },
-    {
-      "name": "Brantley  Taylor",
+      "name": "Maxwell Cook",
       "position": "DF",
       "rating": 80,
       "age": 20,
       "value": 28631578
     },
     {
-      "name": "Juan Pablo Webster",
+      "name": "Nehemiah Hansen",
       "position": "DF",
+      "rating": 81,
+      "age": 25,
+      "value": 24726315
+    },
+    {
+      "name": "Zion Webb",
+      "position": "DF",
+      "rating": 76,
+      "age": 27,
+      "value": 21600000
+    },
+    {
+      "name": "Ryan Butler",
+      "position": "DF",
+      "rating": 72,
+      "age": 26,
+      "value": 21221052
+    },
+    {
+      "name": "Zuberi Sato",
+      "position": "DF",
+      "rating": 71,
+      "age": 22,
+      "value": 23915789
+    },
+    {
+      "name": "Stanley Eriksson",
+      "position": "DF",
+      "rating": 85,
+      "age": 33,
+      "value": 18789473
+    },
+    {
+      "name": "Ryker James",
+      "position": "MF",
       "rating": 74,
-      "age": 26,
-      "value": 21810526
+      "age": 25,
+      "value": 27107368
     },
     {
-      "name": "Femi Cox",
-      "position": "DF",
-      "rating": 83,
-      "age": 26,
-      "value": 24463157
+      "name": "Shin Bennett",
+      "position": "MF",
+      "rating": 76,
+      "age": 28,
+      "value": 24960000
     },
     {
-      "name": "Nehemiah Badu",
-      "position": "DF",
-      "rating": 80,
-      "age": 17,
-      "value": 31157894
+      "name": "Marvin Peterson",
+      "position": "MF",
+      "rating": 61,
+      "age": 28,
+      "value": 20033684
     },
     {
-      "name": "George Russell",
+      "name": "Toshiro \u00c5str\u00f6m",
       "position": "MF",
       "rating": 68,
-      "age": 28,
-      "value": 22332631
+      "age": 32,
+      "value": 18896842
     },
     {
-      "name": "Jeremy Eklund",
+      "name": "Adrian Xu",
       "position": "MF",
-      "rating": 72,
-      "age": 19,
-      "value": 31831578
+      "rating": 77,
+      "age": 34,
+      "value": 19452631
     },
     {
-      "name": "Dylan Collins",
+      "name": "Baojun Nakajima",
       "position": "MF",
-      "rating": 83,
-      "age": 18,
-      "value": 37743157
+      "rating": 68,
+      "age": 30,
+      "value": 20614736
     },
     {
-      "name": "Luis Graham",
-      "position": "MF",
-      "rating": 86,
-      "age": 29,
-      "value": 27157894
-    },
-    {
-      "name": "Cameron Lee",
-      "position": "MF",
-      "rating": 86,
-      "age": 23,
-      "value": 33675789
-    },
-    {
-      "name": "Brooks Howard",
-      "position": "MF",
-      "rating": 62,
-      "age": 27,
-      "value": 21145263
-    },
-    {
-      "name": "Sim\u00f3n Dlamini",
+      "name": "Isak Fitzgerald",
       "position": "FW",
-      "rating": 61,
-      "age": 18,
-      "value": 34673684
+      "rating": 79,
+      "age": 33,
+      "value": 26194736
     },
     {
-      "name": "Marvin Whitaker",
+      "name": "Dumi Bryant",
       "position": "FW",
-      "rating": 84,
-      "age": 22,
+      "rating": 90,
+      "age": 24,
       "value": 40000000
     },
     {
-      "name": "Harley Molina",
+      "name": "Tobias Watts",
       "position": "FW",
-      "rating": 85,
-      "age": 31,
-      "value": 30868421
+      "rating": 64,
+      "age": 26,
+      "value": 28294736
     },
     {
-      "name": "Adrian Bailey",
+      "name": "Felipe Cohen",
       "position": "FW",
-      "rating": 81,
+      "rating": 73,
       "age": 19,
       "value": 40000000
     },
     {
-      "name": "Matt Fisher",
+      "name": "Tumelo Adams",
       "position": "FW",
-      "rating": 70,
-      "age": 23,
-      "value": 34263157
+      "rating": 74,
+      "age": 32,
+      "value": 25705263
     }
   ],
   "stadium": {

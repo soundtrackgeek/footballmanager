@@ -2,144 +2,144 @@
   "name": "Crystal Palace",
   "squad": [
     {
-      "name": "Christopher Knox",
+      "name": "Diego Turner",
       "position": "GK",
-      "rating": 65,
-      "age": 22,
-      "value": 17515789
+      "rating": 63,
+      "age": 18,
+      "value": 19098947
     },
     {
-      "name": "Carlos Webb",
+      "name": "Gustav Andrews",
       "position": "GK",
       "rating": 78,
+      "age": 25,
+      "value": 19048421
+    },
+    {
+      "name": "John Ellis",
+      "position": "GK",
+      "rating": 89,
+      "age": 27,
+      "value": 20235789
+    },
+    {
+      "name": "Leonel Schmidt",
+      "position": "DF",
+      "rating": 68,
+      "age": 23,
+      "value": 22189473
+    },
+    {
+      "name": "Mikkel Parsons",
+      "position": "DF",
+      "rating": 70,
+      "age": 23,
+      "value": 22842105
+    },
+    {
+      "name": "Jean Baker",
+      "position": "DF",
+      "rating": 62,
+      "age": 17,
+      "value": 24147368
+    },
+    {
+      "name": "Leonardo Warah",
+      "position": "DF",
+      "rating": 86,
       "age": 16,
+      "value": 34400000
+    },
+    {
+      "name": "Nicholas Haynes",
+      "position": "DF",
+      "rating": 80,
+      "age": 35,
+      "value": 16000000
+    },
+    {
+      "name": "Chase Palmer",
+      "position": "DF",
+      "rating": 82,
+      "age": 21,
+      "value": 28484210
+    },
+    {
+      "name": "Matthew Fletcher",
+      "position": "MF",
+      "rating": 79,
+      "age": 19,
+      "value": 34926315
+    },
+    {
+      "name": "Huy Han",
+      "position": "MF",
+      "rating": 62,
+      "age": 24,
+      "value": 23494736
+    },
+    {
+      "name": "Elijah Barrios",
+      "position": "MF",
+      "rating": 77,
+      "age": 21,
+      "value": 32096842
+    },
+    {
+      "name": "Leonel Curtis",
+      "position": "MF",
+      "rating": 64,
+      "age": 19,
+      "value": 28294736
+    },
+    {
+      "name": "Dalton Sandberg",
+      "position": "MF",
+      "rating": 84,
+      "age": 28,
+      "value": 27587368
+    },
+    {
+      "name": "Bjorn White",
+      "position": "MF",
+      "rating": 76,
+      "age": 28,
       "value": 24960000
     },
     {
-      "name": "Beau Fields",
-      "position": "GK",
-      "rating": 67,
-      "age": 25,
-      "value": 16362105
-    },
-    {
-      "name": "Reed Molina",
-      "position": "DF",
-      "rating": 70,
-      "age": 32,
-      "value": 16210526
-    },
-    {
-      "name": "Daniel Xolani",
-      "position": "DF",
-      "rating": 63,
-      "age": 33,
-      "value": 13926315
-    },
-    {
-      "name": "Kwabena Zamani",
-      "position": "DF",
-      "rating": 68,
-      "age": 21,
-      "value": 23621052
-    },
-    {
-      "name": "Clark Hansen",
-      "position": "DF",
-      "rating": 86,
-      "age": 28,
-      "value": 23536842
-    },
-    {
-      "name": "Leon Mabena",
-      "position": "DF",
-      "rating": 62,
-      "age": 22,
-      "value": 20884210
-    },
-    {
-      "name": "Gabriel Spencer",
-      "position": "DF",
-      "rating": 89,
-      "age": 26,
-      "value": 26231578
-    },
-    {
-      "name": "Satoshi Hamilton",
-      "position": "MF",
-      "rating": 88,
-      "age": 24,
-      "value": 33347368
-    },
-    {
-      "name": "Zane Fox",
-      "position": "MF",
-      "rating": 90,
-      "age": 21,
-      "value": 37515789
-    },
-    {
-      "name": "Ricardo Quartey",
-      "position": "MF",
-      "rating": 88,
-      "age": 22,
-      "value": 35570526
-    },
-    {
-      "name": "Dylan Newman",
-      "position": "MF",
-      "rating": 74,
-      "age": 34,
-      "value": 18694736
-    },
-    {
-      "name": "Steve Edwards",
-      "position": "MF",
-      "rating": 85,
-      "age": 34,
-      "value": 21473684
-    },
-    {
-      "name": "James Nguyen",
-      "position": "MF",
-      "rating": 81,
-      "age": 35,
-      "value": 19440000
-    },
-    {
-      "name": "Kwasi Fletcher",
+      "name": "Jabari Ortega",
       "position": "FW",
-      "rating": 86,
-      "age": 18,
+      "rating": 84,
+      "age": 23,
       "value": 40000000
     },
     {
-      "name": "Thiago \u00c5str\u00f6m",
+      "name": "Dexter Freeman",
       "position": "FW",
-      "rating": 65,
-      "age": 17,
-      "value": 37973684
+      "rating": 78,
+      "age": 31,
+      "value": 28326315
     },
     {
-      "name": "Beau Manning",
+      "name": "Conor Franklin",
+      "position": "FW",
+      "rating": 66,
+      "age": 24,
+      "value": 31263157
+    },
+    {
+      "name": "Alexander Ramsey",
+      "position": "FW",
+      "rating": 85,
+      "age": 26,
+      "value": 37578947
+    },
+    {
+      "name": "Maurice Hayes",
       "position": "FW",
       "rating": 73,
       "age": 28,
       "value": 29968421
-    },
-    {
-      "name": "Keegan Duncan",
-      "position": "FW",
-      "rating": 81,
-      "age": 34,
-      "value": 25578947
-    },
-    {
-      "name": "David Gustavsson",
-      "position": "FW",
-      "rating": 89,
-      "age": 25,
-      "value": 40000000
     }
   ],
   "stadium": {

@@ -2,144 +2,144 @@
   "name": "Manchester United",
   "squad": [
     {
-      "name": "Ibrahim Hansen",
+      "name": "Pedro Lambert",
       "position": "GK",
-      "rating": 66,
-      "age": 18,
-      "value": 20008421
-    },
-    {
-      "name": "Sulaiman Bailey",
-      "position": "GK",
-      "rating": 87,
-      "age": 19,
-      "value": 25642105
-    },
-    {
-      "name": "Jerome Bryant",
-      "position": "GK",
-      "rating": 78,
-      "age": 23,
-      "value": 20362105
-    },
-    {
-      "name": "Mikkel Long",
-      "position": "DF",
-      "rating": 73,
-      "age": 20,
-      "value": 26126315
-    },
-    {
-      "name": "Tanner Perry",
-      "position": "DF",
-      "rating": 73,
-      "age": 19,
-      "value": 26894736
-    },
-    {
-      "name": "Guillermo Hicks",
-      "position": "DF",
-      "rating": 87,
-      "age": 29,
-      "value": 22894736
-    },
-    {
-      "name": "Femi Benson",
-      "position": "DF",
-      "rating": 61,
-      "age": 20,
-      "value": 21831578
-    },
-    {
-      "name": "Tyler Abebe",
-      "position": "DF",
-      "rating": 81,
-      "age": 22,
-      "value": 27284210
-    },
-    {
-      "name": "Tyler Marshall",
-      "position": "DF",
-      "rating": 69,
-      "age": 19,
-      "value": 25421052
-    },
-    {
-      "name": "Juan Pablo Lopez",
-      "position": "MF",
-      "rating": 66,
-      "age": 17,
-      "value": 30846315
-    },
-    {
-      "name": "Jesse Adams",
-      "position": "MF",
-      "rating": 77,
-      "age": 25,
-      "value": 28206315
-    },
-    {
-      "name": "Kris Bryant",
-      "position": "MF",
-      "rating": 78,
-      "age": 35,
-      "value": 18720000
-    },
-    {
-      "name": "Ayaan Reid",
-      "position": "MF",
-      "rating": 72,
-      "age": 29,
-      "value": 22736842
-    },
-    {
-      "name": "Tao Reddy",
-      "position": "MF",
-      "rating": 64,
-      "age": 35,
-      "value": 15360000
-    },
-    {
-      "name": "Zuberi Reed",
-      "position": "MF",
-      "rating": 62,
-      "age": 23,
-      "value": 24277894
-    },
-    {
-      "name": "Derek Spencer",
-      "position": "FW",
-      "rating": 67,
-      "age": 26,
-      "value": 29621052
-    },
-    {
-      "name": "Daniel Franklin",
-      "position": "FW",
-      "rating": 70,
-      "age": 23,
-      "value": 34263157
-    },
-    {
-      "name": "Kingston Venter",
-      "position": "FW",
       "rating": 80,
       "age": 30,
-      "value": 30315789
+      "value": 16168421
     },
     {
-      "name": "Einar Fields",
-      "position": "FW",
-      "rating": 67,
-      "age": 28,
-      "value": 27505263
-    },
-    {
-      "name": "Kwasi Fern\u00e1ndez",
-      "position": "FW",
+      "name": "Garrett Fuller",
+      "position": "GK",
       "rating": 72,
+      "age": 18,
+      "value": 21827368
+    },
+    {
+      "name": "Luis Crawford",
+      "position": "GK",
+      "rating": 63,
+      "age": 32,
+      "value": 11671578
+    },
+    {
+      "name": "Nathaniel Fox",
+      "position": "DF",
+      "rating": 71,
+      "age": 28,
+      "value": 19431578
+    },
+    {
+      "name": "Clement  Taylor",
+      "position": "DF",
+      "rating": 84,
+      "age": 26,
+      "value": 24757894
+    },
+    {
+      "name": "Johnny Barnes",
+      "position": "DF",
+      "rating": 60,
+      "age": 17,
+      "value": 23368421
+    },
+    {
+      "name": "Karl Nilsson",
+      "position": "DF",
+      "rating": 83,
+      "age": 31,
+      "value": 20094736
+    },
+    {
+      "name": "Jean Umar",
+      "position": "DF",
+      "rating": 81,
+      "age": 29,
+      "value": 21315789
+    },
+    {
+      "name": "Nathan Fernandes",
+      "position": "DF",
+      "rating": 67,
+      "age": 23,
+      "value": 21863157
+    },
+    {
+      "name": "Bo Lin",
+      "position": "MF",
+      "rating": 77,
+      "age": 29,
+      "value": 24315789
+    },
+    {
+      "name": "Jett Watkins",
+      "position": "MF",
+      "rating": 75,
+      "age": 18,
+      "value": 34105263
+    },
+    {
+      "name": "Andr\u00e9s Young",
+      "position": "MF",
+      "rating": 67,
+      "age": 33,
+      "value": 17772631
+    },
+    {
+      "name": "Ivan Barnes",
+      "position": "MF",
+      "rating": 85,
+      "age": 16,
+      "value": 40000000
+    },
+    {
+      "name": "Amari Rivera",
+      "position": "MF",
+      "rating": 85,
+      "age": 20,
+      "value": 36505263
+    },
+    {
+      "name": "Luis Burke",
+      "position": "MF",
+      "rating": 82,
+      "age": 23,
+      "value": 32109473
+    },
+    {
+      "name": "Izaiah Bryan",
+      "position": "FW",
+      "rating": 64,
       "age": 19,
-      "value": 39789473
+      "value": 35368421
+    },
+    {
+      "name": "Barney Flores",
+      "position": "FW",
+      "rating": 89,
+      "age": 26,
+      "value": 39347368
+    },
+    {
+      "name": "Lincoln Crawford",
+      "position": "FW",
+      "rating": 78,
+      "age": 16,
+      "value": 40000000
+    },
+    {
+      "name": "Jason Barton",
+      "position": "FW",
+      "rating": 89,
+      "age": 23,
+      "value": 40000000
+    },
+    {
+      "name": "Brantley Fuller",
+      "position": "FW",
+      "rating": 89,
+      "age": 17,
+      "value": 40000000
     }
   ],
   "stadium": {

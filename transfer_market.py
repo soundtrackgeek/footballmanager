@@ -6,7 +6,8 @@ class TransferMarket:
         self.transfer_list = []
         self.loan_list = []
         self.pending_transfers = []
-        self.bids = {}  # New attribute to track bids
+        self.bids = {}
+        self.new_listings = []  # New attribute to track new listings
 
     def update_transfer_list(self, teams, player_team):
         for team in teams:
@@ -14,7 +15,7 @@ class TransferMarket:
                 if team.squad:
                     player = random.choice(team.squad)
                     if not any(p == player for p, _ in self.transfer_list):
-                        self.transfer_list.append((player, team))
+                        self.new_listings.append(('transfer', player, team))
                         print(f"{player.name} from {team.name} has been added to the transfer list.")
 
     def update_loan_list(self, teams):
@@ -25,7 +26,7 @@ class TransferMarket:
                     loan_fee = random.randint(5000, 50000)  # Weekly loan fee
                     loan_duration = random.randint(1, 20)  # 1 to 20 weeks
                     if not any(p == player for p, _, _, _ in self.loan_list):
-                        self.loan_list.append((player, team, loan_fee, loan_duration))
+                        self.new_listings.append(('loan', player, team, loan_fee, loan_duration))
                         print(f"{player.name} from {team.name} has been added to the loan list.")
 
     def buy_player(self, buying_team):
@@ -71,7 +72,7 @@ class TransferMarket:
                     return False
                 if 0 <= choice < len(selling_team.squad):
                     player = selling_team.squad[choice]
-                    self.transfer_list.append((player, selling_team))
+                    self.new_listings.append(('transfer', player, selling_team))
                     print(f"{player.name} has been added to the transfer list.")
                     return True
                 else:
@@ -121,7 +122,7 @@ class TransferMarket:
                 elif action == 'sell' and team.squad:
                     player = random.choice(team.squad)
                     if not any(p == player for p, _ in self.transfer_list):
-                        self.transfer_list.append((player, team))
+                        self.new_listings.append(('transfer', player, team))
                         print(f"AI: {team.name} has put {player.name} on the transfer list")
                 elif action == 'loan' and self.loan_list:
                     player, loaning_team, loan_fee, duration = random.choice(self.loan_list)
@@ -135,7 +136,7 @@ class TransferMarket:
         print("\nProcessing transfers:")
         for player, bids in self.bids.items():
             if bids:
-                winning_bid = random.choice(bids)
+                winning_bid = max(bids, key=lambda x: x[1])  # Choose the highest bid
                 buying_team, value = winning_bid
                 selling_team = next((team for p, team in self.transfer_list if p == player), None)
 
@@ -171,6 +172,16 @@ class TransferMarket:
 
         self.pending_transfers = []
 
+    def finalize_listings(self):
+        for listing in self.new_listings:
+            if listing[0] == 'transfer':
+                _, player, team = listing
+                self.transfer_list.append((player, team))
+            elif listing[0] == 'loan':
+                _, player, team, loan_fee, duration = listing
+                self.loan_list.append((player, team, loan_fee, duration))
+        self.new_listings = []
+
 def transfer_market_menu(player_team, transfer_market, teams):
     while True:
         print("\nTransfer Market Menu:")
@@ -199,4 +210,6 @@ def transfer_market_menu(player_team, transfer_market, teams):
 def update_transfer_market(transfer_market, teams, player_team):
     transfer_market.update_transfer_list(teams, player_team)
     transfer_market.update_loan_list(teams)
+    transfer_market.ai_transfer_actions([team for team in teams if team != player_team])
     transfer_market.process_transfers()
+    transfer_market.finalize_listings()

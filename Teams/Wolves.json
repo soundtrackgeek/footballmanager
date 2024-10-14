@@ -2,144 +2,144 @@
   "name": "Wolves",
   "squad": [
     {
-      "name": "Bo Knox",
+      "name": "Rogelio Pedersen",
       "position": "GK",
-      "rating": 84,
-      "age": 27,
-      "value": 19098947
-    },
-    {
-      "name": "Uriel Bates",
-      "position": "GK",
-      "rating": 87,
-      "age": 25,
-      "value": 21246315
-    },
-    {
-      "name": "Roland Nielsen",
-      "position": "GK",
-      "rating": 79,
-      "age": 26,
-      "value": 18627368
-    },
-    {
-      "name": "Nils Seo",
-      "position": "DF",
-      "rating": 69,
-      "age": 25,
-      "value": 21063157
-    },
-    {
-      "name": "Joseph Yeboah",
-      "position": "DF",
-      "rating": 62,
-      "age": 19,
-      "value": 22842105
-    },
-    {
-      "name": "Xavier Ramirez",
-      "position": "DF",
-      "rating": 67,
-      "age": 20,
-      "value": 23978947
-    },
-    {
-      "name": "Hunter Torres",
-      "position": "DF",
-      "rating": 81,
-      "age": 23,
-      "value": 26431578
-    },
-    {
-      "name": "Antonio Pena",
-      "position": "DF",
-      "rating": 63,
-      "age": 20,
-      "value": 22547368
-    },
-    {
-      "name": "Einar Romero",
-      "position": "DF",
-      "rating": 81,
-      "age": 24,
-      "value": 25578947
-    },
-    {
-      "name": "Vidar Choi",
-      "position": "MF",
-      "rating": 63,
-      "age": 30,
-      "value": 19098947
-    },
-    {
-      "name": "Max Andrews",
-      "position": "MF",
-      "rating": 69,
-      "age": 33,
-      "value": 18303157
-    },
-    {
-      "name": "Russell Mabena",
-      "position": "MF",
-      "rating": 70,
-      "age": 27,
-      "value": 23873684
-    },
-    {
-      "name": "Zion Medina",
-      "position": "MF",
-      "rating": 74,
-      "age": 21,
-      "value": 30846315
-    },
-    {
-      "name": "Haruto Butler",
-      "position": "MF",
       "rating": 78,
-      "age": 31,
-      "value": 22661052
+      "age": 24,
+      "value": 19705263
     },
     {
-      "name": "Logan Xolani",
+      "name": "Zachary Murray",
+      "position": "GK",
+      "rating": 72,
+      "age": 20,
+      "value": 20614736
+    },
+    {
+      "name": "Christian Murphy",
+      "position": "GK",
+      "rating": 63,
+      "age": 32,
+      "value": 11671578
+    },
+    {
+      "name": "Juan Howard",
+      "position": "DF",
+      "rating": 60,
+      "age": 31,
+      "value": 14526315
+    },
+    {
+      "name": "Milton Castro",
+      "position": "DF",
+      "rating": 82,
+      "age": 21,
+      "value": 28484210
+    },
+    {
+      "name": "Hugo Morales",
+      "position": "DF",
+      "rating": 73,
+      "age": 33,
+      "value": 16136842
+    },
+    {
+      "name": "Kaden Palmer",
+      "position": "DF",
+      "rating": 85,
+      "age": 18,
+      "value": 32210526
+    },
+    {
+      "name": "Casper Vestergaard",
+      "position": "DF",
+      "rating": 73,
+      "age": 21,
+      "value": 25357894
+    },
+    {
+      "name": "Elias Sanchez",
+      "position": "DF",
+      "rating": 74,
+      "age": 29,
+      "value": 19473684
+    },
+    {
+      "name": "Sage Valencia",
+      "position": "MF",
+      "rating": 71,
+      "age": 29,
+      "value": 22421052
+    },
+    {
+      "name": "Omar Hayes",
       "position": "MF",
       "rating": 83,
-      "age": 33,
-      "value": 22016842
+      "age": 18,
+      "value": 37743157
     },
     {
-      "name": "Jeremy Freeman",
-      "position": "FW",
-      "rating": 86,
-      "age": 30,
-      "value": 32589473
+      "name": "Taylor Washington",
+      "position": "MF",
+      "rating": 64,
+      "age": 23,
+      "value": 25061052
     },
     {
-      "name": "Thiago Parker",
-      "position": "FW",
-      "rating": 69,
-      "age": 19,
-      "value": 38131578
+      "name": "Alejandro Hayes",
+      "position": "MF",
+      "rating": 62,
+      "age": 32,
+      "value": 17229473
     },
     {
-      "name": "Brantley Navarro",
-      "position": "FW",
-      "rating": 60,
+      "name": "Edmund Patel",
+      "position": "MF",
+      "rating": 62,
       "age": 25,
-      "value": 27473684
+      "value": 22711578
     },
     {
-      "name": "Harley Flores",
+      "name": "Jeffrey Sj\u00f6berg",
+      "position": "MF",
+      "rating": 61,
+      "age": 30,
+      "value": 18492631
+    },
+    {
+      "name": "Haruki Salazar",
       "position": "FW",
-      "rating": 76,
+      "rating": 88,
+      "age": 34,
+      "value": 27789473
+    },
+    {
+      "name": "Steve Desai",
+      "position": "FW",
+      "rating": 85,
+      "age": 26,
+      "value": 37578947
+    },
+    {
+      "name": "Bryce Webster",
+      "position": "FW",
+      "rating": 79,
       "age": 20,
       "value": 40000000
     },
     {
-      "name": "Daniel Stewart",
+      "name": "Orlando Nakamura",
       "position": "FW",
-      "rating": 76,
-      "age": 28,
-      "value": 31200000
+      "rating": 67,
+      "age": 23,
+      "value": 32794736
+    },
+    {
+      "name": "Alejandro Westerlund",
+      "position": "FW",
+      "rating": 90,
+      "age": 35,
+      "value": 27000000
     }
   ],
   "stadium": {

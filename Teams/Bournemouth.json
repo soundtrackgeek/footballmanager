@@ -2,144 +2,144 @@
   "name": "Bournemouth",
   "squad": [
     {
-      "name": "Karl Morris",
+      "name": "Ibrahim Mikkelsen",
       "position": "GK",
-      "rating": 81,
-      "age": 24,
-      "value": 20463157
-    },
-    {
-      "name": "Rogelio Hassan",
-      "position": "GK",
-      "rating": 78,
-      "age": 21,
-      "value": 21675789
-    },
-    {
-      "name": "Yuto Pena",
-      "position": "GK",
-      "rating": 83,
-      "age": 19,
-      "value": 24463157
-    },
-    {
-      "name": "Bryson Chukwu",
-      "position": "DF",
-      "rating": 71,
-      "age": 35,
-      "value": 14200000
-    },
-    {
-      "name": "Bruno Morris",
-      "position": "DF",
-      "rating": 77,
-      "age": 30,
-      "value": 19452631
-    },
-    {
-      "name": "Bryan Torres",
-      "position": "DF",
-      "rating": 63,
-      "age": 17,
-      "value": 24536842
-    },
-    {
-      "name": "Einar Brooks",
-      "position": "DF",
-      "rating": 70,
-      "age": 32,
-      "value": 16210526
-    },
-    {
-      "name": "Dominic Burke",
-      "position": "DF",
-      "rating": 83,
-      "age": 16,
-      "value": 33200000
-    },
-    {
-      "name": "Ali Mason",
-      "position": "DF",
-      "rating": 60,
-      "age": 21,
-      "value": 20842105
-    },
-    {
-      "name": "Austin Su\u00e1rez",
-      "position": "MF",
-      "rating": 85,
-      "age": 19,
-      "value": 37578947
-    },
-    {
-      "name": "Chase Thomas",
-      "position": "MF",
-      "rating": 62,
-      "age": 16,
-      "value": 29760000
-    },
-    {
-      "name": "Sam Jabari",
-      "position": "MF",
       "rating": 90,
+      "age": 16,
+      "value": 28800000
+    },
+    {
+      "name": "Austin Bates",
+      "position": "GK",
+      "rating": 74,
+      "age": 31,
+      "value": 14332631
+    },
+    {
+      "name": "Remington Holt",
+      "position": "GK",
+      "rating": 84,
+      "age": 26,
+      "value": 19806315
+    },
+    {
+      "name": "Cian Palmer",
+      "position": "DF",
+      "rating": 81,
+      "age": 25,
+      "value": 24726315
+    },
+    {
+      "name": "Carlos Ramirez",
+      "position": "DF",
+      "rating": 84,
+      "age": 20,
+      "value": 30063157
+    },
+    {
+      "name": "Maxwell Vestergaard",
+      "position": "DF",
+      "rating": 85,
+      "age": 23,
+      "value": 27736842
+    },
+    {
+      "name": "Javier Alexander",
+      "position": "DF",
+      "rating": 83,
+      "age": 31,
+      "value": 20094736
+    },
+    {
+      "name": "Andy Brooks",
+      "position": "DF",
+      "rating": 81,
+      "age": 27,
+      "value": 23021052
+    },
+    {
+      "name": "Luis Lim",
+      "position": "DF",
+      "rating": 85,
       "age": 32,
-      "value": 25010526
+      "value": 19684210
     },
     {
-      "name": "Konner Adams",
-      "position": "MF",
-      "rating": 75,
-      "age": 20,
-      "value": 32210526
-    },
-    {
-      "name": "Anthony Bates",
-      "position": "MF",
-      "rating": 88,
-      "age": 20,
-      "value": 37793684
-    },
-    {
-      "name": "Kwabena Spencer",
+      "name": "Garrett Garcia",
       "position": "MF",
       "rating": 63,
-      "age": 27,
-      "value": 21486315
+      "age": 29,
+      "value": 19894736
     },
     {
-      "name": "Amari Bennett",
-      "position": "FW",
-      "rating": 79,
-      "age": 26,
-      "value": 34926315
+      "name": "Barry Harris",
+      "position": "MF",
+      "rating": 71,
+      "age": 20,
+      "value": 30492631
     },
     {
-      "name": "Kenneth Newman",
-      "position": "FW",
-      "rating": 82,
+      "name": "Filip Burke",
+      "position": "MF",
+      "rating": 83,
+      "age": 31,
+      "value": 24113684
+    },
+    {
+      "name": "Kabelo Oliver",
+      "position": "MF",
+      "rating": 74,
       "age": 34,
-      "value": 25894736
+      "value": 18694736
     },
     {
-      "name": "Gabriel Bennett",
-      "position": "FW",
-      "rating": 68,
-      "age": 25,
-      "value": 31136842
+      "name": "Hassan Sanchez",
+      "position": "MF",
+      "rating": 84,
+      "age": 27,
+      "value": 28648421
     },
     {
-      "name": "Leif Black",
-      "position": "FW",
-      "rating": 79,
-      "age": 26,
-      "value": 34926315
+      "name": "Casey Mason",
+      "position": "MF",
+      "rating": 66,
+      "age": 18,
+      "value": 30012631
     },
     {
-      "name": "Adeyemi Ekwueme",
+      "name": "Noel Park",
       "position": "FW",
-      "rating": 64,
-      "age": 25,
-      "value": 29305263
+      "rating": 88,
+      "age": 24,
+      "value": 40000000
+    },
+    {
+      "name": "Harley Larsen",
+      "position": "FW",
+      "rating": 76,
+      "age": 29,
+      "value": 30000000
+    },
+    {
+      "name": "Shiro Mabena",
+      "position": "FW",
+      "rating": 69,
+      "age": 29,
+      "value": 27236842
+    },
+    {
+      "name": "Louis Barnett",
+      "position": "FW",
+      "rating": 71,
+      "age": 34,
+      "value": 22421052
+    },
+    {
+      "name": "Andy Norberg",
+      "position": "FW",
+      "rating": 62,
+      "age": 23,
+      "value": 30347368
     }
   ],
   "stadium": {

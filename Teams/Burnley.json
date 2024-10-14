@@ -2,144 +2,144 @@
   "name": "Burnley",
   "squad": [
     {
-      "name": "Tyler Jordan",
+      "name": "Paige Kim",
       "position": "GK",
-      "rating": 81,
-      "age": 27,
-      "value": 18416842
-    },
-    {
-      "name": "Mark Fletcher",
-      "position": "GK",
-      "rating": 88,
-      "age": 28,
-      "value": 19267368
-    },
-    {
-      "name": "Nkosinathi Franklin",
-      "position": "GK",
-      "rating": 71,
-      "age": 19,
-      "value": 20926315
-    },
-    {
-      "name": "Ryker Larsen",
-      "position": "DF",
-      "rating": 69,
-      "age": 19,
-      "value": 25421052
-    },
-    {
-      "name": "Asher Morgan",
-      "position": "DF",
       "rating": 80,
-      "age": 34,
-      "value": 16842105
+      "age": 16,
+      "value": 25600000
     },
     {
-      "name": "Ivan Franco",
+      "name": "Uriah Edwards",
+      "position": "GK",
+      "rating": 74,
+      "age": 20,
+      "value": 21187368
+    },
+    {
+      "name": "Nicolas Stewart",
+      "position": "GK",
+      "rating": 83,
+      "age": 23,
+      "value": 21667368
+    },
+    {
+      "name": "Guy Mart\u00ednez",
       "position": "DF",
-      "rating": 72,
-      "age": 32,
-      "value": 16673684
+      "rating": 86,
+      "age": 19,
+      "value": 31684210
     },
     {
-      "name": "Jonah Ulfsson",
+      "name": "Victor Hoover",
       "position": "DF",
-      "rating": 61,
-      "age": 28,
-      "value": 16694736
+      "rating": 75,
+      "age": 17,
+      "value": 29210526
     },
     {
-      "name": "Connor Butler",
-      "position": "DF",
-      "rating": 89,
-      "age": 31,
-      "value": 21547368
-    },
-    {
-      "name": "Jengo Webb",
+      "name": "Patrick Rivera",
       "position": "DF",
       "rating": 65,
-      "age": 23,
-      "value": 21210526
-    },
-    {
-      "name": "Leif Ramos",
-      "position": "MF",
-      "rating": 73,
-      "age": 26,
-      "value": 25818947
-    },
-    {
-      "name": "Finn Kim",
-      "position": "MF",
-      "rating": 85,
-      "age": 34,
-      "value": 21473684
-    },
-    {
-      "name": "Ismael Lim",
-      "position": "MF",
-      "rating": 66,
-      "age": 32,
-      "value": 18341052
-    },
-    {
-      "name": "Edmund Morrison",
-      "position": "MF",
-      "rating": 84,
-      "age": 19,
-      "value": 37136842
-    },
-    {
-      "name": "Ezra Kim",
-      "position": "MF",
-      "rating": 66,
-      "age": 30,
-      "value": 20008421
-    },
-    {
-      "name": "Conor Delgado",
-      "position": "MF",
-      "rating": 73,
-      "age": 25,
-      "value": 26741052
-    },
-    {
-      "name": "Salvador Bradshaw",
-      "position": "FW",
-      "rating": 73,
-      "age": 34,
-      "value": 23052631
-    },
-    {
-      "name": "Mat\u00edas Ellis",
-      "position": "FW",
-      "rating": 70,
       "age": 33,
-      "value": 23210526
+      "value": 14368421
     },
     {
-      "name": "Suraj Verma",
-      "position": "FW",
-      "rating": 64,
-      "age": 32,
-      "value": 22231578
+      "name": "Louis Silva",
+      "position": "DF",
+      "rating": 89,
+      "age": 24,
+      "value": 28105263
     },
     {
-      "name": "Raymond Patel",
-      "position": "FW",
+      "name": "Giovanni Jansson",
+      "position": "DF",
       "rating": 67,
-      "age": 34,
-      "value": 21157894
+      "age": 20,
+      "value": 23978947
     },
     {
-      "name": "Jayden Patterson",
+      "name": "Jayden Morris",
+      "position": "DF",
+      "rating": 66,
+      "age": 20,
+      "value": 23621052
+    },
+    {
+      "name": "Duncan Yeboah",
+      "position": "MF",
+      "rating": 80,
+      "age": 17,
+      "value": 37389473
+    },
+    {
+      "name": "Rogelio Larsson",
+      "position": "MF",
+      "rating": 62,
+      "age": 25,
+      "value": 22711578
+    },
+    {
+      "name": "Sam Hamilton",
+      "position": "MF",
+      "rating": 88,
+      "age": 17,
+      "value": 40000000
+    },
+    {
+      "name": "August Gomez",
+      "position": "MF",
+      "rating": 66,
+      "age": 24,
+      "value": 25010526
+    },
+    {
+      "name": "Dennis Alexander",
+      "position": "MF",
+      "rating": 90,
+      "age": 17,
+      "value": 40000000
+    },
+    {
+      "name": "Morgan Baldwin",
+      "position": "MF",
+      "rating": 76,
+      "age": 26,
+      "value": 26880000
+    },
+    {
+      "name": "Isaiah Dixon",
       "position": "FW",
-      "rating": 69,
-      "age": 27,
-      "value": 29415789
+      "rating": 66,
+      "age": 17,
+      "value": 38557894
+    },
+    {
+      "name": "Pablo White",
+      "position": "FW",
+      "rating": 90,
+      "age": 23,
+      "value": 40000000
+    },
+    {
+      "name": "Kenny Fox",
+      "position": "FW",
+      "rating": 68,
+      "age": 23,
+      "value": 33284210
+    },
+    {
+      "name": "Mateo Green",
+      "position": "FW",
+      "rating": 77,
+      "age": 35,
+      "value": 23100000
+    },
+    {
+      "name": "Baojun Gonzalez",
+      "position": "FW",
+      "rating": 75,
+      "age": 20,
+      "value": 40000000
     }
   ],
   "stadium": {

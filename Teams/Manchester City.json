@@ -2,144 +2,144 @@
   "name": "Manchester City",
   "squad": [
     {
-      "name": "Kofi Stokes",
+      "name": "Kwesi Ross",
       "position": "GK",
-      "rating": 87,
-      "age": 30,
-      "value": 17583157
+      "rating": 70,
+      "age": 27,
+      "value": 15915789
     },
     {
-      "name": "Hank Olson",
+      "name": "Craig Shaw",
       "position": "GK",
-      "rating": 79,
-      "age": 19,
-      "value": 23284210
-    },
-    {
-      "name": "Dwayne Park",
-      "position": "GK",
-      "rating": 72,
-      "age": 19,
-      "value": 21221052
-    },
-    {
-      "name": "Josiah Berg",
-      "position": "DF",
-      "rating": 90,
-      "age": 19,
-      "value": 33157894
-    },
-    {
-      "name": "Mike Bennett",
-      "position": "DF",
-      "rating": 71,
-      "age": 30,
-      "value": 17936842
-    },
-    {
-      "name": "Eric Ulfsson",
-      "position": "DF",
-      "rating": 84,
-      "age": 18,
-      "value": 31831578
-    },
-    {
-      "name": "Gunnar Ibrahim",
-      "position": "DF",
       "rating": 61,
-      "age": 25,
-      "value": 18621052
-    },
-    {
-      "name": "Jelani Liu",
-      "position": "DF",
-      "rating": 67,
-      "age": 28,
-      "value": 18336842
-    },
-    {
-      "name": "Easton Freeman",
-      "position": "DF",
-      "rating": 86,
-      "age": 22,
-      "value": 28968421
-    },
-    {
-      "name": "Daryl White",
-      "position": "MF",
-      "rating": 89,
-      "age": 20,
-      "value": 38223157
-    },
-    {
-      "name": "Kingston Hart",
-      "position": "MF",
-      "rating": 73,
       "age": 32,
-      "value": 20286315
+      "value": 11301052
     },
     {
-      "name": "Fernando Mikkelsen",
-      "position": "MF",
-      "rating": 71,
-      "age": 17,
-      "value": 33183157
+      "name": "Dalton Gray",
+      "position": "GK",
+      "rating": 68,
+      "age": 28,
+      "value": 14888421
     },
     {
-      "name": "Nuru Oliver",
-      "position": "MF",
+      "name": "Frederick Alexander",
+      "position": "DF",
+      "rating": 60,
+      "age": 23,
+      "value": 19578947
+    },
+    {
+      "name": "Max Cabrera",
+      "position": "DF",
       "rating": 84,
-      "age": 35,
-      "value": 20160000
+      "age": 16,
+      "value": 33600000
     },
     {
-      "name": "Robert Martin",
+      "name": "Karl Sanders",
+      "position": "DF",
+      "rating": 74,
+      "age": 16,
+      "value": 29600000
+    },
+    {
+      "name": "Pedro Bergstrom",
+      "position": "DF",
+      "rating": 62,
+      "age": 26,
+      "value": 18273684
+    },
+    {
+      "name": "Elijah Rivera",
+      "position": "DF",
+      "rating": 89,
+      "age": 31,
+      "value": 21547368
+    },
+    {
+      "name": "Caleb Chukwu",
+      "position": "DF",
+      "rating": 69,
+      "age": 29,
+      "value": 18157894
+    },
+    {
+      "name": "Kobe Singh",
       "position": "MF",
       "rating": 83,
-      "age": 20,
-      "value": 35646315
+      "age": 34,
+      "value": 20968421
     },
     {
-      "name": "Warren Franklin",
+      "name": "Alejandro Shaw",
+      "position": "MF",
+      "rating": 70,
+      "age": 21,
+      "value": 29178947
+    },
+    {
+      "name": "Babatunde Stone",
       "position": "MF",
       "rating": 74,
-      "age": 18,
-      "value": 33650526
+      "age": 22,
+      "value": 29911578
     },
     {
-      "name": "Simon Griffin",
-      "position": "FW",
-      "rating": 65,
+      "name": "Zion Knox",
+      "position": "MF",
+      "rating": 72,
       "age": 35,
-      "value": 19500000
+      "value": 17280000
     },
     {
-      "name": "Kaleb Balogun",
-      "position": "FW",
+      "name": "Chester Nakajima",
+      "position": "MF",
       "rating": 80,
-      "age": 24,
-      "value": 37894736
+      "age": 23,
+      "value": 31326315
     },
     {
-      "name": "Brandon Bell",
+      "name": "Mike Cabrera",
+      "position": "MF",
+      "rating": 85,
+      "age": 33,
+      "value": 22547368
+    },
+    {
+      "name": "Shane Silva",
+      "position": "FW",
+      "rating": 66,
+      "age": 28,
+      "value": 27094736
+    },
+    {
+      "name": "Angel Harmon",
       "position": "FW",
       "rating": 82,
-      "age": 26,
-      "value": 36252631
+      "age": 29,
+      "value": 32368421
     },
     {
-      "name": "Karl Hamilton",
+      "name": "Marshall Hart",
       "position": "FW",
-      "rating": 61,
-      "age": 29,
-      "value": 24078947
+      "rating": 62,
+      "age": 25,
+      "value": 28389473
     },
     {
-      "name": "Renato Griffin",
+      "name": "Angel Johansen",
       "position": "FW",
-      "rating": 73,
-      "age": 29,
-      "value": 28815789
+      "rating": 72,
+      "age": 25,
+      "value": 32968421
+    },
+    {
+      "name": "Roberto Ramsey",
+      "position": "FW",
+      "rating": 84,
+      "age": 25,
+      "value": 38463157
     }
   ],
   "stadium": {
